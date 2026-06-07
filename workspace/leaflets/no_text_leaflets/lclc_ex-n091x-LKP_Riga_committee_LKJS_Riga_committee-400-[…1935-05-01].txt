@@ -1,7 +1,7 @@
 id: 91
 file_name: lclc_ex-n091x-LKP_Riga_committee_LKJS_Riga_committee-400-[…1935-05-01].txt
 title: Ārā fašistus no arodbiedrību valdēm!
-author: LKP un LKJS Rīgas komiteja
+author: LKP Rīgas komiteja un LKJS Rīgas komiteja
 date: […1935-05-01]
 print_run: 400
 typography_name: unk

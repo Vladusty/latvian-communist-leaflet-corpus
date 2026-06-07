@@ -1,0 +1,29 @@
+id: 2
+file_name: lclc-2-n002a-LKP_CK_LKJS_CK-12000-[…1929-01-22].txt
+title: LKP CK un LKJS CK lapiņa, kas veltīta V. I. Ļeņina piemiņai, ar aicinājumu darbaļaudīm sakļauties ap Latvijas Komunistisko partiju cīņā par proletāriskās revolūcijas uzvaru
+author: LKP Rīgas komiteja un LKJS Rīgas komiteja
+date: […1929-01-22]
+print_run: 12000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 11–12.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA (KOMUNISTISKAS INTERNACIONĀLES SEKCIJA)
+
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+
+PIEMINIET 9. JANVĀRI!
+Sen triekta drupās cariskā Krievija un zaudējis galvu asiņainais cars.
+Šo karātavu un soda ekspedīciju zemi strādnieki pārvērtuši par labākas dzīves un sociālisma nesēju visas pasaules apspiestiem. Bet Latvijas strādnieki vēl ir apspiesti.
+Mēs vislabāk pieminēsim mūsu vadoņa Ļeņina nāves dienu 1924. g. 21. janvāri un 9. (22.) janvāri, ja mācīsimies būt modriem pret mūsu apspiedējiem. Buržuāzijai nepietiek darbaļaužu posta. Visur tiek bruņoti aizsargi. Fašistu atrašanās valdībā kuru katru dienu draud izvērsties par darbaļaužu bruņotu apspiešanu. Uz darba un maizes prasību Latvijas buržuāzija grib atbildēt ar svinu.
+Tāpēc vienīgā izeja organizēties uz cīņu. Pulcējieties ap Komunistisko partiju, kas ved un organizē strādnieku šķiras politisko un saimniecisko cīņu. Stājieties mūsu rindās, stipriniet viņas rindas strādniecības nenovēršamām cīņām.
+Nost fašistu valdību! Nost ar s.-d. — fašistu rokaspuišiem!
+Stājieties zem LKP karoga! Stājieties viņas rindās!
+Lai dzīvo proletāriskā revolūcija — ceļš uz labāku dzīvi!
+
+[LKP] Centrālā Komiteja
+Kom. jaun. sav. Centrālā Komiteja

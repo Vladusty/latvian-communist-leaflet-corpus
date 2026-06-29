@@ -1,0 +1,28 @@
+id: 5
+file_name: lclc-2-n005-LKP_LKJS_Latgale_regional_committee-30000-1929-01.txt
+title: LKP un LKJS Latgales apgabala komiteju lapiņa ar aicinājumu bezdarbniekiem organizēties un LKP vadībā cīnīties pret kapitālistisko iekārtu, par strādnieku-zemnieku valdību
+author: LKP Latgales apgabala komiteja un LKJS Latgales apgabala komiteja
+date: 1929-01
+print_run: 30000
+typography_name: Zvidris
+production_method: rotator
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 16–17.
+
+text:
+LATVIJAS KOMUNISTISKA PARTIJA (KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+
+Visu zemju proletārieši, savienojieties!
+
+Biedri bezdarbnieki! Jūsu stāvoklis ir bezcerīgs. No bada un aukstuma iet bojā bērni. Nespēkā tie saļimst uz ielām. Uz prasību pēc maizes valdība atbild ar pletnēm. Buržuāziskā un sociāldemokrātiskā dome un valde ņirgājas par jums. Sociāldemokrāti, apvainoti par to, ka bezdarbnieki novērsušies no viņiem, grib panākt, lai bezdarbniekiem nekā nedotu. Viņi pirmie uzstājās pret strādnieku frakcijas priekšlikumu par bezdarbnieku fondu, par 10 latu liela pabalsta izsniegšanu. Viņi kopā ar monar-histiem un fašistiem cīnās nevis pret bezdarbu, bet pret bezdarbniekiem.
+Bezdarbnieki! Jums aizliedz pat pieprasīt maizi. Sapulces un demonstrācijas tiek izklīdinātas. Jūsu pārstāvjus vazā pa ohran-kām un cietumiem, jūsu Vislatvijas bezdarbnieku konferenci aizliedza. Jums nedod likumīgās iespējas organizēties cīņai par savām prasībām. Tad organizējieties nelikumīgi! iestājieties Komunistiskajā partijā! Apvienojieties slepenos pulciņos, slepeni savstarpēji apspriedieties un cīnieties organizēti no pagrīdes. Ja nedod atļauju, sasauciet sapulces bez buržuāzijas piekrišanas, rīkojiet demonstrācijas pret domi, pret buržuju valdību, baltgvardiem un sociāldemokratiem.
+Tikai organizētā cīņā var uzvarēt! Drošāk cīņā par sabiedrisko darbu paplašināšanu, par darbu un maizi visiem bezdarbniekiem! Par bezdarbnieku fondu! Par nodrošināšanu pret bezdarbu!
+Strādnieki! Palīdziet bezdarbniekiem! Pievienojieties viņu cīņai. Bezdarbs un tā vaininieki — buržuāzija un sociāldemokrāti ir darbaļaužu ienaidnieki. Darbaļaudis! Līdz badam un bezdarbam Latvijas buržuāziskā valdība ir novedusi darba Latgali. Buržuji tagad grauj strādniecību, lai bez bažām varētu sākt karu pret Padomju Savienību. Kamēr Latvijā valdīs buržuāzija, neizzudīs bads, bezdarbs un jauna kara briesmas. Pilsētu darbaļaudis un trūcīgā zemniecība, apvienojieties! Izveidojiet strādnieku-zemnieku komitejas! Kompartijas vadība organizējieties cīņai!
+Pret spaidiem, badu un bezdarbu Latgalē! Par pilnīgu Latgales pašnoteikšanos, par Latgales strādnieku-zemnieku republiku! Pret karu, par brālīgu Latgales savienību ar Padomju Krieviju! Savienība ar PSRS pavērs plašas iespējas doties peļņā uz PSRS.
+Nost valdību un tās sabiedrotos sociāldemokratus!
+Lai dzīvo strādnieku-zemnieku valdība!
+
+Latvijas Komunistiskās partijas Latgales apgabala komiteja 
+Latvijas Komunistiskās jaunatnes savienības Latgales apgabala komiteja

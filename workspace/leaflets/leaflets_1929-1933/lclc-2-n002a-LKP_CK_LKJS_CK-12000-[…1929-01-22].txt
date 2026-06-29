@@ -1,7 +1,7 @@
 id: 2
 file_name: lclc-2-n002a-LKP_CK_LKJS_CK-12000-[…1929-01-22].txt
 title: LKP CK un LKJS CK lapiņa, kas veltīta V. I. Ļeņina piemiņai, ar aicinājumu darbaļaudīm sakļauties ap Latvijas Komunistisko partiju cīņā par proletāriskās revolūcijas uzvaru
-author: LKP Rīgas komiteja un LKJS Rīgas komiteja
+author: LKP CK un LKJS CK
 date: […1929-01-22]
 print_run: 12000
 typography_name: Spartaks

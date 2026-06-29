@@ -1,0 +1,38 @@
+id: 3
+file_name: lclc-2-n003-LKP_CK_LKJS_CK-5000-1929-01.txt
+title: LKP CK un LKJS CK lapiņa ar brīdinājumu par kara draudiem un aicinājumu cīnīties pret kapitālistisko iekārtu, par komunisma ideju uzvaru
+author: LKP CK un LKJS CK
+date: 1929-01
+print_run: 5000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 12–14.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+
+LATVIJAS DARBA TAUTAI!
+
+Biedri jaunkareivji, strādnieki un darba zemnieki!
+Katru gadu Latvijas valdošā melnā buržuāzija iesauc tūkstošiem jauno, dzīves pilno cilvēku un apmāca kara mākslā: kā labāk nodurt savu pretinieku, kā nošaut un iznīcināt tādu pašu darba cilvēku, savu brāli pretējā frontē! Māca, kā slepkavot! Ar katru dienu stiprāk un briesmīgāk savelkas draudoši kara mākoņi. Visas pasaules buržuāzija slēdz savā starpā slepenus līgumus un palielina budžetus kara vajadzībām; salīdzinot ar priekškara laiku, kara materiāli un izdevumi kara vajadzībām pieauguši trīskārtīgi. Visas pasaules buržuāzija rezervē karam 75% no budžeta, un tas nāk uz trūkumā dzīvojošās darba tautas rēķina. Gatavojas savam karam, kurā tiks slepkavoti mātēm — dēli — apgādnieki, sievām — vīri un bērniem — tēvi. Tiek militarizēti iedzīvotāji un saimniecība: Francijā, Vācijā, Polijā, Amerika u. c. Ar darba tautas līdzekļiem tiek uzturētas vesela rinda neoficiāla tipa armijas kā: aizsargi, štālhelms2 u. c., kā arī dažādas pus-militāras buržujiskas sieviešu organizācijas.
+Līdz ar bruņošanos pieaug arī reakcija valsts iekšienē, bez «drošas aizmugures» buržuāzija nevar vest karu. Tāpēc tā visneģēlīgākā kārtā izrēķinās ar apzinīgāko strādniecību un Komunistisko partiju ka lielāko kara ienaidnieku! Vajāšanas un spaidi pret komunistiskam organizācijām pieaug. Simti tiek spīdzināti un nobendēti cietuma mūros.
+Lai maskētu gatavošanos karam, ir nodibināta Tautu Savienība — Nāciju Līga3. Viņa ir revolucionārās kustības apspiešanas ierocis buržuāzijas un sociāldemokratu rokās. Vispasaules buržuāzija zem Nāciju Līgas miera maskas gatavo karu pret Padomju Savienību — proletariāta sociālistisko tēviju.
+Visas šīs apmānīšanas un apmuļķošanas priekšgalā iet sociāldemokrati. Viņi, pakalpīgi buržuāzijai, cenšas novērst masu uzmanību no draudošām kara briesmām, ķengā Padomju Savienību, tādējādi sekmēdami karu pret to. Biedri, sociāldemokrāti ir buržuāzijas aģenti, kuri gatavo darba tautai cilpu. To viņi jau pierādīja 1914.-1918. g. pasaules karā, viņi aizmirsa strādnieku šķiras cīņas mērķus, palīdzēdami buržuāzijai slepkavot apspiestos darbaļaudis. Biedri strādnieki un darba zemnieki! Kādēļ vajadzīgs karš? Kādēļ iet slepkavot citu zemju strādniekus un darba zemniekus? Tas vajadzīgs buržuāzijai, bagātniekiem, lai iekrātu lielākus kapitālus un nostiprinātu savu kundzību par darba tautu. Viņi grib iznicināt Padomju Savienību, kur tiek celta vienlīdzības, taisnības valsts. Latvijas reakcionārā Celmiņa valdība4 kopā ar vispasaules bagātniekiem piedalās nākošā kara gatavošanā — gatavojas darba tautas bendēšanai. Puse no Latvijas budžeta aiziet kara vajadzībām. Bet pa to laiku desmiti tūkstoši bezdarbnieku spiesti dzīvot bez maizes.
+Mēs prasām — likvidēt kara budžetu un to naudu izlietot bezdarbnieku nodarbināšanai, strādnieku un darba zemnieku materiālās un kulturālās vajadzības mērķiem.
+Likvidēt regulāro karaspēku, slepkavības apmācīšanas iestādi, likvidēt policiju, aizsargus un politisko pārvaldi.
+Biedri strādnieki un darba zemnieki! Esiet modri aizstāvēt vispasaules apspiesto darbaļaužu tēviju — SPRS, stipriniet aizmuguri, palīdziet Komunistiskai partijai viņas grūtās cīņās pret reakcionārās Latvijas valdības uzbrukumiem darba tautai.
+Sievas, mātes, māsas, neļaujiet slepkavot savus vīrus, dēlus, brāļus. Stājieties arī jūs revolucionāro cīnītāju rindās! Paceliet arī jūs savas balsis pret asinskārīgo Latvijas buržuāziju un viņas padevīgiem kalpiem sociāldemokrātiem.
+Biedri jaunkareivji, kara gadījumā visi kā viens stājieties Padomju Savienības aizstāvju rindās! Lai dzīvo mūsu sociālistiskā tēvija - Padomju Savienība!
+Visi apspiestie Latvijas darbaļaudis! Esiet gatavi aizstāvēt visas revolucionārās proletariāta cīņas. Pulcējieties ap Komunistiskās partijas cīņas karogu — tikai vienīgi viņa vedīs pretī darba tautas uzvarai.
+Nost imperiālistisko karu un šī kara gatavotājus!
+Lai dzīvo Padomju Savienība!
+
+Lai dzīvo revolucionārā cīņa pret valdošo varu! Visi par komunisma uzvaru!
+Lai dzīvo Komunistiskā partija un Komunistiskā jaunatnes savienība!
+Durkļus, šautenes, ložmetējus un gāzes pret valdošo buržuāziju — apspiedēju varu!
+
+LKP CK
+LKJS CK

@@ -1,0 +1,28 @@
+id: 4
+file_name: lclc-2-n004b-LKP_CK_LKJS_CK-unk-1929-01.txt
+title: LKP CK un LKJS CK uzsaukums kareivjiem un jūrniekiem ar brīdinājumu par imperiālistisko valstu gatavošanos uzbrukt PSRS un aicinājumu kara gadījumā vērst ieročus pret pašmāju buržuāziju
+author: LKP CK un LKJS CK
+date: 1929-01
+print_run: unk
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 14–15.
+
+text:
+LATVIJAS KOMUNISTISKA PARTIJA (KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+
+NOST IMPERIĀLISTISKO KARU!
+PRET JAUNA SLAKTIŅA GATAVOŠANU!
+Biedri kareivji! Biedri jūrnieki!
+Imperiālistu plēsoņas un mantīgie liekēži gatavo jaunu karu. Pasaules tirgi ir palikuši šauri priekš starptautiskiem kapitālistiem. Tie grib pārdalīt pasauli, lai ar iekaroto zemju strādniecības sviedriem no jauna raustu vēl lielākas bagātības savai izdzīvei un bezrūpībai. Imperiālistiskie plēsoņas gatavo karu pret vienīgo strādnieku tēviju — SPRS, lai samīdītu un iznīcinātu sociālistisko celtniecību un iegūtu Padomju Krievijas bagātības. Lai samīdītu un iznīcinātu strādniecības revolucionārās cīņas sasniegumus. Lai iznīcinātu strādniecības cīņas mērķa ceļa rādītāju. Lai reizē ar SPRS sakaušanu attālinātu neizbēgamo sociālistisko revolūciju. Lai vēl briesmīgāki apspiestu un izsūktu strādniecību un darba zemniecību visās pasaules malās. Nost imperiālistisko karu! Nost mantīgos liekēžus! Lai dzīvo SPRS! Lai dzīvo starptautiskā proletāriskā revolūcija!
+Arī Latvija drudžaini gatavojas uz karu SPRS sakaušanai! Tiek celtas jaunas zemūdenes. Gādāti jauni ieroču krājumi. Darba zemnieku sētās klaudz ūtrupju āmuri. Latvijas strādniecība klejo apkārt bez darba un maizes. Nīkuļo rūpniecība, bet tai pašā laikā buržuāziskā valsts šķiež milzīgas summas priekš bruņošanās. Latvijas fašistiskā valdība, imperiālistiskās Anglijas uzpirkta, gatavojas jaunām asinsdzīrēm un tūkstošu darbaļaužu slepkavošanai. Nost fašistisko valdību! Nost bruņošanos! Nevienu santīmu, nevienu šauteni, nevienu cilvēku imperiālistiskam karam!
+Biedri! Kareivji un jūrnieki! Pirms iesaukšanas armijā jūs liecāt muguras saimnieku tīrumos, lai sagādātu vieglu dzīvi pelēčiem un to baudu kāriem un izvirtušiem meitiņām un dēliņiem. Pirms iesaukšanas armijā jūs pūdējāt kreklus no sviedrotās muguras fabrikās un darbnīcās, lai ar sūri nopelnītiem bada grašiem vilktu nožēlojamo dzīvību. Tagad jūs dīda fašistiskie virsnieki, novedot līdz pašnāvībai, atņemot pēdējās cilvēka tiesības un pašcieņu. Jūs dīda par paklausīgiem vergiem buržuāzijas rokās. Jūs būsiet pirmie, kurus dzīs apslaktēt un apspiest savus šķiras brāļus — SPRS un pašas Latvijas strādniekus un darba zemniekus. Jūs pirmie vāļāsieties savās un savu biedru asinīs. Biedri kareivji un jūrnieki! Jūsu vieta ir revolucionārās strādniecības cīņas rindās pret karu, pret bruņošanos! Nost bur-žujisko armiju ieroču brālību! Lai dzīvo starptautiskās strādniecības solidaritāte! Lai dzīvo SPRS darba tautas Sarkanā Armija!
+Lielās Oktobra revolūcijas dienās un pilsoņu karā matroži un latvju strēlnieki pierādīja savu revolucionāro varonību. Ar savu ieroču spēku tie deva triecienu carismam un kontrrevolūcijai. Matroži un latvju strēlnieki bija ar strādniecību visos viņas cīņas posmos. Latvijas proletariāts un darba zemniecība tic, ka izšķirošā kauju brīdī jūrnieki un kareivji būs līdz ar savu šķiru uz barikādēm pret imperiālistisko karu, pret fašistiem, pret mantīgiem liekēžiem! Nost vergu republiku! Nost buržujisko armiju! Lai dzīvo Padomju Latvija! Lai dzīvo brāļošanās starp kareivjiem, jūrniekiem un nokalpināto darba tautu! Lai dzīvo Padomju Latvijas nākamais ieroču spēks — sarkanie strēlnieki un sarkanie jūrnieki! Lai dzīvo proletariāta apbruņošana! Vērsīsim ieročus pret fašistiem, virsniekiem un kapitālistiem! Iesim pa Ļeņina, Lībknehta un Luksemburgas nosprausto ceļu — pārvērtīsim imperiālistisko karu pilsoņu karā! Lai dzīvo Latvijas Komunistiskā partija un Komunistiskā jaunatnes savienība!
+
+Latv. Kom. partijas Centrālā Komiteja
+Latv. Kom. jaun. sav. Centrālā Komiteja

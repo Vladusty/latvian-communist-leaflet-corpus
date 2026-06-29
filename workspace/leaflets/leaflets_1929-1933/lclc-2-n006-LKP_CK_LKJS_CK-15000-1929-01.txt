@@ -1,0 +1,37 @@
+id: 6
+file_name: lclc-2-n006-LKP_CK_LKJS_CK-15000-1929-01.txt
+title: LKP CK un LKJS CK lapiņa jauniesauktajiem kareivjiem par viņu uzdevumiem buržuāziskajā armijā
+author: LKP CK un LKJS CK
+date: 1929-01
+print_run: 15000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 17–18.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA (KOMINTERNES SEKCIJA)
+
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+
+Nost karu! Nost imperiālistisko armiju!
+
+Tūkstoši jūs — jauno strādnieku, darba zemnieku, rokpeļņu, kuri spiesti uzsākt suņu dzīvi Latvijas kazarmās. Jūs tiksiet pārvērsti par pilnīgi beztiesīgiem automātiem, vergiem, kuriem jāklausa ikviens buržuju dēliņu — virsnieku untums un iegriba.. Jums jāsaka ardievas tai drusciņai brīvo domu, brīvo soļu, kas bija, vēl staigājot saimnieku gaitās plašajos tīrumos, strādājot mašīnu dunoņā fabriku darbnīcās. Grūtā dzīve pārvērtīsies par nepanesamu, novedīs daudzus pie pašnāvības domām, pie galēja izmisuma.
+Biedri, nepagurt! Strādnieku cīņa jāturpina arī armijā!
+Buržuāzija gatavo jaunus karus. Gatavo uzbrukumu Padomju Krievijai. Varbūt jums liks griezt šauteņu stobrus pret sarkano strādnieku valsti. Pret jūsu brāļiem, tēviem un biedriem, kas palīdz Krievijas strādniecībai celt pirmo sociālisma valsti. Jūs būsiet tie, kuriem vajadzēs izšķirties: vai noslīcināt asinīs strādnieku-zemnieku valsti, jeb vinteņu stobrus griezt pret Latvijas buržuāziju.
+Biedri! Nost karu pret Padomju Krieviju! Nost kara gatavotājus — vispasaules buržuāziju! Lai dzīvo brīvā darba valsts! Lai dzīvo Sarkanā Armija!
+Latvijas buržuāzija novedusi strādniecības grūto stāvokli līdz visaugstākai pakāpei, ar pipkām un šautenēm viņa grib apspiest strādnieku un zemnieku nemierus. Katru strādnieku organizāciju viņa grib izraut ar saknēm, asinīs noslīcināt, lai kara gadījumā viņai nebūtu jābaidās no iekšējiem nemieriem, no strādnieku sacelšanās.
+Biedri jaunkareivji! Buržuāzija jau neuzticas vairs arī savai armijai. Par daudz viņā strādnieku un darba zemnieku, lai uzticētu viņai strādnieku apspiešanu. Buržuāzija organizē savus uzticamos kadrus — aizsargus, ar kuriem apspiest strādniecību, kurus vērst arī pret armiju, ja pēdējā uzdrošināsies neklausīt virsnieku pavēlēm. Kareivjiem jāzin, ka aizsargi viņu niknākie ienaidnieki. Strādnieki un darba zemnieki mirst badā, bet no viņu grašiem tiek izsniegti arvien lielāki pabalsti aizsargiem.
+Nost aizsargus! Nost buržuāzijas bruņoto apspiešanas ieroci! Nost reakciju un strādnieku organizāciju graušanu!
+Jaunie strādnieki un zemnieki! Jūsu uzdevums, ieejot pilsoniskā armijā, pārvērst viņu par sarkano armiju. Lai nebūtu neviena kareivja, kurš paceltu šauteni pret savas šķiras biedriem Latvijā jeb Padomju Krievijā.
+Nost karu! Nost kara budžetu! Nost pilsonisko armiju! Visi kā viens pret mūsmāju buržuāziju, pret aizsargiem! Imperiālistisko karu pārvērst pilsoņu karā! Fašistiskās Latvijas vietā — Padomju Latviju!
+Vingrāk turiet vinteni plecos, mācieties taisni šaut! Nav tālu laiks, kad Latvijas strādniecībai vajadzēs bruņota palīga — sarkanos strēlniekus. Jūs būsiet tie!
+Lai dzīvo proletāriskās revolūcijas uzvara Latvijā un visā pasaulē!
+Lai dzīvo Padomju Latvija!
+Lai dzīvo strādnieku avangards — Komunistiskā partija un Komunistiskā jaunatnes savienība!
+Lai dzīvo Sarkanā Armija!
+
+Latvijas Kom. partijas Centrālā Komiteja
+Latvijas Kom. jaun. savienības Centrālā Komiteja

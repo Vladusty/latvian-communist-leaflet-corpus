@@ -1,0 +1,39 @@
+id: 7
+file_name: lclc-2-n007c-unk-unk-1929-02-20.txt
+title: Manifests, kas pieņemts jauniesaukto revolucionāro kareivju konferencēs, ar solījumu nevērst ieročus pret strādniekiem un Padomju Savienību un turpināt revolucionāro darbu armijā
+author: Unknown
+date: 1929-01
+print_run: 15000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 19–21.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+
+LATVIJAS REVOLUCIONĀRO JAUNKAREIVJU MANIFESTS
+
+Biedri strādnieki, darba zemnieki, kareivji, jūrnieki un jaunkareivji!
+Mēs, Latvijas fabriku un lauku revolucionārā darba jaunatne, sapulcējušies jauniesaukto kareivju konferencē, vienbalsīgi pieņemam sekošu manifestu:
+Latvijas fašistiskā valdība reizē ar vispasaules imperiālistiem un fašistiem gatava uzbrukt vienīgai visā pasaulē proletariāta tēvijai — SPRS, lai iznīcinātu vispasaules revolucionārās kustības veicinātāju un atbalstu.
+Latvijas fašistiskā valdība gatavojas karam pret SPRS. Viņa nemitīgi bruņojas, ik gadus palielina armiju ar jauniem spēkiem, apbruņo aizsargus, militarizē skolas, cenšas būt gatava pēc pirmās Anglijas imperiālistu pavēles stāties uzbrucēju pirmajās rindās pret SPRS.
+Latvijas fašistiskā valdība, lai nodrošinātu sev aizmuguri no revolucionārā proletariāta pretošanās kara uzsākšanai, izved neredzētas līdz šim represijas pret strādniecību, darba zemniecību un darba jaunatni, atņemdama viņiem pēdējās organizēšanās tiesības (arodbiedrību, kultūras un sporta biedrību slēgšana), apslāpēdama brīvo revolucionāro vārdu («Darba un Maizes», «Jaunās Gvardes», «Vienības», «Cīņas Tiesību» aizliegšana)5. Latvijas fašistiskā valdība arestē un spīdzina tūkstošiem labāko revolucionāro cīnītāju, ieved brutālo fašistu virsnieku patvarību armijā, vajā ikkatru brīvu revolucionāru domu un vārdu.
+Fašisms Latvijā samīda ar savu asiņaino diktatūras zābaku strādniecības un darba jaunatnes ekonomiskās un politiskās tiesības un brīvības.
+Mēs, Latvijas revolucionārā darba jaunatne, spaidu ceļā aizejot fašistiskās armijas rindās, zvēram darba tautai:
+Kazarmās turpināt revolucionāro ciņu un darbu par imperiālistiskās armijas sagraušanu, fašistiskās valdības gāšanu un proletariāta uzvaru Latvijā!
+Uzbrukuma brīdī pret SPRS visi kā viens pāriet SPRS proletariāta pusē, aicinot visus kareivjus un jūrniekus stāties zem SPRS un Latvijas proletariāta sarkaniem cīņas karogiem par Padomju Latviju un vispasaules proletariāta uzvaru!
+Nevienu šāvienu pret SPRS proletariātu! Vērsīsim stobrus pret kapitālistiem, fašistiem, virsniekiem un pelēkiem baroniem!
+Mēs, aizejot armijā, aicinām darba tautu un darba jaunatni:
+Organizēties ciešās proletariāta cīņas rindās! Turpināt uzsākto nesaudzīgo cīņu pret karu, pret bruņošanos, pret fašisma reakcionāriem žņaugiem, pret ekonomisko un politisko beztiesību, par proletariāta uzvaru Latvijā!
+Mēs zvēram Latvijas darba tautai — tad, kad mūs, kareivju drēbēs tērptos strādniekus, dzīs apspiest revolucionāro proletariāta cīņu, streikus un sacelšanās — nevienu šāvienu neraidīsim pret sacēlušos strādniecību, darba zemniecību un darba jaunatni!
+Mēs aicināsim savus brāļus un tēvus, Latvijas armijas kareivjus un jūrniekus — vērst šauteņu stobrus pret liekēžiem un varmākām!
+Mēs aicināsim kareivjus un jūrniekus pāriet revolucionārā proletariāta pusē, uz vienām barikādēm cīnīties par proletariāta uzvaru Latvijā! Nost karu! Nost bruņošanos! Nost Latvijas fašistisko valdību! Nost sociāldemokratiskos līderus — strādniecības nodevējus un kara atbalstītājus! Likvidēt armiju, kara budžetu, aizsargus un policiju! Prasām darba tautas apbruņošanu! Karš karam! Imperiālistisko karu pārvērtīsim pilsoņu karā par proletariāta uzvaru Latvijā un visā pasaulē! Lai dzīvo SPRS! Lai dzīvo SPRS varonīgā Sarkanā Armija! Rokas nost no SPRS! Mēs sūtām revolucionāro cīņas sveicienu SPRS brīvai darba tautai un darba jaunatnei!
+Mūs vieno viens cīņas mērķis — vispasaules proletariāta uzvara. Kara brīdī mūs vienos vienas barikādes zem proletariāta sarkaniem cīņas karogiem!
+Mēs apsveicam Latvijas Kompartiju un Komunistisko jaunatnes savienību kā vienīgos proletariāta cīņas drošos vadoņus pret karu, par proletariāta uzvaru Latvijā!
+Mēs apsveicam Komunistisko Internacionāli un Komunistisko Jaunatnes Internacionāli6 — vispasaules proletariāta revolucionārās cīņas vadoņus!
+Lai dzīvo strādnieku, darba zemnieku, darba jaunatnes, kareivju un jūrnieku vienota revolucionārā cīņa pret karu, par Padomju Latviju!
+
+Vislatvijas jauniesaukto revolucionāro kareivju konferences

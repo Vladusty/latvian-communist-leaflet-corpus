@@ -1,0 +1,35 @@
+id: 9
+file_name: lclc-2-n009-LKP_Liepaja_committee_LKJS_Liepaja_committee-500-1929-02.txt
+title: LKP un LKJS Liepājas komiteju lapiņa par strādnieku un darba jauniešu smago stāvokli buržuāziskajā Latvijā
+author: LKP Liepājas komiteja un LKJS Liepājas komiteja
+date: 1929-02
+print_run: 500
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 23–24.
+
+text:
+LATVIJAS KOMUNISTISKA PARTIJA (KOMINTERNES SEKCIJA)
+
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+
+BIEDRI STRĀDNIEKI UN DARBA JAUNIEŠI!
+Ik dienas ik solī kapitālistiskā ekspluatācija prasa simtiem darba upuru. Biedra Rozentretera nāve ir brēcošs fakts pret pašreizējo darba aizsardzību! Strādnieka dzīvība priekš mantīgiem liekēžiem ir daudz mazvērtīgāka nekā sapuvušais telegrāfa stabs, kuru labojot aizgāja nāvē mūsu biedrs. Viņš nav pirmais un nav arī pēdējais. Šodien, rīt, parīt tā aizrauj, aizraus un sakropļos simtus mašīnu dunošās fabrikās un putekļainās darbnīcās. Jūs, tūkstoši verdzinātie un apspiestie strādnieki, rokpeļņi, darba jaunieši, savienojieties revolucionārā cīņā pret mantīgiem verdzinātājiem, pret ekspluatāciju! Cīņā par sava stāvokļa uzlabošanu!
+Jūs slepkavo ne tikai fabrikās, ne tikai darbnīcās. Tos simtus un tūkstošus, kuri pretojas strādnieku žņaudzējiem, padara ārprātīgus un nobendē Latvijas moku kambaros. Arī biedram Rozen-treteram priekšā stāvēja cietums. Cietuma sodu izbeidza nāve, ne mazāk kliedzoša kā lēnā nāve akmens maisā. Caur jums saraustās bagātības šķērdē priekš policijas un politiskās apsardzes, priekš jūsu un jūsu biedru pipkošanas. Sagraujiet cietumus! Nost policiju un politisko apsardzi — strādnieku bendes un pipkotājus! Organizētu pretsitienu policijas uzbrukumiem!
+Mūsu priekšā stāv vēl plašāka strādnieku apslaktēšana. Fašisti gatavojas apvērsumam. Fašisti 20. janvārī raidīja bruņotu policiju pret demonstrējošiem strādniekiem. Fašisti, atbalstīti no sociāldemokrātu līderiem, šķiež miljonus kara gatavošanai pret strādnieku valsti — Padomju Krieviju. Jūs slepkavo uz ielas un slepkavos tranšejās. Nost fašistus — karu organizatorus un strādnieku bendes! Nost sociāldemokrātu līderus — viņu sabiedrotos!
+Salā un badā mirst jūsu brāļi, māsas, sievas un maziņi bērni. Ik dienas uz ielas tiek izmesti jauni bezdarbnieku simti. Revolucionārā cīņā pret postu un varmācību! Kara budžetu darba aizsardzībai, strādniecības labklājības pacelšanai! Kara budžetu bezdarbniekiem!
+Sociāldemokrātiskie strādnieki! Jūsu vieta ir revolucionārās cīņas rindās! Reizē ar visu strādniecību jūsu līderi nodod arī jūs!
+Šķiru pret šķiru! Organizētu pretsitienu fašistu uzbrukumam!
+Par Padomju Latviju!
+Imperiālistiskā kara vietā barikāžu cīņu pret fašistiem un buržuāziju!
+Stājieties komunistu partijā un Komunistiskā jaunatnes savienībā!
+Sēru karogus noliecot pār strādnieka kapu, esiet gatavi cīņai par Padomju Latviju!
+Nost fašistisko valdību!
+Lai dzīvo brīvā darba valsts — Padomju Latvija!
+Lai dzīvo revolucionārās strādniecības cīņas priekšpulks — komunistu partija un Komunistiskā jaunatnes savienība!
+
+LKP Liepājas komiteja
+LKJS Liepājas komiteja

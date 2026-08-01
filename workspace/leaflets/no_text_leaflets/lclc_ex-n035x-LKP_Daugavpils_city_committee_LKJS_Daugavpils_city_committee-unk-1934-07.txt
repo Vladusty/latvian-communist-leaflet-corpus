@@ -1,5 +1,5 @@
 id: 35
-file_name: lclc_ex-n035x-LKP_LKJS_Daugavpils_city_committee-unk-1934-07.txt
+file_name: lclc_ex-n035x-LKP_Daugavpils_city_committee_LKJS_Daugavpils_city_committee-unk-1934-07.txt
 title: Visiem Daugavpils kurpniekiem!
 author: LKP Daugavpils pilsētas komiteja un LKJS Daugavpils pilsētas komiteja
 date: 1934-07

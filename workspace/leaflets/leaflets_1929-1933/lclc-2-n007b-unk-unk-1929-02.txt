@@ -1,4 +1,4 @@
-id: 7
+id: 7b
 file_name: lclc-2-n007b-unk-unk-1929-02.txt
 title: Manifests, kas pieņemts jauniesaukto revolucionāro kareivju konferencēs, ar solījumu nevērst ieročus pret strādniekiem un Padomju Savienību un turpināt revolucionāro darbu armijā
 author: Unknown

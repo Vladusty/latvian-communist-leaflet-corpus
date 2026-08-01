@@ -1,4 +1,4 @@
-id: 2
+id: 2a
 file_name: lclc-2-n002a-LKP_CK_LKJS_CK-12000-[…1929-01-22].txt
 title: LKP CK un LKJS CK lapiņa, kas veltīta V. I. Ļeņina piemiņai, ar aicinājumu darbaļaudīm sakļauties ap Latvijas Komunistisko partiju cīņā par proletāriskās revolūcijas uzvaru
 author: LKP CK un LKJS CK

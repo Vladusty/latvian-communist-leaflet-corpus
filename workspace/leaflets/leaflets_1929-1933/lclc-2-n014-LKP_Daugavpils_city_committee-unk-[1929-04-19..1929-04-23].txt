@@ -1,0 +1,26 @@
+id: 14
+file_name: lclc-2-n014-LKP_Daugavpils_city_committee-unk-[1929-04-19..1929-04-23].txt
+title: LKP Daugavpils pilsētas komitejas lapiņa par Daugavpils bezdarbnieku varonīgo cīņu, ar aicinājumu bezdarbniekiem cīnīties pret buržuāzisko iekārtu
+author: LKP Daugavpils pilsētas komiteja
+date: [1929-04-19..1929-04-23]
+print_run: unk
+typography_name: unk
+production_method: shapirograph
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 31–32.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA (KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Visu zemju proletārieši, savienojieties!
+VISIEM DAUGAVPILS STRĀDNIEKIEM UN BEZDARBNIEKIEM!
+Biedri! 14. aprīlī tūkstošiem bezdarbnieku pulcējās pie pilsētas valdes, lai pieprasītu darbu un maizi. Visu laiku par viņiem ņirgājās, visas Domē iesniegtās strādnieku frakcijas prasības par bezdarbnieku nodrošināšanu buržuāzija un sociāldemokrāti noraidīja. Strādniekus-domniekus met cietumā. Katru reizi, kad bezdarbnieki draudēja iziet ielās demonstrācijā, viņiem pasvieda žēlastības dāvanas un solījumus, lai tos apmuļķotu un nomierinātu. Bezdarbnieku komiteja netiek atzīta, sapulces policija aizliedz, bet sociāldemokrāti nedod tām telpas. Sākot ar 23. aprīli, grib pavisam pārtraukt visus sabiedriskos darbus. Visiem bezdarbniekiem draud bads. Sapulcējušies bezdarbnieki pieprasīja pagarināt sabiedriskos darbus, izsniegt pabalstus, īres naudu un protestēja pret ņirgāšanos par bezdarbniekiem. Tad pēc sociāldemokrāta Plinera norādījuma policisti metās arestēt bezdarbniekus. Taču bezdarbnieki atbrīvoja savus biedrus, bet špikus un policistus izmeta aiz durvīm un mierīgi apsprieda savas prasības.
+Lai atriebtos par savu sakāvi, policija pie izejas bez izšķirības arestēja promejošos bezdarbniekus. Taču bezdarbnieki neizklīda un pieprasīja atbrīvot savus biedrus. Fašisti ņirgājās par bezdarbniekiem un draudēja tiem ar drīzu pakāršanu. Lai dotu pienācīgu atbildi fašistiem, sašutušo bezdarbnieku pūlis devās ārdīt bruģi. Ar nūjām apbruņotās policistu un špiku bandas metās uz bezdarbniekiem, sita visus, kas gadījās pa rokai, grūda pa nogāzi Daugavā, arestēja un izklīdināja.
+Bezdarbnieki! Tagad jūs darba vietā dabūjat ar nūjām, nākotnē jums piesola karātavas. Strādnieki, bezdarbnieku intereses ir visu strādnieku kopējās intereses! Visi darbaļaudis, protestējiet pret bezdarbnieku piekaušanu, vajāšanu un ņirgāšanos par viņiem! Pienaglojiet pie kauna staba nodevējus — sociāldemokrātus!
+Pieprasiet darbu un zemi! Lai organizēti cīnītos par savām interesēm, iestājieties Komunistiskajā partijā! Pirmajā Maijā dodiet pienācīgu atbildi sociāldemokrātiem un fašistiem par viņu izrēķināšanos ar bezdarbniekiem! Zem Komunistiskās partijas karoga Pirmajā Maijā visi izejiet ielās demonstrācijā, lai cīnītos: Par darbu un maizi! Par sabiedrisko darbu pagarināšanu!
+Par pabalstu izsniegšanu! Par arestēto atbrīvošanu!
+Nost ar bada un nūju valdību! Nost nodevējus — sociāldemokrātus!
+Lai dzīvo Padomju Latgale!
+
+Latvijas Komunistiskās partijas Daugavpils pilsētas komiteja

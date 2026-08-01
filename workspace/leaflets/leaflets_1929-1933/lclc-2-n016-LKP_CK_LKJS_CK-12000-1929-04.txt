@@ -1,0 +1,33 @@
+id: 16
+file_name: lclc-2-n016-LKP_CK_LKJS_CK-12000-1929-04.txt
+title: LKP CK un LKJS CK Pirmā Maija lapiņa ar aicinājumu darbaļaudīm cīnīties pret apvienoto reakcijas fronti zem Latvijas Komunistiskās partijas karoga
+author: LKP CK un LKJS CK
+date: 1929-04
+print_run: 12000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 34–35.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA (KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKI, ZEMNIEKI UN KAREIVJI!
+Zem fašisma un reakcijas asiņainā kara gājiena ugunīm apspiestās šķiras šogad 40. reizi svinēs Pirmo Maiju! Ar valsts aparāta, bruņotu aizsargu un s.-d. aktīvu palīdzību izsūcēji grib izrēķināties ar nemitīgi augošo proletāriskās revolūcijas spēku — strādnieku šķiru un attālināt sapuvušā kapitālisma sabrukumu un neizbēgamo nāvi!
+Ar sevišķi satrakota zvēra ienaidu visu zemju buržuāzija un sociāldemokrāti vajā Komunistiskai Internacionālei — vispasaules komunistiskai organizācijai piederīgos locekļus. Jo komunisti ir vienīgie cīnītāji pret darbaļaužu ekspluatāciju. Visās zemēs viņi tūkstošiem mirst nelokāmu varoņu nāvē un iet caur moku kambariem, bet tomēr neatlaidīgi turpina cīņu pret strādnieku apspiešanu un gatavo kapitālisma gāšanu.
+Nost ar kapitālistisko ekspluatāciju! Lai dzīvo 7 stundu darba diena! Arodbiedrību un streiku brīvību! Pilnīgu sociālo apdrošināšanu kā Padomju Savienībā! Nost ar strādnieku šķiras saimnieciskās cīņas nodevējiem un streiklaužiem — sociāldemokrātiem! Visi strādnieki — revolucionārajās arodbiedrībās! Uz buržuāzijas un fašisma uzbrukumu atbildēsim ar vienotu, organizētu un plānveidīgu strādnieku šķiras pretuzbrukumu!
+Nost ar baroniem un fašistiem — viņu kalpiem! Rokas nost no jaunsaimnieku zemes! Zemi tiem, kas to apstrādā! Zemes pārdalīšanu Latgalē! Lai dzīvo strādnieku un apspiesto zemnieku cīņas apvienība!
+Rokas nost no pirmās strādnieku-zemnieku valdības — SPRS!
+1. Maijā demonstrēsim savu gribu aizstāvēt vispasaules strādnieku un apspiesto darbaļaužu tēviju! Fašistu uzbrukumu Padomju Savienībai pārvērtīsim revolūcijā! Nost ar fašistisko valdību! Lai dzīvo strādnieku-zemnieku valdība Latvijā! Lai dzīvo proletariāta diktatūra visā pasaulē!
+Nost ar sociālfašistiem, streiklaužiem un kontrrevolūcijas dienderiem! Nost ar aizsargiem — reakcijas suņiem un bruņoto buržuāziju! Kareivji, atvaļinātie karavīri, sociāldemokrātiskie strādnieki, sarkanie strēlnieki! Vienotā frontē ar visiem strādniekiem, LKP vadībā trieciet gar zemi fašistu bandas! Lai dzīvo darbaļaužu apbruņošana! Lai dzīvo strādnieku pašaizliedzīgā un varonīgā cīņa! 1. Maijs — ir spēku vienošana izšķirošai cīņai ar fašismu!
+1. Maijā visi zem Komunistiskās Internacionāles, zem LKP — Latvijas darbaļaužu vienīgā uzticīgā vadoņa karogiem!
+Latvijas fašisma valdība, balstīdamās uz baroniem, monar-histiem, aizsargiem, bļodniekiem un sociāldemokrātiem, ķer un sloga aiz restēm labākos strādniekus — komunistus, arestē darbaļaužu priekšstāvjus pašvaldībās, atņem preses brīvību un tiesības jūsu deputātiem saeimā, ķeras pie jaunsaimnieku zemju atņemšanas un gatavo 12 stundu darba dienu strādniekiem un grauj arodbiedrības. Fašisms grib apspiest, sakalt važās un izspiest beidzamo dzīvības sulu darbaļaudīm.
+1. Maijā lai visu sauciens ir:
+Biedri! Ne pēdu bez cīņas, cīņu līdz uzvarai! Celieties visi kājās pret fašistiem, baroniem, aizsargiem, pret fašistisko valdību un tās rokaspuišiem — sociāldemokrātiem!
+Visi zem Latvijas Komunistiskās partijas karoga!
+Prasām Latvijas Komunistiskās partijas legalizāciju!
+
+[LKP] Centrālā Komiteja
+Kom. jaun. sav. Centrālā Komiteja

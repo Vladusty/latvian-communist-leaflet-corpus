@@ -1,7 +1,7 @@
 id: 242
-file_name: lclc-n242-LSSZP_LKP_Riga_committee-unk-1939-11.txt
+file_name: lclc-n242-LKP_Riga_committee_LSSZP_Riga_committee-unk-1939-11.txt
 title: LKP un LSSZP Rīgas komitejas uzsaukums darba tautai LKP un LSSZP Rīgas komitejas uzsaukums darba tautai
-author: LSSZP Rīgas komiteja un LKP Rīgas komiteja
+author: LKP Rīgas komiteja un LSSZP Rīgas komiteja
 date: 1939-11
 print_run: unk
 typography_name: unk

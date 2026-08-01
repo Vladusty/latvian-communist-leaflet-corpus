@@ -1,0 +1,37 @@
+id: 10
+file_name: lclc-2-n010-LKP_Latgale_regional_committee-unk-[…1929-03-17].txt
+title: LKP Latgales apgabala komitejas lapiņa ar aicinājumu strādniekiem un bezdarbniekiem vienotā frontē cīnīties par sava ekonomiskā stāvokļa uzlabošanu, par strādnieku-zemnieku valdību
+author: LKP Latgales apgabala komiteja
+date: […1929-03-17]
+print_run: unk
+typography_name: unk
+production_method: shapirograph
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 24–25.
+
+text:
+LATVIJAS KOMUNISTISKA PARTIJA (KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+VISIEM STRĀDNIEKIEM UN BEZDARBNIEKIEM!
+Bezdarbnieki! Jūs dzīvojat bez maizes, bez darba. Jūsu ģimenes, bērni mirst badā un aukstumā. Sabiedriskos darbos jūs izsmej. Sabiedriskos darbus ne vien nepaplašina, bet grib tos pavisam izbeigt. Pabalstus nedod. Ko jūs esat darījuši, lai dabūtu darbu un maizi?
+Strādnieki! Dzīves dārdzība aug, bet bada alga paliek. Ir tūkstošiem bezdarbnieku, bet jūs piespiež strādāt 12 līdz 14 stundas (dienā). Zog jūsu algu. Jūs strādājat aukstumā, atbaidošās suņu būdās.
+Ko jūs esat darījuši, lai nodrošinātu sev cilvēcīgus darba apstākļus?
+Jūsu sapulces aizliegtas, jūsu biedrību darbu cenšas iebiedēt ar arestiem, jūsu pārstāvji iemesti cietumā. Buržuji aizlieguši pat prasīt darbu un maizi.
+Ko darīt? Taču ne sēdēt un gaidīt, kamēr nobeigsimies! Jo bads un bezdarbs nav nejaušība, bet fašistiskās valdības visas līdzšinējās un arī tagadējās politikas rezultāts, valdības, kas iedzīvojas uz tautas bezdarba un bada rēķina.
+Mēs, komunistiskie strādnieki, sakām, ko darīt: cīnīties par savām interesēm, nerēķinoties ne ar kādiem aizliegumiem, triekt pie velna dažnedažādus buržuāzijas sulaiņus, kā, piemēram, sociāldemokrātus, kas to vien zin, kā atrunāt strādniekus no cīņas.
+Jācīnās visiem! Tāpēc mēs aicinām visus strādniekus un bezdarbniekus sapulcēties svētdien, 17. martā, pulksten vienos dienā Daugavpils tirgus laukumā, lai, kopā ar zemniekiem izejot sapulcē un demonstrācijā, valdībai paziņotu savas prasības.
+Izejiet tūkstošiem lielā masā! Buržuji rēķinās tikai ar masu protestu. Atcerieties! Līdzko bezdarbnieki 18. novembrī piedraudēja ar demonstrāciju, viņiem tūdaļ izsniedza pārtikas devas, bet pēc tam izsniegšanu atkal pārtrauca.
+Kad buržuji un sociāldemokrāti uzzināja, ka 17. [martā] gatavojas Latgales strādnieku un zemnieku demonstrācija, viņi solīja izsniegt pabalstus. Neļaujiet sevi apkrāpt ar solījumiem. Parādiet savus spēkus! Ja tos neparādīsiet, būs daudz ļaunāk. Tiek ieviesta fašistiskā diktatūra, un strādniekus viņi sēdinās ne vien cietumos, bet dzīs pie karātavām. Pārtrauks tirdzniecības līgumu ar PSRS un ar varu jūs dzīs karā pret PSRS.
+Un, ja buržuāzija nedos mums darbu un maizi, cīnīsimies par buržuāzijas varas iznīcināšanu.
+Par savu strādnieku-zemnieku Padomju valdību! Par Latgales pašnoteikšanās tiesībām! Par apvienošanos ar PSRS! Lai atveras robežas, lai paveras peļņas iespējas Padomju Savienībā!
+Visi ierodieties un pieprasiet:
+Darbu un maizi!
+Sabiedrisko darbu paplašināšanu!
+Apdrošināšanu pret bezdarbu!
+Nost bada un trūkuma valdību!
+Lai dzīvo Padomju Latgale!
+Nost nodevējus — sociāldemokrātus!
+Lai dzīvo vienotā fronte!
+
+Latvijas Komunistiskās partijas Latgales apgabala komiteja

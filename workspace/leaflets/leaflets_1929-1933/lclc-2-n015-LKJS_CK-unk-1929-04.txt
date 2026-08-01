@@ -1,0 +1,36 @@
+id: 15
+file_name: lclc-2-n015-LKJS_CK-unk-1929-04.txt
+title: LKJS CK lapiņa, kas atmasko buržuāzijas reakcionāro politiku skolās, ar aicinājumu skolēniem piedalīties revolucionārajā cīņā Latvijas Komunistiskās jaunatnes savienības vadībā
+author: LKJS CK
+date: 1929-04
+print_run: unk
+typography_name: unk
+production_method: rotator
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 32–33.
+
+text:
+LATVIJAS KOMUNISTISKĀ JAUNATNES SAVIENĪBA (KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras!	Visu zemju proletārieši, savienojieties!
+PRET REPRESIJĀM SKOLĀS!
+NOST GARĪDZNIEKU PATVAĻU SKOLĀS!
+Biedri darba jaunieši — skolēni!
+Fašisma represijām pret revolucionāro kustību nav robežu. Arestē, krata un spīdzina ne tikai revolucionāros strādniekus, bet arī brīvi domājošo skolu darba jaunatni. Katru skolēnu, kas aktīvi uzstājas pret garīdznieku svētulību un fašistu huligānismu skolā, arestē, izslēdz no skolas un met cietumā.
+Pēdējās dienās Rīgā, Daugavpilī, Jelgavā, Liepājā, Ventspilī, Rēzeknē un Aizputē notikušie skolēnu aresti raksturo fašistisko skolu politiku un to neapmierinātību, kas valda Latvijas skolās un vērsta pret reakcionāriem garīdzniekiem, fašistiem, pelēkajiem baroniem un izvirtībā pagrimušiem pedagogiem.
+Nost represijas skolās!
+Atbrīvot arestētos skolēnus! Nodot tiesai fašistiskos despotus — direktorus un skolotājus! Prasām izmeklēt stāvokli skolās!
+Prasām ievēlēt izmeklēšanas komisiju no skolu darba jaunatnes un viņu vecāku vidus!
+Provokācijas, denunciācijas un spiegošana skolās sasniegusi neticamus apmērus. Direktoru un politpārvaldes rokaspuiši bāž savus degunus katra skolēna somā, grāmatās un atmiņu albumos. Viņi meklē «Maskavas» komunistu aģentus, terorizē kreisi noskaņotos skolu darba jauniešus, draud izslēgt, uzpērk skolēnus, lai tie kļūtu par provokatoriem, utt. Pirmsrevolūcijas carisko skolu direktoru un inspektoru patvaļa un reakcionārisms nobāl «demokrātiskās» Latvijas «brīvās» skolās valdošā melnsimtnieciskā režīma priekšā.
+Nost provokācijas un spiegošanu skolās! Nost fašistu varmācību skolās! Nost liekulīgos svētuļus — garīdzniekus un izvirtušos fašistiskos skolotājus!
+Biedri darba jaunieši — skolēni! Turpiniet iesākto cīņu pret garīdzniekiem, kas valda skolās! Nebaidieties represiju!
+Revolucionārai proletariāta cīņai jānotiek fabrikās, laukos un skolās, visur, kur fašistiskā dūre nospiež proletariāta revolucionāro domu un vārdu. Jums, darba jauniešiem skolēniem, nepietiek līdzekļu, lai iegūtu normālu izglītību, jūs dzīvojat trūkumā un badā. Bagāto saimnieku un buržuju izvirtušie dēliņi rīko «venēciešu orģijas». Buržuji un fašisti klaigā par jaunatnes morālu pagrimumu tanī pašā laikā, kad viņu dēliņi, dzīvojot bezdarbībā un nepazīstot rūpes par maizes kumosu, nogrimuši izvirtības un netiklības purvā.
+Revolucionārā skolu darba jaunatne cīnās un mācās. Viņa cīnās plecu pie pleca ar strādnieku šķiru pret fašismu, par labāku proletariāta dzīvi.
+Turpiniet revolucionāro cīņu! Apvienojieties revolucionārās strādnieku organizācijās! Dibiniet skolu komitejas! Pieprasiet izslēgto skolēnu uzņemšanu skolās! Sasauciet sapulces pret represijām skolās! Organizējiet skolēnu streikus! Pieprasiet fašistisko direktoru un skolotāju atlaišanu un nodošanu tiesai! Cīnieties par proletariāta interesēm!
+Gatavojieties 1. Maijam — vispasaules proletariāta cīņas svētkiem!
+Lai dzīvo revolucionārā ciņa!
+Lai dzīvo revolucionārā skolu jaunatne!
+Lai dzīvo Komunistiskā jaunatnes savienība — revolucionārās jaunatnes avangards!
+
+Latvijas Komunistiskās jaunatnes savienības Centrālā Komiteja

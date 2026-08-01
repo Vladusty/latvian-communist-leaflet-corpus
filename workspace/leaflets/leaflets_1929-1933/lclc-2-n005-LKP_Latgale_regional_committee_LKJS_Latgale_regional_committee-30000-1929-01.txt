@@ -1,5 +1,5 @@
 id: 5
-file_name: lclc-2-n005-LKP_LKJS_Latgale_regional_committee-30000-1929-01.txt
+file_name: lclc-2-n005-LKP_Latgale_regional_committee_LKJS_Latgale_regional_committee-30000-1929-01.txt
 title: LKP un LKJS Latgales apgabala komiteju lapiņa ar aicinājumu bezdarbniekiem organizēties un LKP vadībā cīnīties pret kapitālistisko iekārtu, par strādnieku-zemnieku valdību
 author: LKP Latgales apgabala komiteja un LKJS Latgales apgabala komiteja
 date: 1929-01

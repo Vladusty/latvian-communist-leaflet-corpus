@@ -1,0 +1,36 @@
+id: 13a
+file_name: lclc-2-n013a-LKP_CK_LKJS_CK-unk-1929-03.txt
+title: LKP CK un LKJS CK uzsaukums strādniekiem, zemniekiem un kareivjiem boikotēt aizsargu organizāciju un cīnīties pret buržuāzisko iekārtu, par Padomju Latviju
+author: LKP CK un LKJS CK
+date: 1929-03
+print_run: unk
+typography_name: unk
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 29–30.
+
+text:
+LATVIJAS KOMUNISTISKA PARTIJA (KOMINTERNES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+NOST FAŠISTISKO TERORU!
+NOST AIZSARGUS!
+Biedri strādnieki, zemnieki, kareivji un jūrnieki!
+Reakcionārās valdības un fašisma slepkavas apslaktē revolucionāro proletariāta cīņu. Aresti, fašisma terors un politapsardzes spīdzināšanas sasnieguši savu augstāko pakāpi. Cietumi pārpildīti. Moku kambari nav vēl redzējuši tādas spīdzināšanas, nav vēl dzirdējuši [tādus] izmisuma un šausmu kliedzienus kā pēdējās dienas. Provokācijas, kratīšanas un aresti Rīgā, Liepājā, Ventspilī, Daugavpilī, Valmierā, Jelgavā un visur tur, kur pukst revolucionāra sirds, kur badā un trūkumā mirstošais proletariāts organizējas uz cīņu.
+S.-d. līderi klusē. Viņi uz vienu roku ar politapsardzes inkvizi-toriem, provocē revolucionārās organizācijas, atbalsta fašisma teroru un ņirgājas par proletariāta mokām, ciešanām.
+Nost fašistisko teroru! Nost reakcionāro fašistisko valdību! Nost s.-d. nodevējus! Nost darba tautas slepkavas un bendes! Lai dzīvo revolucionārā cīņa! Lai dzīvo revolucionārās cīņas varoņi — fašisma cietumos smokošie strādnieki un darba jaunieši! Amnestiju!
+Biedri! Fašisms nemitīgi mobilizē spēkus. Valdība vairs neuzticas kareivjiem un jūrniekiem. Cīņai pret strādniekiem un zemniekiem fašisms organizē un apbruņo aizsargus. Saziņā ar Igaunijas un Somijas fašistiem un aizsargiem. Gatavojas ģenerālai cīņai! Valdība rīko aizsargu svētkus. Izšķiež miljoniem darba tautas grašus aizsargu uzpirkšanai un sagatavošanai strādnieku un zemnieku slaktiņam.
+Biedri strādnieki un darba zemnieki! Nepielaidiet aizsargu organizēšanos fabrikās un uz laukiem! Ārā no aizsargiem!
+Jūsu vieta revolucionārā proletariāta rindās. Nepiedalieties aizsargu svētkos. Prasām likvidēt aizsargus! Likvidēt policiju un politpārvaldi!
+Biedri! Lai arī cik šausmīgs nebūtu fašisma terors — jāturpina revolucionārā cīņa! Jāorganizējas no jauna! Jāmobilizē proletariāta spēks! Sasauciet fabrikās, darba vietās un uz laukiem protesta sapulces un mītiņus! Organizējiet cīņas komitejas! Protestējiet pret represijām un fašisma teroru!
+Gatavojieties ģenerālstreikam!
+Nepagurstiet! Nepadodieties provokācijām!
+Dzīvo un stiprinās Latvijas Komunistiskā partija un Komunistiskā jaunatnes savienība.
+Esiet gatavi uz Komunistiskās partijas aicinājumu stāties cīņā pret fašismu, par proletariāta uzvaru!
+Lai dzīvo revolucionārā cīņa!
+Lai dzīvo Latvijas Komunistiskā partija un Latvijas Komunistiskā jaunatnes savienība!
+Lai dzīvo Padomju Latvija!
+
+LKP Centrālā Komiteja
+LKJS Centrālā Komiteja

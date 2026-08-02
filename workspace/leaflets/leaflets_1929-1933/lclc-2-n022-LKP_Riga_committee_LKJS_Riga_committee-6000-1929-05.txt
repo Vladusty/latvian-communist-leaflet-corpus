@@ -1,0 +1,31 @@
+id: 22
+file_name: lclc-2-n022-LKP_Riga_committee_LKJS_Riga_committee-6000-1929-05.txt
+title: LKP un LKJS Rīgas komiteju lapiņa par 1929. g. 1. Maija notikumiem Rīgā un Berlīnē
+author: LKP Rīgas komiteja un LKJS Rīgas komiteja
+date: 1929-05
+print_run: 6000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 44–46.
+
+text:
+Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKI! DARBA TAUTA!
+Mūsmāju buržuāzija, sākot no fašistiem un beidzot ar s.-d. līderiem, sit bungas un bazunē par saviem panākumiem un komunistu un kreisās strādniecības neveiksmēm 1. Maijā.
+Veltas pūles! 1. Maija notikumi bija tik spilgti un rokām taustāmi, ka ar bungu rībināšanu un rīstīšanos aiz liekulīgās sajūsmas nevarēs darbaļaužu masas samulsināt. Arī revolucionārās strādniecības legālās preses nožņaugšana te nelīdz. Patiesais komunistu mutiskais un rakstiskais vārds nav nožņaudzams, tāpat kā revolucionārās strādniecības cīņa nav apturama ne ar fašistiskās valdības represijām, ne sociālistu slaktiņiem.
+1. Maija sagatavošana kapitālistiskās valstīs šogad noritēja ļoti saspīlētos apstākļos. Tuvojas kapitālisma stabilizācijas iršanas process. Revolucionārie viļņi ceļas. Briest izšķirošās cīņas starp proletariātu un buržuāziju. Buržuāziskās un sociālburžuā-ziskās valdības, to juzdamas, nervozēja no bailēm, aizliedza 1. Maija demonstrācijas, nedēļām ilgi gatavoja savus spēkus demonstrāciju apspiešanai. Un tomēr tas nelīdzēja. Visās valstīs revolucionārā strādniecība, neskatoties uz valdību aizliegumiem, uz ielu izgāja. Bet Vācijā sociālistiskās buržuāzijas valdības spēki izrādījās ļoti vāji. Sociālpolicistu oberžandarms Cergibels nespēja novērst varonīgās Komunistiskās partijas plaši rīkotās demonstrācijas. Kā 1919. gadā sociālžandarms Noske, tā 1929. g. sociāloberžandarms Cergibels slacīja buržuāzijai par prieku Berlīnes ielas proletariāta asinīm.10 Uz laiku, tikai uz īsu laiku asins-sunim Cergibelam izdevās iedzīt visplašāko proletariāta masu iekšienē strauji pieaugušu nemieru. Revolucionārais uzplūdu vilnis drīzā laikā neizbēgami plašos apmēros izpaudīsies uz āru. Tas aizskalos asiņainos cergibelus, tā-pat kā 1917. g. tika aizskaloti asiņainie nikolaji un kerenski Krievijā.
+Arī Latvijas fašistiskās valdības un sociālfašistu gatavošanās uz 1. Maiju bija ļoti nervoza, saspīlēta. Buržuāzija juta, ka šausmīgas ekspluatācijas, korupcijas, spekulācijas, terora rezultātā masu nemiers draud izpausties uz āru. Tika laisti darbā visi līdzekļi, visi speciālfašisti. Aresti, kratīšanas, kreiso arodbiedrību darbības terorizēšana, sapulču, izrīkojumu, demonstrācijas noliegšana, preses, uzsaukumu konfiskācijas bira kā no pārpilnības raga. Ko nespēja veikt valdības aparāts, tika uzticēts sociālfašistiem. Un tomēr, par spīti visām represijām, revolucionārā strādniecība, nerēķinādamās ar valdības noliegumiem, noturēja savas masu sapulces, mītiņus; apspriedās par saviem uzdevumiem pret buržuāziju un s.-d. vienoto fronti, droši uzstājās pret sociālfašistiem viņu mītiņos (Grīziņkalnā), nebaidoties no sociālžandarmu un policejiskās «SSS» asiņainās izrēķināšanās un nodošanas politapsardzei.
+Biedri strādnieki! Darba jaunatne! Šī gada 1. Maijs mums māca, ka šķiru cīņa paasinās, šķiru pozīcijās noteikti uzstājas divi spēki — proletariāts un visa darba tauta vienā — buržuāzija ar s.-d. līderiem otrā pusē. S.-d. līderi cīņās pret strādniecību nostājās kā buržuāzijas avangards; viņi atklāti sadarbojas ar polit-apsardzi un policiju un masu apmēros nodod politapsardzes rokās aktīvākos strādniekus, pielieto arī tās pašas policijas un politapsardzes metodes pret strādniecību; viņi ar revolucionārām frāzēm cenšas saistīt no viņām aizejošās strādnieku masas, lai izšķirošā momentā tās nodotu, tāpat kā citās zemēs (Itālijā, Polija utt.), buržuāzijas un fašisma pilnīgā verdzībā.
+Biedri strādnieki! Darba jaunatne!
+Tuvojošās nopietnās šķiru sadursmēs mums jābūt gataviem kā pret buržuāziju, tā pret sociālpolicistiem. Pārrunājiet, apspriediet darba vietās Pirmā Maija notikumus, organizējieties uz aktīvu cīņu, aktīvākie, drošsirdīgākie, pašaizliedzīgākie, iestājieties Komunistiskā partijā un Komunistiskā jaunatnes savienībā! Gatavojieties izšķirošām cīņām!
+ost sociālpolicistus!
+Nost fašistisko valdību!
+Lai dzīvo Latvijas Komunistiskā partija!
+Lai dzīvo Latvijas Komunistiskā jaunatnes savienība!
+Lai dzīvo proletāriskā revolūcija Latvijā!
+
+Latvijas Komunistiskās partijas Rīgas komiteja
+Latvijas Komunistiskās jaunatnes savienības Rīgas komiteja

@@ -1,0 +1,36 @@
+id: 17
+file_name: lclc-2-n017-LKP_Latgale_regional_committee_LKJS_Latgale_regional_committee-6000-1929-04.txt
+title: LKP un LKJS Latgales apgabala komiteju Pirmā Maija lapiņa ar aicinājumu darbaļaudīm apvienoties ap Komunistisko partiju cīņā par sava stāvokļa uzlabošanu un buržuāzijas varas gāšanu
+author: LKP Latgales apgabala komiteja un LKJS Latgales apgabala komiteja
+date: 1929-04
+print_run: 6000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 35–37.
+
+text:
+LATVIJAS KOMUNISTISKA PARTIJA (KOMUNISTISKAS INTERNACIONĀLES SEKCIJA)
+Visu zemju proletārieši, savienojieties!
+Lai dzīvo revolucionārais Pirmais Maijs!
+PIRMAIS MAIJS — DARBAĻAUŽU SVĒTKI
+Jau 40 gadus visu zemju strādnieki svin 1. Maiju kā savu cīņas dienu. Visi ekspluatētie un nomāktie Pirmajā Maijā iziet uz ielām, lai izteiktu buržuāzijai savas prasības, lai demonstrētu savus spēkus, savu solidaritāti, savu gatavību revolucionārā ceļā izcīnīt savas prasības.
+Miljoniem apspiesto Indijas un Ķīnas strādnieku un zemnieku stājušies uz cīņas ceļa pret imperiālistiem un apspiedējiem.
+Rietumeiropas un Amerikas proletariāts ir aiztriecis ratā sociāldemokrātus, nostājies uz revolucionārās cīņas ceļa un kopā ar visas pasaules apspiestajiem ceļas cīņā pret buržuāziju.
+Tikai vienā valstī — PSRS — strādnieki un zemnieki uz visiem laikiem atbrīvojušies no muižnieku un buržuāzijas varas, iekarojuši sev cilvēcīgas dzīves tiesības, 7 stundu darba dienu strādniekiem un zemi darba zemniekiem.
+Visas pasaules buržuāzija gatavo karu, lai iznīcinātu PSRS — strādnieku un zemnieku valsti. Sadarbojoties ar sociāldemokrātiem, tā bruņojas un rīda pret Padomju Savienību.
+Proletariāts un darba zemniecība Pirmajā Maijā paziņo: mēs nepieļausim karu! Mēs karam atbildēsim ar revolūciju. Mēs apvienosimies ar Sarkano Armiju un vērsīsim durkļus pret buržuāziju. Latvijas fašistiskā valdība aplaupa darbaļaudis, atņemot tiem pēdējos grašus, lai bruņotos karam pret PSRS. Buržuāzija nodibina fašistisko diktatūru, grauj strādnieku un zemnieku organizācijas, slēdz strādnieku un zemnieku presi, pūdē cietumos un politpārvaldē strādnieku un zemnieku cīnītājus.
+Darba zemniecība un bezdarbnieki mirst badā. Par savu prasību izteikšanu bezdarbnieki darba un maizes vietā saņem cietumus un nūju sitienus. Dārdzība aug, bet darba alga krīt. 8 stundu darba dienas vietā fašisti ievieš 12 stundu darba dienu. Valdība nevis izsniedz pabalstus bada cietējiem, bet apbruņo aizsargus, palielina policijas un politpārvaldes štatus.
+Lai nostiprinātu fašistisko diktatūru un iegūtu sev atbalstu, fašistiskā valdība nolēmusi izmaksāt lielas naudas summas «pensiju» veidā monarhistiem, cara virsniekiem un ierēdņiem. Vācu landesvēristiem, kas 1919. g. noslīcināja asinīs Padomju Latviju, piešķirtas tiesības saņemt zemi.
+Agrārā reforma tiek likvidēta, muižniekiem un baroniem atļauts saņemt atpakaļ savas zemes. Tagad zemniekiem atņem pat tos zemes gabaliņus, kurus buržuāzija tiem piešķīra, baidoties no revolūcijas.
+Visas šīs prasības tiek realizētas ar sociāldemokrātu atbalstu, ar progresistu un ksendzu, kas sevi dēvē par darba zemniecības «demokrātiem», tiešu līdzdalību. Sociāldemokrāti, apvienojušies ar fašistiem, palīdzēja buržuāzijai radīt lauka kara tiesas strādniekiem un bada režīmu cietumos. Viņi grauj arodbiedrības un nodod strādniekus politpārvaldei. Ar kreisam frāzēm viņi grib atturēt strādniekus no tiešas revolucionāras cīņas.
+Nost nodevējus — sociāldemokrātu līderus!
+Strādnieki un zemnieki! Apvienojieties zem Komunistiskās partijas karoga! Vienīgi tā rūpējas un cīnās par strādnieku un zemnieku interesēm, par strādnieku-zemnieku valdību, kas izglābs Latviju no fašistiskās diktatūras un jaunu karu briesmām. Strādnieku-zemnieku valdība nodrošinās trūcīgajai, izputinātajai darba Latgalei labklājību, brīvību un pašnoteikšanās tiesības.
+Strādnieki un zemnieki! Pirmā Maija dienā visi pulcējieties mītiņos un demonstrācijās cīņai ar buržuāziju, muižniekiem un to līdzskrējējiem — sociāldemokrātiem un progresistiem. Lai 1. Maijs kļūst par visu Latgales darbaļaužu masu mobilizācijas dienu cīņai!
+Pret karu un par pilnīgu atbruņošanos! Par savienību ar PSRS! Par 8 stundu darba dienu un pāreju uz 7 stundu darba dienu! Par darbu un maizi bezdarbniekiem! Par darba algas paaugstināšanu samērīgi dzīves dārdzības pieaugumam! Par jaunu zemes pārdalīšanu! Par sēklu un neražas gadījumiem atvēlēto līdzekļu sadales nodošanu darba zemniecības rokās! Par strādnieku un zemnieku komiteju izveidošanu! Pret zemes piešķiršanu landes-veristiem! Par vārda, preses un strādnieku un zemnieku organizāciju brīvību! Par Komunistiskās partijas un komjaunatnes legalizāciju! Par aizsargu, policijas un politpārvaldes likvidāciju, par strādnieku apbruņošanu! Par Latgales pašnoteikšanās tiesībām! Nost fašistu valdību un tās līdzskrējējus sociāldemokrātus!
+Lai dzīvo strādnieku-zemnieku sociālistiskā valdība! Lai dzīvo Latvijas Komunistiskā partija un komjaunatne!
+
+Latvijas Komunistiskas partijas Latgales apgabala komiteja
+Latvijas Komunistiskās jaunatnes savienības Latgales apgabala komiteja

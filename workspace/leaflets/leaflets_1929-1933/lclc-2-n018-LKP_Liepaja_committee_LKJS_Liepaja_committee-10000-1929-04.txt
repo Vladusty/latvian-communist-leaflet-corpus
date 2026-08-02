@@ -1,0 +1,38 @@
+id: 18
+file_name: lclc-2-n018-LKP_Liepaja_committee_LKJS_Liepaja_committee-10000-1929-04.txt
+title: LKP un LKJS Liepājas komiteju 1. Maija uzsaukums Liepājas strādniekiem, ar aicinājumu cīnīties par strādnieku-zemnieku valdību, par Padomju Latviju
+author: LKP Liepājas komiteja un LKJS Liepājas komiteja
+date: 1929-04
+print_run: 10000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 38–39.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA (KOMINTERNES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+1. MAIJS
+Biedri Liepājas strādnieki un darba jaunieši!
+Strādniecības stāvoklis kļūst jo dienas jo sliktāks. Bezdarba smagā nasta nepaliek vieglāka. Sākot ar pirmo maiju, valdība pārtrauc sabiedriskos darbus. Buržuji un s.-d. līderi jau pirmajā pilsētas Domes sēdē nolēma paaugstināt sev algas, noraidot kreisās strādniecības priekšlikumu paplašināt sabiedriskos darbus. Aptaukojušies fašisti un sociālfašisti ir kurli, dzirdot bada cietēju kliedzienus.
+Fabrikanti un pārējie izsūcēji samazina darba algas, pagarina darba dienu, piedraud izmest uz ielas jaunus strādnieku simtus.
+Fašisti kopā ar s.-d. līderiem arvien ciešāk savelk cilpu ap strādniecības kaklu. Melnais Rubulis9 kal plānus, kā iznīcināt slimokases. Sociāldemokrāti jau tagad izsviež no slimokasēm labākos ārstus, samazina pabalstus Liepājas kopējā slimokasē, slimos strādniekus nostāda kā simulantus.
+Biedri, tikai ar noteiktu organizētu uzstāšanos mēs piespiedīsim neliešus rēķināties ar mūsu gribu un prasībām! Mēs prasām:
+Paplašināt sabiedriskos darbus, lai visiem bezdarbniekiem būtu darbs!
+Paaugstināt bezdarbnieku algas līdz iztikas minimumam!
+Uzlikt mantīgiem slāņiem sevišķu nodokli bezdarbniekiem par labu!
+Mēs prasām 7 stundu darba dienu un pilnu algu strādniekiem! 4—6 stundu darba dienu jauniešiem!
+Rokas nost no slimokasēm!
+Biedri! Sociālfašisti kopīgi ar politapsardzi vajā strādniecības vienīgo aizstāvi — komunistu partiju, nodod policijai kreisos strādniekus. Fašisti kopā ar sociālfašistiem izslēdz no saeimas sēdēm strādnieku-zemnieku deputātus. Tikai nesaudzīgā cīņā pret fašistiem, buržujiem, pelēkiem baroniem un soc.-dem. nodevējiem strādniecība spēs sevi atsvabināt no bada žņaugiem un cietumiem! Tikai nogāžot revolucionārā cīņā tagadējo viltus demokrātisko valsts iekārtu, mēs spēsim izkarot sev cilvēcīgu dzīvi!
+Liepājas strādnieki, strādnieces, darba jaunieši, iztīriet savas rindas no sociālnodevējiem! Sociāldemokrātiskie strādnieki, piebiedrojieties revolucionārās strādniecības cīņas pulkiem! Šī gada 1. Maijam jābūt cīņas dienai par mūsu prasībām!
+Revolucionārā kārtā demonstrēsim pret fašisma asiņaino dūri, pret pipkām, pret badu un postu! Biedri, gatavojieties svinēt Pirmo Maiju zem komunistu partijas cīņas karogiem!
+Nost buržuju — fašistu valdību!
+Nost s.-d. līderus — cietumu un pipku Latvijas sargus un aizstāvjus!
+Nost politapsardzi, policiju, aizsargus — strādnieku slepkavas!
+Lai dzīvo strādnieku un zemnieku valdība Padomju Latvijā!
+Lai dzīvo Latvijas Kompartija un Komjaunatnes savienība!
+
+LKP Liepājas komiteja
+LKJS Liepājas komiteja

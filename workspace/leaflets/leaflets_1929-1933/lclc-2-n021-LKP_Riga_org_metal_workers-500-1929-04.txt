@@ -1,0 +1,29 @@
+id: 21
+file_name: lclc-2-n021-LKP_Riga_org_metal_workers-500-1929-04.txt
+title: LKP Rīgas organizācijas metālistu aicinājums «Feniksa» fabrikas strādniekiem iziet demonstrācijā ar revolucionāriem cīņas lozungiem
+author: LKP Rīgas organizācijas metālisti
+date: 1929-04
+print_run: 500
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 43–44.
+
+text:
+Visu zemju proletārieši, savienojieties!
+«FENIKSA» FABRIKAS STRĀDNIEKIEM!
+Gatavojieties uz 1. Maiju, kuru svētīs ne tikvien Latvijas badā mirstošā un pusbadā strādājošā strādniecība, bet kurā izies uz ielas ar savām prasībām vispasaules proletariāts, lai demonstrētu savu starptautisko cīņas solidaritāti pret kapitālistisko buržuāziju un viņu rokaspuišiem — sociālnodevējiem. 1. Maiju mums, «Feniksa» fabrikas strādniekiem, šogad nāksies atzīmēt apstākļos, kad šķiru cīņa ir pieņēmusi daudz asāku un noteiktāku raksturu nekā gadu iepriekš. Pēdējā gadā mēs novērojam arvien neatlaidīgāku kapitālistu uzbrukumu strādniecībai saimnieciski un politiski. Pēc faktiem, ka tas tiešām tā ir, neiesim tālu. Apskatīsim «Feniksa» fabrikas apstākļus. Atalgojuma ziņā mēs nestāvam daudz labāk kā angļu koloniju vergi. Visus šos gadus mēs esam bijuši saviem kungiem paklausīgi jājamie zirdziņi. Tas pateicoties tam, ka mēs esam klausījuši s.-d. divkosīgai un nodevīgi saldi iemidzinošai politikai, kas pauž rūpniecības mieru un sadarbību ar mūsu izsūcējiem kapitālistiem. Caur to mēs arī esam nonākuši pie tāda stāvokļa, ka administrācija ar mums vairs nerēķinās kā ar cilvēkiem, bet apietas kā ar lopiem. Mēs tiekam sistemātiski izsūkti, mums jāstrādā pie ārkārtīgi nehigiēniskiem apstākļiem, aukstuma, caurvēja un putekļiem, caur ko mēs esam mantojuši dažādas hroniskas slimības, kā tuberkulozi, reimatismu un daudz citas kaites.
+Ar katru jaunu komisiju tiek nosistas akorda cenas līdz galīgai nejēdzībai.
+Ar tiesisko stāvokli nav labāk. Par katru brīvāku domu tiec izmests uz ielas.
+Biedri, tādu stāvokli mēs nevaram vairs ilgāk ciest. Nost gļēvulību un dzīvniecisku padevību, ar to mēs savu stāvokli neuzlabosim. Atcerēsimies priekškara «Feniksa» fabrikas revolucionāro un cīņas spējīgo strādniecību, kuras priekšā drebēja buržuāzija. Tā strādniecība nebijās no carisko žandarmu pipkām. Arī tagad mēs nedrīkstam palikt par savas šķiras interešu nodevējiem.
+Tādēļ 1. Maijā lai izejam ar visas Rīgas revolucionāro-strādniecību zem šķiru cīņas sarkaniem karogiem un plakātiem, uz kuriem lai rakstām revolucionāros strādniecības lozungus: 8 stundu darba dienu, pakāpeniski pārejot uz 7 stundām, pienācīgu atalgojumu un cilvēcīgu apiešanos, vārda, preses un organizēšanās brīvību! Nost karātavu sociāldemokrātus!
+Nost fašisma reakciju un pipku varoņus!
+Nost jauna kara gatavotājus pret SPRS!
+Mēs prasām politisko ieslodzīto amnestiju un atcelt progresīvo cietuma režīmu! Mēs prasām preses un vārda brīvību! Rokas nost no strādnieku-zemnieku frakcijas!
+Lai dzīvo starptautiskās strādniecības solidaritāte cīņā par sociālismu!
+Lai dzīvo Sarkanais Maijs!
+Lai dzīvo strādnieku un zemnieku valdība!
+
+LKP Rīgas org. metālisti

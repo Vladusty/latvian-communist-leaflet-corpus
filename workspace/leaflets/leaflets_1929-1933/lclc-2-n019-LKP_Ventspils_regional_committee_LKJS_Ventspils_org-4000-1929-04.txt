@@ -1,0 +1,43 @@
+id: 19
+file_name: lclc-2-n019-LKP_Ventspils_regional_committee_LKJS_Ventspils_org-4000-1929-04.txt
+title: LKP Ventspils apgabala komitejas un LKJS Ventspils organizācijas 1. Maija lapiņa ar aicinājumu iziet protesta demonstrācijā pret pieaugošo ekspluatāciju, pret buržuāzijas terora režīmu
+author: LKP Liepājas komiteja un LKJS Liepājas komiteja
+date: 1929-04
+print_run: 4000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 39–41.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+STRĀDNIEKU SARKANAIS 1. MAIJS
+Paiet 40 gadi kopš visa strādnieku šķira 1. Maiju svin kā starptautisku proletariāta solidaritātes un spēka demonstrēšanas dienu.
+Līdz ar to 1. Maijs priekš revolucionārās strādniecības vienmēr ir bijis kopējas uzstāšanās un cīņas diena pret visiem kapitālistiskās apspiešanas un ekspluatēšanas veidiem.
+1. Maijā strādniecība demonstrē savu cīņas sparu un gatavību gāzt šo smirdošo, uz ekspluatācijas pamatiem dibināto iekārtu.
+Šogad 1. Maiju svinēt visu kapitālistisko zemju strādniecībai nāksies sevišķi grūtos apstākļos.
+Drudžainā steigā izvestā bruņošanās un jau iesākušies imperiālistu uzbrukumi apspiesto tautu atsvabināšanās kustībai uzveļ neciešami smagas nodokļu nastas visai darba tautai un prasa neskaitāmus upurus no strādniecības.
+Līdztekus koloniālo un puskoloniālo tautu apspiešanai un imperiālistisko karu gatavošanai pret SPRS notiek buržuāzijas pastiprināts uzbrukums visai strādnieku šķirai, pilnīgi iznīcinot politiskās tiesības un pasliktinot darba apstākļus līdz neiespējamībai.
+Izvedot fašistisko diktatūru, lielburžuāzija ar asiņaina terora palīdzību cenšas salauzt katru strādniecības pretošanos, nospiežot to galējā postā un verdzībai līdzīgā stāvoklī.
+Arvien plašākos apmēros tiek izšķiesta no darba tautas izspiestiem grašiem uzkrātā bagātība priekš bruņošanās un jaunām asinsizliešanām, lai ar ieroču varu apspiestu izmantojamo tautu pretestību un nepielaistu SPRS darba tautai celt jaunu iekārtu bez spaidiem un ekspluatācijas.
+Arvien vairāk pastiprinās ekspluatācija un nesaudzīgākas kļūst represijas pret revolucionārās strādniecības daļu, kura zem Komunistiskās partijas vadības neatlaidīgi cīnās pret jaunu asinsizliešanas gatavošanu un darba tautas stāvokļa vēl lielāku pasliktināšanu.
+Strādniecība un visa darba tauta tiek nospiesta arvien lielākā trūkumā un beztiesiskā stāvoklī, tāpēc ka vēl nav pilnīgi apzinājusies kopējās cīņas nepieciešamību pret saviem apspiedējiem.
+Vēl daļa no strādniecības padodas s.-d. līderu nodevības politikai, kuri kopā ar fašistisko buržuāziju cenšas stiprināt kapitālistisko iekārtu ar pastiprinātas ekspluatācijas un represiju palīdzību.
+Sociāldemokrāti ir nodevuši strādniecības cīņu, uzaicinādami strādniekus upurēt sevi un liet citu zemju darba tautas asinis imperiālistisko tēviju aizstāvēšanas labā.
+Sociāldemokrāti turpina savu nodevības darbu, ejot kopā ar fašistisko valdību, uzaicinot strādniekus atteikties no savu tiesību aktīvas aizstāvēšanas, tādā kārtā palīdz fašistiem piespiest strādniekus padoties kapitālistu patvaļai, lai uz darba tautas rēķina būtu iespējams atjaunot grūstošo kapitālismu.
+Sociāldemokrāti sludina šķiru sadarbību, cenzdamies iemidzināt un novirzīt strādniecību no noteiktā šķiru cīņas ceļa uz pilsonisku pašapmierinātību un kompromisu ar savas šķiras pretiniekiem.
+Visa tā rezultātā arvien vairāk izplatās asiņainā fašisma terora režīms, tuvojas jaunu imperiālistisku karu šausmas un pieaug fašistu varasdarbu briesmas.
+Neskatoties uz visu to, šogad 1. Maijam jātop par īstu starptautiskā proletariāta solidaritātes un spēka demonstrēšanas dienu.
+Pretī s.-d. līderu kapitālistiskās iekārtas stiprināšanai un imperiālistisko tēviju aizstāvēšanai mums vienoti jāuzstājas pret imperiālistiskiem kariem, pret vispasaules proletariāta apspiešanu, pret bruņošanos un kopējas intervencijas gatavošanu pret SPRS — jāiet cīņā, lai atsvabinātu darba tautu no kapitāla režīma, pieaugošās nodokļu nastas un jaunām asinsizliešanām — imperiālistiskiem kariem.
+Ventspils darba tautai 1. Maijā vienoti jāiziet uz ielas. Arī tad, ja fašistiskā valdība gājienu noliedz. Jāatrod sapulcēšanās vietas, lai zem Komunistiskās partijas un Komjaunatnes savienības' vadības demonstrētu noteiktāki kā jebkad pret starptautisko kapitālismu, pret buržujisko Latviju!
+Nost starptautisko kapitālismu!
+Nost imperiālistiskos karus!
+Nost buržujisko Latviju!
+Lai dzīvo Sarkanais Maijs — strādnieku cīņas diena!
+Lai dzīvo SPRS!
+Lai dzīvo Padomju Latvija!
+
+Latvijas Komunistiskās partijas Ventspils apgabala komiteja
+Komjaunatnes savienības Ventspils organizācija

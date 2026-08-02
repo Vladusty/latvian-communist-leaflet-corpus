@@ -1,0 +1,42 @@
+id: 20b
+file_name: lclc-2-n020b-LKJS_CK_LKJS_Riga_committee-unk-1929-04.txt
+title: LKJS CK un Rīgas komitejas uzsaukums Latvijas proletariāta jaunajai paaudzei cīnīties pret kapitālistisko iekārtu kopā ar vecākiem biedriem
+author: LKJS CK un LKJS Rīgas komiteja
+date: 1929-04
+print_run: unk
+typography_name: Spartaks
+production_method: rotator
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 41–42.
+
+text:
+LATVIJAS KOMUNISTISKA JAUNATNES SAVIENĪBA (KOMUNISTISKĀS JAUNATNES INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+Lai dzīvo 1. Maijs — strādnieku cīņas un solidaritātes diena!
+Jaunā proletariāta paaudze, ejiet cīņā pret kapitālistisko iekārtu, pret Latvijas fašistisko valdību!
+Visi sava spēka un vienības demonstrācijā — pāri spiegiem, policistiem, pipkām, cietumiem!
+BIEDRI DARBA JAUNIEŠI, SKOLĒNI, PIONIERI!
+Jūsu tēvi, brāļi, māsas, mātes izies 1. Maijā demonstrācijā par savām tiesībām, pret verdzību un bada pilno dzīvi. Izies un demonstrēs visas strādnieku šķiras spēku un cīņas drosmi.
+Un jūs — jaunā darbaļaužu paaudze!
+Jūs, izkalpinātie kapitālistiskās darbnīcās, iestādēs, fabrikās, aukos no pelēkā barona, tiekat pirkti un pārdoti par vēderu un ubagu skrandām, tiekat izslēgti no skolām, tiekat spīdzināti polit-izspiedzē, slodzīti jau bērna gados cietuma nāves maisos, un viss tas tāpēc, ka jūs esat strādnieku bērni.
+Jūsu vieta ir tur, kur iet visa strādnieku šķira! Organizējieties! Plecu pie pleca ar visu proletariāta paaudzi! Buržuāzija grib jūs izolēt no strādnieku šķiras, grib no jums izaudzināt kapitālistiskās iekārtas vergus! Fašisti, sociāldemokrāti, baznīcās, skolā, valstiskās s.-d. biedrībās — visur un vienmēr visa kapitālistiskās audzināšanas sistēma vērsta pret jums — jaunie proletārieši!
+Neaizmirstiet, ka jūs piederat visai strādnieku šķirai — šīs .šķiras cīņai!
+1. Maijā lauziet sev ceļu uz strādnieku šķiru!
+Visi uz ielas!
+Mosties, tu apspiestās un nomāktās šķiras jaunā paaudze! Stājies cīņas rindās, — organizējies kaujas gatavībā! Cīnies par savām tiesībām, par savām prasībām: prasi darba jaunatnei 4—6 stundu darba dienu, algas pielīdzināšanu pieaugušiem strādniekiem, obligatorisko arodmācību [uz] uzņēmēja rēķina, politiskās tiesības no 18 gadu vecuma! Visai darbaļaužu jaunatnei, strādnieku jaunatnei, skolēniem, pionieriem biedrošanās un vārda brīvību; darbaļaužu skolu jaunatnei bezmaksas izglītību un uzturu!
+Nost melnsvārču fašistu diktatūru un ideoloģiju skolās! Lai dzīvo proletāriskā skola!
+Pret represijām! Atsvabināt politiskos ieslodzītos! Lai atskan tūkstošu soļu dunoņa! Lai dreb zeme pilsētu ielās un lauku plašajās ārēs no proletariāta jaunās gvardes pulkiem! Stājieties organizētās Komjaunsavienības rindās!
+1. Maijs lai jūs apmāca nākošām kaujām! Visi zem KJS cīņas karogiem! KJS ir vienīgais vadonis jūsu grūtajās cīņās. Cīnieties par Kompartijas un Komunistiskās jaunatnes savienības legalizēšanu!
+Nebīstieties, kad rindas tiks retinātas — rītu augs jaunie cīņas pulki, jaunie simti, tūkstoši!
+Nost Latvijas fašistisko valdību!
+Nost politapsardzes bendes!
+Lai dzīvo revolucionārā cīņa!
+Lai dzīvo Latvijas Kompartija un Komjaunatnes savienība!
+Revolucionārās jaunās gvardes cīņas sveiciens cietumos ieslodzītiem revolucionāriem! Cīņas sveiciens SPRS un vispasaules revolucionārai darba jaunatnei!
+Lai dzīvo 1. Maijs!
+Lai dzīvo Padomju Latvija!
+
+LKJS Centrālā Komiteja
+LKJS Rīgas komiteja

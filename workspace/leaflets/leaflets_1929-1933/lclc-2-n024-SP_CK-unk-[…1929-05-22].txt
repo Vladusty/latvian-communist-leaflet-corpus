@@ -1,0 +1,32 @@
+id: 24
+file_name: lclc-2-n024-SP_CK-unk-[…1929-05-22].txt
+title: Sarkanās Palīdzības CK lapiņa, kas veltīta 1919. gadā kritušo cīnītāju piemiņai, ar aicinājumu darbaļaudīm revolucionārā ceļā atbrīvot savus biedrus no buržuāzijas cietumiem
+author: Latvijas Sarkanās Palīdzības CK
+date: […1929-05-22]
+print_run: unk
+typography_name: unk
+production_method: shapirograph
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 48–49.
+
+text:
+STARPTAUTISKĀ PALĪDZĪBAS ORGANIZĀCIJA REVOLUCIONĀRIEM (LATVIJAS SEKCIJA)
+Visu zemju proletārieši, savienojieties!
+NOST BALTO TERORU!
+1919. g. 22. maijā pēc nepilnu 5 mēnešu pastāvēšanas krita Latvijas Komūna. Vācu muižnieku un nacionālās buržuāzijas apvienotās bandas iesoļoja Rīgā, un līdz ar to arī visā Latvijā sākās vēl nekur neredzēts strādnieku slaktiņš. Latvijā nav pēdas zemes, kas 1919. g. nebūtu slacīta strādnieku asinīm, kurai nebūtu pāri vēlušās mirstošo un spīdzināto vaimanas un vaidi. Asinskārā buržuāzija un muižnieki atriebjas tagad strādniekiem par to, ka tie gāza viņu — ekspluatatoru apspiedēju jūgu un paši ķērās pie savas politiskās un ekonomiskās dzīves celtniecības, kā to ar redzamām sekmēm ceļ PSRS darba tauta.
+Latvijas Komunistiskā partija, pārņemot varu savās rokās, nekavējoties atcēla visus strādnieku šķiras interesēm kaitīgos likumus un institūtus. Kapitālistu realizētās izsaimniekošanas politikas vietā LKP lika pamatus jaunam, sociālistiskam ražošanas veidam. Bet apvienotās melno baronu bandas, sadarbojoties ar sociāldemokrātu vadoņiem, pārtrauca jaunās iekārtas celtniecību.
+Pirmā Latvijas Komūna noslīcināta strādnieku asinīs. 22. maija upuru skaits sasniedza 12 000. Simtiem tika nomocīti visnežēlīgākā veidā. Simtiem līķu vairākas dienas gulēja neaprakti. Viņus apraka tikai tad, kad trūdošo ķermeņu smaka kļuva pretīga pašiem slepkavām. Tādā veidā latviešu buržuāzija ieguva varu pār strādnieku līķu kalniem. Tā nāca pie varas ar baltā terora un sociāldemokrātu vadoņu palīdzību, un, izmantojot šo palīdzību, tā valda vēl tagad. Tagad sociāldemokrātu vadoņi noliedz savu līdzdalību 12 000 strādnieku noslepkavošanā. Bet kur tad šie kungi bija tajās drausmīgajās dienās? Kāpēc viņi klusēja, kad tūkstošu strādnieku asinis krāsoja Rīgas ielas? Lai sociāldemokrātu vadoņi atbild darba tautai! Darba tautai nav pilsoņu tiesību. Cietumi un politpārvaldes moku kambari sagaida to par katru mēģinājumu uzstāties par savām interesēm. 400 ieslodzīto Latvijas cietumos izbauda «jaukumus» mūsu cietumos, kas ar savu cietsirdīgo režīmu daudzkārt pārspēj carisma cietumus.
+Darba tautai neatlaidīgi jāprasa savu 400 brāļu, dēlu un meitu tūlītēja atbrīvošana. Viņi nav noziedznieki, bet smok cietumos tāpēc, ka prasīja sev un darba tautai cilvēcīgu dzīvi.
+Biedri! Daudziem no 12 000 noslepkavotajiem ir palikuši darba nespējīgi vecāki un mazi bērni. Viņi cieš trūkumu. Nevienam nav gar tiem daļas. 400 ieslodzīto revolucionāru arī nolemti lēnai bada nāvei.
+Biedri! Mūsu pienākums ir sniegt viņiem visiem morālu un materiālu atbalstu. 22. maijā, — kad visa Latvijas darba tauta dziļās sērās noliec galvas pie kritušo cīnītāju kapiem, sūta lāstus un aicina atriebties, — mums jāsolās rūpēties par mūsu biedru tuviniekiem un trūkumā palikušajām ģimenēm.
+Biedri! Ziedosim Mopra fondam vienas dienas izpeļņu!
+Darba tauta! Tikai ejot roku rokā, plecu pie pleca, mēs cīņā gūsim uzvaras. Mūsu biedri ir krituši šai cīņā par labāku dzīvi. Šo cīņu turpina cietumos ieslodzītie biedri. Mums jāizcīna šī cīņa līdz uzvarai pār buržuāziju. Tad 22. maijs vairs neatkārtosies!
+Mūžīga slava kritušajiem cīnītājiem!
+Nost balto teroru! Nost strādnieku šķiras slepkavas!
+Brīvību visiem ieslodzītajiem revolucionāriem!
+Lai dzīvo strādnieku šķiras vienība!
+Lai dzīvo Starptautiskā palīdzības organizācija revolucionāriem!
+
+Mopra Centrālā Komiteja

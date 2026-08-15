@@ -1,0 +1,14 @@
+id: 27
+file_name: lclc-2-n027-LKJS_CK_LKJS_Riga_committee-unk-1929-05.txt
+title: LKJS CK un Rīgas komitejas lapiņa, kas veltīta IX Vispasaules strādnieku bērnu nedēļai
+author: LKJS CK un LKJS Rīgas komiteja
+date: 1929-05
+print_run: unk
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 53–54.
+
+text:

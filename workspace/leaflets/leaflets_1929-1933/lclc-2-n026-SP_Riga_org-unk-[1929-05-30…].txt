@@ -1,0 +1,28 @@
+id: 26
+file_name: lclc-2-n026-SP_Riga_org-unk-[1929-05-30…].txt
+title: Sarkanās Palīdzības Rīgas organizācijas lapiņa par ieslodzīto piekaušanu un spīdzināšanu Daugavpils cietumā, ar aicinājumu cīnīties pret balto teroru
+author: Sarkanās Palīdzības Rīgas organizācija
+date: [1929-05-30…]
+print_run: unk
+typography_name: Spartaks
+production_method: shapirograph
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 51–52.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+UZ CĪŅU PRET SLEPKAVĀM!
+Visiem strādniekiem, darba zemniekiem un darba inteliģencei!
+Strādnieku un darba zemnieku cīņa par amnestiju līdz šim laikam ir palikusi bez panākumiem, bet fašistiskā buržuju valdība Pieliek visas pūles strādnieku revolucionārās cīņas apslāpēšanai. Strādnieku organizācijas slēdz, noliedz sapulces, presi konfiscē.
+Sākot ar Rīgas arodbiedrību Centrālā biroja slēgšanu, sistemātiski notiek masu aresti strādnieku, darba zemnieku un darba inteliģences vidū. Fašistiskās buržuju tiesas piespriež spaidu darbus katram, kas iedrošinās protestēt pret varmācību un prasīt darbu un maizi. Kam nevar atrast juridiska apvainojuma, tos mērdē cietumos uz Kerenska likuma12 pamata. S.-d. «kreisās» valdības bendēšanas režīms dod fašistiskai valdībai visas iespējamības ieslodzīto strādnieku galīgai nobendēšanai. Biedri! 29. maijā Daugavpils cietumā notikusi ieslodzīto sacelšanās. Pēc veltām cerībām sagaidīt amnestiju ieslodzītie izmisuma stihijā izlauzušies no kamerām, lai gūtu brīvību. Cietums drebējis no «Internacionāles» skaņām. Daugavpils strādnieki simtiem steigušies saviem biedriem palīgā izlauzt cietuma vārtus. Izsaukts karaspēks. Kareivji atteikušies durt. Izsaukta policija. Policija tūlīt uzņēmusies to, no kā atteikušies kareivji. Ar gumijas sitamiem ieslodzītie cietuma sētā sisti līdz nesamaņai, pēc kam sasieti ar virvēm un iemesti pārplūdinātos karceros noslīcināšanai. Palīdzība no ārienes nākusi par vēlu. Cietumu līdz nākošai dienai ielencis karaspēks un policija. Dzirdami bijuši tikai vaidi zem smagajām velvēm. 30. maijā ieslodzītie pieteikuši bada streiku. Prasa atcelt karcerus. Prasa atsvabināt.
+Strādnieki, darba zemnieki, darba inteliģence!
+Mūsu biedri Daugavpils cietumā mirkst savās asinīs, slīkst pārplūdinātos karceros, cieš badu. Atbrīvošanu gaida simtiem aktīvāko revolucionāru visos Latvijas cietumos.
+Protestējiet pret fašistiskās valdības asinsdarbiem. Visi cīņā par biedru atsvabināšanu! Atbalstiet šai cīņā Sarkanās Palīdzības organizāciju, kura vienīgā sniedz materiālu un morālisku atbalstu ieslodzītiem. Vāciet ziedojumus — naudā, produktos, drēbēs un nododiet tos Sarkanai Palīdzībai. Dibiniet darba vietās Sarkanās Palīdzības pulciņus un saistieties ar organizācijas centru.
+Pret teroru ar Sarkano Palīdzību.
+Drebiet, bendes! Jūsu asinsdarbi netiks aizmirsti! Strādniecība visā pasaulē gūst vienu uzvaru pēc otras cīņā pret kapitālismu, par sociālismu. Nesaudzīga atmaksa neizbēgami nāks, kad cietuma vārtus atvērs vispasaules revolūcija.
+Nost slepkavas!
+Nost fašistisko Latvijas valdību! Lai dzīvo strādnieku revolucionārā cīņa par Padomju Latviju! Lai dzīvo Latvijas Sarkanā Palīdzība!
+
+Latvijas Sarkanās Palīdzības Rīgas organizācija

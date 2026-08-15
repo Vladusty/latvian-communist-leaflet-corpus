@@ -1,0 +1,33 @@
+id: 25
+file_name: lclc-2-n025-LKP_Daugavpils_city_committee_LKJS_Daugavpils_city_committee-5000-[1929-05-25…].txt
+title: LKP un LKJS Daugavpils pilsētas komiteju lapiņa par Daugavpils strādnieku 1929. g. 25. maija protesta demonstrāciju
+author: LKP Daugavpils pilsētas komiteja un LKJS Daugavpils pilsētas komiteja
+date: [1929-05-25…]
+print_run: 5000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 50–51.
+
+text:
+Visu zemju proletārieši, savienojieties!
+LATVIJAS KOMUNISTISKĀ PARTIJA (KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+DAUGAVPILS STRĀDNIEKI UN STRĀDNIEKU JAUNATNE!
+Daugavpils strādnieki pagājušā gada 22. augustā pirmo reizi baltajā Latvijā uzsāka plašu politisku protesta streiku pret fašistisko valdību. 22. augusts parādīja, ka strādniekus no revolucionārās cīņas nevar atturēt ne cietumi, ne policijas pletnes, ne nodevīgā sociāldemokrātu streiklauzība. 22. augusts — tas ir pirmais bīstamais brīdinājums fašistiem, tā ir strādnieku gatavošanās tālākām revolucionārām cīņām.
+To buržuāzija juta, un tā iecerēja ar nežēlīgu izrēķināšanos pārmācīt un iebiedēt Daugavpils strādniekus. [Šī gada] 24. un 25. maijā, tiesājot strādniekus, kas lielāko tiesu gadījuma pēc bija saķerti [pagājušā gada] 22. augustā, tika sarīkota tiesas komēdija, piedraudot ar cietumu pat tiem lieciniekiem, kas deva fašistiem nevēlamas liecības.
+Fašistiskā tiesa, pamatojoties uz špiku un policistu denunciācijām, nolēma tās ķetnās nokļuvušos strādniekus pūdēt gadiem ilgi cietumā.
+Fašisti cer iebiedēt! Neiebiedēsiet! Atbildot uz fašistu izrēķināšanos, strādnieki un strādnieku jaunatne masveidīgi piedalījās demonstrācijā pie apgabaltiesas un, neskatoties uz policistu pletnēm, pieblīvēja visu ielu tiesas priekšā. Līdzko izveda notiesātos strādniekus, sapulcējušies demonstrēja savu solidaritāti ar notiesātajiem un protestēja pret izrēķināšanos ar tiem. Pie fašistiskās tiesas logiem atskanēja lozungi: Nost fašistu tiesu! Lai dzīvo 22. augusts! Lai dzīvo revolūcija!
+Policija ar pletnēm izklīdināja demonstrantus. Kādu vecu sievieti sita ar pletnēm tik ilgi, kamēr tā bez samaņas palika guļot uz ielas. Izklīdinātā demonstrācija no jauna sapulcējās pie tilta iepretī cietumam. Cietuma logu virzienā lidoja apsveikuma saucieni un lozungi:
+Lai dzīvo Komunistiskā partija! Lai dzīvo komjaunatne! Mēs turpināsim jūsu cīņu!
+Nelīdzēja apsardzes šauteņu laidnes un cietumsargu izrēķināšanās — no visiem cietuma stāviem skanēja apcietināto atbilde demonstrantiem: Biedri, turpiniet mūsu cīņu! Lai dzīvo 22. augusts!
+Satracinātā policija ar pletnēm nežēlīgi izklīdināja demonstrantus.
+Biedri! Daugavpils revolucionārie strādnieki parādīja fašistiem, ka ne cietumi, ne pletnes, ne strādnieku organizāciju grautiņi, ne sapulču aizliegšana nespēs apturēt revolucionāro cīņu. Gatavojieties šai cīņai! Stājieties to vietā, kas atrodas aiz restēm. Palīdziet politieslodzītiem un to ģimenēm! Ziedojiet Mopram!
+Iestājieties Komunistiskajā partijā — vienīgajā strādnieku revolucionārajā partijā. Jaunieši, apvienojieties komjaunatnē! Tikai organizētība ir uzvaras ķīla.
+Nost fašistu tiesu un valdību!
+Lai dzīvo 22. augusta revolucionārais ceļš!
+Lai dzīvo strādnieku-zemnieku padomju valdība!
+
+Latvijas Komunistiskās partijas Daugavpils komiteja
+Latvijas Komunistiskās jaunatnes savienības Daugavpils komiteja

@@ -1,0 +1,32 @@
+id: 23a
+file_name: lclc-2-n023a-LKP_CK_LKJS_CK-10000-[…1929-05-22].txt
+title: LKP CK un LKJS CK lapiņa ar aicinājumu darbaļaudīm Komunistiskās partijas vadībā cīnīties par padomju varas atjaunošanu Latvijā
+author: LKP CK un LKJS CK
+date: […1929-05-22]
+print_run: 10000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 46–48.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+LAI DZĪVO PADOMJU LATVIJA!
+10 gadus atpakaļ baronu, pelēču un sociāldemokrātu kontrrevolūcija gāza strādnieku-zemnieku valdību Latvijā.
+10 gadus buržuāzija ar s.-d. aktīvu pabalstu ir izsūkusi Latvijas strādniekus, nemantīgos zemniekus un Latgali. Padomju Krievija šinī laikā iet milzu soļiem uz labāku dzīvi. Strādnieki pāriet uz 7 stundu darba dienu, nabadzīgiem zemniekiem atlaiž pilnīgi nodokļus un dod kredītus, sēklu! Turpretim fašistiskā Latvijā arvien pagarinās darba diena, aug bezdarbs, krīt algas, izput un badojas nemantīgie zemnieki, muižnieki draud atņemt zemi, aizsargu bandas siro pa Latviju kā kazaki, restes žņaudz Latvijas darba tautu un pipkas danco pa darbaļaužu mugurām kā dzimtslaikos.
+Šajā apspiešanas un asiņainās izrēķināšanās darba priekšgalā fašismam un zem viņa valsts varas aizsardzības, kā to rādīja š. g. 1. Maijs, iet sociāldemokrātu partija viņas līderu vadībā.
+Visa darba tauta sāk arvien vairāk pārliecināties, ka viņu var glābt tikai buržuāzijas gāšana un padomju vara!
+Padomju Latvijas krišanas 10. gadadienu LKP vislabāk pieminēs, ja viņa pateiks visiem darbaļaudīm, ko viņi var iegūt padomju varas ceļā LKP vadībā. Mūsu partija vispirms neatkārtos tās kļūdas, kuras tika pielaistas 1919. gadā, sevišķi pret zemniecību. Partija ir mācījusies un tagad, nākot pie varas, vedīs to politiku, kādu ir noteicis Ļeņins. Mēs ne tikai neaiztiksim nemantīgā zemnieka īpašumu. Mēs nodrošināsim viņa zemi un vēl piegriezīsim no lielsaimnieku zemes, lai palielinātu mazo ļaužu zemi līdz pilnīgai normai. Mēs atcelsim izpirkšanas maksas un visus parādus, kas guļ uz nemantīgo zemnieku zemi. Un visus laukus, visus pabalstus, visus kredītus atņemsim lielsaim-niekiem un nodosim tiem zemniekiem, kas neizmanto citu darbaspēku. Mēs trūcīgos pilnīgi atbrīvosim no nodokļiem, vidējiem būs piemēroti nodokļi, bet visas nastas uzliksim lielsaimniekiem. Rentnieki un pusgraudnieki varēs saņemt tās zemes, kuras tie apstrādā. Tas viss tiks izdarīts nekavējoši un tūlīt. Tūlīt tiks izvesta kulaku un muižnieku zemju pārdalīšana Latgalē un tai dota pašnoteikšanās. Tūlīt tiks likvidēti aizsargi, apsardze, tiesāti tautas mocītāji un apspiedēji, atsvabināti ieslodzītie biedri, apbruņota darba tauta. Tūlīt tiks anulēti visi slepenie līgumi ar igauņiem, poļiem un angļiem, kuri pārdod Latvijas darba tautu par lielgabalu gaļu imperiālismam. Tūlīt tiks slēgta savienība ar lielo padomju republiku saimi un atjaunotas lielas fabrikas, ostas, transports. Tūlīt sāks pāriet uz 7 stundu darba dienu, tiks izpildītas visas pilsētu un lauku strādnieku prasības darba algas, slimokasu, darba aizsardzības organizēšanas un politisko brīvību lauka. Strādniekiem tiks nodotas tipogrāfijas, sapulču telpas, ko viņi cēluši, bet kurās tagad tos neielaiž fašisms un sociāldemokrāti.
+Mēs uzaicinām vēl ciešāk masas slēgties ap Latvijas Komunistisko partiju, lai revolūcijas ceļā uzvarētu fašismu un sociāl-fašismu un nodibinātu strādnieku-zemnieku varu — Padomju Latviju! Tikai tādā ceļā mēs varam atpestīties no spaidiem un nabadzības, no fašisma žņaugiem un kara draudiem.
+Jau ielas dun no strādnieku cīņām, un revolūcijas liesmas vulkānu elpa jūtama jau visās zemēs kā atbilde kara un intervenciju gatavotājiem!
+Mūžīga piemiņa kritušiem par strādnieku atsvabināšanu no kapitālisma jūga! Mēs, dzīvie, novedīsim jūsu cīņu līdz .uzvarai!
+Nost ar fašistisko valdību!
+Nost ar sociālfašismu!
+Lai dzīvo strādnieku-zemnieku valdība!
+Lai dzīvo Latvijas Komunistiskā partija!
+Lai dzīvo proletāriskā revolūcija un Padomju vara Latvija!
+
+Latvijas Kom. partijas Centrālā Komiteja
+Latvijas Kom. jaun. savienības Centrālā Komiteja

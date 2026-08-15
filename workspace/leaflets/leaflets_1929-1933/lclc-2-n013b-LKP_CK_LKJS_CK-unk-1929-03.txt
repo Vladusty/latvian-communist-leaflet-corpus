@@ -5,7 +5,7 @@ author: LKP CK un LKJS CK
 date: 1929-03
 print_run: unk
 typography_name: unk
-production_method: rotator
+production_method: unk
 original_language: Russian
 text_language: Latvian
 is_translation: True

@@ -4,8 +4,8 @@ title: LKP CK un LKJS CK lapiņa, kas veltīta V. I. Ļeņina piemiņai, ar aici
 author: LKP CK un LKJS CK
 date: […1929-01-22]
 print_run: 5000
-typography_name: Spartaks
-production_method: typographic
+typography_name: unk
+production_method: unk
 original_language: Russian
 text_language: Latvian
 is_translation: True

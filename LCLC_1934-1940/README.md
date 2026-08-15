@@ -113,6 +113,14 @@ Metadata fields appear at the beginning of the file, and the leaflet text begins
 
 ---
 
+## Transcription policy
+
+The transcriptions follow the spelling used in the Soviet published edition, in which the spelling of the original leaflets had already been editorially normalized; they therefore do not constitute diplomatic transcriptions of the original documents.
+
+The exceptions are the words *tipografija* and *sociāldemokrats*, which have been consistently rendered according to modern Latvian orthography as *tipogrāfija* and *sociāldemokrāts* in order to avoid artificially splitting the same lexemes into different spelling variants in automated text analysis.
+
+---
+
 ## Metadata fields
 
 | Field | Description |

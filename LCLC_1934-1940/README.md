@@ -6,6 +6,8 @@ A digital corpus of Latvian communist underground leaflets (1934–1940) with st
 
 The **Latvian Communist Leaflet Corpus (1934–1940)** (hereafter **LCLC**) is a structured digital corpus of underground political leaflets produced by illegal communist organizations in Latvia between **1 January 1934 and July 1940**, covering both the final months of the parliamentary period and the authoritarian regime established after the coup of Kārlis Ulmanis on 15 May 1934.
 
+The LCLC is designed primarily as an analysis-oriented corpus rather than as a diplomatic edition of the original leaflets. The textual layer is intended to support computational text analysis, including frequency analysis, TF–IDF, topic modelling, text classification, and related methods.
+
 The corpus contains transcribed texts of communist propaganda leaflets as well as records for leaflets listed in the section "krājumā neievietoto lapiņu saraksts" ("list of leaflets not included in the edition") of the source edition, but whose texts are not reproduced there.
 
 The dataset is intended for research in fields such as:
@@ -115,9 +117,13 @@ Metadata fields appear at the beginning of the file, and the leaflet text begins
 
 ## Transcription policy
 
-The transcriptions follow the spelling used in the Soviet published edition, in which the spelling of the original leaflets had already been editorially normalized; they therefore do not constitute diplomatic transcriptions of the original documents.
+The LCLC does not provide diplomatic transcriptions of the original leaflets. The transcriptions are based on the Soviet published edition, whose editors had already normalized aspects of the spelling of the original documents. Consequently, the textual layer reflects the editorially normalized form presented in the source edition rather than the exact orthography of the surviving original leaflets. 
 
-The exceptions are the words *tipografija* and *sociāldemokrats*, which have been consistently rendered according to modern Latvian orthography as *tipogrāfija* and *sociāldemokrāts* in order to avoid artificially splitting the same lexemes into different spelling variants in automated text analysis.
+The LCLC generally preserves the spelling found in the published edition. Only limited additional normalization has been introduced by the corpus compiler. In particular, the forms *tipografija* and *sociāldemokrats* have been consistently rendered according to modern Latvian orthography as *tipogrāfija* and *sociāldemokrāts*. 
+
+This limited normalization reflects the analytical purpose of the corpus. Orthographic variation is not treated as an object of analysis, and unnecessary spelling variation can cause the same lexeme to be represented as separate features in computational text analysis. 
+
+Researchers interested in the exact orthographic or typographic characteristics of the historical documents should therefore consult the original leaflets.
 
 ---
 
@@ -138,7 +144,7 @@ The exceptions are the words *tipografija* and *sociāldemokrats*, which have be
 | is_translation | indicates whether the text is a translation prepared by the editors of the source edition |
 | note | editorial note about textual differences or variants; used only when necessary |
 | source | bibliographic source |
-| text | transcription of leaflet text |
+| text | analysis-oriented transcription of the leaflet text based on the published source edition; see Transcription policy |
 
 ---
 

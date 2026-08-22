@@ -1,0 +1,33 @@
+id: 29
+file_name: lclc-2-n029-LKP_Riga_committee_LKJS_Riga_committee-400-[…1929-06-24].txt
+title: LKP un LKJS Rīgas komiteju uzsaukums angļu kara flotes jūrniekiem, ar aicinājumu cīnīties pret angļu buržuāzijas gatavoto intervenciju pret PSRS
+author: LKP Rīgas komiteja un LKJS Rīgas komiteja
+date: […1929-06-24]
+print_run: 400
+typography_name: Spartaks
+production_method: rotator
+original_language: English
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 57–58.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BRITU JŪRNIEKIEM!
+Biedri!
+Revolucionārais Rīgas proletariāts apsveic jūs — Anglijas proletāriešus!
+Jums jāzin, biedri, ka jūsu kara kuģu manevri nenozīmē neko citu ka jauna kara gatavošanu, ko veic britu kapitālisti.
+Kaimiņu zeme — Padomju Sociālistisko Republiku Savienība, Pirmā proletariāta valsts pasaulē, ir visas kapitālistiskās pasauks, sevišķi britu kapitālistu asa naida objekts. Padomju Sociālistisko Republiku Savienības brīvie proletārieši ir mūsu un arī jūsu brāļi. Viņi ar savām asinīm izcīna savu brīvību un viņu cīņai par atbrīvošanos no visas pasaules apspiedējiem pievienojamies arī mēs un arī jūs.
+Viņi bija tie, kas deva naudu streikojošo angļu ogļraču apgādāšanai 1926. gadā. Viņi bija tie, kas sniedza aktīvu atbalstu revolucionārajiem ķīniešu kūlijiem un indiešu strādniekiem.
+Visas pasaules buržuāzija ar Anglijas buržuāziju priekšgalā sagatavojusi uzbrukumu strādnieku un zemnieku zemei nolūkā noslaucīt to no pasaules kartes un noslīcināt asinīs mūsu, visas Pasaules apspiesto, kopējo cīņu par brīvību. Šim nolūkam tiek izlietotas miljoniem mārciņas jaunu kara kuģu, lidmašīnu, gāzu, tanku, bumbu utt. ražošanai.
+Biedri! Mēs, Rīgas proletārieši, katru vasaru redzam jūsu kara kuģus pie mūsu krastiem. Mēs saprotam, ka mūsu buržuāzija grib kaut ko darīt, lai atbalstītu Anglijas kapitālistu imperiālistiskās tieksmes. Bet mēs zinām ļoti labi, biedri, ka angļu jūras kara flotes jūrnieki ir strādnieki tāpat kā mēs. Mēs cieši ticam, ka jūs nekļūsiet revolūcijas nodevēji. Mēs cieši ticam, ka izšķirošā momentā, kad angļu kapitālisti sūtīs jūs bombardēt brīvā proletariāta zemes — PSRS krastus, jūs griezīsiet savas šautenes pret imperiālistiem un kļūsiet slaveni visas pasaules revolucionārā proletariāta rindās.
+Biedri! Mēs griežamies pie jums ar šo skrejlapu no pagrīdes dziļumiem, kurā asinīm aptraipītā buržuāzija ir mūs iedzinusi. Mēs griežamies pie jums, jo jauns karš ir gaidāms visas pasaules proletariātam. Jūs nedrīkstiet lolot ilūzijas, ka Makdonalda valdība 14 ir strādnieku valdība un ka tā nepieļaus karu. Atcerieties, ka Makdonalds cildināja angļu interventu karaspēku, kas slepkavoja Ķīnas revolucionāros strādniekus 1927. gadā. Visas pasaules apzinīgais proletariāts zin, ka Makdonalds, cieši iedams Anglijas buržuāzijas pēdās, aktīvi atbalstīs karu, tāpat kā viņš to darīja 1914. gadā. Pasaules proletariāts var atbrīvoties no kapitālistu apspiestības, tikai ejot cīņā ar Komunistiskās Internacionāles lozungiem!
+Karu karam!
+Pārvērst imperiālistisko karu pilsoņu karā!
+Lai dzīvo PSRS!
+Lai dzīvo revolūcijas sargs — Sarkanā Armija!
+Lai dzīvo proletariāta starptautiskā solidaritāte!
+Ar biedrisku sveicienu
+
+Latvijas Komunistiskas partijas Rīgas komiteja
+Latvijas Komunistiskās jaunatnes savienības Rīgas komiteja

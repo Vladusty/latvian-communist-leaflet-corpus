@@ -1,8 +1,8 @@
 id: 28
-file_name: lclc-2-n028-LKP_CK-3000-[1929-06-11..1929-06-20].txt
+file_name: lclc-2-n028-LKP_CK-3000-[1929-06-11..1929-06-19].txt
 title: LKP CK lapiņa sakarā ar sociāldemokrātu (meņševiku) mēģinājumiem viltot Latvijas revolucionārās kustības vēsturi
 author: LKP CK
-date: [1929-06-11..1929-06-20]
+date: [1929-06-11..1929-06-19]
 print_run: 3000
 typography_name: Spartaks
 production_method: rotator

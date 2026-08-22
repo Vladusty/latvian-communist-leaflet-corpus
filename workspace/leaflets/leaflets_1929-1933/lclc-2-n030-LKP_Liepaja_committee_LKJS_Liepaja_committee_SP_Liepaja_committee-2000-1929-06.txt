@@ -1,0 +1,31 @@
+id: 30
+file_name: lclc-2-n030-LKP_Liepaja_committee_LKJS_Liepaja_committee_SP_Liepaja_committee-2000-1929-06.txt
+title: LKP un LKJS Liepājas komiteju un Sarkanas Palīdzības Liepājas komitejas lapiņa ar aicinājumu palīdzēt politiskajiem ieslodzītajiem
+author: LKP Liepājas komiteja, LKJS Liepājas komiteja un Sarkanas Palīdzības Liepājas komiteja
+date: 1929-06
+print_run: 2000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 59–60.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+NOST BURŽUĀZISKO TIESU! NOST BALTO TERORU!
+Biedri strādnieki, darba jaunatne, kareivji, skolnieki!
+Fašistu un pipku sociālistu cietumi jau pārim pilni no mūsu biedriem. Politapsardzes pagrabos, karceros, cietuma sētās skan spīdzināmo kliedzieni. Daugavpilī pavēlēja šaut uz politiskiem ieslodzītiem, kad tie pretojās valstisko neliešu sitieniem. Daugavpilī politiskie ieslodzītie tiek mērcēti ar ūdeni pildītos karceros. Tūkstoši jūs, fašistu Latvijas izsūkto un verdzināto, ikvienu no jums rīt parīt var paņemt politapsardzes bandīti uz uzņēmēju norādījuma. Ikvienu no jums var dragāt un nobendēt uz cietuma asfalta. To atļauj fašistu un sociālfašistu valstiskie likumi.
+Sagraujiet cietumus! Sagraujiet politisko apsardzi! Amnestiju! Nost ar Kerenska likumu! Cietumu un parazītu Latviju nost!
+Mātes strādnieces! Jūsu ieslodzīto biedreņu bērni mirst badā. Liepājas cietumā tika nosodīta uz veselu mēnesi bez pastaigas, bez sarunas un pienesuma slimā ieslodzītā Strutiņa par to, ka bija iedrošinājusies savam badā mirstošam bērnam caur vārtu spraugu pasniegt gabaliņu jēlās cietuma maizes. Cietuma mūros tiek padarīti ārprātīgi jūsu bērni. Liepājas cietumā zaudējis pratu nepieaugušais skolnieks Šics. Biedrenes! Stājieties Sarkanās Palīdzības rindās! Dibiniet Sarkanās Palīdzības pulciņu! Vāciet ziedojumus priekš saviem ieslodzītiem biedriem! Viegliniet šausmu un bada pilnos gadus saviem cīnītājiem! Amnestiju!
+Biedri skolnieki! Iz jūsu rindām atrauj vienu pēc otra krietnākos skolniekus. Fašistiskie skolotāji sekmīgi veic savu nodevības darbu. Ārprātīgais Šics nav vienīgais proletariāta jaunās paaudzes upuris. Tādu ir desmitiem, simtiem. Tādu vēl būs simtiem, ja mēs nepāriesim pretuzbrukumā. Ārā no skolām politapsardzes aģentus — fašistiskos skolotājus! Izbeigt teroru! Izbeigt spīdzināšanas! Organizēsimies Komunistiskās jaunatnes savienības šūniņās! Būsim gatavi cīņai par Padomju Latviju!
+Biedri strādnieki un zemnieki pelēkos kareivju tērpos! Tos no jums, kuri Daugavpilī atteicās šaut uz ieslodzītiem, nodod kara tiesai. Organizējiet protestu pret šo kārtējo fašistiskās varas un virsniecības neģēlību! Nevienu šāvienu pret saviem biedriem! Šauteņu stobrus turiet gatavībā graut fašistu perēkļus, graut vampīru Latviju! Nost kara tiesas! Nost fašistisko armiju! Biedri kareivji, biedri jūrnieki! Esiet gatavi kopējai cīņai ar strādniecību par Padomju Latviju!
+Jūs, politapsardzes spiegi fabriku darbnīcās, armijā, skolā, jūs, sociālfašistiskie līderi — apsardzes dresētie kurti, neaizmirstiet: nav tālu diena, kad Latvijas strādniecība lems par jums bargu tiesu! Mēs nesaudzīgi izrēķināsimies ar ikvienu nodevēju! Pieminiet!
+Biedri strādnieki, darba jaunatne, kareivji, skolnieki! Visi vienotās cīņas ķēdēs pret fašistisko teroru, pret represijām! Amnestiju! Stājieties Kompartijā un Komunistiskajā jaunatnes savienībā! Stipriniet Sarkano Palīdzību! Atbalstu ieslodzītiem mocekļiem!
+Nost fašistu un spīdzinātāju Latviju!
+Nost sociālfašistus!
+Lai dzīvo strādnieku-zemnieku valdība Padomju Latvijā!
+Lai dzīvo Latvijas Kompartija un Komjaunsavienība!
+
+Latvijas Kom. partijas Liepājas komiteja
+Latvijas Kom. jaun. savienības Liepājas komiteja Liepājas Sarkanā Palīdzība

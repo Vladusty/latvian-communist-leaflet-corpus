@@ -1,0 +1,35 @@
+id: 31
+file_name: lclc-2-n031-LKP_Daugavpils_committee-3000-1929-06.txt
+title: LKP Daugavpils komitejas aicinājums strādniekiem slimokasu pilnvarnieku vēlēšanās balsot par kreiso strādnieku kandidātiem
+author: LKP Daugavpils komiteja
+date: 1929-06
+print_run: 3000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 60–62.
+
+text:
+LATVIJAS KOMUNISTISKA PARTIJA (KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Visu zemju proletārieši, savienojieties!
+VISI PAR STRĀDNIEKU APDROŠINĀŠANAS PROGRAMU SLIMOKASES!
+Strādnieki! Pirms 10 gadiem, kad revolūcijas asmens vērsās pret buržuāziju, tā strādniekiem apsolīja pārpilnām maizi, brīvību, 8 stundu darba dienu, taisnīgu iekārtu bez ekspluatācijas un apspiešanas. Buržuāzijas aģenti — sociāldemokrāti ar šo mānekli panāca, ka daļa strādnieku pārgāja buržuāzijas pusē, strādnieku asinīs noslīcināja padomju varu un palīdzēja buržuāzijai nodibināt buržuāziski «demokrātisko» Latviju.
+10 gadus viņi cel to uz strādnieku kauliem, bet blakus — Padomju Savienībā — strādnieki Komunistiskās partijas vadībā ceļ sociālismu.
+Tur, Padomju Savienībā, ir 7 stundu darba diena, darba algu līmenis par 50% augstāks nekā pirms kara. Sociālās apdrošināšanas kases izsniedz bezdarbniekiem ikmēneša pabalstus, katrs slimības vai nelaimes gadījumā darba spējas zaudējis strādnieks un katrs strādnieks, kas ir vecāks par 50 gadiem, kas nostrādājis līdz darba spēju zaudēšanai 10 gadus, līdz mūža beigām saņem pensiju pilnas darba algas apmērā. Valsts apgādā un par velti ārstē visus darba nespējīgos vecākus, bāreņus, -atraitnes. Labākie Krimas un Kaukāza kūrorti un vasarnīcas atrodas pilnīgā strādnieku rīcībā. Visus sociālapdrošināšanas izdevumus sedz tikai uzņēmumi, bet ar kases līdzekļiem strādnieki rīkojas pēc sava prāta.
+Bet pie mums Latvijā? Kur tika apsolīta 8 stundu darba diena, augstas darba algas, sociālapdrošināšana vecumā un bezdarba gadījumā, pārtikusi dzīve. To visu aprijuši sociāldemokrāti un buržuāzija. Bet strādnieku būdās valda bezizejas trūkums, bads, tumsība, netīrība, aukstums, slimības un nāve.
+Sociāldemokrāti plātās, ka mums esot slimokase. Kad buržuāzijas vara sāka grīļoties, viņa pasvieda strādniekiem slimokases kā kaulu, sak, «grauziet, plēsieties tās dēļ, bet mēs tai laikā nostiprināsimies un pēc tam — varam atņemt». Fabrikanti kropļo strādniekus katorgai līdzīgā darbā, bet saimnieku rokaspuiši — sociāldemokrāti strādniekiem dod tableti, kas nostāda uz kājām, un atkal grūž jūgā.
+Bet fašisti arī šādu ārstēšanu uzskata par lieku. Viņi uzspļauj uz to, ka strādnieku mūžs saīsinās par 10 gadiem. Lopi maksā naudu, bet izsalkušajiem bezdarbniekiem dod tikai paēst, un strādnieku pietiks.
+Un ja fašisti vēl nav uzdrošinājušies sagraut slimokases, tad tikai tāpēc, ka baidās revolucionārā proletariāta pretspara. Lūk, kāpēc viņi tā vajā revolucionāros strādniekus un to avangardu — komunistus. Bet sociāldemokrāti visiem spēkiem palīdz fašistiem graut revolucionāru spēkus, cildina tagadējo iekārtu un, lai nomierinātu revolucionārās masas, nonākuši pat līdz norunai ar cietuma bendēm, slēpj strādniekiem Daugavpils cietuma šausmas. Viņi pārņēmuši bendes savā aizsardzībā.
+Strādnieki! 6. un 7. jūlijā notiks slimokasu vēlēšanas! Visi uz vēlēšanām! Nododiet savas balsis, pasludiniet savu nesaudzīgo spriedumu Latvijas fašistiskajai buržuāziskajai demokrātijai un visiem tiem, kas to balsta, apmānot strādniekus, izsūcot no tiem sviedrus un asinis.
+Nevienu balsi par fašistu, monarhistu, fabrikantu un to rokaspuišu — sociāldemokrātu sarakstiem, lai arī ar ko tie nemaskētos! Pagrīdē iedzītajai Komunistiskajai partijai nav iespēju izvirzīt savu komunistisko sarakstu.
+Visi strādnieki — balsojiet par kreiso strādnieku sarakstu Nr. 6!
+Biedri strādnieki! Komunistisko partiju nepielaiž pie vēlēšanām, taču nekādi aizliegumi nespēs aizkavēt Kompartijas cīņu pret katordznieciskajiem darba noteikumiem Latvijā. Tikai fašistiskās un sociāldemokrātiskās varas gāšana, strādnieku-zemnieku padomju varas nodibināšana izbeigs uz visiem laikiem šos katordznieciskos noteikumus. Tad, kad būs padomju vara, Kompartija iznīcinās arī tagadējo sociālo apdrošināšanu un realizēs strādnieku apdrošināšanas programu, par kuru desmitiem gadu cīnās visu zemju strādnieki un kas realizēta vienīgi PSR Savienībā!
+Tad Komunistiskā partija atvērs robežu, laidīs darbā fabrikas un rūpnīcas, ieviesīs 7 stundu darba dienu, paaugstinās darba algu, ievedīs obligātu pilnīgu sociālo apdrošināšanu visiem strādniekiem un kalpotājiem vecuma, bezdarba, no slimības vai nelaimes gadījumā iegūtas invaliditātes gadījumos, grūtniecēm, kā arī atraitnēm un bāreņiem, nodrošinās veselīgus darba apstākļus, atbrīvos strādniekus no drēgnajiem pagrabiem, atvērs cietumus, nodrošinās jaunatnes darba aizsardzību, atvērs viņai durvis uz skolām, universitātēm un uzcels jaunu sociālistisku iekārtu.
+Biedri! Vēlēšanās parādiet savu solidaritāti ar Komunistisko partiju, savu gatavību cīnīties kopā ar viņu. Organizējieties zem tās sarkanā karoga!
+Nost fašistisko Latviju!
+Lai dzīvo strādnieku-zemnieku padomju vara!
+Lai dzīvo Komunistiskā partija!
+
+[LKP] Daugavpils komiteja

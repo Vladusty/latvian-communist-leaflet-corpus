@@ -1,0 +1,45 @@
+id: 34
+file_name: lclc-2-n034-LKP_Latgale_regional_committee-6000-1929-07.txt
+title: LKP Latgales apgabala komitejas uzsaukums Latgales zemniekiem atzīmēt Starptautisko pretkara dienu ar streikiem un demonstrācijām un sakļauties vienotā pretkara frontē LKP vadībā
+author: LKP Latgales apgabala komiteja
+date: 1929-07
+print_run: 6000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 67–69.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA (KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Visu zemju proletārieši, savienojieties!
+NOST IMPERIĀLISTISKO KARU!
+Visu zemju imperiālisti pastiprināti gatavojas jaunam karam. Visas konferences un apspriedes par atbruņošanos ir tikai tukšas sarunas. Tā vietā, lai atbruņotos, būvē jaunus kreiserus, zemūdenes, tankus, lidmašīnas, gatavo nāvējošas gāzes. Armijas tiek palielinātas. Militārie budžeti aug ar katru gadu. Strādnieku un zemnieku organizācijas, kas uzstājas pret karu, tiek slēgtas un padzītas.
+Imperiālisti un to aģenti sociāldemokrāti gatavo uzbrukumi Padomju Savienībai — pirmajai strādnieku un zemnieku valstij Viņi grib iznīcināt Oktobra revolūcijas iekarojumus un pārvērst
+Padomju Savienību — sociālisma celtniecības zemi — par savu koloniju un atkal uzkundzēties strādniekiem un zemniekiem.
+Latvijas buržuāziski fašistiskā valdība ir angļu un poļu imperiālistu aģents. Latvijas armija ir Rietumeiropas imperiālistu priekšpulks uzbrukumā Padomju Savienībai. Latvijas militārais budžets aug ar katru gadu un sastāda gandrīz trešo daļu no visiem valsts izdevumiem. Nodokļi, kurus piedzen no darba zemniecības. aiziet kara gatavošanai. Tā vietā, lai sniegtu palīdzību izputinātajam Latgales zemniekam, naudu atvēl armijas un aizsargu apbruņošanai.
+Fašistiskā valdība iegādājas jaunas zemūdenes. Kara kuģi devās reisā uz ārzemēm, lai piegādātu kara materiālus.
+Aizsargi apgādāti ar jaunām šautenēm. Viņiem iegādājas ložmetējus un artilēriju. Latvijas armijas vajadzībām Čehoslovakijā un Itālijā pasūtītas kara lidmašīnas. Darba tautas graši aiziet apbruņojumam, kara gatavošanai pret Padomju Krieviju, pret strādnieku un zemnieku valsti.
+Latvijas fašistiskā valdība pakļauta poļu un angļu imperiālistiem un izpilda to rīkojumus kara gatavošanā.
+Arvien jaunas likstas draud izputinātajai Latgales zemniecībai. Kara gadījumā Latgale var pārvērsties kaujas laukā. Imperiālistiskās armijas izpostīs Latgali. Fašistiskā valdība, lai apgādātu savus karavīrus pilsoņu kara laikā, atļāva landesvēristiem — vācu baronu un muižnieku algotņiem saņemt zemi. Poļu muižniekiem apsolīts atdot atpakaļ zemi vai par to samaksāt. Bijušiem cara ierēdņiem valdība maksā pensijas. Fašistiskā valdība ap sevi pulcē pārliecinātos monarhistus un bandītus, lai izrēķinātos ar revolucionāriem strādniekiem un zemniekiem.
+Latgales zemniecībai trūkst zemes, bet zemi atdos landesvēristiem.
+Zemnieku saimniecības izputinātas, tām nepieciešama palīdzība, bet milzīgas summas izdod armijas un aizsargu apbru-ņošanai, poļu muižniekiem un cara ierēdņiem. Tiek iztērēti miljoniem rubļu prezidenta braucienam uz Zviedriju un Zviedrijas karaļa sagaidīšanai Latvijā. Latgales darba zemniecība pusbadā velk dzīvību.
+Visu zemju Komunistiskās partijas 1. augustā organizē cīņas dienu pret karu, pret uzbrukumu Padomju Krievijai.
+Šai dienā darbaļaužu masām Latvijas Komunistiskās partijas vadībā jāsaliedējas vienotā frontē un jāuzstājas pret kara gatavotājiem fašistiem un to aģentiem sociāldemokrātiem, progresistiem un citiem buržuāzijas pielīdējiem.
+Latgales darba zemniecība paziņos, ka imperiālistiskais karš tiks pārvērsts pilsoņu karā, lai gāztu Latvijas fašistiskās buržuāzijas jūgu un nodibinātu padomju varu ar strādnieku-zemnieku valdību priekšgalā.
+Strādnieku-zemnieku valdība LKP vadībā atbrīvos strādniekus un zemniekus no buržuāzijas un kulaku ekspluatācijas, atcels visus izpirkuma maksājumus, vekseļus un parādus, atņems kulakiem visus kredītus un pabalstus un atdos tiem zemniekiem, kas neekspluatē tieši darbaspēku!
+Trūcīgos zemniekus pilnīgi atsvabinās no nodokļiem, vidējiem zemniekiem uzliks tādus nodokļus, kurus tie spēs nomaksāt, bet kulakiem uzliks nodokļu lauvas tiesu.
+Pārdalīsim kulaku un muižnieku zemi, lai sīkzemniekiem piederošās zemes daudzums līdzinātos pilnai normai!
+Strādnieku-zemnieku valdība anulēs ar igauņiem, poļiem un angļiem noslēgtos militāros līgumus, kas darbaļaudis padara par imperiālistu lielgabalu gaļu. Likvidēs aizsargus, policiju un fašistisko armiju, noslēgs savienību ar Padomju Krieviju, un Latgale iegūs pašnoteikšanos.
+Komunistiskā partija aicina darba zemniecību pretkara cīņas dienā — 1. augustā rīkot sādžās saiešanas, masu sapulces, mītiņus un organizēt demonstrācijas pret karu, sakļauties vienotā frontē ar strādnieku šķiru, lai revolucionārā ceļā cīnītos pret kara kurinātājiem, fašistiem un sociāldemokrātiem.
+Nost imperiālistisko karu!
+Nost jaunā kara gatavotājus — fašistus un sociālfašistus!
+Imperiālistisko karu pārvērtīsim pilsoņu karā!
+Nost fašistisko Latvijas valdību!
+Lai dzīvo strādnieku-zemnieku valdība!
+Lai dzīvo Latgales pašnoteikšanās!
+Lai dzīvo Latvijas Komunistiskā partija!
+Lai dzīvo proletāriskā revolūcija un Padomju Latvija!
+
+Latvijas Komunistiskās partijas Latgales apgabala komiteja

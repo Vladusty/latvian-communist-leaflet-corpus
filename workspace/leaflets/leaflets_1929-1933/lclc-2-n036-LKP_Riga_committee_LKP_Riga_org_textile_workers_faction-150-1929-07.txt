@@ -1,0 +1,32 @@
+id: 36
+file_name: lclc-2-n036-LKP_Riga_committee_LKP_Riga_org_textile_workers_faction-150-1929-07.txt
+title: LKP Rīgas komitejas un Rīgas organizācijas tekstilnieku frakcijas uzsaukums tekstilfabrikas «Rita» strādniekiem 1. augustā organizēt streiku un demonstrāciju pret imperiālistiskā kara gatavošanu
+author: LKP Rīgas komiteja un LKP Rīgas organizācijas tekstilnieku frakcija
+date: 1929-07
+print_run: 150
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 72–73.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+TEKSTILFABRIKAS «RITA» STRĀDNIEKI UN STRĀDNIECES!
+Tekstilrūpniecības uzņēmēji, pateicoties mūsu vājai organizētībai un aktivitātei, mūs nežēlīgi izsūc. Ls 3 dienā, ko saņemam mēs, strādnieki, un Ls 2,40 strādniecēm, raksturo to «spīdošo» stāvokli, par kuru tīk cītīgi taurē mūsu uzņēmēji. Tā ir bada alga. Arī sanitārie apstākļi ir slikti. Zortēšanas nodaļā, kur nodarbināti 80 cilvēki, trūkst ventilācijas, krāsošanas nodaļā nupat beidzamā laikā 2 strādnieki miruši no diloņa, mantota darbā.
+Mūs izsūc ne tikai uzņēmēji fabrikā. Izsūc un apspiež visu izsūcēju šķiras izpildkomiteja — valsts vara. Viņa pastāv no summām, ko izspiež galvenokārt no mums, strādniekiem, nodokļu un muitu veidā. Pastāv, lai nodrošinātu uzņēmējiem izsūkšanu un turētu mūs paklausībā. Priekš tam tiek laists darbā valdības aparāts ar fašistiskām metodēm. Izsūcēju valdība, kurā ir arī baronu priekšstāvji, grib novājināt mūsu pretošanās spējas, lai varētu arī atdot baroniem atpakaļ zemi, ko 1919. g. padomju vara tiem atņēma, lai atņemtu slimokases strādniecībai, lai netraucēti gatavotos karam pret SPRS.
+Biedri! Tāpat kā pirms 15 gadiem, imperiālistiskās lielvalstis gatavo jaunu, desmitkārt šausmīgāku karu. Kaut gan cīņā dēļ tirgiem viņas plēšas savā starpā, bet viņas ir jau apvienojušās karam pret vispasaules proletāriskās revolūcijas centru un sārtu — SPRS. Arī Latvija noteikti tiek ievilkta zem imperiālistisko lielvalstu vadības, kurā pret visas pasaules darba tautas tēviju — SPRS bruņojas, apmāca karapulkus.
+II Internacionāles sociāldemokrātu partijas, kas 1914. g. nodeva proletariātu, tagad it visās zemēs pārvēršas par sociālfašistiem, grauj revolucionārās strādnieku organizācijas, nostājas kontrrevolūcijas pusē pret SPRS un aktīvi piedalās imperiālistu kara plānu izstrādāšanā un izvešanā pret SPRS.
+Biedri! Kara draudi ar Ķīnas uzbrukumu mūsu tēvijai — SPRS — top draudoši. Aiz Ķīnas stāv imperiālistiskās lielvalstis ar «sociālistiskā» Makdonalda valdību priekšgalā. Vienīgais spēks cīņā pret imperiālistisko karu un SPRS aizstāvēšanā ir droša, aktīva visas pasaules proletariāta uzstāšanās Kompartijas vadībā.
+Biedri «Ritas» strādnieki!
+1. augustā kopā ar visas pasaules un Latvijas proletariātu iziesim streikā un demonstrācijā.
+Par 8 stundu darba dienu un pāreju uz 7 stundu darba dienu!
+Par strādnieku organizēšanās, vārda, preses brīvību, par politieslodzīto atsvabināšanu, pret fašismu, pret teroru, pret strādniecības nodevējiem socfašistiem, pret uzbrukumiem slimokasēm, pret baroniem landesvēristiem, pret imperiālistisko karu — par pilsoņu karu-revolūciju!
+Rokas nost no SPRS — mūsu tēvijas!
+Aizstāvēsim SPRS no imperiālistu uzbrukumiem!
+Lai dzīvo Ķīnas revolūcija!
+Lai dzīvo LKP un cīņa par strādnieku-zemnieku valdību Latvijā!
+
+LKP Rīgas komiteja 
+Rīgas org. tekstilnieku frakcija

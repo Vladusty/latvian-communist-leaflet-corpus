@@ -1,0 +1,24 @@
+id: 44
+file_name: lclc-2-n044-LKP_Riga_org_food_producers_faction-200-1929-08.txt
+title: LKP Rīgas organizācijas pārtikas ražotāju frakcijas aicinājums fabrikas «Laima» strādniekiem panākt darba algas paaugstināšanu un darba apstākļu uzlabošanu
+author: LKP Rīgas organizācijas pārtikas ražotāju frakcija
+date: 1929-08
+print_run: 200
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 88–89.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+«LAIMA» FABRIKAS STRĀDNIEKI!
+Uzstājieties pret šausmīgo izsūkšanu un Fromčenko varmācībām!
+Biedri! Beidzamo sviedru pilīti izspiež no mums mūsu uzņēmēji, lai pārvērstu to skanošos latos un pildītu ar tiem savas kabatas. Cik nav bijuši gadījumi, kad Fromčenko lielās peļņas labā mēs nespēkā un no lielā karstuma nomocīti, zem smagām nastām zaudējām samaņu. Un par visu to saņemam 50—90 rbļ. dienā bada dzīves vilkšanai. Pat tas rīkļrāvējam uzņēmējam liekas par daudz maksāts: par virsstundām tas nemaz nemaksā, strāpēs birst strādnieku sūri grūti pelnītie graši papildus uzņēmēju lielajās kabatās.
+Nelietis sumpurnis Fromčenko ar izsūkšanu vien neapmierinās, bet laiž darbā muti un rokas. Kā īsts dzimtkungs viņš izlamā mūs visneķītrākiem vārdiem, viss viens, kas viņam pagadās ceļā — vīrietis vai sieviete. Rokas tas ne vienu vien reizi ir jau palaidis. Atcerēsimies, ka neilgi atpakaļ Fromčenko vienai strādniecei, kura bija iedrošinājusies strādājot nosēsties ne tur tieši, kur viņš to bija nosēdinājis, gribēja izlauzt roku, kratot un raustot to tik stipri, ka bezmaz tā samaņu zaudēja. Atcerēsimies, kā pagājušo nedēļu Fromčenko vienu mūsu darba biedreni par to vien, ka tā 5 minūtes vēlāk ieradusies darbā, ar varu nosvieda no trepēm un atlaida.
+Biedri! Pietiek gļēvās noskatīšanās un klusēšanas. Mums jā-būt aktīviem. Mums jāapspriežas par uzņēmēju varmācīgo rīcību, jāaizstāv savi darba biedri (pat ar fizisku varu, ja tas vajadzīgs, — piekaujot jeb iebāžot maisā Fromčenko), jāpieprasa šausmīgi zemo algu paaugstināšana un darba apstākļu uzlabošana. Lai visu to izvestu, mums nepieciešami izbīdīt labākos,, aktīvākos biedrus (salasīties legālā jeb nelegālā sapulcē) fabriku komitejā, kas uzstātos ar prasībām, jāierakstās un jāņem aktīva dalība revolucionārā arodbiedrībā, izturētākiem, noteiktākiem, enerģiskākiem jāmeklē sakari ar Kompartiju — vienīgo strādniecības vadoni, jāsaistās ar pārējo strādniecību. Tikai pašu spēki un aktivitāte — vienīgā garantija, ka zem Kompartijas vadības, ar revolucionāro arodbiedrību palīdzību mēs caur fabriku komiteju spēsim vienprātīgi uzstāties un izcīnīt lielāku algu, labākus darba apstākļus, Fromčenko varmācību izbeigšanu.
+Lai dzīvo aktīva cīņa pret šausmīgo izsūkšanu un apspiešanu!
+Lai dzīvo Latvijas Komunistiskā partija — strādniecības vienīgais vadonis!
+
+Latvijas Kom. partijas Rīgas organizācijas pārtikas ražotāju frakcija

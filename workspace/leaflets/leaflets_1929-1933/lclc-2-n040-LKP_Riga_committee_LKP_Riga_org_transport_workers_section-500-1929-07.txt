@@ -1,0 +1,24 @@
+id: 40
+file_name: lclc-2-n040-LKP_Riga_committee_LKP_Riga_org_transport_workers_section-500-1929-07.txt
+title: LKP Rīgas komitejas un LKP Rīgas organizācijas transportstrādnieku sekcijas uzsaukums transportstrādniekiem atzīmēt Starptautisko pretkara dienu — 1. augustu ar protesta streiku pret karu
+author: LKP Rīgas komitejas un LKP Rīgas organizācijas transportstrādnieku sekcija
+date: 1929-07
+print_run: 500
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 79–80.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI TRANSPORTNIEKI!
+Vispasaules kapitālisti gatavojas uz jaunu strādnieku slaktiņu. Kara draudi pret SPRS paliek arvien skaidrāki, atklātāki. Pašreizējā Ķīnas buržujiskā valdība uz Anglijas imperiālisma pavēles ar visnekaunīgāku provokāciju grib ievilkt Padomju Savienību karā, lai kopējiem spēkiem mēģinātu noslīcināt asins-jūrā visas pasaules strādniecības avangardu — sociālistisko padomju tēviju. Reakcionārajai buržuāzijai izpalīdzīgie sociālfašisti ar Anglijas Makdonalda valdību priekšgalā būvē kara kuģus, rīko kaujas aeroplānu izmēģinājuma izstādes, izgudro visnāvīgākās gāzes, lai iznīcinātu katru dzīvu radību no zemes virsas, kas iedomātos pretoties viņu laupīšanas, strādnieku izsūkšanas politikai. Visu imperiālistisko valstu apspriedēm, konferencēm, banketiem un līgumiem ir viens mērķis — radīt un apvienot visu zemju strādnieku izsūcējus, liekēžus kopējā blokā pret arvien pieaugošo revolucionāro kustību. Nelīdz s.-d. strādniecības nodevības un muļķošanas politika. Revolucionārai strādniecībai ir skaidri viņu nolūki — apspiest un turēt paklausīgus vergu barus buržuju nepiepildāmai ekspluatēšanai. Nemiers un revolūcijas uzliesmojumi parādās visās zemēs. Francijā iesauktie rezervisti nepaklausa virsniekiem, dzied «Internacionāli». Berlīnē 1. Maijā strādnieki izgāja uz ielas, neskatoties uz s.-d. policijas priekšnieka aizliegumu un ložu krusu. Reakcija trako uz visas līnijas, notiek strādnieku aresti un preses nožņaugšana visās valstīs. Arī Anglijas rokaspuišu Latvijas reakcionārā fašistiskā valdība nepaliek pakaļ pārējo zemju kapitālistiem. Gatavojoties 1. augustam, mums jāprot dot pienācīga atbilde. Visi Latvijas strādnieki, bet it sevišķi pie transporta darbiem nodarbinātie, liksim sajust mūsu zemju buržuāzijai, ka bez mūsu gribas nestrādās neviens kuģīs, neviens vagons neripos pa dzelzceļiem, lai vestu kara materiālus mūsu brāļu — citu zemju strādnieku apslaktēšanai. No mums atkarājas rīkot vai nerīkot jaunu pasaules karu. Mēs uzliksim savu «veto», un visi imperiālistu un sociālfašistu līderu dibinātie bloki un līgumi sabruks kā kāršu būdiņas. Lai pierādītu savu spēku, reizē kā viens pārtrauksim 1. augustā ostā un visās noliktavās visus darbus vienas dienas streika izvešanai. Pie kādām biedrībām lai arī nepiederētu ostā, noliktavās un malkas plačos nodarbinātie strādnieki, šinī jautājumā mūsu intereses ir kopējas. Buržuāzijas uzņēmēji izsūc mūsu sviedrus, fiziskos un morāliskos spēkus; mēs neļausim tiem sevi apslaktēt viņu nepiepildāmās ieraušanas kāres apmierināšanai. 1. augustā visiem kuģiem jāstāv klusu. Visu zemju strādniecība 1. augustā demonstrēs savus spēkus.
+Lai dzīvo 1. augusta protesta streiks!
+Nost sociālimperiālistus, kas 1919. g. nodeva proletariātu un tagad aktīvi gatavo karu pret SPRS!
+Lai dzīvo strādnieku solidaritāte!
+Rokas nost no strādnieku sociālistiskās Padomju tēvijas!
+
+LKP Rīgas komiteja
+Rīgas org. transportnieku sekcija

@@ -1,0 +1,34 @@
+id: 37
+file_name: lclc-2-n037-LKP_Riga_committee_LKP_Riga_org_textile_workers_faction-200-1929-07.txt
+title: LKP Rīgas komitejas un LKP Rīgas organizācijas tekstilnieku frakcijas aicinājums «Zasulauka manufaktūras» strādniekiem un strādniecēm 1. augustā uzsākt streiku un iziet demonstrācijā pret gatavoto pretpadomju karu
+author: LKP Rīgas komiteja un LKP Rīgas organizācijas tekstilnieku frakcija
+date: 1929-07
+print_run: 200
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 73–75.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+«ZASULAUKA MANUFAKTŪRAS» STRĀDNIEKI UN STRĀDNIECES!
+Mūsu uzņēmēji neaprobežotā tieksmē pēc lielām peļņām un lepnas dzīves mūs šausmīgi izsūc un kropļo. Mūsu direktors un viņa dēli par mūsu sviedriem iegādājas lepnus personīgos limuzīnus, dzīvo greznos dzīvokļos, bet mūsu ikdienas algas (apmēram Ls 2,20) tikko pietiek bada dzīves vilkšanai. Stellu labotāju meistaru trūkuma un slikta materiāla dēļ arī šo bada algu neizpelnām, kad tiekam spiesti strādāt uz akorda. Mums skrīverītis liek turēt muti un draud ar atlaišanu, ja griežamies pie tā, lai atzīmē stundas par steļļu labošanas jeb materiālu trūkuma laiku. Lielās uzņēmēju peļņas kāres dēļ arī darba apstākļi ir neciešami. Telpas parasti drēgnas, logu sienās nav. Saulainās, karstās dienās saule caur stikla jumtu cepina galvu, gaiss karsts un piesmacis, jo trūkst ventilācijas. Atverot durvis ventilācijas nolūkos, caurvējš draud mūs, sasvīdušus un novājinātus, novest kapā. Mūsu dzīvību apdraud viena steļļu meistara rīcība, kas parasti ir piedzēries. Neciešams ir šis meistars, aizskardams mūs, strādnieces, vārdiem un rokām.
+Biedri! Nost pasivitāti un gļēvulību!
+Iestāsimies visi revolucionārā tekstilnieku arodbiedrībā! Enerģiskākie, izturīgākie, pašaizliedzīgākie — meklēsim ceļu uz vienīgo strādniecības cīnītāju - - Latvijas Kompartiju. Zem viņas vadības iziesim cīņā:
+par 8 stundu darba dienu un pāreju uz 7 stundu darba dienu, par cilvēcīgu algu,
+par ventilācijas ierīkošanu,
+par telpu uzlabošanu,
+PRET: pārmērīgu izsūkšanu, pret racionalizāciju šīs izsūkšanas nolūkos, pret neķītriem skrīverīšiem un meistariem.
+Biedri! Izsūkšana un apspiešana fabrikā turpinās arī ārpus tās. Mūs nospiež nodokļu un dzīves dārdzības nastas uzņēmēju fašistu un baronu landesvēristu valdības labā. Šī valdība aizliedz mūsu sapulces, izrīkojumus, grauj mūsu organizācijas, konfiscē laikrakstus un uzsaukumus, krata, arestē, spīdzina, mērdē badā mūsu labākos cīnītājus. Sociālfašisti ar «SSS» visā savā darbā aktīvi palīdz fašistiskai valdībai.
+To visu fašistiskā valdība izved, lai, novājinot strādniecību, vēl vairāk varētu to izsūkt un apspiest, varētu atdot baroniem atpakaļ zemi, iznīcinot slimokases, un, pats galvenais, netraucēti gatavot karu pret SPRS.
+Biedri! Visās kapitālistiskās valstīs, kā pirms 15 gadiem, drudžaini gatavo jaunu, daudz šausmīgāku un lielāku imperiālistisku slaktiņu. Viņas visas apvienojas, lai uzbruktu visas pasaules strādniecības tēvijai — SPRS un to iznīcinātu. Arī Latvija ir iesaistījusies imperiālistu ķēdē, kurā grib nožņaugt revolūcijas centru — SPRS. Priekš bruņošanās Latvijas valdība tērē lielas summas, izspiestas nodokļa un nodevu un izsūkšanas veidā no Latvijas darba tautas. Kara organizēšanas nolūkos pret SPRS angļu kreiseri viesojas Latvijas ūdeņos, uz Latviju brauca zviedru karalis, Latvija bloķējas kopā ar Poliju un citām SPRS robežvalstīm pret SPRS. Kara draudi pret SPRS ātri tuvojas. Vispasaules imperiālisti ar «sociālistisko» Makdonalda valdību priekšgalā, slēpdamies aiz Ķīnas valdības, tieši provocē SPRS uz karu.
+Biedri! 1. augustā iziesim visi streikā un protesta demonstrācijā! Rokas nost no SPRS!
+Pret imperiālistisku karu gatavosim pilsoņu karu!
+Nost ar kara gatavotājiem fašistiem un sociālfašistiem!
+Lai dzīvo Sociālistiskā Padomju Republiku Savienība! .
+Lai dzīvo Latvijas Komunistiskā partija!
+
+LKP Rīgas komiteja
+Rīgas organizācijas tekstilnieku frakcija

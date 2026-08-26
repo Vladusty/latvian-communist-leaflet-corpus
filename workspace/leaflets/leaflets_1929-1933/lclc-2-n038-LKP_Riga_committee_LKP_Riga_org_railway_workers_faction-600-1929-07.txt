@@ -1,0 +1,30 @@
+id: 38
+file_name: lclc-2-n038-LKP_Riga_committee_LKP_Riga_org_railway_workers_faction-600-1929-07.txt
+title: LKP Rīgas komitejas un LKP Rīgas organizācijas dzelzceļnieku frakcijas lapiņa ar aicinājumu dzelzceļniekiem LKP vadībā cīnīties par savām ekonomiskajām prasībām, pret karu
+author: LKP Rīgas komiteja un LKP Rīgas organizācijas dzelzceļnieku frakcija
+date: 1929-07
+print_run: 600
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 75–76.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI DZELZCEĻNIEKI!
+Valdošā, mantīgā šķira Latvijā arvien vairāk soli pa solim uzbrūk strādniecībai. Nepārtraukti aresti, negantas strādnieku piekaušanas politiskā slepenpolicijā un cietumos, bezprātīgie, daudzgadīgie cietumu sodi, ko piespriež strādniekiem buržuju tiesas — tas ir tas cels, pa kuru iet valdošā vara, lai padarītu strādniekus par paklausīgu vergu baru. Bet tas vēl par maz. Sācies nesaudzīgs uzbrukums ekonomiskajā frontē. Viņi grib mūs padarīt tik nabagus, tik noskrandušus un izsalkušus, ka lai mēs savā izsalkumā un gara tumsā meklētu izeju krogā, baznīcā un ticībā s.-d. līderiem, kuri par katru cenu grib strādniekiem iestāstītāka taisni «demokrātiskā» Latvija esot vislabākā forma, kā strādnieku cilvēkam iegūt labklājību. Un vārdi, šie skaistie kreisie vardi — ar tiem sociāldemokrāti neskopojas, tāpat kā melnais no kanceles ar dieva žēlastību .. . Fašistiem tādu vajag.
+Ilgi mēs prasījām paaugstināt mūsu bada algas. Sociāldemokrāts Zeibolts un Ko centās mūsu prasības novadīt pa diedelēšanas ceļu. Rezultātā fašistu valdība strādniekiem algas samazināja, direktoriem paaugstināja. Štatniekiem norāva 30 latus, dieniniekiem 60 latus un 13. mēnesi. Pašlaik ir uz dienas kārtības algu nosišana amatniekiem un akorda strādniekiem. Projektā ir zemāko kategoriju likvidācija. Bet dzīves dārdzība aug. Dzelzceļnieki top nemierīgi. No mutes mutē iet jautājiens: ko darīsim? Vai mēs to pielaidīsim? Bet ko dara s.-d. Zeibolts? Viņa uzdevums ir dzelzceļniekus nomierināt. Un viņš nebūtu uzcītīgs ķēdes suns pie buržuju durvīm, ja viņš to nedarītu. Tāpēc Zeibolts saka: «Priekš dieniniekiem mēs 13. mēnesi un 60 latus līdz rudenim varbūt izkaulēsim, amatniekiem tā nav nekāda algu nosišana, bet tikai regulēšana.» Par 13. mēnesi Zeibolts sava žurnāla 108. numurā uzvelk jautru ziņģi…
+Bet neaizraujieties par daudz, lielā liekēžu banda, no resnvēdera buržuja sākot līdz resnvēderainam s.-d. līderim! Ilgi jūs strādniekus nekrāpsiet! Latvijas strādnieku aktivitāte aug un aug, un top spēcīgāka ar katru dienu Latvijas Komunistiskā partija! Spēcīgāka top, neskatoties uz jūsu zobu griešanu, arī pirmā strādnieku valsts — Sociālistisko Padomju Republiku Savienība!
+Un, ja jūs ar mūsu sviedriem un mums norautām algām pērciet bruņu kuģus un lielgabalus, celiet kara rampas un pieskaņojiet dzelzceļu kara vajadzībām, ja jūs triniet ieročus Anglijas, Francijas un Polijas uzdevumā pret strādnieku valsti SPRS, — tad ziniet: tai dienā, kad jūs pacelsiet ieročus karam — neviens ešelons, neviena mašīna, neviens ritenis neripos uz fronti! Latvijas Kompartijas vadībā darba tauta griezīs ieročus pret jums, kuri grib mūs pataisīt par lielgabalu gaļu. Mums kara nevajag!
+Dzelzceļnieki! Meklējiet saites ar savu cīņas organizāciju — Latvijas Komunistisko partiju! Mums jārada stiprs reāls spēks pret buržuju un s.-d. bandu. Šo spēku nesalauzīs ne aresti, ne cietumi, ne daudzie katorgas gadi. Šis spēks pāraugs jūsu pipkas un cietumus, un tad sitīs atmaksas stunda. Biedri, esiet gatavi cīņai, kad jūs uz to aicinās Kompartija!
+Prasām paaugstināt mūsu darba algas par 15 %! Nost buržuju un viņu palīgu s.-d. varu!
+Karš karam!
+Lai dzīvo 1. augusts — starptautiskā pretkara diena!
+Brīvu apvienību ar Sociālistisko Padomju Republiku Savienību!
+Lai dzīvo Latvijas Komunistiskā partija!
+Lai dzīvo Padomju Latvija!
+
+LKP Rīgas komiteja
+Rīgas organizācijas dzelzceļnieku frakcija

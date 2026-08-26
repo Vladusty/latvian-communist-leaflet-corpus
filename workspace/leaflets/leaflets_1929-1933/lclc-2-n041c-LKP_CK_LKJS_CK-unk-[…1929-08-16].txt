@@ -1,0 +1,28 @@
+id: 41c
+file_name: lclc-2-n041c-LKP_CK_LKJS_CK-unk-[…1929-08-16].txt
+title: LKP CK un LKJS CK uzsaukums strādniekiem, kareivjiem un jaunatnei ar brīdinājumu par fašistiskā apvērsuma briesmām un aicinājumu sakļauties vienotā pretfašisma cīņas frontē
+author: LKP CK un LKJS CK
+date: […1929-08-16]
+print_run: unk
+typography_name: unk
+production_method: unk
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 80–81.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+STRĀDNIEKI, KAREIVJI, DARBA JAUNATNE!
+Zem masu kustības spiediena grīļojas Celmiņa valdība. Landesvēra un baronu aizstāvji sarausuši uz savu galvu visas Latvijas darba tautas naidu! Fašisms gatavo atklātu varmācību pret jums, strādnieki, karavīri, darba jaunatne! Aizsargi pārpludina pilsētas 1. augustā, bruņota policija spieda strādniekus strādāt. Tagad fašisti izved armijas reorganizāciju un sagrābj to savās rokās. Ar armijas sagrābšanu fašisti gūs izejas punktu bruņotas diktatūras ievešanai. No jauna nostājas bruņota apvērsuma tieši draudi.
+Biedri! Stājieties ceļā fašismam, atsitiet šo uzbrukumu! Neļaujiet bez cīņas fašismam iet uz diktatūru! Fašisma uzbrukums ir jāatsit. Tas ir pirmais uzdevums.
+Fašisti gatavo tuvākās dienās slimokasu reorganizāciju, t. i., patstāvības atņemšanu tām. Biedri! Dodiet tam satricinošu pretsitienu!
+16. augustā sanāks saeima. Izvediet sapulces, protesta mītiņus, fabriku demonstrācijas un streikus un kopā ar strādnieku-zemnieku frakciju atsitiet fašisma uzbrukumus slimokasēm, fašisma iespiešanos armijā. Visur apspriediet un lemiet par cīņu pret fašisma apvērsumu, kurš sekos, ja cīņā šis uzbrukums netiks atsists, jeb kurš var nākt jau šinī cīņas posmā. Pret fašisma apvērsumu lemiet, uzstājieties ar ģenerālstreiku!
+Nepaļaujieties uz demcentru, sociāldemokrātiem. Valsts prezidents ir gļēvulis un fašistu kalps, viņš aizsedz fašisma iespiešanos armijā. Demcentrs un bļodnieki bija tie, kas iecēla fašistus valdībā. Viņi tagad turpina to pašu fašisma sulaiņu lomu. Sociāldemokrāti ir fašistu tiešs ierocis un sevišķi fašisma uzbrukuma brīdī. Taisni tagad viņi slēdz Rīgas «Atvaļināto karavīru [biedrības]» nodaļu, uzliek uzpurni strādnieku kustībai un atbrīvo fašismam ceļu. Saraujiet uzpurni! Atbrīvojiet revolucionārās rokas no valgiem. Jūs tikai paši varat sevi aizstāvēt! Katra fabrika jāpārvērš par pretfašisma bastionu! Tikai jūs, pašu fabriku un ostu strādnieku, kareivju, atvaļināto karavīru un jaunatnes kopējā armija, vadīta no savām vēlētām cīņas komitejām, var atsist fašisma uzbrukumu un vest turpmāko cīņu ar to.
+Nost ar fašismu! Nost ar baronu kalpiem — slimokasu grāvējiem, apvērsuma gatavotājiem!
+Strādnieki, kareivji! Uz satricinošu pretspara cīņu! Uz sapulcēm, mītiņiem! Lemiet par uzstāšanos 16. augustā! Rakstiet, ka uz slimokasu atņemšanu un apvērsumu jūs atbildēsiet ar ģenerālstreiku!
+Nost ar gļēvulīgo prezidentu!
+Nost ar fašisma tiešiem kalpiem un ceļa sagatavotājiem — demcentru, bļodniekiem un sociāldemokrātiem! Visi zem revolucionārās strādnieku vienotās frontes, zem LKP karoga, zem strādnieku-zemnieku valdības lozunga!
+
+LKP Centrālā Komiteja
+LKJS Centrālā Komiteja

@@ -1,0 +1,38 @@
+id: 39
+file_name: lclc-2-n039-LKP_Riga_committee_LKP_Riga_org_construction_workers_faction-150-1929-07.txt
+title: LKP Rīgas komitejas un LKP Rīgas organizācijas būvstrādnieku frakcijas uzsaukums būvstrādniekiem atzīmēt Starptautisko pretkara dienu — 1. augustu ar streiku
+author: LKP Rīgas komitejas un LKP Rīgas organizācijas būvstrādnieku frakcija
+date: 1929-07
+print_run: 150
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 77–78.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI BŪVSTRĀDNIEKI!
+Mūsu dzīves apstākļi neciešami un arvien pasliktinās. Mēs gan ceļam buržuāzijai un pārējiem mantīgiem jaunus, greznus dzīvokļus, bet pašiem mums jāsmok saspiestās, piekvēpušās būdās. Darba sanitārie apstākļi tādi, ka jau pirmajos gados dabonam slimības. Uzņēmēji neievēro sociālos likumus. Darba algas zemas. Lauvas tiesa no tām aiziet valstij par labu nodokļiem un augsto muitu veidā. Ja mēs organizējamies un izejam cīņā par mūsu stāvokļa uzlabošanu, valsts vara slēdz mūsu organizācijas, noliedz sapulces un izrīkojumus, konfiscē mūsu avīzi un uzsaukumus, krata, arestē, spīdzina, met mūs cietumos. Cietumos arvien biežāk sarīko sodu ekspedīcijas pret mūsu labākiem cīnītājiem, mērdē tos badā. Visa buržuāzija ir jau vienojusies par slimokasu sagraušanu. Fašistiskā valdība draud 81. panta kārtībā atņemt slimokasēm patstāvību un valsts un uzņēmēju iemaksas. Fašistiski baroniskā valdība izsniedz landesvēristiem pabalstus pieminekļa celšanai. Viņa liek šķēršļus tautas nobalsošanas izvešanai pret landesvēristiem. Viņa grib atdot baroniem landesvēristiem zemi atpakaļ. Lai visu to varētu labāki, netraucēti izvest, fašistiskā buržuāzija un baronu valdība pastiprina teroru pret strādniecību.
+Terors pret strādniecību buržuāzijai ir vajadzīgs ari, lai pastiprinātu vēl vairāk mūsu izsūkšanu un dzītu mūs karā kā mēmus lopiņus.
+Biedri būvstrādnieki! 15 gadus atpakaļ Eiropas lielvalstu buržuāzija iesāka šausmīgo darba tautas slepkavošanu — imperiālistisko karu. 10 miljonu kritušo, apmēram 30 milj. sakropļoto, darba tautas nabadzība, — lūk, bagātnieku peļņas nolūkos izvesta pasaules slaktiņa rezultāti. Vēl nav sadzijušas šajā karā sistas brūces, vēl miljoniem invalīdu un strādnieku ved bada dzīvi, bet pasaules imperiālisti gatavo jaunu, desmitkārt šaušalīgāku karu. Lielā daļa no darba tautas izspiestiem dažādiem nodokļiem un nodevām tiek izlietoti priekš bruņošanās, jūras un gaisa flotēm, nāves gāzēm utt.
+Gan buržuāziskās valstis plēšas dēļ tirgiem savā starpā, tomēr viņas visas ir apvienojušās, lai vispirmā kārtā iznīcinātu savu nāvīgāko ienaidnieku — SPRS — proletāriskās revolūcijas centru.
+Ari Latvija kopā ar pārējām SPRS robežvalstīm ir pārdevusi Latvijas darba tautu imperiālistiskām lielvalstīm par lielgabala gaļu karā pret visas pasaules darba tautas tēviju — SPRS. Arī viņas valdība tērē no darba tautas izspiestos līdzekļus priekš bruņošanās karam pret SPRS.
+Gan II Internacionāles s.-d., kas 1914. g. nodeva proletariātu, pūš mums miglu acīs, teikdami, ka s.-d. valdības Vācijā un Anglijā ir miera garantija. Šie meli sašķīst pret bruņu kuģu celšanām, militārisma veicināšanu, revolucionāro strādnieku apspiešanu, SPRS rīdīšanas praksi, kas taisni s.-d. valdības laikā pieņem Vācijā šausmīgus apmērus. Tieši pēc Makdonalda valdības nodibināšanās Ķīnas valdība tika virzīta kara provocēšanā pret SPRS. It visās zemēs s.-d. partijas pārvēršas par sociālfašistiskām partijām, nostājas kontrrevolūcijas pusē pret revolucionāro strādniecību un SPRS un aktīvi piedalās imperiālistiskā kara plāna izstrādāšanā un izvešanā.
+Biedri! Kara draudi ar Ķīnas uzbrukumu SPRS top asi draudoši. Vienīgais spēks cīņai pret imperiālistisko karu un mūsu strādnieciskās tēvijas — SPRS aizsargāšanu ir visas pasaules strādniecība ar Kompartiju priekšgalā.
+Biedri būvstrādnieki! 1. augustā kopā ar visas pasaules proletariātu visi iziesim streikā un protesta demonstrācijā!
+Pret šausmīgo izsūkšanu!
+Pret fašistiskās valdības teroru, mūsu organizāciju graušanu, arestiem, spīdzināšanām, slodzīšanu cietumos!
+Pret slimokasu graušanu!
+Pret baroniem — landesvēristiem!
+Pret imperiālistiskā kara gatavotājiem!
+Pret fašistiski baronisko valdību!
+Pret uzbrukumiem SPRS!
+Par imperiālistiskā kara pārvēršanu revolūcijā!
+Par SPRS — mūsu tēvijas aizsargāšanu!
+Lai dzīvo LKP un Padomju Latvija!
+Lai dzīvo vispasaules proletāriskā revolūcija!
+
+LKP Rīgas komiteja
+Rīgas org. būvstrādnieku frakcija

@@ -1,0 +1,27 @@
+id: 49
+file_name: lclc-2-n049-LKP_Rezekne_city_committee-unk-[…1929-09-05].txt
+title: LKP Rēzeknes pilsētas komitejas uzsaukums kareivjiem cīnīties pret buržuāzijas gatavoto fašistisko apvērsumu un kara draudiem
+author: LKP Rīgas komiteja un LKJS Rīgas komiteja
+date: […1929-09-05]
+print_run: unk
+typography_name: unk
+production_method: shapirograph
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 96–97.
+
+text:
+Visu zemju proletārieši, savienojieties!
+BIEDRI KAREIVJI, STRĀDNIEKU UN ZEMNIEKU DĒLI!
+Visu imperiālistisko lielvalstu buržuāzija pastiprināti gatavojas karam pret PSRS. Šai nolūkā imperiālistiskās lielvalstis ir spraudušas sev par mērķi izveidot ap PSRS fašistisko valstu aplenkumu. Kā imperiālistisko lielvalstu akls ierocis Baltijas valstis dibina fašistisko diktatūru, lai sekmīgāk pakļautu un apspiestu darbaļaudis.
+Biedri kareivji! Jūs paši redzat, kā ar fašisma pastiprināšanos pasliktinās jūsu stāvoklis. Jūsu ģimenes nīkuļo, bet pēc jūsu aiziešanas armijā jūsu ģimeņu stāvoklis vēl vairāk pasliktinās. Tai laikā, kad jūs armijā māca aizstāvēt buržuāziju, šī pati buržuāzija atņem jūsu vecākiem zemi, jūsu māsas un brāļus izmet no fabrikām uz ielas, pakļaujot bada nāvei. Tai laikā, kad simtus miljonus tautas līdzekļu iztērē militāriem mērķiem, jūs baro ar sapuvušu gaļu un jēlu maizi. Un, lai gan pārtika ir pasliktinājusies. jums ir jāstrādā vairāk kā jebkad, jūs modina pulksten 4 rītā, jūs izmanto pat jums atvēlētajā brīvajā laikā. Pašnāvību skaits armijā pavairojies. Leitnanti un virsnieki neskopojas ar labiem vārdiem tikai tai brīdī, kad jūs tiem esat vajadzīgi, bet pēc tam atkal turpina ekspluatēt un apspiest.
+Biedri, nevar taču ilgāk ciest! Jums jāprasa, lai jums dotu labu barību un lai ar jums apietos cilvēcīgi.
+Biedri! Pašlaik fašisms gatavojas bruņotam apvērsumam. Buržuāzija gribēs jūs izmantot savās interesēs. Neļaujieties, lai ģenerāļi un virsnieki jūs krāptu! Stājieties darbaļaužu rindās savu interešu aizstāvēšanai!
+Pret demokrātijās grāvējiem!
+Nost karu!
+Nost fašismu!
+Nost fašisma palīgus — sociāldemokrātus!
+Par strādnieku-zemnieku varu!
+
+Latvijas Komunistiskās partijas Rēzeknes pilsētas komiteja

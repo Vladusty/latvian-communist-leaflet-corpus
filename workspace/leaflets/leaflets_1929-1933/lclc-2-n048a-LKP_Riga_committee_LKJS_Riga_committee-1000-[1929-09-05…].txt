@@ -1,0 +1,31 @@
+id: 48a
+file_name: lclc-2-n048a-LKP_Riga_committee_LKJS_Riga_committee-1000-[1929-09-05…].txt
+title: LKP un LKJS Rīgas komiteju lapiņa sakarā ar transportstrādnieku arodbiedrības slēgšanu
+author: LKP Rīgas komiteja un LKJS Rīgas komiteja
+date: [1929-09-05…]
+print_run: 1000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 95–96.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKI, KAREIVJI, DARBA JAUNATNE!
+Fašistiskā buržuāzija, apvienojusies ar vācu baronību, aktīvi atbalstīta no socfašistiem, ar valsts varu grib ievest atklātu fašistu diktatūru, lai netraucēti izsūktu un apspiestu strādniecību un sekmīgāki gatavotu karu pret proletariāta tēviju — SPRS. Lai nodibinātu fašistisko diktatūru, tiek izvesta armijas reorganizācija — sagrābšana fašistu rokās.
+Ceļā fašistu diktatūrai stāv strādniecība, apvienota revolucionārās arodbiedrībās, un Kompartija — viņas vadone. Lai pārvarētu šo šķērsli, fašistu valdība nepārtraukti ir vērsusi represijas pret Kompartijas biedriem un visiem aktīvākiem, revolucionārākiem strādniekiem. Beidzot naktī uz 5. septembri ir slēgta stiprākā — transportstrādnieku arodbiedrība ar nodaļām.
+Biedri strādnieki! Darba jaunatne! Mēs nedrīkstam pieļaut mūsu stiprākās organizācijas likvidēšanu. Mums jāstājas fašistiem ceļā. Mums visiem visās fabrikās, zavodos, darbnīcās jāapspriežas, jālemj, ir jāiet proteststreikā un demonstrācijā. Mums jāapzinas, ka transportstrādnieku organizācijas liktenis draud pārējām revolucionārām strādnieku organizācijām, ja nedosim aktīvu pretsparu fašismam.
+Neviens strādnieks, viss viens, vai tas sastāv revolucionārās jeb s.-d. arodbiedrībās jeb nemaz nesastāv viņās, nedrīkst palikt skatītaja lomā. Fašisti ar tādu pasivitāti tiks iedrošināti un ķersies pie neredzētas izsūkšanas un apspiešanas.
+Biedri kareivji! Fašisti sagrābj armiju savās rokās, lai jūs sūtītu šaut uz jūsu brāļiem un māsām, tēviem un mātēm, par to, ka tie cīnās par savu organizāciju pastāvēšanu, lai jūs sūtītu šaut uz jūsu brāļiem SPRS strādniekiem un zemniekiem. Apspriedieties, organizējieties, lemiet neuzstāties pret saviem brāļiem, māsām, pret jūsu brāļiem — SPRS strādniekiem. Vērsiet ieročus pret tiem, kuri jūs sūta slepkavot jūsu tuviniekus.
+Rokas nost no transportstrādnieku arodbiedrības!
+Nost fašistus, strādnieku organizāciju grāvējus!
+Nost sociālfašistus!
+Pret fašistu apvērsumu un diktatūras ievešanu — gatavojieties uz ģenerālstreiku!
+Lai dzīvo transportstrādnieku arodbiedrība! Lai dzīvo pretspara cīņa strādnieku organizāciju grāvējiem!
+Lai dzīvo vienas dienas proteststreiks un demonstrācija!
+Apvienojieties visi zem Latvijas Komunistiskās partijas karoga cīņā par strādnieku-zemnieku valdību!
+
+LKP Rīgas komiteja
+LKJS Rīgas komiteja

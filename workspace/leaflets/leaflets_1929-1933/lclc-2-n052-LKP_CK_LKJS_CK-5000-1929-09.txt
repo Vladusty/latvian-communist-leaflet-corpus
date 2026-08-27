@@ -1,0 +1,27 @@
+id: 52
+file_name: lclc-2-n052-LKP_CK_LKJS_CK-5000-1929-09.txt
+title: LKP CK un LKJS CK lapiņa ar aicinājumu kareivjiem protestēt pret virsnieku patvaļu un LKP vadībā cīnīties kopā ar revolucionāro strādniecību
+author: LKP CK un LKJS CK
+date: 1929-09
+print_run: 5000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 101–102.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+KAREIVJI! PAPLAŠINĀTA IR SPIEGOŠANA, PASLIKTINĀTA IR PĀRTIKA!
+Biedri! Armijas štābā ir III nodaļa, kura vada kareivju izspiegošanu un kurai ir speciāls špionu tīkls pulkos, rotās, komandas utt. Šai nodaļai fašisti tagad ir palielinājuši štatus (darbinieku skaitu), un tam pat laika izdota pavēle, pēc kuras «atļauts» kareivjus barot ar sliktāku gaļu.
+Ģenerāļi Radziņš, Aire u. c. tiek izbīdīti priekšgalā, un kareivju izspiegošana tiek paplašināta tāpēc, ka gatavo klaju fašistu diktatūru un karu pret Padomju Krieviju. Fašisti rēķina, ka būšot jāuzstāda uz Anglijas un Polijas pavēli 200—300 tūkstošus liela armija. Tātad armijā tiks sadzīti visi strādnieki, darba zemnieki, latgalieši ar visiem kreisiem, revolucionāriem, komunistiem un komjauniešiem.
+Tā kā fašisti zin, ka Kompartija organizē armijā savas šūniņas, lai armija kopā ar darba tautu izdevīgā brīdī gāztu fašistus, padzītu šos poļu un angļu imperiālistu aģentus un atsvabinātu darbaļaudis no nodokļiem, apgādātu ar zemi un dotu pilnīgas brīvības, tad fašisti ar paplašinātas špionāžas palīdzību cer iznīcināt revolūciju. Tāpat viņi grib izost, kurš kareivis nav mierā ar slikto pārtiku, rupjo dīdīšanu.
+Tagad fašisti ar špionāžas palīdzību grib atklāt tos, kuri grib stāties ceļā viņu diktatūrai un saistīt kareivjus ar strādniecību vienotā pretfašisma frontē!
+Kareivji! Formās tērptie, bruņotie strādnieki, zemnieki un apspiestie latgalieši! Jūs neesat tikai kaušanai dresējami lopi, sliktas gaļas ēdāji un pātaru skaitītāji, kurus komandē nacionālais huligāns Radziņš vai zaķapastala Baško, kurš jau aizraidījis uz viņpasauli desmitiem lidotājus, jeb citi visi purnu dauzītāji un buržujiskās virsniecības bars.
+Prasiet pārtikas uzlabošanu un labu gaļu. Atmaskojiet tos virsnieķeļus un skrīverīšus, kuri špionē, un ziņojiet par tiem partijai un jaunatnei. Nekāda špionāža jūs lai neatbaida no saistīšanās ar partiju un komjaunatni!
+Jūsu pirmais uzdevums ir organizēties, saistīties ciešāk ar masām ārpus kazarmas un izveidot strādnieku-zemnieku, Latgales un kareivju vienotu fronti pret fašistu uzbrukumiem.
+Ejiet kopā ar revolucionāro strādniecību zem Kompartijas cīņas karoga!
+
+Latvijas Komunistiskās partijas Centrālā Komiteja
+Latvijas Komunistiskās jaunatnes savienības Centrālā Komiteja

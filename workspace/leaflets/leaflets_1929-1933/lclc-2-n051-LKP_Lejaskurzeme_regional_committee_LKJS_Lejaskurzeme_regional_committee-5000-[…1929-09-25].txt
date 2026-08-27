@@ -1,0 +1,25 @@
+id: 51
+file_name: lclc-2-n051-LKP_Lejaskurzeme_regional_committee_LKJS_Lejaskurzeme_regional_committee-5000-[…1929-09-25].txt
+title: LKP un LKJS Lejaskurzemes apgabala komiteju lapiņa ar aicinājumu sniegt palīdzību buržuāziskās Latvijas cietumos ieslodzītajiem revolucionāriem
+author: LKP Rīgas komiteja un LKJS Rīgas komiteja
+date: […1929-09-25]
+print_run: 5000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 100–101.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKI UN DARBA ZEMNIEKI!
+Cīnīties par savas šķiras atsvabināšanu no kapitālisma jūga, cīnīties par savu lielo mērķi — sociālismu nozīmē arī atcerēt un visādi atbalstīt tos mūsu biedrus, kurus fašistiskā vara izrāvusi no mūsu vidus, ieslodzījusi cietumos nomiršanai tur lēnajā nāvē.
+Sabiedrībai maz kas ir zināms par ieslodzītiem moku kambaros. Sākot ar fašistu bendēm un beidzot ar tiem izpalīdzīgajiem sociāldemokrātiem, visi slēpj, kas notiek viņos, kas varētu iededzināt dusmas pret kapitālisma kalpiem. Ja visiem atmiņā no 1905. g. notikumiem stāv slepkava Greguss, cik tūkstoši šādu gregusu šo baltu dienu neklejo apkārt pa pilsētu ielām, kuru rokas ne mazāk asinīm aptraipītas. Mums, kreisās strādniecības cīnītājiem, bieži vien nāksies sastapties ar šiem kungiem vaigu vaigā. Nav tādu ielas stūru Rīgā, Liepājā un citās Latvijas pilsētās, kur nebūtu stāvējis politiskās apsardzes aģents. Bieži vien šiem suņiem caur nosekošanu vai provokāciju izdevies izraut ne tik vienu otru biedri no mūsu rindām, bet pat sagraut dažas mūsu organizācijas. Sevišķi stipri savu postīšanas darbu fašistiskā reakcija attīstījusi Lejaskurzemē. Desmitiem biedru ir bijuši spiesti atstāt šo apgabalu, desmitiem ieslodzīti cietumos. Tamdēļ LKP Lejaskurzemes organizācija no š. g. 15. līdz 25. septembrim izsludina Sarkanās Palīdzības nedēļu. Līdz š. g. 25. septembrim, kad faktiski būs jau rudens sācies, visi Lejaskurzemes politieslodzītie apgādājami ar siltām gultas segām un veļu. Biedri, neļausim nomirt savējiem biedriem lēnajā nāvē. Neļausim saslimt tiem ar reimatismu un diloni. Gādāsim arī par to labāku pārtiku, dibinot jaunas Sarkanās Palīdzības šūniņas, — tādas, kas strādās, kad mēs smaksim. Mūsu ceļš ir tāls un grūts. Revolūcija nav vienas dienas darbs. Bet piemērs mums ir priekš acīm, tas —-SPRS. No sava Sarkanā Oktobra neizbēgs neviena no kapitālistiskajām valstīm. Agri vai vēlu sabruks tirānijas važas. Agri vai vēlu dzīvos Sarkanā, Padomju Latvija.
+Tamdēļ pie darba! Apģērbu, siltu veļu, grāmatas, pārtiku politieslodzītiem!
+Ziedojiet visi, cik to jums līdzekļi atļauj. Tam salam un badam, tai nomiršanai lēnajā nāvē, ar ko slaveni Latvijas cietumi, nekad nekas nebūs par daudz saziedots.
+Lai dzīvo Sarkanās Palīdzības kolektīvais darbs!
+Lai dzīvo sociālisms!
+
+LKP Lejaskurzemes apgabala komiteja
+LKJS Lejaskurzemes apgabala komiteja

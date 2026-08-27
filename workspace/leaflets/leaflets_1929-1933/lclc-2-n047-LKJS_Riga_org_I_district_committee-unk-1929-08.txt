@@ -1,0 +1,25 @@
+id: 47
+file_name: lclc-2-n047-LKJS_Riga_org_I_district_committee-unk-1929-08.txt
+title: LKJS Rīgas organizācijas I rajona komitejas lapiņa ar aicinājumu ķīmiskajā rūpniecībā nodarbinātajiem jauniešiem Komunistiskās partijas un komjaunatnes vadībā cīnīties par savām ekonomiskajām un politiskajām prasībām
+author: LKJS Rīgas organizācijas I rajona komiteja
+date: 1929-08
+print_run: unk
+typography_name: unk
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 93–95.
+
+text:
+Mēs strādājam 10—12 un 16 stundas ilgi, par bada algu, sliktos apstākļos. Pa caurajiem fabrikas logiem gaudo vējš. Sakarsušiem pie krāsnīm mums jāstāv caurvējā. Tā tas ir it visās Latvijas stiklu fabrikās. Likums aizliedz nodarbināt jaunatni veselībai kaitīgos darbos. Vai tā tas ir? Ķīmiskajā rūpniecībā lielāko tiesu strādā jaunieši un bojā veselību, ieelpojot nāvīgos tvaikus, kas ceļas no ķīmiskajām vielām. Mums pienākas par mūsu darbu kārtīga alga. Ja mēs strādājam, mēs gribam būt arī paēduši, bet mums ir jādzīvo pusbadā. Uzņēmējs mums izmaksā nabaga grašus, lai pats varētu dzīvot pārpilnībā. Ar to vēl nepietiek, mēs strādājam, bet algu mēs nedabūjam, un ja to prasām, tad tiekam atlaisti. Visās stiklu fabrikās gandrīz vai ik mēnesi strādniekiem jāstreiko, lai dabūtu savu algu. Uzņēmējs ietur algu ne nedēļām, bet mēnešiem ilgi. Strādādami smagos, veselībai kaitīgos apstākļos, mēs tomēr nedabūjam atvaļinājumu. Par to mums arī nesamaksā. Ja atvaļinājumu prasām, kungs mūs atlaiž, lai pēc pāris dienām pieņemtu jaunus. Tā tas bija nupat stikla fabrikā «Vitria». Biedri jaunieši, mums pienākas 4—6 stundu darba diena. Mēs prasām, lai tā mums tiktu dota. Mēs prasām virsstundu noliegšanu. Jau tā mēs strādājam 10 un 12 stundas, un mums par virsstundām nemaksā. Mēs noteikti prasām virsstundu un nakts darbu noliegšanu jaunatnei. Aizliegt jaunatni nodarbināt veselībai kaitīgos darbos. Biedri, savas prasības aizstāvēt mēs varēsim, ja būsim cieši organizēti ap strādnieku jaunatnes aktīvo cīņas pulku — Komunistisko jaunatnes savienību.
+Biedri jaunieši! 1. septembrī ir tā diena, kad vispasaules strādnieku jaunatne sniedzas rokās par starptautisko strādnieku solidaritāti.
+Šogad Starptautiskajā jaunatnes dienā mums vairāk kā jebkad jāapliecina šī solidaritāte. Pašlaik atkal asi mums priekšā nostājas imperiālistiskā kara spoks. Mēs, strādnieku jaunatne, būsim tā, kuru pirmo dzīs uz slaktiņu. Mēs 1. septembrī, kopā ar LKJS, zem viņas vadības, demonstrēsim pret karu, par mieru. Mēs karam negatavosim pulveri un nāvīgas gāzes. Mēs esam pret karu. Imperiālistu plānus uzbrukumam SPRS mēs satrieksim tikai kopā ar visu darba jaunatni zem LKJS un LKP vadības. Dibināsim darba vietās pretkara un fabrikas komitejas. 1. septembrī iesim kopā ar LKJS.
+Mūsu prasības ir: 4 un 6 stundu darba dienu, virsstundu noliegšanu!
+Par vienādu darbu vienādu algu! Aizliegt jaunatni nodarbināt veselībai kaitīgos darbos!
+Higiēnisko apstākļu uzlabošanu ķīmiskās fabrikās!
+Nost kara gatavošanu!
+Vēlēšanu tiesības jaunatnei no 18 g.! Mēs aizstāvēsim SPRS — strādniecības tēviju!
+Mūsu prasības aizstāv LKJS — vienīgā strādnieku cīņas organizācija! Iesim kopā ar to par visas organizētās strādniecības prasībām!
+
+Latvijas Komunistiskās jaunatnes savienības Rīgas org. I rajona komiteja

@@ -1,0 +1,33 @@
+id: 53
+file_name: lclc-2-n053-LKP_LKJS-unk-1929-10-15.txt
+title: LKP un LKJS aicinājums darbaļaudīm pārtraukt darbu un sākt ģenerālstreiku pret valdības uzbrukumu strādnieku slimokasēm
+author: LKP un LKJS
+date: 1929-10-15
+print_run: unk
+typography_name: unk
+production_method: shapirograph
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 103.
+
+text:
+Cīņā līdz uzvarai! Visu zemju proletārieši, savienojieties!
+DARBAĻAUDIS!
+Cīņas stunda ir situsi! Reakcionārā melnā valdība trako! Fašistiskais ģenerāluzbrukums sācies!
+Mūsu atbildei jābūt —
+Pārtraukt darbu, apturēt mašīnas!
+Ģenerālstreiks!
+Neļaujiet sevi apmānīt ar sociālfašistiem, kas grib jūs atturēt no cīņas!
+Atstājiet fabrikas un darbnīcas — ģenerālstreiks!
+Nost fašismu un sociālfašismu!
+Pret slimokasu graušanu!
+Pret armijas fašistisko reorganizāciju!
+Pret jaunām muitām un nodokļiem!
+Par strādnieku-zemnieku valdību!
+Lai dzīvo streika komitejas!
+Lai dzīvo ģenerālstreiks līdz uzvarai!
+Lai dzīvo vienotā proletāriskā cīņas fronte zem Komunistiskās partijas un LKJS vadības!
+
+Latvijas Komunistiskā partija
+Latvijas Komunistiskā jaunatnes savienība

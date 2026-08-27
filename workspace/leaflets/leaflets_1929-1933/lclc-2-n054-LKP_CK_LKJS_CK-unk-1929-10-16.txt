@@ -1,0 +1,27 @@
+id: 54
+file_name: lclc-2-n054-LKP_CK_LKJS_CK-unk-1929-10-16.txt
+title: LKP CK un LKJS CK aicinājums strādniekiem uz reakcijas uzbrukumu slimokasēm atbildēt ar ģenerālstreiku
+author: LKP CK un LKJS CK
+date: 1929-10-16
+print_run: unk
+typography_name: unk
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 104.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKI!
+Fašistiskā koalīcija, neskatoties ne uz ko, nolēmusi sagraut svarīgāko revolucionāro proletariāta cietoksni — strādnieku slimokases.
+Pēc arodbiedrību sagraušanas, nesaudzīgā terora pret revolucionāro strādniecību, pēc armijas fašizēšanas tas ir nākošais solis fašistu gājienā uz revolucionārā proletariāta sakaušanu un varas sagrābšanu fašistu rokās.
+Revolucionāram proletariātam ar aktīvu cīņu jānostājas ceļā fašistu gājienam!
+Jāiziet uz ģenerālstreiku!
+Organizēsim vienotu Vislatvijas proletariāta pretsitienu fašismam!
+Nost fašistus un sociālfašistus!
+Lai dzīvo streika komitejas!
+Lai dzīvo LKP un LKJS!
+
+Latv. Kom. part. Centrālā Komiteja
+LKJS Centrālā Komiteja

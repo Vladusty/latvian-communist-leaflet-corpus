@@ -1,0 +1,39 @@
+id: 55
+file_name: lclc-2-n055-LKP_CK_LKJS_CK-unk-1929-10-16.txt
+title: LKP CK un LKJS CK uzsaukums strādniekiem, strādniecēm un darba jaunatnei uzsākt Vislatvijas politisko ģenerālstreiku Latvijas Komunistiskās partijas vadībā
+author: LKP CK un LKJS CK
+date: 1929-10-16
+print_run: unk
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 104–105.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+PRET FAŠISTU UZBRUKUMU — UZ ĢENERĀLSTREIKU!
+Biedri strādnieki, strādnieces un darba jaunatne!
+Fašistiskā koalīcija, neskatoties ne uz ko, nolēmusi sagraut svarīgo revolucionārā proletariāta cietoksni — strādnieku slimokases.
+Pēc arodbiedrību sagraušanas, nesaudzīga terora pret revolucionāro strādniecību, pēc armijas fašizēšanas tas ir nākošais solis fašistu gājienā uz revolucionārā proletariāta sakaušanu un varas sagrābšanu fašistu rokās!
+Revolucionāram proletariātam ar aktīvu cīņu jānostājas ceļā fašistu gājienam.
+Jāiziet uz ģenerālstreiku!
+Ejot uz sapulcēm, skrejošiem mītiņiem, masovkām, lemiet par nekavējošu iziešanu ģenerālstreikā!
+Vēlējiet streiku un cīņu komitejas!
+Saistieties fabrika ar fabriku, darbnīca ar darbnīcu.
+Aģitējiet par vienotu proletariāta uzstāšanos.
+Daugavpils apavu rūpniecības strādnieki jau trešo nedēļu aktīvi un revolucionāri turpina streiku. Lai dzīvo Daugavpils proletariāts! Organizēsim vienotu Vislatvijas proletariāta pretsitienu fašismam!
+Augošais masu nemiers piespiedis sociālfašistus liekulīgi maldināt strādniecību, aicinot uz pretfašisma cīņu. Viņi negrib vest šo cīņu un nodos masu revolucionāro aktivitāti tā, kā nodeva 22. augustu un 20. janvāri.
+Vienīgais proletariāta vadonis cīņā pret fašismu ir Latvijas Komunistiskā partija, LKJ Savienība.
+Ciešās proletariāta kaujas rindās zem LKP un LKJS vadības uz ģenerālstreiku.
+Lai dzīvo ģenerālstreiks!
+Lai dzīvo streika komiteja!
+Nost fašistus un sociālfašistus, slimokasu grāvējus!
+Lai. dzīvo strādnieku slimokases!
+Lai dzīvo vienota revolucionāra proletariāta cīņas fronte!
+Lai dzīvo LKP un LKJS!
+Lai dzīvo strādnieku-zemnieku valdība!
+
+Latv. Kom. part. Centrālā Komiteja
+Latv. KJS Centrālā Komiteja

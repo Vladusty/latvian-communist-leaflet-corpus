@@ -1,0 +1,27 @@
+id: 46
+file_name: lclc-2-n046-LKJS_Latgale_regional_committee_LKJS_Daugavpils_city_committee-unk-1929-08.txt
+title: LKJS Latgales apgabala komitejas un Daugavpils pilsētas komitejas lapiņa sakarā ar 15. Starptautisko jaunatnes dienu, ar aicinājumu jaunatnei stāties komjaunatnē
+author: LKJS Latgales apgabala komiteja un LKJS Daugavpils pilsētas komiteja
+date: 1929-08
+print_run: unk
+typography_name: unk
+production_method: shapirograph
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 92–93.
+
+text:
+LATVIJAS KOMUNISTISKA JAUNATNES SAVIENĪBA (KOMUNISTISKAS JAUNATNES INTERNACIONĀLES SEKCIJA)
+Visu zemju proletārieši, savienojieties!
+BIEDRI KAREIVJI, DAUGAVPILS STRĀDĀJOŠĀ JAUNATNE UN JAUNIEŠI BEZDARBNIEKI!
+1. septembrī visās kapitālistiskās pasaules valstīs darba jaunatne svin Starptautisko jaunatnes dienu — cīņas dienu pret kapitālistisko verdzību un politisko beztiesību.
+Tikai Padomju Krievijā brīvā strādnieku-zemnieku jaunatne svinēs Starptautisko jaunatnes dienu kā strādnieku šķiras uzvaras dienu pār buržuāziju, kā uzvarām vainagotu sociālisma uzbrukuma dienu pret kapitālismu. Šai dienā PSRS proletariāts demonstrē savu spēku un varenību, savu gatavību ar ieročiem rokās aizstāvēt Oktobra iekarojumus, gatavību dot imperiālistiem, Ķīnas militāristiem un baltgvardiem prettriecienu, ja notiks militārs uzbrukums starptautiskā proletariāta tēvzemei — PSRS.
+Darba jaunatne, visi par PSRS aizsardzību!
+Latgales — Daugavpils strādājošā jaunatne pakļauta visnesaudzīgākai ekspluatācijai. Fašisti un sociālfašisti atņēmuši strādniekiem visas iespējas legāli cīnīties par savām ekonomiskajām un politiskajām tiesībām. Fašistiskā reakcija aizliegusi visas kreiso strādnieku legālās organizācijas. Pat kreiso strādnieku uzvara slimokasu pilnvaroto vēlēšanās pārbiedēja sociālfašistus un fabrikantus, kuri panāca vēlēšanu atcelšanu. Taču nekādas nedz sociālfašistu, nedz fašistu represijas neiebiedēs revolucionāros strādniekus!
+Reakcija atņem kreisajiem strādniekiem legālās organizācijas — strādnieki jo ciešāk sakļaujas ap Kompartiju un komjaunatni! Reakcija slēdz arodbiedrības — strādnieki organizējas nelegāli un ar vēl lielāku neatlaidību turpina ekonomisko cīņu.
+Biedri strādājošie jaunieši! Gatavojieties 1. septembrim! Rīkojiet sapulces un mītiņus! Apspriediet savas nepieciešamās vajadzības, uzstādiet savas prasības: par strādājošās jaunatnes darba aizsardzību, 4—6 stundu darba dienu, darba algas paaugstināšanu, fabriku-rūpnīcu skolu ierīkošanu un audzēkņiem — trūcīgo bērniem uzturu no valsts līdzekļiem, brīvu peļņā braukšanu uz PSRS, Latgalei pašnoteikšanās tiesības. Iestājieties komjaunatnē, apvienojieties zem komjaunatnes — vienīgā darba jaunatnes vadoņa — kaujinieciskiem, sarkaniem karogiem! Sakļaujieties tēraudciešās rindās! Gatavojieties ģenerālstreikam un izšķirošai cīņai pret uzbrūkošo fašismu, par strādnieku-zemnieku valdību!
+Nost apbruņošanos, aizsargus, policiju un politpārvaldi! Pārvērtīsim imperiālistisko karu par pilsoņu karu! Lai dzīvo Starptautiskā jaunatnes diena! Lai dzīvo Komunistiskā Jaunatnes Internacionāle! Lai dzīvo LKP un LKJS!
+
+Latvijas Komunistiskās jaunatnes savienības Latgales apgabala komiteja
+Latvijas Komunistiskās jaunatnes savienības Daugavpils pilsētas komiteja

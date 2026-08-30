@@ -1,7 +1,7 @@
 id: 14
 file_name: lclc_ex-n014x-SP_Latgale_regional_committee-unk-1934-04.txt
 title: Visiem Latgales strādniekiem un darbaļaudīm!
-author: Latvijas Sarkanās palīdzības Latgales apgabala komiteja
+author: Latvijas Sarkanās Palīdzības Latgales apgabala komiteja
 date: 1934-04
 print_run: unk
 typography_name: unk

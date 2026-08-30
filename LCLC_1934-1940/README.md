@@ -119,7 +119,7 @@ Metadata fields appear at the beginning of the file, and the leaflet text begins
 
 The LCLC does not provide diplomatic transcriptions of the original leaflets. The transcriptions are based on the Soviet published edition, whose editors had already normalized aspects of the spelling of the original documents. Consequently, the textual layer reflects the editorially normalized form presented in the source edition rather than the exact orthography of the surviving original leaflets. 
 
-The LCLC generally preserves the spelling found in the published edition. Only limited additional normalization has been introduced by the corpus compiler. In particular, the forms *tipografija*, *sociāldemokrats*, *telegrafs*, *demokratija* and *krize* have been consistently rendered according to modern Latvian orthography as *tipogrāfija*, *sociāldemokrāts*, *telegrāfs*, *demokrātija* and *krīze* respectively.
+The LCLC generally preserves the spelling found in the published edition. Only limited additional normalization has been introduced by the corpus compiler. In particular, the forms *tipografija*, *sociāldemokrats*, *telegrafs*, *demokratija*, *krize*, *birokratisms* and *simpatijas* have been consistently rendered according to modern Latvian orthography as *tipogrāfija*, *sociāldemokrāts*, *telegrāfs*, *demokrātija*, *krīze*, *birokrātisms* and *simpātijas* respectively.
 
 This limited normalization reflects the analytical purpose of the corpus. Orthographic variation is not treated as an object of analysis, and unnecessary spelling variation can cause the same lexeme to be represented as separate features in computational text analysis. 
 

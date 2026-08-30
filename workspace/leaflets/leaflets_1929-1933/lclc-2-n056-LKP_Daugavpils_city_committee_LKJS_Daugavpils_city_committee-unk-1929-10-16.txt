@@ -1,0 +1,27 @@
+id: 56
+file_name: lclc-2-n056-LKP_Daugavpils_city_committee_LKJS_Daugavpils_city_committee-unk-1929-10-16.txt
+title: LKP un LKJS Daugavpils komiteju aicinājums Daugavpils strādniekiem pārtraukt darbu un piedalīties Vislatvijas politiskajā streikā
+author: LKP Daugavpils pilsētas komiteja un LKJS Daugavpils pilsētas komiteja
+date: 1929-10-16
+print_run: unk
+typography_name: unk
+production_method: shapirograph
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 105–106.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA (KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Visu zemju proletārieši, savienojieties!
+Visiem Daugavpils strādniekiem un darba jauniešiem! Sāciet ģenerālstreiku!
+Sociāldemokrātu aizsegā fašisti jau sen sagrāvuši slimokases, Tagad grib uzlikt muitas uz ievedamo labību, nodokļus uz darba pagarināt darba dienu, strādniekiem gatavo «vilka pases». Tīkai ģenerālstreiks salauzīs fašisma spēkus.
+Pametiet darbu! Nekavējoties apturiet visas, fabrikas, rūpnīcas — visu kustību!
+Rīgā ģenerālstreiks jau sācies. Pēc Kompartijas aicinājuma tūkstošiem strādnieku jau pārtraukuši darbu. Streiks vēršas plašumā!
+Nodevēji sociāldemokrāti, redzot, ka ģenerālstreiks jau sācies, pēc norunas ar fašistiem izsludināja vienas dienas protesta streiku, lai izbeigtu ģenerālstreiku un pārtrauktu cīņu.
+Nost streiklaužus — sociālfašistus!
+Lai dzīvo ģenerālstreiks līdz uzvarai! Drošāk uz cīņu! No vārdiem — pie darbiem! Mēs nekļūsim fašistu vergi! No fabrikas uz fabriku izvērsiet streiku — līdz galam, līdz pilnīgai uzvarai!
+Nost fašistisko varu! Lai dzīvo strādnieku un zemnieku vara! Lai dzīvo Kompartija — proletariāta revolucionārais vadonis! Lai dzīvo vispārējais ģenerālstreiks!
+
+Latvijas Komunistiskās partijas Daugavpils komiteja
+Latvijas Komunistiskās jaunatnes savienības Daugavpils komiteja

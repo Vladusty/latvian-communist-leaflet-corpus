@@ -1,0 +1,38 @@
+id: 64
+file_name: lclc-2-n064-LKP_Riga_committee_LKJS_Riga_committee-10000-[…1929-11-07].txt
+title: LKP un LKJS Rīgas komiteju uzsaukums, kas veltīts Lielās Oktobra sociālistiskās revolūcijas 12. gadadienai
+author: LKP Rīgas komiteja un LKJS Rīgas komiteja
+date: […1929-11-07]
+print_run: 10000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 116–117.
+
+text:
+Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKI! KAREIVJI! DARBA JAUNATNE!
+Tuvojas Oktobra revolūcijas svētki — 7. novembris. Diena, kad 12 gadus atpakaļ varonīgais Krievijas proletariāts kopā ar plašām darbaļaužu masām lielinieku partijas vadībā revolūcijas ceļā gāza kapitālistiskās izsūkšanas un apspiešanas varu. Pašos pamatos sadragāja un iznīcināja carisma un muižniecības paliekas. Izdalīja zemi zemniekiem. Lika drošus pamatus pirmai proletariāta diktatūras valstij.
+Imperiālistiskā kara noplicināts, trūkumā, badā un asiņainās pilsoņu kara kaujās proletariāts ļeņinistiskās Kompartijas vadībā uzvarēja visus revolūcijas ienaidniekus.
+Vēl ar šauteni vienā rokā strādnieks un darba zemnieks plecu pie pleca stājās pie beņķa un arkla, lai ar tādu pat sparu un neatlaidību atjaunotu izpostīto saimniecību, sociālistiski to pārveidotu.
+Nelīdz vairs visas pasaules fašistu un sociālfašistu kraukļu baru ķērkšana par SPRS saimniecisko sabrukumu un badu. Šodien SPRS sociālistiskās celtniecības lielos panākumus tie noslēpt vairs nespēj. Ar apbrīnojamu aktivitāti un entuziasmu izvedamā SPRS darbaļaužu masu sociālistiskā sacensība sniedz vispasaules proletariātam Oktobra revolūcijas 12. gadasvētkos jaunu uzvaru: sociālistiskās celtniecības piecgadīgais plāns tiek saīsināts uz četrgadīgu.
+Sociālistiskās celtniecības sasniegumu rezultātā SPRS proletariāts beidz pāriet uz 7 stundu darba dienu, pāriet no 7 uz 5 dienu darba nedēļu, paceļ savu materiāli kulturēlo līmeni. Samazinās bezdarbs, darba zemniecība pāriet uz sociālistiskām kolektīvās saimniecības formām, aug un paplašinās proletāriskā demokrātija, tiek uzvarēts birokrātisms — vecās iekārtas palieka.
+Trīc un dreb buržuāzija un sociāldemokrātija šo proletāriskās valsts sasniegumu priekšā. Viņi jūt un redz, kā šie sasniegumi vairo vispasaules proletariāta, darbaļaužu un apspiesto tautu masu simpātijas pret SPRS proletariātu, izsauc aktivitāti un cīņas spāru, pārliecina viņas, ka vienīgā izeja no posta, izsūkšanas un apspiestības ir — proletāriskā revolūcija.
+Tamdēļ tik neatlaidīgi tiek gatavots karš pret SPRS. Tamdēļ sociālimperiālisti no II Internacionāles zem fašisma plīvura būvē kara kuģus. Vācija un Anglija sūta kreiserus palīgā Ķīnas čankai-šekiem karam pret SPRS. Tamdēļ pretpadomju bloka radīšanas un izveidošanas nolūkos Baltijas valstiņu diplomāti un štābu virsnieki «apciemo» savstarpēji šo valstiņu galvaspilsētas, garnizonus, kara ostas. Tamdēļ fašistiskām un socfašistiskām metodēm tiek apspiesta strādnieku kustība, revolucionārās strādniecības pretošanās spējas.
+Biedri strādnieki! Kareivji! Darba jaunatne! 7. novembrī atbildiet buržuāzijai un sociālfašistiem!
+Rokas nost no SPRS — mūsu tēvijas. Pret imperiālistu un sociālimperiālistu uzbrukumiem mēs visi kā viens atbildēsim ar SPRS aizstāvēšanu.
+Nost bloku organizētājus pret SPRS — proletāriskās diktatūras valsti!
+Pret fašisma un sociālfašisma vienoto fronti — iziesim vienotā strādniecības frontē kopā ar pārējiem darbaļaudīm!
+Prasām 7 stundu darba dienu, tāpat kā SPRS!
+Prasām piecdienu darba nedēļu, tāpat kā SPRS!
+Prasām sociālo apdrošināšanu, tāpat kā SPRS!
+Prasām paaugstināt algas, tāpat kā SPRS!
+Lai dzīvo SPRS!
+Lai dzīvo strādnieku-zemnieku valdība Latvijā!
+Lai dzīvo Latvijas Komunistiskā partija!
+Lai dzīvo proletāriskā revolūcija visā pasaulē!
+
+Latvijas Kompartijas Rīgas komiteja
+Komjaunatnes savienības Rīgas komiteja

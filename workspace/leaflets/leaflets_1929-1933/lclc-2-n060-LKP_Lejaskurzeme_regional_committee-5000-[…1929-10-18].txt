@@ -1,0 +1,22 @@
+id: 60
+file_name: lclc-2-n060-LKP_Lejaskurzeme_regional_committee-5000-[…1929-10-18].txt
+title: LKP Lejaskurzemes apgabala komitejas uzsaukums strādniekiem uzsākt ģenerālstreiku un turpināt to līdz galīgai uzvarai
+author: LKP Lejaskurzemes apgabala komiteja
+date: […1929-10-18]
+print_run: 5000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 111–112.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+CĪŅU LĪDZ GALAM — LĪDZ UZVARAI!
+Biedri strādnieki!
+Mēs stāvam par cīņu līdz galam, līdz uzvarai. Šinī sevišķi svarīgā šķiru cīņas momentā kapitulēt buržuāzijas priekšā, kā to ir nodomājuši darīt sociāldemokrāti, izsludinot tikai vienas dienas streiku, — nozīmē ļaut tai cilpai, ko fašisti uzmetuši uz strādnieku kakla, sažņaugties arvien ciešāk. S.-d. nolūks ir tikai piespiest valdību uz izlīgšanu — andeli. Biedri strādnieki, neļaujiet s.-d. oportūnistiem pārdot savu brīvību. Neatļaujiet sapulcēs slepkavot revolucionārās strādniecības pārstāvjus! Ziniet, ka sociāldemokrāti ir uz vienu roku ar politiskās pārvaldes aģentiem, jo vienas dienas protesta streiks tiek rīkots priekš tam, lai cīņu pārnestu uz sarunām ar s.-d. un padarītu to nekaitīgu reakcijai. Biedri! Latvijas Komunistiskā partija arvien ir cīnījusies par strādniecības interesēm visās frontēs un arī slimokasēs, tādēļ arī piedzīvojusi represijas, arestus un ieslodzīšanu cietumos. Sociāldemokrāti turpretim ieguvuši muižu centrus, lauku mājas, ieņēmuši siltas vietas valsts un pašvaldības iestādēs. Tamdēļ nebrīnīsimies, ka viņi nodeva strādnieku intereses 22. augustā, 20. janvārī un nodod arī tagad 18. oktobrī. Laiks pienācis, strādnieki, saskatīt savus patiesos vadoņus, kurus sit un vajā, bet kuri tomēr iet uz cīņu līdz galīgai uzvarai, pilnīgai melnās reakcijas sakaušanai. Rīgas, Ventspils un Daugavpils revolucionārā strādniecība jau trešo dienu streiko. Streiks kļūst arvien nopietnāks un izturētāks. Biedri, pierādīsim, ka arī mēs neesam «spīdošie prauli». Nekavējoši visi kā viens streikā! Visi kā viens uz mītiņiem un demonstrācijām. S.-d., ja grib, var palikt mājās. S.-d. līderiem nekas nedraud. Mums turpretim top pagarināts darba laiks, sadārdzināta maize, īres maksa, medikamenti un ārstēšana tikpat kā atņemti. Vēl vairāk, līdz ar to mums nolaupītas pēdējās brīvības atliekas, mūs sāk turēt par dzenamiem lopiem! Tas vairs tā nedrīkst turpināties! Tamdēļ visi uz cīņu līdz uzvarai! Ģenerālstreikā iziet nekavējoši! To turpiniet tikmēr, kamēr reakcijas pretestība būs salauzta!
+Lai dzīvo strādnieku uzvara!
+Lai dzivo Latvijas Komunistiskā partija!
+
+LKP Lejaskurzemes apgabala komiteja

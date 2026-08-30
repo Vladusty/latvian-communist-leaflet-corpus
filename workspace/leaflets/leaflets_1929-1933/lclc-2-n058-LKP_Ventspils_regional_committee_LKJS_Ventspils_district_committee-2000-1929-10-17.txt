@@ -1,0 +1,29 @@
+id: 58
+file_name: lclc-2-n058-LKP_Ventspils_regional_committee_LKJS_Ventspils_district_committee-2000-1929-10-17.txt
+title: LKP Ventspils apgabala komitejas un LKJS Ventspils rajona komitejas uzsaukums Ventspils strādniekiem 18. oktobri uzsākt ģenerālstreiku LKP vadībā
+author: LKP Ventspils apgabala komiteja un LKJS Ventspils rajona komiteja
+date: 1929-10-17
+print_run: 2000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 108–109.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+UZ CĪŅU! UZ ĢENERĀLSTREIKU PRET SLIMOKASU NOŽŅAUGŠANU!
+Ventspils strādnieki!
+Latvijas fašisms spēris jaunu, noteiktu soli uz asiņainas diktatūras pusi.
+Slimokasu reorganizācija ir labi pārdomāts buržuāzijas uzbrukums strādniecībai. Uz priekšu mūs ārstēs ar fašisma drapēm un s.-d. ievestiem karātavu likumiem.
+Plēsīs nodevas no strādnieka bada algas. Sadārdzinās masu patēriņa produktus.
+Strādnieki! Neklausiet s.-d. protesta bļaušanai, nodevīgai aicināšanai uz «ģenerālstreiku»! S.-d. protestē ar fašistu atļauju. Viņi nodos streiku fašistu pipkām kā vienmēr.
+Darbaļaudis! Vienīgi Komunistiskā partija ir jūsu vadonis ģenerālstreika cīņā!
+Kompartijas vadītu streiku sociālnelieši nespēs nodot!
+Lai rītu, 18. oktobrī, apstājas darbi visā pilsētā: ostā, zāģētavās, uz dzelzceļiem un visur citur.
+Ģenerālstreiks — mūsu vienīgais cīņas līdzeklis.
+Pret fašistisko apvērsumu.
+
+Latvijas Komunistiskās partijas Ventspils apgabala komiteja
+Latvijas Komunistiskās jaunatnes savienības [Ventspils] rajona komiteja

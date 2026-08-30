@@ -1,0 +1,37 @@
+id: 69
+file_name: lclc-2-n069-LKP_Latgale_regional_committee_LDJS_Latgale_regional_committee-9000-1929-11-07.txt
+title: LKP un LKJS Latgales apgabala komiteju uzsaukums Latgales darbaļaudīm sakarā ar Lielās Oktobra sociālistiskās revolūcijas 12. gadadienu
+author: Latvijas Sarkanās Palīdzības CK
+date: 1929-11-07
+print_run: 9000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 123–124.
+
+text:
+LATVIJAS KOMUNISTISKA PARTIJA (KOMUNISTISKAS INTERNACIONĀLES SEKCIJA)
+Visu zemju proletārieši, savienojieties!
+LATVIJAS STRĀDNIEKI, ZEMNIEKI UN DARBA JAUNATNE!
+Pirms 12 gadiem Padomju Krievijas strādnieki un zemnieki Komunistiskās partijas vadībā izdarīja Lielo Oktobra revolūciju. Viņi padzina kapitālistus un muižniekus un nodibināja padomju varu, strādnieku un zemnieku varu.
+Kopš tā laika PSRS darbaļaudis, atbrīvojušies no kapitālistiskas ekspluatācijas jūga, ar uzvarām iet sociālistiskās celtniecības un savas darba cilvēku dzīves uzlabošanas ceļu.
+PSR Savienībā tiek ieviesta 7 stundu darba diena, jaunieši strādā 6 un 4 stundas. Darba alga ir daudz augstāka nekā pirms kara, strādnieki ne kapeiku nemaksā slimokasēs, visu dod valsts: ārstēšanos, sanatorijas, kūrortus un atpūtas namus. Strādnieku dzīve uzlabojas ar katru gadu.
+Pie mums 8 stundu darba dienas vietā tiek ieviesta 12 stundu darba diena. Fašistiskā valdība sagrāvusi strādnieku slimokases. Darba alga ir zemāka nekā pirms kara, un tā ik gadus arvien pazeminās. Arodbiedrības tiek slēgtas. Plosās šausmīgs terors. Kļūst dārgākas pirmās nepieciešamības preces. Uzliek arvien jaunas un jaunas nodevas un nodokļus. Kareivji un policija apspiež streikus.
+PSR Savienībā visi trūcīgie zemnieki atbrīvoti no nodokļiem, vidējie zemnieki maksā saviem spēkiem piemērotus nodokļus. Zemniekiem piešķir bezprocentu kredītus un bezmaksas sēklu. Izīrē lauksaimniecības mašīnas. Strādnieku un zemnieku vara visiem līdzekļiem uzlabo zemniecības dzīvi.
+Toties Latgales zemniecība tiek izpostīta. Jāmaksā lieli nodokļi. Tiek izpārdots zemnieku īpašums. Ņem augstus procentus. Piegādā nederīgas un dārgas sēklas. Kulaki nekaunīgi ekspluatē trūcīgos zemniekus un kalpus. Muižu centri palikuši bijušo muižnieku un fašistu ielikteņu rokās. Poļu muižniekiem atmaksā par atņemto zemi. Zemi piešķir darbaļaužu ienaidniekiem — landesvēristiem, kad tai paša laika Latgales zemniecība cieš no zemes trūkuma un ir spiesta strādāt par velti pie latviešu kulakiem — «pelēkajiem baroniem». Citas peļņas nav, uz Padomju Krieviju nelaiž.
+Visas kapitālistiskās valstis dziļā naidā gatavo karu pret PSRS. Amerikāņu imperiālisti jau uzkūdījuši pret Padomju zemi ķīniešu baltgvardu ģenerāļus. Padomju Krievijas darbaļaudis nelokāmi sarga savas tiesības un panākumus. Ķīniešu baltgvard: saņēma pienācīgu pretsparu.
+Latvijas fašistiskā valdība, iztapdama poļu un angļu imperiālistiem, pēc viņu pieprasījuma un kopā ar tiem gatavo uzbrukumu strādnieku un zemnieku valstij. Latvija pastiprināti gatavojas karam. Visa buržuāziski politiskā prese kopā ar sociāldemokrātiem izplata nekaunīgus melus par Padomju Krieviju, tādējādi sagatavodama sabiedrisko domu, ka nepieciešams militārs uzbrukums Padomju Krievijai.
+Nost karu! Nost kara gatavotājus — fašistus un sociālfašistus!
+Lielās Oktobra revolūcijas 12. gadadienā, Latgales strādnieki un zemnieki, apvienojieties, lai Komunistiskās partijas vadībā atsistu fašisma uzbrukumu, lai savā cīņā ietu pa Padomju Savienības strādnieku un zemnieku ceļu.
+Sarīkojiet šai dienā mītiņus un demonstrācijas, masu sapulces un sanāksmes, demonstrējiet savu varenību un solidaritāti ar Padomju Savienības darbaļaudīm!
+Iestājieties Komunistiskajā partijā un komjaunatnē!
+Lai dzīvo Oktobra revolūcija!
+Lai dzīvo Padomju Latvija!
+Lai dzīvo strādnieku un zemnieku valdība!
+Nost nodevējus sociālfašistus! Nost nodokļus!
+Nost zemniecības apspiedējus!
+
+Latvijas Komunistiskas partijas Latgales apgabala komiteja
+Latvijas Komunistiskās jaunatnes savienības Latgales apgabala komiteja

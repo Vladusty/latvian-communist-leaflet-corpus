@@ -1,0 +1,31 @@
+id: 65
+file_name: lclc-2-n065-LKP_Riga_committee_LKJS_Riga_committee-unk-[…1929-11-07].txt
+title: LKP un LKJS Rīgas komiteju uzsaukums kareivjiem, kurš veltīts Lielās Oktobra sociālistiskās revolūcijas 12. gadadienai
+author: LKP Rīgas komiteja un LKJS Rīgas komiteja
+date: […1929-11-07]
+print_run: unk
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 117–119.
+
+text:
+Visu zemju proletārieši, savienojieties!
+BIEDRI KAREIVJI!
+7. novembrī SPRS un visas pasaules darbaļaudis svinēs proletariāta diktatūras 12. gadasvētkus. Šogad Oktobra revolūcijas svētki tiek atzīmēti ar sekmīgu SPRS sociālistisko celtniecību. SPRS sociālistiskās celtniecības panākumi apdraud kapitālistisko valstu buržujus un «sociālistus», iedrošina kapitālistisko valstu darbaļaudis uz izšķirošu cīņu par buržuju, izsūkšanas un apspiestības jūga novelšanu.
+Lai izjauktu sociālisma celšanu SPRS, imperiālistisko lielvalstu buržuji kopā ar «sociālistiem» gatavo karu pret SPRS. Kara gatavošanā tiek ievilktas arī mazās valstiņas, sevišķi Latvija. Latvijas buržuji arī izpilda imperiālistu nodomus, jo viņi ir nopirkti no kapitālistiskām lielvalstīm un arī apdraudēti no revolucionizējošiem sociālistiskās celtniecības panākumiem. Viņi gatavo jūs, biedri kareivji, par lielgabalgaļu karā pret jūsu brāļiem, SPRS darbaļaudīm.
+Lai sekmīgāki varētu sagatavot uzbrukumu SPRS, buržuji apspiež jūsu brāļus un māsas, tēvus un mātes: krata un arestē, met cietumos, aizliedz viņiem sapulcēties, apspriesties, streikot. Viņi konfiscē, nepieļauj strādnieku laikrakstus, iznīcina strādnieku organizācijas, ieved fašistu diktatūru. Ar armijas reorganizāciju fašisti sagrābj armijas vadību savās rokās, ieved jūsu pastiprinātu izspiegošanu, izmantos jūs priekš strādnieku kustības apspiešanas.
+Biedri kareivji!
+SPRS sociālistiskās celtniecības darbs ir ne tikai SPRS darbaļaužu, bet arī jūsu un visas Latvijas darba tautas uzdevums. Sociālistiskā celtniecība tikai tad būs patiesi nodrošināta, ja tiks gāzta kapitālistiskās izsūkšanas un apspiestības iekārta visā pasaulē, arī Latvijā. Par to cīnās strādniecība un zem Kompartijas vadības ved aiz sevis pārējos darbaļaudis.
+Gatavojoties uz Oktobra revolūcijas 12. gadasvētkiem, jums jāapsola, ka jūs neļausiet sevi izmantot revolucionārās strādnieku kustības apspiešanai, bet izvedīsiet brāļošanos ar strādniecību. Jums jāapspriežas, jāorganizējas un jāapsolās neļaut sevi izmantot karā pret SPRS. Jūsu pienākums pārvērst karu pret SPRS karā pret izsūcēju un apspiedēju iekārtu — proletāriskā revolūcijā. Uz to gatavoties un to izpildīt aicina Latvijas Komunistiskā partija un Latvijas Komunistiskā jaunatnes savienība. Latvijas Kompartija un Komjaunatnes savienība aicina jūs 12. Oktobra revolūcijas dienā iestāties Kompartijas un Komjaunatnes savienības rindās.
+Nost imperiālistu un sociālimperiālistu rokas no SPRS!
+Lai dzīvo SPRS — vispasaules proletariāta tēvija!
+Karu pret SPRS pārvērtīsim karā pret buržuāziju — revolūcijā!
+Neviens durklis, neviena šautene lai nepaceļas pret strādnieku revolucionāro kustību!
+Lai dzīvo strādnieku-zemnieku valdība Latvijā!
+Lai dzīvo Latvijas Kompartija un Latvijas Komjaunatnes savienība!
+
+Latvijas Komunistiskās partijas Rīgas komiteja
+Komunistiskās jaunatnes savienības Rīgas komiteja

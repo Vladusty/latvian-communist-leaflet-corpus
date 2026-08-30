@@ -1,0 +1,28 @@
+id: 68
+file_name: lclc-2-n068-SP_CK-unk-[…1929-11-07].txt
+title: Sarkanās Palīdzības CK lapiņa, kas veltīta Lielās Oktobra sociālistiskās revolūcijas 12. gadadienai, ar aicinājumu cīnīties par politieslodzīto amnestiju
+author: Latvijas Sarkanās Palīdzības CK
+date: […1929-11-07]
+print_run: unk
+typography_name: unk
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 121–122.
+
+text:
+Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKI UN DARBA ZEMNIECĪBA!
+7. novembris ir viena no ievērojamākām dienām darbaļaužu šķiru cīņas vēsturē. 7. novembrī paiet 12 gadi kā varonīgā Krievijas darba tauta satrieca buržuāzijas varu un ņēma savās rokās kā politisko, tā saimniecisko varu.
+7. novembris Padomju Krievijas un visas pasaules darbaļaudīm ir svētku diena un ne tikai svētku, bet atskats uz veikto darbu un spēku mobilizēšanas diena turpmākam sociālistiskās celtniecības darbam. Un, paskatoties uz padarīto, jāsaka, ■— sasniegumi lieli — SPRS darbaļaužu stāvoklis ar katru gadu uzlabojas. darba alga paaugstinās, darba laiks saīsinās, nabadzīgās zemniecības slāņi samazinās, turpretim kapitālistiskās valstīs darba laiks tiek pagarināts, darba algas pazeminātas, nabadzīgās zemniecības slāņi pavairojas — zemnieku saimniecības tiek izūtrupētas.
+Biedri! Mēs šo dienu nevaram atzīmēt tikai kā atceres un svētku dienu vien, bet līdz ar to šai dienai ir jābūt cīņas un spēku mobilizācijas dienai. 7. novembris ir diena, kad katram darba rūķim jāpadomā, ko arī viņš var darīt darba tautas atsvabināšanas labā no kapitāla jūga.
+Biedri! Darba tauta satrieks un uzvarēs savus apspiedējus tikai tad, kad būs stipras priekšējo cīnītāju rindas, kad būs organizēta un stipra revolucionārās frontes aizmugure. Tamdēļ šai dienā skan sauciens katrā pilsētā — un visnomaļākā pagastā — visi darba rūķi, stājieties Sarkanās Palīdzības organizācijas rindās!
+Visur lai dzirdams sauciens — palīdzēsim tiem, kas cīnās un cīnījušies revolucionāro cīņu pirmajās rindās, — stiprināsim revolucionāro aizmuguri!
+Šai dienā lai visur skan sauciens — palīdzēsim politieslodzītiem revolucionāriem un viņu bezizejas stāvoklī atstātiem ģimenes locekļiem!
+Šai vēsturiskā dienā lai visur skan sauciens — amnestiju politapcietinātiem darbaļaudīm! Legalizēt Sarkanās Palīdzības organizāciju! Cīņā pret fašismu!
+Nost ar imperiālistiskiem kariem! Rokas nost no Padomju Republiku Savienības!
+Lai dzīvo SPRS!
+Lai dzīvo Sarkanās Palīdzības organizācija!
+
+Latvijas Sarkanās Palīdzības Centrālā Komiteja

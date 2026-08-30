@@ -1,0 +1,29 @@
+id: 67
+file_name: lclc-2-n067-LKP_Vidiena_regional_I_district_committee_LKJS_Vidiena_regional_I_district_committee-unk-[…1929-11-07].txt
+title: LKP un LKJS Vidienas apgabala 1. rajona komitejas lapiņa, kas veltīta Lielās Oktobra sociālistiskās revolūcijas 12. gadadienai
+author: LKP Vidienas apgabala I rajona komiteja un LKJS Vidienas apgabala I rajona komiteja
+date: […1929-11-07]
+print_run: unk
+typography_name: unk
+production_method: shapirograph
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 120–121.
+
+text:
+Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKI, DARBA ZEMNIEKI UN DARBA JAUNIEŠI!!!
+7. novembrī Padomju Krievijas darbaļaudis svinēs savu uzvaras dienu, atskatīsies uz saviem milzu sociālisma celtniecības panākumiem, demonstrēs savus spēkus par spīti visiem, kas jau 12 gadus cenšas graut šo vienīgo strādnieku un darba zemnieku valsti.
+Arī Latvijā svinēs 11 uzvaras gadus. Radziņš, Ķīselis, Līgats un tamlīdzīgi fašisti un sociālfašisti rautos ar vīnu pilnām glāzēm rokās atzīmēs savus 11 gadu panākumus.
+Šie nebūs strādnieku un darba zemnieku svētki. 11 gadus strādnieki un darba zemnieki smok zem lielo nodokļu nastām, klīst bez darba un maizes. Tūkstošiem labāko strādnieku, darba zemnieku un darba jauniešu cīnītāju smok cietumos.
+Nost ar cietumiem un viņu atbalstītājiem — radziņiem, ķīseļiem!
+Nost ar nodokļiem darba zemniecībai!
+Zemi tiem, kas viņu apstrādā!
+Atmaskosim radziņus, līgatus — fašisma kalpus!
+Neaizmirsīsim, ka tikai ar strādnieku un zemnieku valdības nodibināšanos mēs kļūsim brīvi no fašistu un sociālfašistu žņaugiem!
+Par Padomju Latviju!
+Ciešāk slēdziet savas rindas ap strādnieku, darba zemnieku un darba jauniešu priekšpulkiem — Latvijas Komunistisko partiju, Latvijas Komunistisko jaunatnes savienību!
+Aizstāvēsim vienīgo strādnieku un darba zemnieku valsti — SPRS! Cīņas sveiciens viņas 12 gadu pastāvēšanas dienā!
+
+LKP un LKJS Vidienas org. I rajona komiteja

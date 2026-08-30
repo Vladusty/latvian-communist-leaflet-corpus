@@ -1,0 +1,52 @@
+id: 57
+file_name: lclc-2-n057-LKJS_CK_LKJS_Riga_committee-unk-1929-10-17.txt
+title: LKJS CK un LKJS Rīgas komitejas uzsaukums darba jaunatnei aktīvi piedalīties 18. oktobra ģenerālstreikā
+author: LKP Daugavpils pilsētas komiteja un LKJS Daugavpils pilsētas komiteja
+date: 1929-10-17
+print_run: unk
+typography_name: unk
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 106–108.
+
+text:
+LATVIJAS KOMUNISTISKĀ JAUNATNES SAVIENĪBA (KOMUNISTISKĀS JAUNATNES INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+DARBA JAUNATNE — PAR ĢENERĀLSTREIKU!
+Pret fašistu uzbrukumiem un sociālfašistu grautiņiem!
+Biedri! Pilsētu un lauku darba jaunatne!
+Progresīvā skolu jaunatne!
+«SSS» organizācijas revolucionārā darba jaunatne!
+Fašisti bez apstājas turpina uzbrukumus strādnieku tiesībām un turpina pilnīgu varas sagrābšanu savās rokās.
+Vakar izveda armijas fašizēšanu, šodien sagrauj proletariāta cietokšņus — strādnieku slimokases, rītu gatavo pilnīgi aizklapēt strādnieku un darba jaunatnes revolucionārās organizācijas un gatavo 81. panta kārtībā likumus par pilnīgu skolu fašizēšanu. Nost fašistus! Rokas nost no strādnieku tiesībām.
+Šodien arestē un spīdzina strādniekus, revolucionāro darba jaunatni, Daugavpils apavniekus — streikotājus, bet ritu gatavo pilnīgu revolucionārās kustības sagraušanu un proletariāta un darba jaunatnes pilnīgu ierobežošanu. Nost fašistu teroru!
+Lai dzīvo revolucionāra cīņa! Revolucionārā darba jaunatne nedrīkst būt pasīva!
+Viņas vieta proletariāta cīnītāju pirmajās rindās!
+Viņai aktīvi jāpiedalās ģenerālstreikā zem LKP un LKJS vadības!
+Sociālfašisti pasludina vienas dienas streiku, lai nobremzētu proletariāta aktivitāti un apslāpētu darbaļaužu naidu tāpat kā 22. augustā, 20. janvārī un «Vidzemes manufaktūras» streikā. Sociālfašisti un «SSS» līderi piekauj līdz bezsamaņai strādniekus un darba jaunatni, tāpēc ka viņi runā patiesību par sociālfašistu nodevībām un izlīgšanu ar fašistiem, tāpēc lai izolētu LKP un LKJS no masām. Sociālfašistiem tas neizdosies!
+Nost sociālfašistus! Nost līderus kaušļus! «SSS» organizāciju darba jaunatnei!
+Vairāki «SSS» biedri, redzot sociālfašistu nodevību un policistu lomas uzņemšanos 13. oktobrī Centrāltirgus mītiņā un 15. oktobrī Tautas namā, — atteikušies no strādnieku kaušanas un izstājušies no «SSS», pāriedami revolucionārās darba jaunatnes rindās. Sekojiet viņu piemēram! Atmaskojiet sociālfašistus — līderus! Necīnieties pret revolucionāro un aktīvo strādniecību, bet ar viņu pret fašistiem, pret policistiem un līderiem! Protestējiet pret līderu nodevīgiem grautiņiem!
+Lai dzīvo vienota masu cīņa fabrikās un uz ielas! Progresīvā skolu jaunatne! Sasauciet skolnieku sapulces! Pieņemiet protesta rezolūcijas pret skolu fašizēšanu un fašistu teroru skolās! Ejiet solidaritātes streikā ar revolucionāro proletariātu! Organizējiet skolu komitejas! Pieprasiet skolu komiteju legalizēšanu! Sociālfašisti nodos ģenerālstreiku! Vienīgi LKP ir pretfašisma ciņu vadonis!
+Biedri! Organizējieties ap LKP un LKJS!
+Sasauciet un ejiet uz strādnieku un darba jaunatnes sapulcēm un mītiņiem fabrikās un darbnīcās!
+Pārvērtiet fabrikas par proletariāta cietokšņiem!
+Pieņemiet lēmumus par protesta streiku!
+Izvēliet streiku un cīņas komitejas!
+Saistieties fabrika ar fabriku un darbnīca ar darbnīcu!
+Pārvērtiet sapulces un mītiņus — ielu demonstrācijās! Pret fašistiem, par strādnieku un zemnieku valdību!
+Lauku darba jaunatne!
+Solidaritātes cīņā [kopā] ar pilsētu proletariātu!
+Organizējiet zemnieku komitejas uz laukiem!
+Nelaidiet aizsargus uz pilsētu apslaktēt revolucionāro proletariātu!
+Visa revolucionārā darba jaunatne!
+Vienotā pretfašisma cīņā [kopā] ar proletariāta veco gvardi!
+Lai dzīvo pretfašisma ciņa! Lai dzīvo ģenerālstreiks!
+Lai dzīvo strādnieku slimokases! Uz cīņu par viņu aizsargāšanu!
+Lai dzīvo LKP un LKJS — vienīgie pretfašisma ciņu vadoņi!
+Lai dzīvo ģenerālstreiks — pretfašisma cīņa zem LKP un LKJS vadības!
+Lai dzīvo strādnieku un zemnieku valdība!
+
+LKJS Centrālā Komiteja
+LKJS Rīgas komiteja

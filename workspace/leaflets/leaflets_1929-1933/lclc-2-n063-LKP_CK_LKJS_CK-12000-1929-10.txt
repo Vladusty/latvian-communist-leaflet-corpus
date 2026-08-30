@@ -1,0 +1,33 @@
+id: 63
+file_name: lclc-2-n063-LKP_CK_LKJS_CK-12000-1929-10.txt
+title: LKP CK un LKJS CK uzsaukums darbaļaudīm sakarā ar Lielās Oktobra sociālistiskās revolūcijas 12. gadadienu, ar aicinājumu uz cīņu pret kapitālistisko iekārtu
+author: LKP CK un LKJS CK
+date: 1929-10
+print_run: 12000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 114–115.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA (KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+DARBAĻAUDIS!
+1917. g. oktobrī Krievijas strādnieki un zemnieki revolūcijas ceļā nogāza muižnieku, imperiālistu un s.-d. valdību — nodibināja padomju varu.
+Ar to iesākās vispasaules proletāriskā revolūcija. Notriecot un sadragājot apspiedējus, darbaļaudis sāka paši celt savu dzīvi. Pilsoņu karā, atsitot imperiālistu uzbrukumus, Padomju Krievijas strādnieki ķērās pie sociālisma celšanas. Un veic to tādā plašumā un ātrumā, ka sagrauj visus s.-d. un pilsoņu melus, revolucionarizē un ceļ uz cīņu visas pasaules strādniekus, zemniekus un apspiestās tautas.
+Biedri! 6.—7. novembrī visi zem Oktobra revolūcijas karoga?
+Latvijas strādnieki! Tur SPRS, tur bangodama attīstās rūpniecība, 1933. g. tā jau būs trīsreiz pārsniegusi pirmskara apmērus. Tur pieaug strādnieku skaits, algas, tur ieved 7 stundu darba dienu. Tur vispasaules strādnieku tēvija un revolūcijas cietoksnis.
+Bet šeit Latvijā? Reakcijas diktatūra, s.-d. līderu nodevības, dārdzība, slimokasu likvidēšana, nodokļu paaugstināšana, bezdarbs, cietumi, fašisms, pipkas, aizsargi, uzbrukuma gatavošana SPRS.
+6.—7. novembrī vienojieties ap SPRS, demonstrējiet pret fašismu, stājieties ciešā frontē ap Sociālistisko Padomju Republiku Savienību. Latvijas strādnieki aizstāvēs SPRS! Tie cīnīsies par Padomju Latviju — vienīgo izeju no bezdarba, posta un fašisma.
+Zemnieki! Palūkojiet, kā klājas darba zemniekiem Krievijā. 30% no tiem ir pilnīgi atsvabināti no nodokļiem. Strādnieku valsts ar visiem līdzekļiem palīdz celt zemnieku labklājību, iznīcinot kulaku ekspluatāciju. Kopā ar strādniekiem cīnieties un ejiet Padomju Krievijas zemnieku ceļus!
+Apspiestie Latgales darbaļaudis! SPRS tautu piemērs jūs aicina uz cīņu pret izsūcējiem, par Latgales pašnoteikšanos!
+Lai dzīvo SPRS — vispasaules strādnieku tēvija!
+6.— 7. novembri demonstrējiet pret fašistu uzbrukumiem un s.-d. nodevībām — par proletāriskās revolūcijas izvešanu Latvijā un visā pasaulē!
+Lai dzīvo proletariāta ciņa pret fašismu!
+Nost ar sociāldemokrātiem — nodevējiem!
+Lai dzīvo strādnieku ciņa zem LKP karoga!
+
+[LKP] Centrālā Komiteja
+Kom. jaun. sav. Centrālā Komiteja

@@ -1,0 +1,33 @@
+id: 62
+file_name: lclc-2-n062-LKP_CK_LKJS_CK-unk-[1929-10-18…].txt
+title: LKP CK un LKJS CK uzsaukums strādniekiem par 18. oktobra ģenerālstreika gaitu un sociāldemokrātu līderu nodevīgo lomu
+author: LKP CK un LKJS CK
+date: [1929-10-18…]
+print_run: unk
+typography_name: unk
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 113–114.
+
+text:
+BIEDRI STRĀDNIEKI!
+Uz pretsparu fašistu uzbrukumam Kompartijas vadībā jau trešo [dienu] sāka celties visi lielāko fabriku strādnieki. Pirms piektdienas jau streikoja tūkstošiem strādnieku ostās un fabrikās, Rīga un provincē. Streika kustība noteikti grupējas ap Latvijas Kompartijas un komjaunatnes karogu.
+Fašistiskā valdība ar policijas un aizsargu spēku dzina strādniekus atpakaļ fabrikās. Sociālfašisti no paša sākuma gāja kopa ar fašistiem. Viņi uzbruka nevis fašistiem un policijai, bet kopa ar policiju pipkoja strādniekus. S.-d. jau no paša sākuma veda sarunas, kā novērst streiku dzelzceļos, skolās, elektriskās stacijās un citās buržujiem svarīgās iestādēs.
+Tomēr pretspars ir izdevies.
+Bet šodien tas vēl nevarēja izvērsties par pretuzbrukumu un fašisma sakaušanu, pateicoties taisni sociāldemokrātiem, kuri kā fašistu dienderi pielika visas pūles un [saņēma] valdības atbalstu, lai muļķotu strādniekus, skaldītu tos un šo nopietno cīņu padarītu fašistiem nekaitīgu. Tāpēc s.-d. sauca tikai uz vienas dienas «ģenerālstreiku», nedeva vārdu kreisiem strādniekiem un komunistiem, kurus strādnieki gribēja uzklausīt, bet laida tiem virsū savus sociālpolicistus — «SSS»!
+Neskatoties uz to, strādnieki atrada Kompartiju un [komjaunatni! Tie ne tikai grupējās ap tās karogu streikā, bet zem varonīgās Kompartijas un komjaunatnes biedru vadības demonstrēja uz ielas un gāja cīņā ar policiju.
+Kompartija uzaicina organizētā kārtā ar 19. oktobri atgriezties fabrikās.
+Jūs, strādnieki! Atgriezieties fabrikās un darbnīcās nevis sakauti, bet vēl vairāk vienoti un ar jauniem piedzīvojumiem.
+Kompartija jūs aicina atgriezties fabrikās nevis vergošanai, bet noteikti, neatlaidīgi organizēties fabrikas iekšienē.
+Dibiniet katrā fabrikā Kompartijas un [komjaunatnes šūniņas. Iestājieties partijā un jaunatnes savienībā. Dibiniet fabriku komitejas! Iestājieties arodbiedrībā!
+Noorganizējieties tā, lai fabrikā jūs būtu noteicēji. Tad nekāda bruņota vara jums nevarēs stāties ceļā!
+Biedri sociāldemokrātiskie strādnieki un sargi! Nost ar jūsu līderiem — fašistiem un nodevējiem!
+Lai dzīvo revolucionārā vienotā strādnieku fronte!
+Cīņa nav galā. Organizējieties zem LKP karoga! Esiet gatavi uz nākošo fašistu uzbrukumu! Esiet gatavi uz nākošo LKP aicinājumu! Nost fašismu un sociālfašismu!
+Lai dzīvo Latvijas Komunistiskā partija!
+Lai dzīvo Latvijas Komunistiskā jaunatnes savienība!
+
+Latvijas Komunistiskās partijas Centrālkomiteja
+LK jaunatnes savienības Centrālkomiteja

@@ -1,0 +1,32 @@
+id: 70
+file_name: lclc-2-n070-SP_Latgale_regional_committee-4000-1929-11-07.txt
+title: Sarkanās Palīdzības Latgales apgabala komitejas lapiņa ar aicinājumu Latgales darbaļaudīm atzīmēt Lielās Oktobra sociālistiskās revolūcijas 12. gadadienu un sniegt palīdzību politieslodzītajiem
+author: Latvijas Sarkanās Palīdzības Latgales apgabala komiteja
+date: 1929-11-07
+print_run: 4000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 125–126.
+
+text:
+LATVIJAS SARKANĀ PALĪDZĪBA (MOPRA IZPILDU KOMITEJAS SEKCIJA)
+Visu zemju proletārieši, savienojieties!
+LATGALES DARBAĻAUDIS!
+Fašistiskā buržuāzija, slēpjoties aiz reformas izkārtnes, atņēma strādnieku šķirai viņas atbalstu dzīvē — slimokases. Tas ir buržuāzijas kārtējais mēģinājums pastiprināt fašistisko režīmu. Kases pārvaldīs fašistiskās valdības ieceltais ierēdnis un uzņēmēja pārstāvji. Strādniekus atstums no pārvaldes un pie viņu nodokļiem vēl pieliks klāt kasu uzturēšanu. Uz strādnieku šķiras protestu — ģenerālstreiku — fašistiskā valdība atbildēja ar tas iecienīto metodi — balto teroru.
+Policijas iecirkņi bija pārpildīti ar strādniekiem. Tiem, kas protestēja, draudēja ar piekaušanu un nošaušanu. Naktī uz ielām atskanēja šauteņu šāvieni. No galvas līdz kājām apbruņotie policisti un kareivji savas fašistiskās priekšniecības vadībā terorizēja Latgales pilsētu iedzīvotājus. Uzņēmēji atlaiž strādniekus, kuri piedalījušies streikā.
+Neticiet sociāldemokrātiskiem vadoņiem, kas aicina jūs uz vienas dienas protesta streiku. Viņi paši iekļūs slimokasēs un tur nodos jūsu intereses. Jūsu tiesības tiks nostiprinātas ne ar vienas dienas protesta streiku, bet saliedētā un organizētā cīņā uz ielas revolucionārā vadoņa LKP vadībā.
+Gatavojieties cīņai! Protestējiet pret saimnieku teroru!
+Biedri! Fašistiskais terors nezina robežu. Aresti un izsūtīšanas kļūst par ikdienišķu un masveidīgu parādību. Ja ir vismazākās aizdomas par līdzjušanu revolucionārajai kustībai, pielieto Kerenska likumu. Uz šī likuma pamata strādnieki bez tiesas un izmeklēšanas gadiem tiek pūdēti cietumos. Uz politpārvaldes aģentu provokatorisko liecību pamata fašistiskā tiesa soda ar 4—8 gadiem katorgas. Cietumsargi fašisti ņirgājas un piekauj politieslodzītos. Par mazāko protesta mēģinājumu viņiem aizliedz saņemt no ārienes pienesumus, grāmatas un vēstules. Viņus nedēļām pūdē ar ūdeni pielietajos karceros. Fašisti cietumsargi šauj uz cietuma logiem. Bet viņi nesalauzīs cīnītāju cīņas gribu!
+Biedri strādnieki un zemnieki!
+7. novembrī — Oktobra revolūcijas svinību 12. gadadienā, revolucionāro spēku skates un pār kapitālismu gūstamās uzvaras sagatavošanas dienā neaizmirstiet izcilos cīnītājus — politieslodzītos, kas smok Latvijas cietumos.
+Pieprasiet politieslodzīto amnestiju!
+Pieprasiet Kerenska likuma atcelšanu! Ziedojiet politieslodzīto labā! Iestājieties Moprā!
+Nost fašistisko valdību! Nost balto teroru!
+Lai dzīvo Sarkanais Oktobris!
+Lai dzīvo strādnieku un zemnieku vara!
+Lai dzīvo Moprs — vispasaules revolūcijas aizmugure!
+
+Mopra Latgales apgabala komiteja

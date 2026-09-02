@@ -1,0 +1,20 @@
+id: 80
+file_name: lclc-2-n080-LKP_Karsava_district_committee-unk-1929-12.txt
+title: LKP Kārsavas rajona komitejas lapiņa par darbaļaužu smago dzīvi buržuāziskajā Latvijā, ar aicinājumu cīnīties par padomju varu
+author: LKP Kārsavas rajona komiteja
+date: 1929-12
+print_run: unk
+typography_name: unk
+production_method: shapirograph
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 142–143.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+KĀRSAVAS PAGASTA ZEMNIEKI UN ZEMNIEKU JAUNATNE!
+Pēc ilgiem gadiem buržuāzijas verdzībā, zvēriski ekspluatējot un asiņaini izrēķinoties ar Latgales darbaļaudīm, Latgalei uzgūlušies reakcionārā fašisma mākoņi, draudi padzīt zemnieku no pēdējās zemes desetīnas, lai šo zemi atkal nodotu muižnieku rokās. Gandrīz visa Latgales zemnieku zeme ir pārgājusi buržuāzisko banku rokās, caur kurām tā pāriet muižnieku rokās, jo, nepanesamo nodokļu dēļ zaudējuši lielāko pusi lopu, zemnieki nav spējīgi nomaksāt bankām procentus. Fašisti, kas ir valdības priekšgalā, nosituši cenas uz liniem, lai kapitālisti iedzīvotos, un tādā kārtā zemnieki, nespēdami nomaksāt procentus un parādus, zaudē pēdējo govi un atstāj izsalkušās ģimenes bez pārtikas. Zemnieku bērni un jaunieši apskrandušos baros iet verdzībā pie baltajiem baroniem, kur viņi par nieka naudu atdod vergturiem savu veselību. Rūpnīcās peļņas nav, jo Latvijas rūpniecība sašaurinājusies līdz minimumam un Latvijas pilsētās ar katru dienu aug bezdarbs. Tagad ir 20 000 bezdarbnieku ar ģimenēm. Desmitiem tūkstošiem latgaliešu peļņas trūkuma dēļ draud bada nāve! Rūpnīcu un fabriku vietā fašisti būvē jaunus cietumus, kuros simtiem labāko cīnītāju — revolucionāru nolemti lēnai nāvei. Tiek pastiprināti spiegu bari, kas okšķerē pa sādžām un izspiego revolucionāri noskaņotos zemniekus, lai tos nežēlīgi spīdzinātu un mocītu cietumos. Kā sēnes aug žandarmi un aizsargi, lai izsalkušo zemnieku sacelšanās gadījumā ar tiem asiņaini izrēķinātos.
+PSRS proletariāts un zemniecība strādnieku un zemnieku valdības 12 pastāvēšanas gados ir izcīnījuši gaišu, brīvu dzīvi. PSRS mazzemnieki ir atbrīvoti no nodokļiem, valdība dod zemniekiem traktorus un mašīnas, pārbaudītas sēklas. Bērniem ir bezmaksas skolas. Gandrīz visos ciemos ir lauku lasītavas, kurās zemnieki noklausās radiolekcijas, lasa grāmatas un avīzes. Arvien plašāk un dziļāk laukos iespiežas elektriskā gaisma. Ar katru gadu pieaug rūpniecība. Zemnieki vienmēr atrod darbu rūpnīcā, kur ir 7 stundu darba diena, bet atlikušajā brīvajā laikā strādnieki apmeklē skolas, lai papildinātu savas zināšanas. PSRS rāda kapitālistisko valstu darbaļaudīm piemēru, ka neviens cits neuzlabos darbaļaužu dzīvi kā tikai paši darbaļaudis Komunistiskās partijas vadībā. Un tādēļ iestājieties Komunistiskās partijas rindas! Visi kā viens ejiet revolucionārā cīņā pret fašismu! Nesiet cīņas karogu par strādnieku-zemnieku valdību! Nemaksājiet bendēm nodokļus un procentus! Ejiet visi demonstrācijā pret zemniecības apspiedējiem! Esiet gatavi uzstāties pret fašismu ar ieročiem rokas! Lai dzīvo komunistiskā revolūcija un Padomju Latgale!
+
+LKP Kārsavas rajona komiteja

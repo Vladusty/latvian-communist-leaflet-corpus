@@ -1,0 +1,32 @@
+id: 72
+file_name: lclc-2-n072-LKJS_Daugavpils_city_committee-unk-[…1929-11-18].txt
+title: LKJS Daugavpils komitejas lapiņa, kas atmasko Latvijas buržuāzijas politiku un aicina strādnieku jaunatni cīnīties par Padomju Latviju Komunistiskās partijas un komjaunatnes vadībā
+author: LKJS Daugavpils pilsētas komiteja
+date: […1929-11-18]
+print_run: unk
+typography_name: unk
+production_method: shapirograph
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 128–129.
+
+text:
+LATVIJAS KOMUNISTISKA JAUNATNES SAVIENĪBA (KOMUNISTISKĀS JAUNATNES INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKU JAUNIEŠI!
+18. novembrī Latvijas buržuāzija un tās sulaiņi — sociāldemokrāti svin «demokrātiskās» Latvijas pastāvēšanas 11. gadadienu. Ko «demokrātiskā» republika devusi strādnieku šķirai 11 gados?
+Ja pirmajos gados strādniekiem arī tika dotas kaut kādas sociālās tiesības, tad kāds stāvoklis ir tagad? Kur ir tagad šie iekarojumi? Vai mēs varam samierināties ar pastāvošo iekārtu?
+11 «demokrātiskās» Latvijas kundzības gadi, tie ir 11 ekspluatācijas, apspiešanas, varmācības gadi pār strādniekiem, tie ir 11 katorgas, cietuma, piekaušanas un ņirgāšanās gadi par strādniekiem un strādnieku jauniešiem.
+Latvijas sociālajos likumos jauniešiem ierakstīta 4 un 6 stundu darba diena. Kur tad viņa ir dzīvē? Kur ir vārda, preses un organizēšanās brīvība? Lūk, kāda ir šī sociālnodevēju izslavēta demokrātiskā iekārta!
+Biedri! Ko mums devusi latviešu buržuāzija, sagaidot savu 11. gadadienu?
+Fašistiskā buržuāzija atņem strādniekiem sociālās tiesības, grauj slimokases. Ar vilka pasēm strādniekiem mūs grib pārvērst par suņiem. Gatavojas pagarināt darba dienu. Palielina nodevas uz maizi un citiem pirmās nepieciešamības priekšmetiem. Spiež uz mums ar visu valsts aparāta spēku, stingrāk savelk cilpu ap strādnieku un strādnieku jauniešu kaklu.
+Biedri! Tanī laikā, kad mūsu brāļi smok cietumos, kad palielinās bezdarbs un strādnieku šķira cieš badu, buržuāzija rīko banketus, peld šampanietī, bārsta naudu, kas izspiesta no strādnieku un zemnieku sviedriem. Vai mēs ilgi cietīsim?
+Uz priekšu, uz organizētību! Uz priekšu Komunistiskās partijas un komjaunatnes vadībā, kuras ne vienu vien reizi pierādījušas, ka ir spējīgas vadīt izšķirošo cīņu par strādnieku šķiras lietu.
+Nost Latvijas buržuāzisko valdību!
+Nost sociālnodevējus!
+Lai dzīvo Padomju Latvija!
+Lai dzīvo strādnieku šķiras avangards —- Komunistiskā partija!
+Lai dzīvo strādnieku jaunatnes vadonis — komjaunatne!
+
+LKJS Daugavpils komiteja

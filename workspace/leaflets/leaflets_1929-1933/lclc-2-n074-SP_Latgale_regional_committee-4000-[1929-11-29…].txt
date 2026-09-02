@@ -1,0 +1,29 @@
+id: 74
+file_name: lclc-2-n074-SP_Latgale_regional_committee-4000-[1929-11-29…].txt
+title: Sarkanās Palīdzības Latgales apgabala komitejas lapiņa par buržuāziskās tiesas izrēķināšanos ar Krāslavas revolucionāriem
+author: Latvijas Sarkanās Palīdzības Latgales apgabala komiteja
+date: [1929-11-29…]
+print_run: 4000
+typography_name: Spartaks
+production_method: shapirograph
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 130–131.
+
+text:
+LATVIJAS SARKANA PALĪDZĪBA (MOPRA IZPILDU KOMITEJAS SEKCIJA)
+Visu zemju proletārieši, savienojieties!
+LATVIJAS DARBAĻAUDIS!
+Fašistiskā tiesa kopā ar politpārvaldi notiesājusi uz 3—4 gadiem katorgā 13 Krāslavas strādniekus. 1926. gadā tos izprovocēja Daugavpils policija, un viņus nežēlīgi spīdzināja. Sasietus viņus meta pret sienu, kurā speciāli bija sadzītas naglas; aiz rokām piesietus pie griestiem, viņus dauzīja ar nūjām, dedzināja kāju pēdas, bet vienu sievieti pat izvaroja. Spīdzināšana turpinājās 3 dienas. Ar šo aktu buržuāzija pateikusi strādnieku šķirai un zemniekiem, ka savā cīņā pret revolucionāro kustību tā neapstāsies nekādu vajāšanas līdzekļu priekšā. Buržuāzija vilcināja šo lietu 3 gadus. 1928. gadā strādnieku šķiras spiediena rezultātā [tiesu] palāta atzina, ka ir notikusi provokācija un spīdzināšanas, un strādnieki tika attaisnoti.
+Tagad, fašistiskā terora spiediena iespaidota, tā pati [tiesu] palāta noliegusi, ka notikušas spīdzināšanas un provokācijas, un pieņēmusi spriedumu. Šī mācība, ko buržuāzija sniegusi strādnieku šķirai, nedrīkst paiet secen!
+Katram strādniekam un strādniecei, katram zemniekam un zemniecei, katram godīgi domājošam inteliģentam ir jābūt skaidrībā, ka, lai apturētu arvien vairāk pieaugošās zvērības un noziegumus, kurus izdara šķiriskā justīcija un fašisti, un lai no buržuāzisko benžu rokām izrautu vēl tūkstošus proletārisko upuru, ir nepieciešams visu darbaļaužu vienprātīgs, solidārs darbs!
+Biedri darbaļaudis!
+Atcerieties ieslodzīto tūkstošus, kas mokās buržuāzijas cietumos! Pieprasiet cietuma režīma atcelšanu un spīdzināšanu pārtraukšanu!
+Iestājieties Moprā!
+Visi uz cīņu pret balto teroru!
+Nost fašistisko tiesu un balto teroru!
+Lai dzīvo strādnieku un zemnieku vara!
+Lai dzīvo revolucionārais Moprs!
+
+Mopra Latgales apgabala komiteja

@@ -1,0 +1,37 @@
+id: 77
+file_name: lclc-2-n077-LKP_Latgale_regional_committee_LKJS_Latgale_regional_committee-4000-1929-11.txt
+title: LKP un LKJS Latgales apgabala komiteju lapiņa, kurā atmaskoti sociāldemokrātu līderi, ar aicinājumu strādniekiem izstāties no sociāldemokrātu partijas
+author: LKP Latgales apgabala komiteja un LKJS Latgales apgabala komiteja
+date: 1929-11
+print_run: 4000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 135–137.
+
+text:
+LATVIJAS KOMUNISTISKA PARTIJA (KOMUNISTISKAS INTERNACIONĀLES SEKCIJA)
+Visu zemju proletārieši, savienojieties!
+BIEDRI DARBAĻAUDIS! SPRIEDIET PĒC DARBIEM!
+No 24. novembra sociāldemokrāti izziņojuši savu partijas nedeju. Lai noturētu masas, izjūkošā, strādnieku masu uzticību zaudējusī līderu un karjeristu partija ķeras pie pēdējā salmiņa. Viņi lielās ar saviem nopelniem, nogludina ar kreisām frāzēm savu noplukušo masku, lai slēptu savus tumšos darbus un ievilktu masas savos tīklos.
+Biedri strādnieki un zemnieki! Atgādiniet šiem līderiem viņu īstos nopelnus!
+1918.—1919. g. sociāldemokrāti kopā ar buržuāziju un baroniem noslīcināja strādnieku un zemnieku asinīs Padomju Latviju, sociāldemokrāti radīja balto Latviju, un visas Latvijas strādnieku un zemnieku nelaimes — sociāldemokrātu nopelns.
+Viņi lepojas, ka cīnās pret fašistiem. Kad fašisti mums deva smagāko triecienu, sagrāva 19 strādnieku savienības*, kur tad bija sociāldemokrāti? Kopā ar fašistiem viņi cīnījās pret 22. augusta streiku. Pēc fašistu parauga viņi sagrāva Daugavpils arodbiedrības. Desmitiem strādnieku sēž Daugavpils cietumā sociāldemokrātu un viņu avīžu provokāciju dēļ. Viņu esesnieki kā policijas suņi tvarsta kreisos strādniekus un nodod tos policijai. Līdz pēdējai dienai sociāldemokrāti slēpa uzbrukuma gatavošanu slimokasēm, bet, kad fašisti kases sagrāva, viņi mēģināja izjaukt ģenerālstreiku.
+Bet kas nodibināja lauka kara tiesas strādnieku tiesāšanai un nāves režīmu politieslodzītajiem? Vai tā nebija sociāldemokrātiskā valdība?
+Viņi saka, ka cīnoties pret karu, bet ko viņi īstenībā dara? Vai tās nav viņu avīzes, kas katru dienu izdomā visādus melus par Padomju Krieviju, lai sagatavotos karam pret to? Vai tie nebija viņi, kas 1927. g. izdabūja kara budžetu un asignēja miljonus, lai apbruņotu aizsargus, pirktu zemūdenes, lidmašīnas un lielgabalus? Bet ko dara viņu kolēgas citās valstīs, atrodoties pie varas? Makdonalda sociāldemokrātiskā valdība savos imperiālistiskajos žņaugos tur simtus miljonus koloniju strādnieku un zemnieku Āzijā, Āfrikā, Austrālijā, apšauj un pūdē cietumos tūkstošus revolucionārus un streikotājus Indijā, Dienvidāfrikā, Palestīnā un citās kolonijās, uzkūda Padomju Savienībai Ķīnas ģenerāļus un vada militāro bloku pret PSRS. Vācijas sociāldemokrātiskā valdība būvē bruņu kuģus, aizliedz 1. Maiju, apšauj demonstrējošus strādniekus. Visu to atbalsta arī mūsu sociāldemokrāti.
+Sociāldemokrāti klaigā, viņi ir meistari strādnieku sīko «praktisko» vajadzību aizstāvēšanā. Viņi ir meistari — nodot strādniekus. Viņi sludina mieru rūpniecībā, viņi nodeva tekstilnieku streiku Rīgā. Daugavpilī viņi visu gadu nenoorganizēja un neatbalstīja nevienu streiku, kamēr kreisie strādnieki šai laikā organizēja un uzvarēja desmitiem streikos. Bunda amatnieku un strādnieku savienība saviem biedriem — kurpniekiem deva rīkojumu nepievienoties kurpnieku streikam. Bezdarbnieki jau tagad sēž bez darba un maizes. Bet kad domes strādnieku frakcija, budžetu apspriežot, pieprasīja palielināt asignējumus sabiedriskiem darbiem, sociāldemokrāts Būmeisters panāca, ka strādnieku frakcijas [priekšlikumu] noraidīja un pieņēma budžetu, kurā bezdarbniekiem nav asignēta ne kapeika. Bet tagad sociāldemokrāti žēlojas, ka nav naudas bezdarbnieku vajadzībām. Tādēļ, kad jāaizstāv savas siltās vietiņas, — tad sociāldemokrāti ir meistari.
+Lūk, sociāldemokrātu līderu nopelni. Par šiem nopelniem Latvijas buržuāzija viņus (Br. Kalniņu, Veckalnu, Celmiņu u. c.) apbalvoja ar virsnieku pakāpēm un Lāčplēša ordeņiem. Nevar kalpot diviem kungiem. Sociāldemokrāti kalpo buržuāzijai, nodod tās interesēs strādniekus, rīda pret komunistiem, grib no viņiem atraut strādniekus un zemniekus, lai paglābtu buržuāzisko Latviju no revolūcijas.
+S.-d. nav vietas starp strādniekiem, bet godīgiem strādniekiem nav vietas sociāldemokrātiskajā partijā!
+Lai sociāldemokrātu partijas nedēļa pārvēršas par sociāldemokrātu atmaskošanas nedēļu!
+Noraujiet sociāldemokrātiem maskas! Atklājiet patiesību!
+Izskaidrojiet neapzinīgajiem sociāldemokrātu īstenos nopelnus! Strādnieki, kas vēl tic s.-d., atstājiet viņu partiju, viņu savienības.
+Iestājieties revolucionārajās arodbiedrībās, sakļaujieties ap Kompartiju!
+Strādnieku jaunatne! Pametiet «SSS»! Tava vieta nav leitnanta Br. Kalniņa bandā! Stājies komjaunatnes rindās!
+Nost sociālfašistisko nodevēju partiju!
+Lai dzīvo revolucionārās organizācijas!
+Lai dzīvo Komunistiskā partija!
+
+Latvijas Komunistiskās partijas Latgales apgabala komiteja
+Latvijas Komunistiskās jaunatnes savienības Latgales apgabala komiteja

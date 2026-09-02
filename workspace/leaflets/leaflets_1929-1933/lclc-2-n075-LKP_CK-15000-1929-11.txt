@@ -1,0 +1,34 @@
+id: 75
+file_name: lclc-2-n075-LKP_CK-15000-1929-11.txt
+title: LKP CK lapiņa, kurā atmaskota sociāldemokrātu līderu nodevīgā loma strādnieku kustībā, ar aicinājumu apzinīgajiem strādniekiem iestāties Komunistiskajā partijā
+author: LKP CK
+date: 1929-11
+print_run: 15000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 131–133.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+LATVIJAS DARBA TAUTA!
+No 24. novembra līdz 1. decembrim sociāldemokrātu līderi izsludinājuši pārtikas nedēļu, lai iemānītu savā partijā vienu otru mazāk apzinīgu strādnieku.
+Jau veselus 11 gadus sociāldemokrāti ir kopā ar Latvijas buržuāziju turējuši savos valgos Latvijas darba tautu; veselus 11 gadus sociāldemokrāti ir stāstījuši, ka viņi izcīnīšot darba tautai labāku materiālo stāvokli, lielākas brīvības nekā Padomju Krievijā, kur vara atrodas pašu strādnieku rokās, kur vienīgais strādnieku vadonis ir Komunistiskā partija.
+Ko mēs tagad redzam? Padomju Krievijas proletariāts ir ļoti tālu uz priekšu gājis sociālistiskā celtniecības darbā. Padomju Krievijā ar katru dienu strādnieku stāvoklis uzlabojas, turpretim pie mums, Latvijā, strādnieku un visu apspiesto darbaļaužu stāvoklis paliek arvien grūtāks un nepanesamāks.
+Tikai dažas nedēļas ir pagājušas kopš fašisti varmācīgā ceļā izrāva no strādnieku rokām slimokases. Tagad tiek gatavoti jauni uzbrukumi: fašisti gatavojas likvidēt 8 stundu darba dienu, atņemt strādniekiem tiesības piedzīt nopelnīto algu, ievest muitas uz labību utt.
+Par represijām un vajāšanām tagad nemaz nenākas runāt: policijai un politpārvaldei tagad ir tiesības darīt ar strādniekiem visu, kas tiem ienāk prātā. Jau vairāki strādnieki no piedzērušiem policistiem ir nosisti, daudzi sakropļoti.
+Biedri! Pie šī stāvokļa Latvijas darbaļaudis ir noveduši sociālfašisti. Viņi ir tie, kas veselus 11 gadus ir skandinājuši, lai strādnieki mierīgi gaida uz labākiem laikiem. Sociālfašisti ir tie. kas vienmēr kopā ar policiju un politpārvaldes aģentiem uzstājas pret komunistiem un visiem, kas nemierā ar buržujisko Latviju.
+Velti tagad sociālfašisti krāpj strādniekus, teikdami, ka Padomju Krievijā ir sliktāki nekā buržuāziskā Latvijā. Sociālfašisti tagad dzen visriebīgāko demagoģiju pret Padomju Krieviju, lai palīdzētu kapitālistiem sagatavot karu pret šo proletariāta cietoksni.
+Sociāldemokrātu partija ir pārvērtusies par buržujiskās Latvijas varas ieroci! Sociāldemokrātu partija ir tā, kas traucē strādniecībai vienoti un enerģiski zem Komunistiskās partijas vadības iziet cīņā pret Latvijas buržuāziju.
+Biedri strādnieki un visi apspiestie! Ne sociāldemokrāti ir tie, kas jūs spēs izvest izšķirošā cīņā. Sociāldemokrāti jūs jau neskaitāmas reizes ir pievīluši un nodevuši, viņi to darīs arī turpmāk.
+Atbildēdama uz s.-d. partijas nedēļu, Latvijas Kompartijas CK izsludina no 24. novembra līdz 1. decembrim pretsociāldemokratu nedēļu. Šai nedēļā mēs aicinām visus apzinīgos strādniekus noskaidrot saviem biedriem s.-d. nodevīgo lomu, atmaskot sociālfašisma un fašisma vienoto fronti cīņā pret strādniecību un uzaicinām visus apzinīgos strādniekus iestāties Komunistiskās partijas rindās.
+Vienīgi Komunistiskā partija ir spējīga vest apspiestās šķiras cīņā pret buržuāziju. Vienīgi zem mūsu partijas vadības Latvijas proletariāts saraus verdzības žņaugus un izies kā uzvarētājs.
+Tādēļ visi apzinīgie strādnieki lai stājas mūsu partijas rindās-un plecu pie pleca kopā ar mums iet cīņā par savām tiesībām.
+Nost satrunējušo sociālfašistu partiju!
+Nost lielmanīgos buržuāzijas rokaspuišus — sociāldemokrātu līderus!
+Lai dzīvo Latvijas Komunistiskā partija!
+Visi apzinīgie strādnieki LKP rindās!
+
+Latvijas Komunistiskās partijas Centrālā Komiteja

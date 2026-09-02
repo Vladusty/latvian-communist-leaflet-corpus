@@ -1,0 +1,26 @@
+id: 73
+file_name: lclc-2-n073-SP_Riga_committee-unk-[…1929-11-28].txt
+title: Sarkanās Palīdzības Rīgas komitejas uzsaukums darbaļaudīm, ar aicinājumu palīdzēt politieslodzītajiem un iestāties Sarkanajā Palīdzībā
+author: Latvijas Sarkanās Palīdzības Rīgas komiteja
+date: […1929-11-28]
+print_run: unk
+typography_name: unk
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 129–130.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKI, NEMANTĪGIE ZEMNIEKI UN DARBA INTELIĢENCE!
+Latvijas cietumi piebāzti simtiem labāko strādniecības cīnītāju. Bez saules un gaisa smok tie desmitiem gadu. Izsalkumā, badā un aukstumā tie pavada savas dzīves lielāko daļu. Politpārvaldes špiku un cietumu uzraugu suniskā apiešanās tos nomoca galīgi. Uz katru protesta saucienu, bada streiku tie atbild ar pipkām un karceriem.
+Biedri! Mēs nedrīkstam pieļaut buržujiem nomocīt mūsu brāļus strādniekus cietuma mūros! Mēs nedrīkstam atstāt viņus šai cīņā vienus. Viņu sakāve ir arī mūsu sakāve.
+Biedri! Savus brāļus, cietumos smokošos strādniekus, mēs atsvabināsim tikai aktīvā, revolucionārā cīņā. Ne ar lūgšanām un raudām, ne ar naudu mēs viņus neizpirksim. Buržuji tikai smej, ka mēs dodam viņiem naudu, ar ko algot simtiem politpārvaldes špiku, kuri kopā ar s.-d. špikiem — «SSS», piekauj līdz asinīm aktīvākos biedrus sapulcēs, mītiņos, demonstrācijās, pēc tam nogādā politpārvaldes pagrabā.
+Biedri! Tikai slēgtās rindās ar ieročiem rokās mēs sagrausim cietuma mūrus un atsvabināsim savus smokošos biedrus!
+Biedri! Stāsimies revolucionārās masu organizācijās — Komunistiskā partijā, Komunistiskā jaunatnes savienībā un Sarkanā Palīdzībā, kuras ved aktīvu cīņu pret balto teroru, fašismu un sociālfašismu.
+Pret teroru ar Sarkano Palīdzību!
+Lai dzīvo vienota revolucionāra ciņa Latvijas cietumos!
+Lai dzīvo vienota revolucionāra cīņa visā Latvijā par vispasaules Sarkano Oktobri!
+
+Latvijas Sarkanās Palīdzības Rīgas komiteja

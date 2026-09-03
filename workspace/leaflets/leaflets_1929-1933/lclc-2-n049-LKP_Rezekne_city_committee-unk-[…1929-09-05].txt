@@ -1,7 +1,7 @@
 id: 49
 file_name: lclc-2-n049-LKP_Rezekne_city_committee-unk-[…1929-09-05].txt
 title: LKP Rēzeknes pilsētas komitejas uzsaukums kareivjiem cīnīties pret buržuāzijas gatavoto fašistisko apvērsumu un kara draudiem
-author: LKP Rīgas komiteja un LKJS Rīgas komiteja
+author: LKP Rēzeknes pilsētas komiteja
 date: […1929-09-05]
 print_run: unk
 typography_name: unk

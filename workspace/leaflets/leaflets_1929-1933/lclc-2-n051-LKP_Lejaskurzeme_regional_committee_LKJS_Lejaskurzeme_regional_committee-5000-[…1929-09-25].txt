@@ -1,7 +1,7 @@
 id: 51
 file_name: lclc-2-n051-LKP_Lejaskurzeme_regional_committee_LKJS_Lejaskurzeme_regional_committee-5000-[…1929-09-25].txt
 title: LKP un LKJS Lejaskurzemes apgabala komiteju lapiņa ar aicinājumu sniegt palīdzību buržuāziskās Latvijas cietumos ieslodzītajiem revolucionāriem
-author: LKP Rīgas komiteja un LKJS Rīgas komiteja
+author: LKP Lejaskurzemes apgabala komiteja un LKJS Lejaskurzemes apgabala komiteja
 date: […1929-09-25]
 print_run: 5000
 typography_name: Spartaks

@@ -1,7 +1,7 @@
 id: 19
 file_name: lclc-2-n019-LKP_Ventspils_regional_committee_LKJS_Ventspils_org-4000-1929-04.txt
 title: LKP Ventspils apgabala komitejas un LKJS Ventspils organizācijas 1. Maija lapiņa ar aicinājumu iziet protesta demonstrācijā pret pieaugošo ekspluatāciju, pret buržuāzijas terora režīmu
-author: LKP Liepājas komiteja un LKJS Liepājas komiteja
+author: LKP Ventspils apgabala komiteja un LKJS Ventspils organizācija
 date: 1929-04
 print_run: 4000
 typography_name: Spartaks

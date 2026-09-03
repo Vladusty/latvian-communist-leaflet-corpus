@@ -1,7 +1,7 @@
 id: 69
 file_name: lclc-2-n069-LKP_Latgale_regional_committee_LDJS_Latgale_regional_committee-9000-1929-11-07.txt
 title: LKP un LKJS Latgales apgabala komiteju uzsaukums Latgales darbaļaudīm sakarā ar Lielās Oktobra sociālistiskās revolūcijas 12. gadadienu
-author: Latvijas Sarkanās Palīdzības CK
+author: LKP Latgales apgabala komiteja un LKJS Latgales apgabala komiteja
 date: 1929-11-07
 print_run: 9000
 typography_name: Spartaks

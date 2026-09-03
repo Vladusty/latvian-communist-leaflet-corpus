@@ -1,0 +1,24 @@
+id: 88
+file_name: lclc-2-n088-LKP_Rezekne_city_committee_LKJS_Rezekne_city_committee-300-1930-01.txt
+title: LKP un LKJS Rēzeknes pilsētas komiteju uzsaukums bezdarbniekiem un jauniesaucamajiem cīnīties pret buržuāzisko iekārtu un iestāties Komunistiskajā partijā un komjaunatnē
+author: LKP Rēzeknes pilsētas komiteja un LKJS Rēzeknes pilsētas komiteja
+date: 1930-01
+print_run: 300
+typography_name: Spartaks
+production_method: shapirograph
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 158–159.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI BEZDARBNIEKI, JAUNIESAUCAMIE UN DARBAĻAUŽU MASA!
+Biedri bezdarbnieki, mums atkal sākas bada laiks. Visu gadu nožēlojami eksistējot, mēs ziemā paliekam bez maizes. Kapitālistiskās iekārtas hroniskā krīze ar visu smagumu gulstas uz darbaļaužu pleciem! Fašisms ar savu neganto niknumu grib noslīcināt asinīs un ieslēgt cietumos masu neapmierinātību. Bet mēs, biedri, labi redzam, kas notiek ap mums tai laikā, kad Padomju Savienībā darba diena tiek saīsināta, darba alga palielināta, bezdarbs samazināts. Pie mums, Latvijā, otrādi — darba diena tiek pagarināta, darba alga samazināta, bezdarbs pieaug ar katru dienu. Tai pašā laikā, ka>d bezdarbnieku armija cieš badu un aukstumu, slimo ar hroniskām slimībām, — tai pašā laikā miljoniem latu tiek izšķiesti militārām ierīcēm un jājautā, kādam nolūkam. Tādam nolūkam, lai sāktu asiņainu slaktiņu, sāktu uzbrukumu vienīgajai darbaļaužu zemei — Padomju Krievijai.
+Biedri jauniesaucamie! Ar jūsu aiziešanu armijā jūsu māsas, mātes un tēvi paliek vēl lielākā postā. Tai pašā laikā, kad jūs armijā māca aizstāvēt buržuāziju un buržuāzisko iekārtu, jūsu māsas un brāļus izmet no fabrikām uz ielas. Jūsu tēvu zemi izpārdod ūtrupēs, un viņi spiesti vilkt nožēlojamu dzīvi. Pirmā mācība armijā: sit ārējo, bet galvenokārt iekšējo ienaidnieku. Tas nozīmē: gadījumā, ja jūsu brāļi un māsas sāks protestēt, jums jāiet uz ielas un jāapšauj .savi biedri — strādnieki un zemnieki. Un kas ir ārējais ienaidnieks? Tā ir Padomju Krievija, vienīgā darbaļaužu zeme, kas cīnās par darbaļaužu labāku dzīvi. Bet šeit buržuāzija kļūdās. Neviens šāviens netiks izšauts pret strādniekiem un zemniekiem. Neviens stobrs netiks vērsts pret Padomju Krieviju, jebkādā veidā mēģinot izdarīt uzbrukumu PSRS, buržuāzija izjutis uz savas ādas to mācību, kuru viņa mācīja kareivjiem. Strādnieki un zemnieki! Buržuāzija savā presē un visur, kur vien var, cenšas apmelot un nomelnot Padomju Krieviju. Sociālisma panākumi Padomju Savienībā tiek iztulkoti pēc viņu ieskatiem. Ar kādu nolūku tas tiek darīts? Tas tiek darīts tāpēc, lai noskaņotu sabiedrisko domu pret PSRS, lai neviens strādnieks un zemnieks nedomātu par sociālistisko sabiedrību. Bet buržuāzijas intrigas ir skaidri redzamas. Vēl skaidrāk tiek norādīts ceļš, pa kuru mums jāiet, tiek norādīta mūsu nepanesamā eksistence un tāpēc, biedri strādnieki un zemnieki! Vēl neatlaidīgāk stājieties cīņa pret fašismu un viņu palīgiem — sociāldemokrātiem. Vēl aktīvāk stājieties Komunistiskās partijas un komjaunatnes revolucionārās rindās, un, pastiprinot tās, mēs sekmīgāk spēsim cīnīties līdz uzvarai.
+Nost fašismu un sociāldemokrātus!
+Nost karu!
+Lai dzīvo revolucionārā ciņa!!
+Lai dzīvo sociālistiskā celtniecība Padomju Sociālistisko Republiku Savienībā!
+
+Latvijas Komunistiskās partijas un Komunistiskās Jaunatnes savienības Rēzeknes pilsētas komitejas

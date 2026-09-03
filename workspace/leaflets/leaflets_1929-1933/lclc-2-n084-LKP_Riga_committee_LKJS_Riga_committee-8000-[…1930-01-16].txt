@@ -1,0 +1,36 @@
+id: 84
+file_name: lclc-2-n084-LKP_Riga_committee_LKJS_Riga_committee-8000-[…1930-01-16].txt
+title: LKP un LKJS Rīgas komiteju lapiņa ar aicinājumu bezdarbniekiem cīnīties par viņu prasību realizēšanu, par buržuāzijas varas gāšanu
+author: LKP Rīgas komiteja un LKJS Rīgas komiteja
+date: […1930-01-16]
+print_run: 8000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 151–153.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+VISI UZ CĪŅU PAR DARBU UN MAIZI!
+Policijai, armijai, cietumiem paredzētās summas — bezdarbnieku vajadzībām!
+Grausim izsūcēju un laupītāju varu — Latvijas fašistisko
+Nost sociālfašistus un ubagošanas politiku!
+Biedri bezdarbnieki, strādnieki un darba jaunatne!
+Bezdarbs ir visas strādnieku šķiras lāsts. Slogs, kuru uzveļ kapitālistiskā iekārta strādnieku šķirai, iedzīdama viņu galīgā postā un bada nāvē. Kapitālistiem ir vajadzīga liela bezdarbnieku armija, lai strādnieku šķira būtu pērkama kā vergi par bada grašiem, lai varētu viņu nodarbināt 12—16 stundas dienā. Pie milzīga darba roku piedāvājuma uzņēmēji nosit algas arī strādājošiem, pagarina darba dienu un salauž strādnieku cīņas ieroča pielietošanu — streiku! Kapitālistiskai iekārtai ir nepieciešama liela bezdarbnieku armija, un viņa bez cīņas nelikvidēs un nemēģinās mazināt šo postu! Tāpēc visai strādnieku šķirai jāpiedalās cīņā pret bezdarbu! Jāmobilizē cīņas pulki, lai cīņas rezultātā sagrautu kapitālistisko iekārtu!
+Latvijas fašistu ekonomiskā politika bremzē rūpniecības uzplaukumu, piesaista Latviju Anglijas — Polijas imperiālistiskiem plāniem pret SPRS. Atrauj Latvijas ekonomiku no viņas dabīgās bāzes SPRS. Rezultātā plašas strādnieku masas tiek izsviestas uz ielas bez darba un maizes. Tiek padotas bezdarbam, badam un salam, dažādām epidēmijām un drošai nāvei. Bada rēgs ir strādnieku kvartālu pastāvīgs viesis!
+Proletariāt! Cīnies, lai sagrautu šo laupītāju un asinssuņu varu! Cīnies, lai nodibinātu strādnieku valsti, kurā pats būsi saimnieks! Ciešāk ap Komunistisko partiju, Komunistisko jaunatnes savienību kā vienīgo proletariāta vadoni, pretim uzvarai! Bezdarba armija arvien vairāk un vairāk pieaug. Oficiāli reģistrēts 13 000, bet šis skaits vairākkārt pavairojas, jo viņā nav ieslēgti tie tūkstoši strādnieki, kuriem bija darbs vasarā, nav tie bezdarbnieki jaunieši, kurus fašistiskās iestādes nereģistrē, nav uzskaitīts lauku proletariāts un sievietes bezdarbnieces. Prasām visu bezdarbnieku reģistrāciju! Fašisms pielieto visus līdzekļus, lai noslāpētu masu revolucionāro izpausmi. Bailēs no masu kustības fašisms jau priekšlaikus izolē aiz cietuma mūriem un politpārvaldes moku kambaros strādniecības apzinīgākos cīnītājus, lai nepieļautu bezdarbniekiem 16. janvāri uzstādīt savas prasības Rīgas pilsētas domei! Baltais terors tiek pasniegts no fašistiem strādniekiem darba un maizes vietā.
+Strādnieki! Neļaujiet fašistiem sevi priekšlaikus dezorganizēt, lai arestēto vietā stājas jauni cīnītāju simti un tūkstoši!
+Visi 16. janvāri uz ielas par savām prasībām! Sociālfašisti palīdz bezdarbniekus sakaut. Noteiktas cīņas vietā viņi provocē bezdarbniekus ar dažādām delegācijām un ubagošanu. Nost ubagu sociālistus! Bezdarbniekiem nav vajadzīgs lūgt dāvanas, viņi prasa nolaupīto! Ja nedos ar labu, cīnīsies, lai paņemtu ar varu! Strādniekiem un bezdarbniekiem ir jācīnās par sekošām prasībām:
+Visu strādnieku apdrošināšanu pret bezdarbu, likvidēt armiju, policiju, cietumus, līdzekļus nodot bezdarbnieku vajadzībām. Latvijas ekonomikas orientāciju uz SPRS!
+Pilnīgu rīcības brīvību bezdarbnieku komitejām! Darba jauniešus bezdarbniekus pielīdzināt pieaugušiem strādniekiem!
+Nost Latvijas fašistisko valdību!
+Nost bezdarbnieku provokatorus sociālfašistus!
+Visi cīņā pret kapitālistisko iekārtu!
+Lai dzīvo strādnieku-zemnieku valdība! Lai dzīvo LKP un LKJS!
+Lai dzīvo strādnieku un bezdarbnieku revolucionārā ciņa!
+Lai dzīvo proletariāta diktatūra!
+
+LKP Rīgas komiteja
+LKJS Rīgas komiteja

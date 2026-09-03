@@ -1,0 +1,27 @@
+id: 89
+file_name: lclc-2-n089-SP_Daugavpils_city_committee-2000-[1930-01-22…].txt
+title: Sarkanās Palīdzības Daugavpils pilsētas komitejas uzsaukums Daugavpils strādniekiem, ar aicinājumu atbalstīt politieslodzīto cīņu
+author: Latvijas Sarkanās Palīdzības Daugavpils pilsētas komiteja
+date: [1930-01-22…]
+print_run: 2000
+typography_name: Spartaks
+production_method: shapirograph
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 160.
+
+text:
+LATVIJAS SARKANA PALĪDZĪBA (MOPR)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI DAUGAVPILS STRĀDNIEKI!
+Fašistiskais terors pārkāpis visas robežas. Dokumentu pārbaude naktī, kratīšanas un aresti bez jebkādiem iemesliem un pamata; katru dienu uzbrukumi strādnieku organizācijām — lūk, tie fakti, kas raksturo stāvokli pilsētā.
+Nespēdama tikt galā ar strādnieku šķiras revolucionārās aktivitātes pieaugumu, buržuāzija sauc palīgā policiju, kas pārvērtusies par otru politpārvaldi. Izspiegošana un slepena nelegālās literatūras nolikšana, provokatoriskas liecības politpārvaldes labā, — lūk, policijas darbs pēdējā laikā.
+Biedri strādnieki! Ziniet, ka policija ir tā pati politpārvalde, tie paši špiki, kas terorizē pilsētas darba cilvēkus.
+Politieslodzīto stāvoklis pasliktinās ar katru dienu. Barība, ko viņi saņem, sastāv tikai no tārpiem. Viss aprēķināts tā, lai politieslodzītos nomērdētu badā. Apsmieklam un apvainojumiem nav gala. Uz vismazāko protestu fašistiskā cietuma administrācija atbild ar stiprām represijām, ieskaitot pat piekaušanu. Bet cietumsargi fašisti nespēs salauzt cīnītāju revolucionāro izturību. Ar saliedētu pretsparu viņi atbild katram varmācības aktam. Protestējot pret pieaugošo reakciju, politieslodzītie cietumā 22. janvārī izziņoja bada streiku.
+Biedri strādnieki! Jūsu pienākums ir — nepieļaut, lai cietumsargi fašisti izrēķinātos ar Daugavpils cietumā ieslodzītajiem! Izsakiet savu protestu! Ziedojiet politieslodzīto labā! Pieprasiet cietuma režīma mīkstināšanu! Iestājieties Moprā!
+Nost fašistisko teroru!
+Lai dzīvo strādnieku un zemnieku vara!
+Lai dzīvo revolucionārā aizmugure — Moprs!
+
+Mopra Daugavpils pilsētas komiteja

@@ -1,0 +1,25 @@
+id: 83
+file_name: lclc-2-n083-SP_CK-unk-[1930-01-08…].txt
+title: Sarkanās Palīdzības CK lapiņa par politieslodzīto stāvokli un viņu varonīgo cīņu buržuāziskās Latvijas cietumos
+author: Latvijas Sarkanās Palīdzības CK
+date: [1930-01-08…]
+print_run: unk
+typography_name: unk
+production_method: shapirograph
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 150–151.
+
+text:
+Visu zemju proletārieši, savienojieties!
+VISIEM DARBAĻAUDĪM!
+Biedri! Politapcietināto stāvoklis paliek ar katru dienu šausmīgāks. Latvijas cietumi nav vairs tikai revolucionāru izolācijas vietas, bet ir jau pārvērsti par to fiziskās un garīgās nobendēšanas vietām. Ka tiešām tas tā, to apliecina politspiedzes priekšnieks, skaidri pasakot — «ka cietumiem ir jābūt, un tie ir nevis izolācijas vai labošanas vietas, bet revolucionāru iznīcināšanas vietas».
+Valdošās šķiras — buržuāzijas tiesas pašreiz gan politiskiem nespriež tieši nāves sodus, bet, piespriežot daudzus gadus cietuma, tie piespriež nāves sodu. Un kamdēļ gan viņiem spriest nāves sodu, ka viņi it labi zin, ka cietumu apstākļi un režīms ir tāds, ka, arī gadus piespriežot, politiskie tiek iedzīti kapā.
+Politieslodzītie, kuriem bija drosme uz vaļas prasīt pēc biezāka maizes rieciena, bija drosme aicināt pārējos darbaļaudis organizēties cīņai par labāku nākotni, viņi arī cietumā cīnās par sava stāvokļa uzlabošanu, pretojas administrācijas varmācībām — nāves režīmam, aizstāv visi vienu visiem cīņas līdzekļiem, kādi var būt cietumā izlietojami. Tā pagājušā vasarā skandāls un bada streiks Daugavpils cietumā, bada streiks Rīgas Centrālcietumā, bada streiks Jelgavas cietumā, bada streiks Rīgas Termiņcietumā un neģēlīgā pastaigas uzrauga boikots, pieprasot tā apmaiņu. Un beidzot atkal protesta kampaņa pret administrācijas varmācībām, kura sodījusi nevainīgās Blumfeldi un Līcieti ar karceri par to, ka viņas it kā rakstījušas zīmīti kriminālistiem, aicinot tos uz dumpi. Pret šo varmācību protestēja citas politieslodzītās, kuras par to arī sadzina karcerī.
+Biedri strādnieki! Mēs nevaram palikt vienaldzīgi pret šiem notikumiem, mēs nevaram atstāt politieslodzītos viņu liktenim, mums jāatbalsta tie viņu cīņā pret nāves režīmu — pret cietuma administrācijas varmācībām.
+Visi darbaļaudis — protestējiet pret cietumos ievesto nāves režīmu!
+Nost ar varmācībām un nāves režīmu cietumos!
+Amnestiju politieslodzitiem darbaļaudīm!
+
+Sarkanās Palīdzības Centrālā Komiteja

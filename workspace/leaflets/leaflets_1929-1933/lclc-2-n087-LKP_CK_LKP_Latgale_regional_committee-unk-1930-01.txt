@@ -1,0 +1,46 @@
+id: 87
+file_name: lclc-2-n087-LKP_CK_LKP_Latgale_regional_committee-unk-1930-01.txt
+title: LKP CK un LKP Latgales apgabala komitejas uzsaukums strādniecēm un darba zemniecēm stāties aktīvo cīnītāju rindās par strādnieku un zemnieku varu
+author: LKP CK un LKP Latgales apgabala komiteja
+date: 1930-01
+print_run: unk
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 156–158.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+PILSĒTU UN LAUKU DARBA SIEVIETEI!
+Nospiestība, beztiesiskums, pilnīgs analfabētisms — lūk, Latgales darba sievietes liktenis.
+Darba zemniecei no rīta līdz vakaram jārūpējas, lai dabūtu gabalu maizes un pabarotu izsalkušos bērnus. Smagais darbs un sliktā barība novārdzina darba zemnieces spēkus, viņa priekšlaicīgi noveco, zaudē savus spēkus un bez cerībām raugās nākotnē.
+Šo bezcerību izmanto ksendzi, popi, kulaki un citi tumšie spēki.
+Ksendzi apmāna ticīgo darba zemnieci, kas domā, ka ksendzs runā patiesību, jo dievs to viņam tā novēlējis.
+Pagājušajās saeimas vēlēšanās gandrīz visas Latgales zemnieces balsojušas par ksendzu kandidatūrām. Pēc tam kad ksendzi bija tikuši saeimā, viņi pilnīgi aizmirsa darba zemnieču vajadzības. Viņi viscaur aizstāv buržuāzijas intereses un ar visu krūti stāv par buržuāziski fašistisko valdību, kas izputina Latgales darba zemniecību, izpārdod zemi un zemnieku iedzīvi, lai ievāktu milzīgos nodokļus. Šo ievākto nodokļu lauvas tiesa nokļūst buržuāzijas un arī ksendzu un popu kabatās. Lūk, kādēļ ksendzi aizstāv valdību, sakot, ka viņi rūpējas par tautas labklājību.
+Īstenībā tas tā nav, — vajag tik pamatīgāk iedziļināties šai lietā, un mēs redzēsim, ka visa buržuāzijas un kulaku bagātība ir darba zemniecības un strādnieku roku darbs.
+Kāpēc strādnieks, strādniece, darba zemnieks un zemniece, kas diendienā strādā un cenšas, dzīvo pusbadā un pusapģērbti, un viņu bērni nevar apmeklēt skolas apģērba, apavu trūkuma dēļ utt.?
+Kāpēc gan buržuji, lauku kulaki un ksendzi, kas nestrādā, dzīvo labi? Visi ir paēduši, apģērbti, apauti, bērni apmeklē skolas, universitātes un izmanto visus zemes labumus.
+Vai tad var ticēt ksendza vārdiem, ka dievs vairāk mīl nabagos?
+Nē, protams, ne. Ja tas tā būtu, ksendzs pats tā nemīlētu naudiņu, nemīlētu bagātību. Neplēstu no nabadzīgajiem tik traku naudu par laulāšanu, kristīšanu, apbedīšanu un citām ceremonijām. To viņš dara tādēļ, lai nestrādājot dabūtu visa pietiekoši.
+Darba zemnieces, jānomet šis jūgs, jāatbrīvojas no šiem melnajiem kraukļiem, kuri izsūc darba tautu.
+Bagātie, buržuji, kulaki labprātīgi neatdos darbaļaudīm atņemtās bagātības, vajag viņus ar spēku piespiest atteikties no virskundzības pār strādnieku šķiru un darba zemniecību.
+Bez cīņas nav uzvaras!
+Cīņa pret šiem asinssūcējiem un krāpniekiem ir smaga un nežēlīga, un vīrieši vieni, bez sieviešu palīdzības tajā nevarēs uzvarēt.
+Strādniecēm un darba zemniecēm sevišķi aktīvi jāpalīdz šai cīņā pret apspiedējiem, jo darba sieviete uz saviem pleciem sevišķi izjūt šo ekspluatācijas jūgu.
+Sieviete nevar un nedrīkst vienaldzīgi noskatīties, kā viņas biedrs, vīrs, brālis vai dēls nenogurstoši cīnās pret buržuāziju, izbaudīdams cietumu, katorgu un spīdzināšanu, viņai jābūt šīs cīņas līdzdalībniecei, jāpalīdz šai cīņā un tā jāatvieglo.
+Sievietei aktīvi jāieslēdzas šai cīņā, jāpaceļ sava protesta balss pret fabrikantu, kulaku un visas melnās ksendzu bandas ņirgāšanos.
+Kāpēc mūsu brāļus, vīrus, dēlus iesloga cietumos tikai tādēļ, ka viņi neklusē, bet iedrošinās atklāti aizstāvēt savas tiesības? Tam reiz jādara gals! Diezgan!
+Darba zemnieces, jūsu vieta ir proletariāta kopējās revolucionārajās rindās, un tikai roku rokā ar vīriešiem strādniece un darba zemniece spēs uzlabot savu stāvokli.
+Nost verdzību un darba zemnieces iesaistīšanu dzimtbūšanā!
+Strādnieces un darba zemnieces, iestājieties Kompartijā un komjaunatnē!
+Strādnieces un zemnieces, stipriniet pretfašistisko fronti!
+Sievietes, atbrīvojieties no reliģijas māņiem un stājieties revolucionārajās rindās!
+Nost Latvijas fašistisko valdību!
+Cīņā par strādnieku un zemnieku varu!
+Lai dzīvo proletariāta diktatūra!
+
+Latvijas Komunistiskās partijas Centrālā Komiteja un [Latgales] apgabala komiteja

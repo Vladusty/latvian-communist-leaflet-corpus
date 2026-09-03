@@ -1,0 +1,40 @@
+id: 82
+file_name: lclc-2-n082-LKP_Riga_committee_LKJS_Riga_committee-5000-[1930-01-01..1930-01-10].txt
+title: LKP un LKJS Rīgas komiteju lapiņa ar aicinājumu strādniekiem un atvaļinātajiem kareivjiem LKP un LKJS vadībā cīnīties pret buržuāziju, par Padomju Latviju
+author: LKP Rīgas komiteja un LKJS Rīgas komiteja
+date: [1930-01-01..1930-01-10]
+print_run: 5000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 148–150.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+Pret karu! Pret bruņošanos! Nost fašistisko Latvijas valdību!
+Visi par strādnieku-zemnieku valdību!
+BIEDRI STRĀDNIEKI, ATVAĻINĀTIE KARAVĪRI UN DARBA JAUNIEŠI!
+Asinskārīgais pasaules imperiālisms cīņā dēļ tirgiem un zelta ir dzinis uz savstarpēju apslepkavošanu apmātos darbaļaužu miljonus. Tūkstoši apkauto, desmitiem tūkstošu sakropļoto, simtiem tūkstošu aplaupīto un izputināto, badā un galējā postā iedzīto — tāds vienmēr ir imperiālistisko karu kopsavilkums. 1914.—17. gadu imperiālistiskais karš un daļēji Ziemassvētku kaujas nomazgāja asinīs Latvijas strādniecību un darba zemniecību.
+Krievu monarhija izmantoja latviešu patriotismu un naidu pret vācu muižniecību, lai dzītu vissmagākās vietās latvju strādniekus un darba zemniekus. Ziemassvētku kaujas bija mācība, caur kuru izejot, dzīvie saprata imperiālisma īstos nolūkus.
+Imperiālisms bija pārrēķinājies!
+Latvijas proletariāts, tērpts strādnieku blūzēs un zaldātu šineļos, ieraudzīja beidzot to, pret ko bija jāvērš ieroči.
+Saprata, ka vienīgi starptautiskā buržuāzija un kara sociķi vainojami un nes atbildību par asinspirti.
+To līdz šai dienai strādniecība nav aizmirsusi!
+Bailēs no tā, ka proletariāts var vērst ieročus pret buržuāziju kara gadījumā, buržuāzija un pasaules kara līdzvainīgie un vislielākie provokatoru sociālfašisti nekaunas krāpt un apmāt darbaļaudis, sarīkojot 6. janvārī gājienus uz mirušo strēlnieku kapiem; rod un sēj ilūzijas lētticīgos, ka bez imperiālistiskā kara nebūtu «demokrātiskās» Latvijas, lej liekulības asaras, lai apslēptu straujo bruņošanos slaktiņam pret SPRS. Latvijas fašistiskā valsts radās ar to palīdzību, pret kuriem cīnījās Ziemassvētku kauju dalībnieki — nākošie sarkanie strēlnieki!
+Apvienotās buržuāzijas kalpi radīja Latvijas valsti, kura jau 11 gadus apspiež vēl negantāk strādniecību nekā krievu monarhija.
+Atvaļinātie karavīri, kuri kādreiz cīnījās par šo buržujisko valsti, tagad no šīs valsts fašistiem un sociālfašistiem tiek iedzīti posta un badā, tiek spīdzināti, arestēti, mesti cietumā.
+Prasītās un solītās zemes vietā tiek dotas ķēdes!
+Strādniecībai jāzin, ka šie sarīkotie viltības un liekulības gājieni ir tikai fašistu un sociālfašistu tautisks manevrs, lai apslēptu armijas fašizēšanu, straujo bruņošanās manevri, lai novērstu strādnieku uzmanību no augošām kara briesmām pret SPRS.
+Mēs nedrīkstam ne uz mirkli aizmirst, ka buržuāzija iekšējās pretrunas un pretrunas starp sevi un proletariātu var izšķirt un mēģinās izšķirt caur jaunu imperiālistisko slaktiņu.
+Viņa uz to drudžaini gatavojas!
+Strādnieku uzdevums ir visiem spēkiem graut šo valsti! Graut fašistisko armiju! Cīņā par strādnieku-zemnieku valdību! Zem Kompartijas un Komjaunatnes savienības vadības cīņā par Padomju Latviju!
+Tas būs tā darba turpinājums, par ko cīnījās sarkanie strēlnieki.
+Nost fašistisko Latviju!
+Nost imperiālistisko karu un šī kara gatavotājus sociālfašistus!
+Lai dzīvo revolucionārā cīņa!
+Lai dzīvo bruņotais proletariāts cīņā par strādnieku-zemnieku valdību! Visi LKP un LKJS rindās!
+
+LKP Rīgas komiteja
+LKJS Rīgas komiteja

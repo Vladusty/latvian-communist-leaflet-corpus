@@ -1,0 +1,33 @@
+id: 85
+file_name: lclc-2-n085-LKP_Latgale_regional_committee_LKJS_Latgale_regional_committee-4000-[…1930-01-21].txt
+title: LKP un LKJS Latgales apgabala komiteju lapiņa, kas veltīta V. I. Ļeņina, K. Lībknehta un R. Luksemburgas piemiņai un 1905. g. 9. janvāra notikumu atcerei
+author: LKP Latgales apgabala komiteja un LKJS Latgales apgabala komiteja
+date: […1930-01-21]
+print_run: 4000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 153–154.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+LATVIJAS KOMUNISTISKA JAUNATNES SAVIENĪBA
+(KOMUNISTISKĀS JAUNATNES INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI LATGALES STRĀDNIEKI UN DARBA ZEMNIECĪBA!
+22. janvārī paiet 25 gadi kopš tās dienas, kad 1905. g. pēc cara bendes Nikolaja pavēles Pēterburgā, laukumā cara Ziemas pils priekšā apšāva simtiem strādnieku, strādnieču un bērnu. 1905. g. 9. janvārī izsalkušie Pēterburgas strādnieki un strādnieces, nesdami svētbildes un bendes Nikolaja portretus, ar popu provokatoru Gaponu priekšgalā gāja uz Ziemas pili lūgt Nikolaju Palkinu apžēloties par viņiem un uzlabot viņu posta stāvokli. Strādniekus sagaidīja nevis ar maizi, bet ar ložu krusu. Cara gvarde zalvēm šāva tieši pūlī, uz strādniekiem. Mīdīja strādniekus, strādnieces, bērnus.
+Tikai tad strādniekiem galīgi izgaisa cerības uz benžu žēlastību, strādnieki saprata, ka ne ar verdziskiem žēlastības lūgumiem, bet tikai ar revolucionāru cīņu, gāžot asinssūcējus un bendes, var panākt labāku dzīvi. Atbildot uz 1905. g. 9. janvāra apšaušanu, pār visu Krieviju pārvēlās revolucionārās cīņas vilnis. Sākās 1905. g. revolūcija.
+Biedri! Godinot 1905. g. asiņainās .svētdienas upurus, vēl ciešāk saliedēsim Latgales strādnieku un darba zemniecības revolucionārās rindas cīņai pret uzbrūkošo fašismu. Mūsu buržuāziskā Latvijas valdība, tāpat kā bende Nikolajs, aicina šaut uz revolucionāriem strādniekiem (22. augustā Rīgā, 1929. g. 18. oktobrī Rīgā un Daugavpilī). Buržuāziskā valdība ņirgājas par bezdarbnieku delegācijām. Ne ar lūgumiem, bet ar aktīvu revolucionāru cīņu var izcīnīt darbu un maizi.
+21. janvārī paies 6 gadi, kopš miris visas pasaules apspiesto tautu vadonis Vladimirs Iļjičs Ļeņins. Ļeņina nav, bet viņa lieta dzīvo. Attīstās un pieaug Padomju Krievijas varenība. Nostiprinās Kominterne, visās zemēs aug kompartijas, kuras visā pasaulē novedīs līdz uzvarošām beigām Ļeņina iesākto lietu. Iļjiča piemiņas dienā stiprināsim Kompartijas — uzticīgā masu revolucionārā vadoņa rindas.
+Paiet 11 gadi, kopš pēc vācu sociāldemokrātu pavēles nodevīgi tika nogalināti Vācijas revolucionārā proletariāta vadoņi Kārlis Libknehts un Roza Luksemburga. Latgales revolucionārā jaunatne, atceroties mūsu komjaunatnes draugu Kārli Lībknehtu, vēl ciešāk saliedēsies ap LKJS karogu.
+Ļeņina, Lībknehta un Luksemburgas lietu novedīsim līdz uzvarošām beigām!
+Nost buržuāzisko Latviju!
+Nost kapitālistu kalpus, revolucionāro strādnieku slepkavas — sociālfašistus!
+Lai dzīvo Komunistiskā Internacionāle un Komunistiskā Jaunatnes Internacionāle!
+Lai dzīvo LKP un LKJS! Lai dzīvo Padomju Latvija!
+
+LKP Latgales apgabala komiteja
+LKJS Latgales apgabala komiteja

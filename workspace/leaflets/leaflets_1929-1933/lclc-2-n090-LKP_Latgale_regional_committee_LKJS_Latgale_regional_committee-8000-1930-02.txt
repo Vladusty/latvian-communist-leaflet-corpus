@@ -1,0 +1,39 @@
+id: 90
+file_name: lclc-2-n090-LKP_Latgale_regional_committee_LKJS_Latgale_regional_committee-8000-1930-02.txt
+title: LKP un LKJS Latgales apgabala komiteju uzsaukums jauniesaucamajiem kareivjiem ņemt aktīvu dalību revolucionārā cīņā, stiprināt savienību ar revolucionāro strādniecību un zemniecību
+author: LKP Latgales apgabala komiteja un LKJS Latgales apgabala komiteja
+date: 1930-02
+print_run: 8000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 161–162.
+
+text:
+LATVIJAS KOMUNISTISKA PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI LATGALES JAUNIESAUCAMIE, STRĀDNIEKI UN DARBA ZEMNIECĪBA!
+Latvijas buržuāziskā valdība katru gadu iesauc armijā strādnieku-zemnieku jaunatni, lai ar dzelzs un dūres disciplīnas palīdzību izdresētu viņus par padevīgiem un paklausīgiem vergiem — kapitālistiskās iekārtas aizstāvjiem. Buržuāzija var valdīt un apspiest darbaļaudis tikai ar ieroču palīdzību. Policija, politpārvalde, aizsargi un paklausīga armija, — lūk, spēks, ar kura palīdzību buržuāziskā valdība nospiež verdzībā Latgales nabadzīgo zemniecību, nežēlīgi ekspluatē strādniekus, grauj revolucionārās strādnieku organizācijas, apspiež proletariāta revolucionāro cīņu par tā ekonomiskajām tiesībām.
+Ar policistu nūjām, durkļiem un ložmetējiem buržuji liek strādniekiem strādāt viņu labā, maksājot bada algu. Ar policistu nūjām, durkļiem un ložmetējiem valdība aplaupa Latgales zemniekus, ievāc pārmērīgus nodokļus, izpārdod pēdējo mantu, pārvēršot nabadzīgos zemniekus par kalpiem.
+Tūkstošiem bezdarbnieku pilsētās, desmitiem tūkstošiem uz laukiem nav maizes gabala. Simti un tūkstoši Latgales saimniecību tiek pārdotas zem āmura par to, ka nav nomaksāti pārmērīgie nodokļi un procenti bankām. Latgales darbaļaužu bērni nevar apmeklēt skolas — nav maizes, nav apģērba, nav apavu. Tanī pašā laikā buržuāziskā valdība maksā tūkstošus, miljonus rubļu apbruņojumiem —• kara sagatavošanai pret Padomju Krieviju. Apspiež strādniekus, nospiež verdzībā zemniekus, grauj Kompartiju, lai fašistiskā buržuāzija varētu iedzīvoties miljonos, apspiest darbaļaudis un valdīt pār pasauli.
+Asiņainajā izrēķināšanās akcijā un darba tautas apspiešanā fašistiskajai buržuāzijai palīdz viņu sulaiņi sociāldemokrāti. Šīs pērkamās dvēseles ar skaistām frāzēm apmāna Latgales zemniekus un strādniekus, lai par viņiem balsotu saeimā, bet saeimā viņi kopā ar buržuāziju izstrādā likumus, kas dzen verdzībā Latgales darbaļaudis. Sociāldemokrātu vadoņi kopā ar baltgvardiem un fašistiem izplata melus par Padomju Krieviju, gatavojot karu Pret PSRS.
+Biedri jauniesaucamie! Aizejot buržuāziskajā armijā, mācieties rīkoties ar ieročiem, lai vajadzīgajā brīdī pagrieztu durkļus un ložmetējus pret parazītiem — buržujiem.
+Gatavojieties kļūt par Padomju Latvijas Sarkanās Armijas kareivjiem!
+Šķiru cīņa starp kapitālistiem un darbaļaudīm saasinās. Lai apspiestu proletariāta revolucionāro cīņu, fašisti izmanto kareivjūs, viņi liks kareivjiem šaut uz saviem šķiras biedriem — streikojošiem strādniekiem.
+Biedri kareivji! Nevienu šāvienu pret viņiem!
+Visi revolucionārā proletariāta pusē!
+Organizēti cīnieties pret buržuāzijas algotņiem — virsniekiem!
+Biedri strādnieki un darba zemnieki!
+Uzturiet un nostipriniet sakarus ar tiem, kas aiziet armijā!
+Fašisti iesloga kareivjus kazarmās un cietokšņos, izolē no revolucionārās cīņas. Informējiet, stāstiet kareivjiem par mūsu cīņu!
+Stipriniet revolucionārā proletariāta, darba zemniecības un kareivju vienoto cīņas fronti pret fabrikantiem, kulakiem un virsniekiem!
+Nost kara budžetus! Nost apbruņošanu!
+Nost fašistisko buržuāziju un sociālfašistus!
+Lai dzīvo Kompartija un komjaunatne!
+Lai dzīvo Sarkanā Armija! Lai dzīvo Sarkanā Latvija!
+
+LKP Latgales apgabala komiteja
+LKJS Latgales apgabala komiteja

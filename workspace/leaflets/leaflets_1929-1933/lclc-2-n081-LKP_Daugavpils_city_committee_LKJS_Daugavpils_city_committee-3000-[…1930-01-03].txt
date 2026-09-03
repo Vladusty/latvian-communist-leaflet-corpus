@@ -1,0 +1,39 @@
+id: 81
+file_name: lclc-2-n081-LKP_Daugavpils_city_committee_LKJS_Daugavpils_city_committee-3000-[…1930-01-03].txt
+title: LKP un LKJS Daugavpils komiteju lapiņa sakarā ar padomju varas krišanas 10. gadadienu, ar aicinājumu cīnīties par padomju varas atjaunošanu
+author: LKP Daugavpils pilsētas komiteja un LKJS Daugavpils pilsētas komiteja
+date: […1930-01-03]
+print_run: 3000
+typography_name: Spartaks
+production_method: shapirograph
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 147–148.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+LATVIJAS KOMUNISTISKĀ JAUNATNES SAVIENĪBA
+(KOMUNISTISKĀS JAUNATNES INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI!
+3. janvārī paies 10 gadi, kopš Daugavpilī krita padomju vara — strādnieku un zemnieku vara. Poļu un latviešu buržuāzijas bandu apvienotie kontrrevolucionārie spēki uzvarēja, noslīcinot strādnieku un zemnieku asinīs proletāriskās revolūcijas iekarojumus. Viņi nodibināja buržuāzisko demokrātiju, kas jau 10 gadus žņaudz darbaļaudis, pūdē cietumos un izsūta no Latvijas strādniekus un zemniekus.
+Nost fašistiskos bandītus!
+Fašistiskā valdība kā žandarms izrēķinās ar strādnieku organizācijām, viņa sagrāva arodbiedrības un strādnieku slimokases. Tiek gatavoti arvien jauni uzbrukumi proletāriskās revolūcijas iekarojumiem. Tiek gatavota 8 stundu darba dienas likvidēšana, dzīvokļu likuma atcelšana, nodokļu palielināšana uz maizi un bada nāve bezdarbniekiem. Tas notiek laikā, kad strādnieku un zemnieku valstī — PSRS ar katru dienu uzlabojas darbaļaužu stāvoklis, tiek ieviesta 7 stundu darba diena, tiek celtas jaunas fabrikas un rūpnīcas.
+Bet pie mums, Daugavpilī, bezdarbs aug ar katru gadu. Strādnieku šķiras ekonomiskais stāvoklis arvien pasliktinās. Fabrikas un rūpnīcas ir sagrautas.
+Nost darbaļaužu žņaudzējus!
+Darbaļaudis vārgst nodokļu un bezdarba jūgā, bet buržuāzija un sociāldemokrāti gatavojas atklāt pieminekli sakarā ar Daugavpils strādnieku nogalināšanas 10. gadadienu, sakarā ar Daugavpils atbrīvošanu no strādnieku un zemnieku varas. Viņi nedod līdzekļus sabiedriskiem darbiem, bet lamā izsalkušos bezdarbniekus par sliņķiem un iztērē miljonus rubļu tautas naudas pieminekļiem un banketiem.
+Tumšie reakcijas spēki rīko dzīres mēra laikā.
+Nost fašistus un sociālfašistus!
+Katram darba cilvēkam jāsaprot, ka jābūt gatavam atsist fašistu nejaušu uzbrukumu un nepieļaut fašistiskās diktatūras sagatavošanu.
+Saliedējieties ciešāk ap Kompartiju un komjaunatni!
+Sarīkojiet skrejošus mītiņus un masu sapulces!
+Organizējieties un gatavojieties savu interešu aizstāvēšanai un izšķirošajai cīņai!
+Nost Latvijas fašistisko valdību! Nost sociālfašistus!
+Lai dzīvo proletāriskā diktatūra!
+Lai dzīvo sarkanā Daugavpils!
+Lai dzīvo Padomju Latvija!
+
+Latvijas Komunistiskās partijas Daugavpils komiteja
+Latvijas Komunistiskās jaunatnes savienības Daugavpils komiteja

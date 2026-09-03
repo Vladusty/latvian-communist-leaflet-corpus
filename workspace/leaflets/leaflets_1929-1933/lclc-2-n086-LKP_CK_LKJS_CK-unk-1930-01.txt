@@ -1,0 +1,31 @@
+id: 86
+file_name: lclc-2-n086-LKP_CK_LKJS_CK-unk-1930-01.txt
+title: LKP CK un LKJS CK lapiņa sakara ar V. I. Ļeņina nāves dienas un 1905. g. 9. un 13. janvāra asiņaino notikumu atceri
+author: LKP CK un LKJS CK
+date: 1930-01
+print_run: unk
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 155–156.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+9. UN 13. JANVĀRIS
+9. un 13. janvāris 1905. g. ar asinīm ir ierakstīti proletariāta sirdīs. 9. (22.) janvārī 1905. g. Petrogradas ielas mirka strādnieku asinīs, 13. (26.) janvārī tas pats atkārtojās Rīgā. Cara kalpi bez žēlastības slepkavoja no bada un trūkuma uz ielas izdzītos strādniekus. 9. un 13. janvāra masu slaktiņi strādnieku šķiras apziņā ienesa veselu lūzumu. Izzuda ilūzijas uz cara žēlastību — nostājās šķira pret šķiru.
+Pagājuši 25 gadi!
+Krievijas proletariāts, satriecis drupās carisko iekārtu, atsvabinājies no carisma un buržuāzijas varmācībām, — ceļ jaunu pasauli — sociālismu. Rūpniecības un lauksaimniecības attīstība iet milzu soļiem uz priekšu, plašas masas tiek ierautas ražošanā, saīsināta darba diena un paaugstinātas algas. Jaunatnes darba laiks ir 4 un 6 stundas. Strādnieku bērniem ir nodrošināta skolas apmeklēšana utt.
+Latvijā turpretim stāvoklis nav mainījies par labu darba tautai. Asiņainā cara vietu ieņem ne mazāk asins un naudas kārīga buržuāzija un sociāldemokrāti. Tāpat kā agrāk, simti un tūkstoši darbaļaužu izbauda uz savām mugurām tagadējās «demokrātijās» pipkas, simti, tūkstoši smok «demokrātijas» cietumos, simti, tūkstoši klīst bez darba un maizes. Jo dienas grūtāks paliek Latvijas darbaļaužu stāvoklis. Fašistiskā buržuāzija kopā ar s.-d. gatavo jaunus uzbrukumus strādniecībai. Cīņa pret buržuāziju tagadējos apstākļos ir daudz grūtāka, nekā tā bija 1905. g. Strādniecības spēki ir sašķelti. Vienu strādniecības daļu vēl tur savās rokās un muļķo s.-d. Viņi kopā ar politisko pārvaldi ar visneķītrākiem līdzekļiem izrēķinās ar to strādniecības daļu, kura neiet viņas pavadā.
+Krievijas proletariāts neļāva sevi muļķot nodevīgiem s.-d., sekoja Ļeņina parolei un uzvarēja. Ļeņina darbi un idejas ir dārgas apspiesto darbaļaužu masām. Daudz zaudēja vispasaules proletariāts ar Ļeņina pāragro nāvi. Ļeņins nomira 1924. g. janvārī, 1905. g. asiņaino notikumu atceres dienā.
+Biedri strādnieki, apspiestie darba zemnieki, darba jaunatne un revolucionārā inteliģence!
+Mūsu mērķi vēl nav sasniegti, tie ir jāsasniedz!
+Pieminot lielā proletariāta vadoņa Ļeņina nāvi, pieminot 1905. g. upurus un tagadējās Latvijas «demokrātijas» cietuma mocekļus, zvērēsim zem Komunistiskās partijas ļeņinisma karoga ar vēl lielāku neatlaidību iet cīņā par Latvijas apspiesto masu uzvaru — Padomju Latviju. Ne cietumi, ne karātavas neatbaidīs Latvijas darbaļaudis no viņas. Kritīs simti, to vietā nāks tūkstoši — proletariātam jāuzvar.
+Nost izsūcēju varu!
+Nost s.-d. līderus — revolūcijas ienaidniekus, strādnieku šķiras nodevējus!
+Lai dzīvo Komunistiskā partija, Komunistiskā jaunatnes savienība un viņu revolucionārās cīņas!
+Slava kritušiem — lāsts slepkavām!
+
+LKP CK
+LKJS CK

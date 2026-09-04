@@ -1,5 +1,5 @@
 id: 11
-file_name: lclc-2-n011-LKP_Ventspils_district_committee_LKJS_Ventspils_district_committee-2500-[…1929-03-17].txt
+file_name: lclc-2-n011-LKP_Ventspils_regional_committee_LKJS_Ventspils_district_committee-2500-[…1929-03-17].txt
 title: LKP Ventspils apgabala komitejas un LKJS Ventspils rajona komitejas aicinājums Ventspils darbaļaudīm pilsētas domes vēlēšanās balsot par kreiso arodnieku sarakstu
 author: LKP Ventspils apgabala komiteja un LKJS Ventspils rajona komiteja
 date: […1929-03-17]

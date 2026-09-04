@@ -1,0 +1,32 @@
+id: 97
+file_name: lclc-2-n097-LKP_Lejaskurzeme_regional_committee_LKJS_Lejaskurzeme_regional_committee-5000-[…1930-03-18].txt
+title: LKP un LKJS Lejaskurzemes apgabala komiteju lapiņa ar aicinājumu darbaļaudīm palīdzēt politieslodzītajiem un atbalstīt Sarkanās Palīdzības organizāciju
+author: LKP Lejaskurzemes apgabala komiteja un LKJS Lejaskurzemes apgabala komiteja
+date: […1930-03-18]
+print_run: 5000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 173–174.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+18. MARTS!
+Starptautiskās Sarkanās Palīdzības diena
+Strādnieku solidaritātes diena ar ieslodzītiem biedriem
+Biedri, Latvijas fašistiskā valdība izved līdz šim vēl nepiedzīvotu teroru. Strādnieku aresti, kratīšanas, spīdzināšanas politiska pārvaldē, drakoniskie buržujiskās tiesas spriedumi un «kerenskis» ir palikuši par ikdienišķu parādību. Latvijas, tāpat kā citu fašistisko zemju cietumi pārpildīti ar strādniecības un visu darbaļaužu aktīvākiem cīnītājiem. Simti tūkstoši strādnieku un darba zemnieku uz ilgiem gadiem notiesāti cietumā, katorgā un aizdzīti trimdā. Simti tūkstoši noslepkavotu. Tūkstoši mūsu brāļi un māsas, tēvi un mātes izrauti no piederīgo vidus, tāpēc ka viņi gāja cīņā par darbaļaužu interesēm, par darbu un maizi, pret fašisma un reakcijas slepkavām. Tūkstoši padoti lēnai nāvei cietumos, daudzi miruši no cietumā mantotām slimībām, daudzi satriekti — palikuši ārprātīgi, daudzi, neizciezdami cietuma režīmu un teroru, spēruši izmisuma soļus.
+Biedri! Atbalstiet cietuma mūros smokošos biedrus! Vāciet ziedojumus. Atbalstiet morāliski. Kopējiem spēkiem uzstājoties, atvērsim cietuma durvis, noārdīsim pašus cietumus, izdzīsim darbaļaužu bendes no Latvijas. Revolucionāros cīnītājus nesalauzīs nekāda varmāku roka, ja visa darba tauta sniegs atbalstu.
+Atceroties Parīzes komunārus un viņu slavenās cīņas, mēs nedrīkstam aizmirst arī tos, kuri šo cīņu turpina un atdod savas dzīvības par darbaļaužu labāku nākotni — vispasaules darba komūnu.
+Pret reakcijas un fašisma uzbrukumu atbildēsim ar iestāšanos Komunistiskajā partijā un Sarkanā Palīdzībā. Organizēti turpināsim cīņu. No Latvijas buržuāzijas fašistiem un s.-d. līderiem strādniecība neko citu nevar sagaidīt kā tikai pipkas un cietumus. No Latvijas fašistiem un s.-d. līderiem strādniecība nesagaidīs arī darbu un maizi. To dos vienīgi pašu strādnieku un darba zemnieku valdība, kas nodibināsies tikai cīņas ceļā. Tamdēļ brīvība un politiskās tiesības jāiekaro.
+Nost reakcijas [un] fašisma teroru!
+Nost strādniecības bendes!
+Nost politisko pārvaldi un viņas aģentus — darba tautas vampīrus!
+Amnestiju ieslodzītiem un no Latvijas izdzītiem revolucionāriem!
+Cīņas sveiciens biedriem — kapitāla gūstekņiem!
+Lai dzīvo starptautiskā strādnieku solidaritāte!
+Lai dzīvo Kompartija un Sarkanā Palīdzība!
+
+LKP Lejaskurzemes apg. komiteja
+LKJS Lejaskurzemes apg. komiteja

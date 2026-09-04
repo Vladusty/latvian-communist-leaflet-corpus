@@ -1,0 +1,32 @@
+id: 94
+file_name: lclc-2-n094-LKP_Ventspils_regional_committee_LKJS_Ventspils_district_committee-3000-[…1930-03-06].txt
+title: LKP Ventspils apgabala komitejas un LKJS Ventspils rajona komitejas lapiņa ar aicinājumu cīnīties pret buržuāzisko iekārtu, par proletariāta diktatūru
+author: LKP Ventspils apgabala komitejas un LKJS Ventspils rajona komiteja
+date: […1930-03-06]
+print_run: 3000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 168–169.
+
+text:
+BIEDRI, CĪŅĀ PRET BEZDARBU!
+Vispasaules kapitālistiskās saimniecības sistēma pārdzīvo smagu saimnieciski finansiālo krīzi. Visu zemju buržuāzija neapmierināmās mantkārības interesēs uzbrūk strādnieku šķirai. Buržuāzija un sociālfašisti izved racionalizāciju, izmet simtiem un tūkstošiem strādnieku un strādnieču uz ielas, pazemina darba algu, pagarina darba laiku. Buržuāzija un II Internacionāles sociālisti visās valstīs likvidē strādniecības organizēšanās un aizstāvēšanās tiesības, uzveļ kapitālistiskās saimniecības grūtības uz strādnieku šķiras pleciem. Valdošā buržuāzija un s.-d. kā Latvijā, tā citās kapitālistiskās valstīs grib piespiest proletariātu ar valsts varas palīdzību bez pretošanās iznest kapitālistiskās stabilizācijas sabrukumu.
+Kapitālistiskās valstīs bezdarbnieku armijas strauji aug. Simtiem miljonu strādnieku ar savām ģimenēm padoti badam, neizbēgamai bojā ejai. Uz viņiem balstoties, buržuāzija izved pastiprinātu strādājošo izsūkšanu, nodzen galīgā postā, nabadzībā un beztiesībā.
+6. martā visu kapitālistisko valstu proletariāts zem Komunistiskās partijas vadības, strādājošie un bezdarbnieki apvienojas aktīvā cīņā par darbu un maizi. Dod organizētu pretsitienu visai buržuāzijas šķiras politikai. Starptautiskā strādnieku cīņa par savām ikdienišķām ekonomiskām prasībām, cīņa pret bezdarbu ir vissvarīgākais politiskais proletariāta cīņas uzdevums. Bezdarbnieku cīņa ir visas strādnieku šķiras ciņa par revolucionārā proletariāta uzvaru.
+6. martā revolucionārā strādniecība Vācijā, Polijā, Rumānijā, Anglijā, Amerikā u. c. demonstrēs pret bezdarbu, pret buržuāzijas un sociāldemokrātijas politiku. Demonstrēs par darbu un maizi, par 7 stundu darba dienu, par lielāku darba algu, par strādnieku šķiras prasībām un tiesībām.
+Latvijas fašistiskai valdībai trūkst līdzekļu rūpniecības organizēšanai, saimnieciskās dzīves attīstībai un darbaļaužu nodrošināšanai ar darbu. Bet viņai netrūkst līdzekļu savas šķiras labklājībai, izpriecām, uzdzīvei. Netrūkst līdzekļu priekš apspiestās un izsūktās strādniecības nemiera un augošā revolucionārisma apslāpēšanas. Netrūkst līdzekļu priekš viņas spīdzināšanas un slepkavošanas. Netrūkst līdzekļu kara gatavošanai kopējā kapitālistu un s.-d. frontē pret pirmo strādnieku valsti — SPRS. Visi līdzekļi tiek izlietoti kara budžetam, politapsardzei, cietumiem, aizsargu u. c. fašistisko organizāciju atbalstīšanai un veicināšanai.
+Nost fašistisko saimniecisko politiku! Nost pretēji darbaļaužu interesēm viņu saražoto līdzekļu izlietošanu! Nost kara gatavotājus un kara budžetu!
+Cietumu, policijas, politapsardzes, tiesu uzturēšanai, aizsargu u. c. fašistu organizāciju atbalstīšanai izlietotās summas nodot bezdarbnieku pabalstīšanai, sabiedrisko darbu organizēšanai.
+Biedri! Neuzticieties s.-d. līderu melu un liekulības frazeoloģijai! Atmaskojiet viņu revolucionārām frāzēm maskotās nodevēju sejas. Saimnieciskā sadarbībā ar buržuāziju s.-d. līderi kā līdzīpašnieki ir strādniecības izsūcēji. Viņi muļķo strādniecības prātus, šausta viņas apziņu, viņas revolucionāro spēku attīstību. Nodod revolucionārā proletariāta cīņu.
+Biedri! Pilnīga darba tautas atsvabināšana no kapitālistiskās iekārtas būs iespējama vienīgi pie proletariāta diktatūras. Par ķīlu tam SPRS.
+Latvijas Komunistiskā partija aicina Latvijas darbaļaudis kopā ar vispasaules strādniecību uzstāties pret buržuāzijas un sociālfašistu uzbrukumiem!
+Lai dzīvo darbaļaužu cīņa par viņu ikdienišķām prasībām!
+Lai dzīvo revolucionārā cīņa par strādniecības mērķi — proletariāta diktatūru!
+Lai dzīvo starptautiska revolucionārās strādniecības cīņa pret vispasaules kapitālismu!
+Lai dzīvo SPRS!
+
+LKP Ventspils apgabala komiteja
+LKJS Ventspils rajona komiteja

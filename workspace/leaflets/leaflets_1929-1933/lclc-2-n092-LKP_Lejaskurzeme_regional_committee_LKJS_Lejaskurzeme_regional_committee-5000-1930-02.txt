@@ -1,0 +1,27 @@
+id: 92
+file_name: lclc-2-n092-LKP_Lejaskurzeme_regional_committee_LKJS_Lejaskurzeme_regional_committee-5000-1930-02.txt
+title: LKP un LKJS Lejaskurzemes apgabala komiteju lapiņa par darbaļaužu grūto stāvokli, ar aicinājumu strādniekiem un bezdarbniekiem cīnīties pret kapitālistisko iekārtu Latvijas Komunistiskās partijas vadībā
+author: LKP Lejaskurzemes apgabala komiteja un LKJS Lejaskurzemes apgabala komiteja
+date: 1930-02
+print_run: 5000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 164–165.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+CĪŅU PRET BADU UN POSTU!
+Biedri fabrikas strādnieki un darba jaunieši!
+Uz ielas izmesti jauni fabriku strādnieku bari, strādnieku ģimenes paliek bez maizes kumosa, bez jebkādiem uztura līdzekļiem. Grūtais stāvoklis tiek padarīts nepanesams. Uz ielas izmestos sagaida bada nāve — visu Latvijas strādnieku liktenis.
+Latvijas buržuāzija un fašistiskā valdība novedusi strādniecību uz pēdējās nabadzības pakāpes, pārvērtusi strādniekus par klaidoņiem bez uztura un pajumtes. Viņa zin, ka uz ielas izsviesto vietā tā dabūs jaunus par daudzkārt zemāku atlīdzību. Latvijas buržuāzijai un fašistiskai valdībai nekad nav rūpējis strādnieku stāvoklis. Tas nerūp tai arī tagad.
+Biedri! Organizētu cīņu pret fašistiskās valdības un fabriku administrāciju patvaļu! Stājieties savās arodbiedrībās savu interešu aizstāvēšanai! Dibiniet fabriku komitejas darba aizsardzībai! Organizētu pretsitienu fašistiskās buržuāzijas uzbrukumam! Biedri! Liepājas fabrikām trūkstot jēlvielas. Bet Latvijas valdībai netrūkst šīs pašas jēlvielas kara ieročiem, ko vērst pret strādniecību. Netrūkst ogles kara kuģu braucieniem. Latvijas buržuāzijai un fašistiskai valdībai trūkstot līdzekļu, lai paceltu strādnieku labklājību, lai pabalstītu bezdarbniekus. Bet viņai netrūkst līdzekļu priekš aizsargu organizācijām, priekš kara sagatavošanas, priekš rautiem un dinejām, priekš policijas un politapsardzes — darbaļaužu pipkotājiem. Biedri, vienīgi strādnieku un zemnieku valdība spēs novērst badu un postu! Nost fašistisko valdību, aizsargus, policiju un politapsardzi! Kara budžeta un policijas uzturēšanas summas bezdarba likvidēšanai, darba algas palielināšanai!
+Biedri! Neklausiet s.-d. līderu liekulīgo melošanu un it kā līdzjušanu. Šie fašisma un valdošās buržuāzijas stutes ir vienlīdz vainīgi pie strādniecības posta un šausmīgās ekspluatācijas. Visu laiku tie ir atrunājuši strādniekus no noteiktiem šķiru cīņas soļiem, sludinājuši brāļošanos ar izsūcējiem, nekaunīgi un atklāti nodevuši strādnieku un bezdarbnieku intereses, slēguši līgumus ar buržuāziju strādnieku muļķošanai un apslaktēšanai. Nost sociāldemokrātu līderus — strādnieku interešu nodevējus! Nost sociāldemokrātu līderus — fašistu kalpus un apsardzes palīgus!
+Biedri strādnieki un darba jaunieši! Nepadodieties administrācijas patvaļai! Uz jūsu ekspluatācijas rēķina ir iedzīvojusies buržuāzija. Prasiet savu daļu! Cīņā pret bada nāvi un bezdarbu! Visi uz demonstrācijām, visi pulcējieties zem sarkanā cīņas karoga! Pret atlaišanu no darba! Darba pārtraukuma gadījumā iztikas minimumu un dzīvokļu piemaksas par darba pārtraukuma laiku ikvienam fabriku strādniekam, darba jaunietim un viņu ģimenēm!
+Lai dzīvo revolucionāra cīņa pret buržuāzijas uzbrukumu strādniecībai!
+Lai dzīvo revolucionārās cīņas priekšpulks — Latvijas Kompartija un Komunistiskā jaunatnes savienība! Lai dzīvo Padomju Latvija!
+
+LKP Lejaskurzemes apgabala komiteja
+LKJS Lejaskurzemes apgabala komiteja

@@ -1,0 +1,36 @@
+id: 91
+file_name: lclc-2-n091-LKJS_CK_LKJS_Riga_committee-7500-1930-02.txt
+title: LKJS CK un LKJS Rīgas komitejas uzsaukums kareivjiem un jūrniekiem cīnīties pret armijas fašizēšanu un kara gadījumā ar PSRS vērst savus ieročus pret buržuāziju
+author: LKJS CK un LKJS Rīgas komiteja
+date: 1930-02
+print_run: 7500
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 162–164.
+
+text:
+LATVIJAS KOMUNISTISKA JAUNATNES SAVIENĪBA
+(KOMUNISTISKAS JAUNATNES INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI JAUNKAREIVJI, KAREIVJI UN JŪRNIEKI!
+Valdošā šķira — kapitālisti jūs iesauc savā fašizētā armijā, lai vajadzības gadījumā dzītu jūs liet asinis par šīs valdošās šķiras interesēm. Viņa, atraudama jūs no proletariāta un darba zemniecības, no jūsu tēviem, mātēm, brāļiem un māsām, ar fašistu oficieru, ar melnsvārču, ar pipkas disciplīnas palīdzību pārvērš jūs par paklausīgiem automātiem cīņā pret proletariātu. Fašistu kliķe uz poļu un franču imperiālistu pavēlēm gatavo armiju karam pret SPRS!
+Biedri jaunkareivji, kareivji, jūrnieki! Neaizmirstiet savus sakropļotos un noslepkavotos 1914. g. karā tēvus un brāļus. Neaizmirstiet Tīreļa purvā un Nāves salā izlietās asinis, kuras prasīja kapitālistu naudas maks! Neklausiet fašistu un socfašistu murgiem, ka kara nebūs, neklausiet, ka jums jāliek galvas par tēvzemi! Viņi jūs muļķo, jo tie ir jūsu ienaidnieki!
+Kara draudi ir durvju priekšā!
+Arī dažus mēnešus pirms 1914. g. pasaules kara sociāldemokrāti izlaida manifestu pret karu, bet 14. g. balsoja par karu un to aktīvi atbalstīja! Arī toreiz pilsoņi un s.-d. bļāva par tēvijas glābšanu, bet uzbruka un sūtīja apmānītos proletāriešus un darba zemniekus slaktēt otras valsts strādniekus un zemniekus!
+Biedri! Kapitālisms pārdzīvo savu pēdējo cēlienu, savu sabrukuma stadiju. Visur bezdarbs, zemas algas, milzīgi nodokļi, rūpniecības krīzes. Plašas strādnieku masas tiek izsviestas uz ielas bez darba un maizes! Darba zemnieks tiek izūtrupēts un nodots bada nāvei. No nodokļiem savāktās milzu summas tiek nodotas milzīgām bruņošanās vajadzībām. Tiek iegādātas lidmašīnas, lielgabali, ložmetēji, tiek ražotas nāvējošas gāzes, un viss tas priekš tam, lai izdevīgākā brīdī uzliesmotu vēl šausmīgāks karš, vēl šausmīgāka masu slepkavošana! Lai caur karu izkultos no sabrukuma, kurā ir ieslīdzis kapitālisms. Kapitālisma nāvīgākais ienaidnieks ir revolucionārā strādniecība, ir SPRS! Tāpēc pašlaik, kad kara mākoņi drausmīgi savelkas, tiek tik neganti iznīcināta revolucionārā kustība, pārpildīti visi cietumi, notiek sistemātiskas kratīšanas, konfiskācijas, masu aresti, sistemātisks terors pret strādniekiem un darba zemniekiem!
+Karagājiens pret SPRS jau iesācies!
+Karam pret SPRS ir apvienojušies visu zemju fašisti un sociālfašisti ar Anglijas, Francijas, Polijas u. c. imperiālistiem priekšgala! Baltijas valstiņas tiek izmantotas kā stratēģiski punkti, Latvijas armija kā pirmais trieciena bataljons. Šim nolūkam Latvijas fašisti pēdējā laikā ir dabūjuši plašas asignācijas un ieročus!
+Biedri jaunkareivji, kareivji, jūrnieki! Vienīgais pretspēks ir strādnieku — darba zemnieku vienota revolucionāra aktivitāte! Aktīva uzstāšanās pret karu! Imperiālistiskā kara pārvēršana pilsoņu kara! Armijas pārnākšana proletariāta cīņas brigādēs! Biedri! Jūs nedrīkstiet būt savas šķiras, savu tēvu un brāļu slepkavas! Nevienu šāvienu uz SPRS proletariātu! Nevienu šāvienu uz strādniekiem un darba zemniekiem! Pagrieziet stobrus pret buržuāziju un viņas kalpiem! Ja jūs sūta pret strādniekiem, atbildiet fašistiem ar ieročiem strādnieku šķiras vārdā!
+Nost imperiālistiskos karus un intervenciju pret SPRS!
+Aiztrieciet no armijas ratā fašistu oficierus un melnsvārčus!
+Nost kara un kara tiesu sociālistus! Nost fašistisko valdību!
+Rokas nost no SPRS! LKP un LKJS ir vienīgais jūsu vadonis!
+Lai dzīvo LKP un LKJS! Lai dzīvo revolucionārā cīņa armijā!
+Lai dzīvo strādnieku-zemnieku valdība!
+Lai dzīvo SPRS proletariāts!
+
+LKJS Centrālā Komiteja
+LKJS Rīgas komiteja

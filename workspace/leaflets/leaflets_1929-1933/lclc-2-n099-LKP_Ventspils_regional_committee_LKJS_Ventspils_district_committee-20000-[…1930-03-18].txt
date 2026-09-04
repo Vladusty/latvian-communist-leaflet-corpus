@@ -1,0 +1,32 @@
+id: 99
+file_name: lclc-2-n099-LKP_Ventspils_regional_committee_LKJS_Ventspils_district_committee-20000-[…1930-03-18].txt
+title: LKP Ventspils apgabala komitejas un LKJS Ventspils rajona komitejas lapiņa sakarā ar Parīzes Komūnas atceres dienu
+author: LKP Ventspils apgabala komiteja un LKJS Ventspils rajona komiteja
+date: […1930-03-18]
+print_run: 20000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 177–178.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+VISIEM DARBAĻAUDĪM!
+Krievijas strādniecība un zemniecība bruņotā cīņā satrieca carismu. Latvijas valsts varu sagrāba ne mazāk mantu un asinskārīgā buržuāzija un sociāldemokrāti. Cara asinssuņu vietā Latvijas strādniecību un darba zemniecību apspiež tautiskie bendes. Fašistiskā buržuāzija un s.-d. valda pār izsūktām un apspiestām darba masām ar rupju fašistisko varu, ar cietumiem un asins-nolaišanu strādnieku šķirai.
+Revolucionārā strādniecība un Komunistiskā partija cīnās par visu darbaļaužu atsvabināšanu no apspiedēju un izsūcēju varas, cīnās par strādnieku šķiras prasībām un nolaupītām tiesībām.
+Revolucionārā strādniecība ved cīņu par politiskām brīvībām, cīnās pret uzbrūkošo reakciju un sociālfašismu, par darbu un maizi.
+Darba zemniecība uzstājas pret lielsaimnieku varmācībām, pret lieliem nodokļiem, pret ūtrupēm un fašistisko organizāciju teroru. Asinskārīgā buržuāziju un sociālfašisti gatavojas karam pret vienīgo strādnieku valsti — Padomju Savienību, smacē «demokrātiskos» Latvijas cietumos simtiem labākos apspiesto darbaļaužu aizstāvjus.
+Biedri strādnieki un darba zemnieki! 18. martā visu zemju apspiestās masas atceras Parīzes Komūnas cīnītājus. Komunāri krita barikāžu cīņās pret apspiedējiem 1871. g. Viņu idejas izved dzīvē SPRS proletariāts un darba zemniecība. Sociālistiskās saimniecības veids likvidē no vēstures nāvei nolemto kapitālistisko saimniecību.
+Labākā piemiņa kritušiem Komūnas cīnītājiem ir atbalstīt politiskos ieslodzītos un viņu mazgadīgos piederīgos.
+Biedri! Neļaujiet tautiskās buržuāzijas varmākām nobendēt bada nāvē strādnieku un apspiesto aizstāvjus. Iestājieties revolucionāru cīnītāju atbalstītāju rindās — Sarkanā Palīdzībā. Sarkanās Palīdzības organizācija atbalsta strādnieku šķiras mocekļus kā materiāli, tā morāliski. Sarkanā Palīdzība pabalsta visus, kas tiek vajāti no valdošās mantīgās šķiras savu politisko pārliecību dēļ.
+Nost strādnieku bendes — fašistisko buržuāziju un sociālfašistus!' Atsvabiniet politiskos ieslodzītos!
+Nost varmāku varu, lai dzīvo Padomju Latvija!
+Mēs atvērsim ieslodzīto revolucionāru kameras!
+Lai dzīvo SPRS!
+Lai dzīvo strādniecības un darba zemniecības revolucionārā ciņa!
+Lai dzīvo Latvijas Komunistiskā partija un Komunistiskā jaunatnes savienība!
+
+Latvijas Komunistiskās partijas Ventspils apgabala komiteja
+Latvijas Komunistiskās jaunatnes savienības Ventspils apg. komiteja

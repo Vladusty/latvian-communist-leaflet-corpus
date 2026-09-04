@@ -1,0 +1,34 @@
+id: 95
+file_name: lclc-2-n095-LKP_Latgale_regional_committee_LKJS_Latgale_regional_committee-3000-[…1930-03-08].txt
+title: LKP un LKJS Latgales apgabala komiteju lapiņa sakara ar Starptautisko sieviešu dienu
+author: LKP Latgales apgabala komiteja un LKJS Latgales apgabala komiteja
+date: […1930-03-08]
+print_run: 3000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 170–171.
+
+text:
+LATVIJAS KOMUNISTISKA PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRES LATGALES STRĀDNIECES UN DARBA ZEMNIECES!
+Latgales strādnieku un darba zemnieku ekonomiskais stāvoklis pasliktinās ar katru dienu. Strādnieku bada alga vēl vairāk samazinās, darba diena pagarinās. Jo bieži uzņēmēji neizmaksā strādniekiem viņu nopelnītos grašus. Latgales darba zemniekus verdzības jūgā dzen ar pārmērīgu nodokļu un nodevu palīdzību. Par parādu nenomaksāšanu izūtrupē simtus un tūkstošus zemnieku saimniecību. Simti un simti tūkstoši Latgales zemnieku pārvēršas par pelēko baronu — kulaku vergiem. Raženais 1929. g. necik neatviegloja darbaļaužu posta stāvokli. Tieši otrādi, nabadzīgajiem zemniekiem šogad vēl vairāk draud trūkums un bads, nekā tas bija pērn. Tas notiek tādēļ, ka visu, ko saražojušas tulznainās zemnieku un strādnieku rokas, aprij buržuji un kapitālisti. Laikā, kad darbaļaužu masas kļūst nabadzīgākas, buržuji kļūst aizvien bagātāki. Fašistiskā valdība patērē desmitiem miljonu latu kara gatavošanai pret Padomju Krieviju, — tas notiek par naudu, kas salaupīta no darbaļaudīm.
+Labāku dzīvi Latgales apspiestie zemnieki, strādnieki un izsalkušie bezdarbnieki varēs panākt nevis ar lūgšanos un klanīšanos buržuāziskās valdības priekšā, bet vienīgi revolucionārā ceļā. Darbaļaužu ekonomisko stāvokli uzlabos nevis fašistiskā valdība, bet to var panākt tikai, ja pastāv strādnieku-zemnieku valdība, tiek gāzta asinskāro ekspluatatoru vara. Lai nomestu no darbaļaužu kakla buržujus, ir nepieciešama aktīva revolucionāra cīņa. Neatlaidīgajā atbrīvošanās cīņā no kapitālisma aktīvi jāpiedalās arī darba sievietēm. Sievietes, apvienojušās plecu pie pleca ar vīriešiem ciešās revolucionārās rindās, sadragās kapitālistu un liekēžu valstību un pēc tam uzcels darba valsti.
+Darba sievietes taču tāpat kā strādnieki un zemnieki nežēlīgi cieš no ekspluatatoru jūga. Darba sievietes, tāpat kā vīrieši, ir nolemtas bezdarbam, trūkumam un badam. Strādnieces un darba zemnieces tiek apspiestas pat vēl vairāk nekā vīrieši.
+Buržuāziskajā Latvijā sievietēm tikai vārdos ir līdzīgas tiesības ar vīriešiem. Bet īstenībā viņas ir verdzenes, kuru pienākums ir tikai gatavot ēdienus un dzemdēt bērnus.
+Tikai Padomju Krievijā sievietes ne tikai vārdos, bet arī īstenībā vienlīdzīgi ar vīriešiem aktīvi piedalās valsts pārvaldīšanā. Desmit un simt tūkstoši sieviešu tiek ievēlētas padomēs un citās sabiedriskajās organizācijās. Tikai Padomju Krievijā sieviete ir atbrīvota un ir pilntiesīga padomju republiku pilsone.
+8. marts — Starptautiskā sieviešu diena.
+8. martā visās kapitālistiskajās valstis apspiestās sievietes aktīvi cīnīsies par savu atbrīvošanu.
+Kapitālistiskajās valstīs tā ir cīņas diena. Tikai Padomju Krievijā 8. marts ir svētku diena ne tikai sievietēm, bet visiem darbaļaudīm.
+Biedres Latgales darba sievietes!
+Starptautiskajā sieviešu dienā — 8. martā apvienojieties zem Kompartijas sarkanajiem cīņas karogiem, lai aktīvi cīnītos pret ekspluatāciju, nabadzību un badu, par strādnieku-zemnieku valdību!
+Iestājieties Kompartijā un komjaunatnē!
+8. martā — sveiciens Padomju Krievijas brīvajām sievietēm!
+Nost buržuāzisko Latviju! Nost gatavojamo karu pret Padomju Krieviju! Lai dzīvo Kompartija un komjaunatne! Lai dzīvo PSRS!
+
+Latvijas Komunistiskās partijas Latgales apgabala komiteja
+Latvijas Komunistiskās jaunatnes savienības Latgales apgabala komiteja

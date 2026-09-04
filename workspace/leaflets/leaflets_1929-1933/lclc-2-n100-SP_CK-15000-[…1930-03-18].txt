@@ -1,0 +1,27 @@
+id: 100
+file_name: lclc-2-n100-SP_CK-15000-[…1930-03-18].txt
+title: Sarkanās Palīdzības CK lapiņa sakarā ar Parīzes Komūnas atceres dienu, ar aicinājumu palīdzēt politieslodzītajiem
+author: Latvijas Sarkanās Palīdzības CK
+date: […1930-03-18]
+print_run: 15000
+typography_name: unk
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 178–179.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+VISIEM DARBAĻAUDĪM!
+Sarkanā Palīdzība un 18. marts
+Biedri strādnieki, nemantīgie zemnieki un darba inteliģence!
+Jau pagājuši 59 gadi no tās vēsturiskās dienas, kad varonīgais Parīzes proletariāts revolucionārā cīņā iekaroja varu. Bet buržuāzijas pārspēka dēļ jau pēc dažām nedēļām Parīzes Komūna tika noslīcināta asiņu jūrā. Salaužot Parīzes proletariāta bruņotos spēkus, Francijas buržuji mežonīgā kārtā uz Parīzes ielām noslepkavoja 30 000 strādnieku un 45 000 ieslodzīja buržuāzijas moku kambaros. Tā bija pirmā nepieredzētā atriebības kārā izrēķināšanās ar darba tautu. Tas bija pirmoreiz vēl nepieredzēts baltais terors!
+Biedri! Parīzes Komūnu buržuāzija varēja noslīcināt strādniecības asinīs, tamdēļ ka komunāri bija vieni — izolēti. Tiem nebija organizētas stipras aizmugures un nenāca atbalsts arī no citu zemju strādniecības. Parīzes komunāriem nebija stipras, viengabalainas organizācijas, nebija šķiru cīņās gūtu vēsturisku piedzīvojumu.
+Šīs kļūdas izlaboja varonīgais SPRS proletariāts, nodibinādams uz vienas sestās zemeslodes [daļas] padomju varu pēc Parīzes Komūnas parauga. SPRS proletariāts Padomju Savienības 13. pastāvēšanas gadā iznīcina pēdējās kapitālisma atliekas. To redz arī vispasaules buržuāzija. Viņas vienīgais glābiņš nožņaugt SPRS un apslāpēt augošo nemieru kapitālistisko zemju strādniecība. Tāpēc visā pasaulē, arī pie mums Latvijā, pastiprinās represijas, baltais terors. Arī Latvijas darba tauta tiek apšauta un mesta cietumos par to, ka prasa darbu un maizi un tiesības brīvi organizēties.
+Šai slepkavošanas darbā ņem aktīvu dalību arī buržuāzijas aģenti sociāldemokrāti. Biedri, Latvijas cietumi vārda pilnā nozīmē tiek pārvērsti par revolucionārās strādniecības iznīcināšanas vietām. Tamdēļ 18. martā, Parīzes Komūnas dienā, kura arī ir Sarkanās Palīdzības diena, lai atskan saucieni visā Latvijā:
+Visi darbaļaudis, stājieties Sarkanās Palīdzības rindās — stipriniet revolucionārās cīņas aizmuguri! Visi par palīdzību politieslodzītiem!
+Nost balto teroru! Nost ar karceriem un melniem mēnešiem! Amnestija politieslodzītiem!
+Lai dzīvo cīņa par darbu un maizi un politiskām tiesībām! Lai dzīvo Sarkanā Palīdzība!
+
+LSP Centrālā Komiteja

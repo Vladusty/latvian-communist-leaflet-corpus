@@ -1,0 +1,42 @@
+id: 96
+file_name: lclc-2-n096-LKP_Ventspils_regional_committee_LKJS_Ventspils_district_committee-unk-[…1930-03-08].txt
+title: LKP Ventspils apgabala komitejas un LKJS Ventspils rajona komitejas lapiņa sakarā ar Starptautisko sieviešu dienu
+author: LKP Ventspils apgabala komiteja un LKJS Ventspils rajona komiteja
+date: […1930-03-08]
+print_run: unk
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 171–173.
+
+text:
+VISIEM STRĀDNIEKIEM UN STRĀDNIECĒM!
+Buržujiskā sabiedrībā sieviete ir mājas un rūpniecības uzņēmuma verdzene. Strādnieci un darba zemnieci uzlūko kā zemu radījumu, kuram kapitālistiskā iekārtā uzlikti neskaitāmi pienākumi, bet tiesību nav nekādu. Buržuāzija raugās uz darba sievieti, ka tā radīta priekš vergošanas un baudu sagādāšanas buržuju izvirtušai miesai, tāpat kā vērsis radīts, lai sagādātu buržuja vēderam cepeti un zābakiem ādu.
+Pastāvot buržuāzijas valsts varai, sieviete strādniece un darba zemniece ir visapspiestākā, visbeztiesiskākā un visneapzinīgākā kapitālistiskās sabiedrības daļa. Viņa ir visvājāk organizēta strādnieku šķiras organizācijās savu prasību uzstādīšanai un aizstāvēšanai.
+Cīņu par darba sievietes atsvabināšanu ved revolucionārā strādniecība un Komunistiskā partija visās kapitālistiskās valstīs. Sievietes galīgu atsvabināšanu no verdzības izvedīs proletariāta uzvara. Pilsētu strādnieces un darba zemnieces līdzdalība aktīvā revolucionārā cīņā divkāršo cīnītāju rindas un palīdz notriekt izsūcējus no strādniecības kakla.
+Katru gadu 8. martā darba sievietes visā pasaulē svin starptautisko sievietes cīņas dienu!
+Uzstājas ar savām strādnieku šķiras prasībām.
+Darba sieviete, tāpat kā vīrietis strādnieks, vairo darba devēju mantu. Sieviete padota daudz nežēlīgākai ekspluatācijai. Daudzreiz uzņēmējs pērk ne tikai sievietes darbu, bet arī miesu.
+Buržuāzija un sociālfašisti izved rūpniecības racionalizāciju.
+Nosit strādnieku un strādnieces algu un pagarina darba laiku. Izsviež tūkstošiem sievietes uz ielas. Trūkums un bezdarbs spiež sievieti bezdarbnieci pārdoties izvirtušai naudīgai buržuāzijai. Lai izbēgtu no bada nāves, bezdarbniece iet vergot zem iztikas minimuma, tā panākot strādnieka vīrieša algas pazemināšanu. Vīrieša algas vairs nepietiek ģimenes uzturēšanai. Sieva spiesta pamest ģimeni un iet līdzi vergot fabrikās, darbnīcās utt.
+Imperiālistiskie kari un cietumi bez žēlastības atrauj tēvu, dēlu, brāli, un sievietei mātei, meitai, māsai jāuztur palikušie piederīgie.
+Darba sievietes un darba vīriešu intereses vieno viņu šķiras, viņu kopējā cīņā pret izsūcēju un apspiedēju varu.
+Strādnieku sievietes labklājību, viņas cilvēciskās tiesības spēj iekarot, nodrošināt tikai strādnieku-zemnieku valsts vara, kā tas ir Padomju Krievijā.
+SPR Savienībā sievietei un vīrietim ir vienādas tiesības. Par vienādu darbu saņem vienādu, līdzīgu algu. Strādā 7 stundas dienā. Sabiedriskās ēdnīcas un sabiedriskie ķēķi atsvabina sievieti no ķēķa darbiem un putras katla. Bērnudārzi un mājas dod sievietei brīvu laiku izkopt savu apziņu un spējas.
+Vienīgi aktīva šķiru cīņa par proletariāta uzvaru atsvabinās darba sievieti no kapitālistiskās iekārtas verdzības.
+Darba sievietei aktīvi jāpiedalās strādnieku šķiras organizācijās.
+Sievietes strādnieces, prasām 7 stundu darba dienu!
+Par vienādu darbu — vienādu atalgojumu!
+Noliegt strādāt sievietes organismam kaitīgus darbus!
+Prasām strādniecēm vārda, sapulču un biedrošanās brīvību!
+Nost sieviešu verdzību!
+Nost buržuju izsūcēju varu!
+Lai dzīvo sievietes strādnieces revolucionārā cīņa!
+Lai dzīvo Starptautiskā sieviešu diena!
+Lai dzīvo SPRS brīvā darba sieviete!
+Lai dzīvo Latvijas Komunistiskā partija!
+
+Latvijas Kom. partijas Ventspils apg. komiteja
+LKJS Ventspils rajona komiteja

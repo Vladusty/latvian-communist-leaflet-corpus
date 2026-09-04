@@ -1,0 +1,38 @@
+id: 105
+file_name: lclc-2-n105-LKP_Ventspils_regional_committee_LKJS_Ventspils_district_committee-2000-1930-04.txt
+title: LKP Ventspils apgabala komitejas un LKJS Ventspils rajona komitejas 1. Maija lapiņa par strādnieku smago dzīvi, ar aicinājumu LKP un LKJS vadībā cīnīties par savām prasībām
+author: LKP Ventspils apgabala komiteja un LKJS Ventspils rajona komiteja
+date: 1930-04
+print_run: 2000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 188–189.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKI!
+Visu zemju imperiālisti izved pastiprinātu uzbrukumu strādniecībai, Vispasaules imperiālisti drudžaini gatavojas uzbrukumam vienīgai strādnieku valstij — Sociālistisko Padomju Republiku Savienībai, gatavojas iznīcināt 10 gados paveikto SPRS celtniecības darbu. Arī Latvijā fašistiskā reakcija roku rokā ar līdzzinātājiem sociāldemokrātiem intensīvāki uzbrūk Latvijas darba tautai. Strādniecībai laupītas tiesības pateikt brīvu vārdu par darba tautas smago materiālo un tiesisko stāvokli. Arvien ciešāk aptaukojusies buržuāzija savelk cilpu ap strādniecības kaklu.
+Ar katru dienu palielinās bezdarbs. Tūkstošiem strādnieku atlaiž no darba — izsviež uz ielas, darbā esošo strādnieku algas tiek nosistas līdz minimumam. Darbaļaudis pilnīgi padoti uzņēmēju saimnieciskam teroram. Darbaļaužu iekarojums — slimokases nodotas uzņēmēju rokās. Strādniecībai laupītas politiskās biedrošanās tiesības. Tiek sagrautas strādnieku revolucionārās arodbiedrības, konfiscēti visi strādnieku izdevumi, noliegtas sapulces. Cietumi pārpildīti ar aktīvākiem strādniekiem cīnītājiem. Darba tauta padota pilnīgai iznīcībai. Bez darba un maizes un bez jebkādām tiesībām smok strādniecība zem fašistu asiņainā zābaka.
+Strādniecībai jāapzinās draudošās briesmas un aktīvi jāuzstājas par savām tiesībām.
+Vienīgi zem Latvijas Komunistiskās partijas vadības strādniecība gūs uzvaru.
+Darba tautai jānorobežojas no s.-d. līderiem — darba tautas interešu nodevējiem. Jāsaprot, ka viņi maskējas ar revolucionārām frāzēm, slēpdami savu īsto, taukainam buržujam izandelēto liekulības seju.
+Biedri! Tuvojas 1. Maijs — vispasaules strādniecības solidaritātes un spēku demonstrēšanas diena.
+Biedri! 1. Maijā kopā ar vispasaules proletariātu aktīvi demonstrēsim pret draudošo fašismu un karu!
+1. Maijā aktīvi demonstrēsim par savām prasībām: pret bezdarbu, algu nosišanu (Ventspils kokzāģētavās uzņēmēju un s.-d. kopējā sadarbība), strādnieku atlaišanu no darba, pret uzņēmēju saimniecisko teroru, par 8 stundu darba dienu un pāriešanu uz 7 stundām, pret slimokasu reorganizēšanu, slimokases nodot strādniekiem, pret valdības un s.-d. vienotu teroru, pret strādnieku preses konfiscēšanu, pret sapulču aizliegšanu, pret strādnieku arestēšanu, par apstākļu uzlabošanu cietumos!
+Par darbu un maizi!
+Pārtraukt represijas pret Komunistisko partiju!
+Ar cīņu par strādnieku ekonomiskajām un politiskajām prasībām!
+Nost ar kara gatavotājiem fašistiem un s.-d.! Karš karami
+Pārtraukt strādnieku organizāciju graušanu!
+Prasām atsvabināt politiskos ieslodzītos!
+Nost s.-d. līderus!
+Rokas nost no SPRS!
+Prasām legalizēt Latvijas Komunistisko partiju un Komunistisko jaunatnes savienību!
+Lai dzīvo Sarkanais 1. Maijs!
+Lai dzīvo Latvijas Komunistiskā partija un Latvijas Komunistiska jaunatnes savienība!
+
+Latv. Kom. part. Ventspils apgabala komiteja
+Latv. Kom. jaun. s-bas Ventspils rajona komiteja

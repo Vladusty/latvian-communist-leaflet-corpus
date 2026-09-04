@@ -1,0 +1,34 @@
+id: 104
+file_name: lclc-2-n104-LKP_Latgale_regional_committee_LKJS_Latgale_regional_committee-7000-1930-04.txt
+title: LKP un LKJS Latgales apgabala komiteju 1. Maija lapiņa par darbaļaužu smago stāvokli buržuāziskajā Latvijā, ar aicinājumu cīnīties par Padomju Latviju
+author: LKP Latgales apgabala komiteja un LKJS Latgales apgabala komiteja
+date: 1930-04
+print_run: 7000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 185–188.
+
+text:
+LATVIJAS KOMUNISTISKA PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+VISIEM LATGALES DARBA ZEMNIEKIEM UN DARBA JAUNATNEI!
+Biedri! Proletariāta Starptautisko cīņas dienu — 1. Maiju mēs svinam ārkārtējos apstākļos. Kapitālisma krīze padziļinās un kļūst katastrofiska. Kapitālistiskā saimniecība pārdzīvo trūdēšanas periodu. Strādniekus masveidīgi izmet no ražošanas. Pasliktinās darba tautas materiālais un tiesiskais stāvoklis. Darba alga pazeminās. Darbaļaužu masu ekspluatācija sasniedz pēdējo robežu. Bezdarbs sasniedzis kolosālus apmērus. Buržuāzija meklē izeju no krīzes stāvokļa, tādēļ saasinās cīņa par jauniem preču realizācijas tirgiem. Kara draudi kļūst arvien reālāki. Un vispirms imperiālisti gatavo asiņainu slaktiņu pret Padomju Savienību.
+Latvija pārdzīvo vēl asāku revolucionāro krīzi nekā pārējās kapitālistiskās valstis tādēļ, ka tā ir atrauta no savas ekonomiskās bāzes — PSRS un kā maza valsts ir ierobežota tirgu ziņā. Masveidīgais bankrots un tāpat arī «Lata» un «Uniona» bankrots ir simptomi tam, ka trūdēšanas process padziļinās. Tāpēc strādnieku un zemnieku ekonomiskais stāvoklis arvien vairāk pasliktinās. Arī Latvijas buržuāzija pievienojusies starptautiskajai laupītāju bandai un attīsta negantu kampaņu pret Padomju Savienību.
+Sarkanā Maija 41. gadadienā, neskatoties uz fašistiskā terora trakošanu, neskatoties uz visa buržuāzijas aparāta mobilizēšanu cīņai pret darbaļaudīm,' neskatoties uz šautenēm, lielgabaliem, gāzēm un ložmetējiem, strādnieku un zemnieku miljonu masas Kompartijas un komjaunatnes vadībā tomēr izies demonstrācijās uz ielām, izies cīņā pret kapitālistisko ekspluatāciju un apspiešanu, pret badu un nabadzību, pret kara gatavošanu pret PSRS. Šai revolucionārajā cīņas dienā Latgales darba zemniecība nedrīkst palikt pasīva, bet tai jāpiedalās cīņā kopā ar pasaules proletariātu un Latvijas darba masām.
+Latgales zemnieku ekonomiskais stāvoklis pasliktinās ar katru dienu. Latvijas buržuāzija pārvērtusi Latgali par Latvijas koloniju. Pieaug plašu zemnieku masu neapmierinātība ar buržuāzijas kundzību. Zemnieku masas mobilizē spēkus un cīnās pret buržuāziju. Lai sašķeltu zemniecības spēkus, valdība sadalīja zemniecību viensētās. Sakarā ar pāriešanu viensētās zemnieki vēl vairāk ielīduši parādos. Bankas deva zemniekiem aizdevumus uz visu īpašuma vērtību. Nav tāda zemnieka, kas nebūtu parādā bankām, krāj- un aizdevu kooperatīviem un augļotājiem. Visi plēš milzīgus procentus, bet te vēl zemes un galvasnaudas nodoklis, parāds par sēklām un mēslojumu par vairākiem gadiem. Daudzi zemnieki nodokļus nav maksājuši par vairākiem gadiem, pa šo laiku nodokļi un procenti pieauguši divkārt. Arī ksendzi braukā pa sādžām un ievāc savus «dvēseles nodokļus» par debesu valstību. Liek maksāt arī graudā, stiept un skaldīt malku, apstrādāt ksendzu zemi utt. Nespēdami samaksāt dažādus nodokļus, kas kā smags slogs gulstas uz izsalkušo zemnieku pleciem, viņi sīksti turas pie savas zemes strēmelītes, jo pretējā gadījumā viņiem draud bada nāve. Bet buržuāzija nepazīst žēlastības, arvien skaļāk klaudz ūtrupnieka āmurs. Simtiem zemniekiem ik gadus atņem saimniecības, un viņi nokļūst izsalkušo armijā.
+Tanī laikā, kad zemnieku mājās valda trūkums un bads, kad zemnieki spiesti pārdot savas pēdējās mantas, lai nomaksātu nodokļus, kad 12 un 14 gadu veci bērni spiesti aiziet parādu verdzībā pie kulakiem, baņķieri, augļotāji, urjadņiki un špiki par naudu, kas izspiesta no zemniekiem, rīko balles, iedzeršanas un iekārto savas saimniecības.
+Vērtējot Latgali nākamajā karā pret PSRS kā apgabalu, kas robežojas ar Padomju Savienību, buržuāzijas ielikteņi — popi un ksendzi uzsākuši negantu kampaņu pret PSRS. Viņi katru dienu izdomā fantastiskas pasakas par PSRS, cenzdamies psiholoģiski ietekmēt Latgales zemniekus un sagatavot tos karam, kādēļ viņi arī sacerējuši lūgšanu: «Žēlīgs kungs, glāb Krieviju». Tam, kurš noskaita šo lūgšanu, tiek piedoti sīkie grēki.
+Biedri! No kā tad glābj Krieviju? No tā, ka tur nav ekspluatācijas un apspiešanas. Tāpēc, ka tur norit grandioza sociālistiskā celtniecība. Jā, buržuāzija ir daudz zaudējusi, vara Krievijā atrodas drošajās PSRS strādnieku un zemnieku rokās. Buržuju kungi, nelīdzēs nekādas fantastiskas pasakas, ne meli, ne izdomājumi. Zemnieki zin, kāds īstenībā ir stāvoklis PSR Savienībā, ka tur ar varu nevienam neliek iet kolhozā. Zemnieki paši saprot kolhozu nozīmi, kapitālistiskās un sociālistiskās saimniecības atšķirības. Tādēļ zemnieki veselām sādžām un apgabaliem iet kolhozos. Un, ja imperiālistiskie bandīti uzbruks Padomju Savienībai, visiem zemniekiem jāceļas proletāriskās tēvijas aizsardzībai.
+Revolucionārā 1. Maija dienā visiem Latgales darba zemniekiem un darba jauniešiem jāiziet demonstrācijā par prasībām: pret zemes un galvasnaudas nodokli, pret zemnieku saimniecību izūtrupēšanu, pret veco parādu maksāšanu par sēklām un mēsliem. Par zemes atņemšanu kulakiem un tās nodošanu nabadzīgajiem zemniekiem. Par bezmaksas kokmateriālu piešķiršanu vajadzīgā daudzumā nabadzīgajiem zemniekiem. Par valsts subsīdiju piešķiršanu zemniekiem. Par pastāvīgu darba biržu radīšanu pie Pagastu pašvaldībām. Par plašu sabiedrisko darbu organizēšanu, lai visi zemnieki-bezdarbnieki dabūtu darbu. Par nabadzīgās zemnieku jaunatnes bezmaksas apmācību skolās uz valsts rēķina. Par siltu brokastu, pusdienu un vakariņu izsniegšanu. Par apģērba un apavu bezmaksas izsniegšanu nabadzīgo zemnieku jaunatnei. Mobilizējiet savus spēkus visos pagastos un ciemos, sasauciet masu un skrejošos mītiņus, organizējiet 1. Maija komitejas, kurām jāorganizē visas nabadzīgo zemnieku masas. Visi cīņā uz ielām, jo vajag, lai ielas piederētu strādniekiem un zemniekiem. Iekarojot ielas, mēs izcīnīsim mūsu prasības.
+Nost kapitālistisko ekspluatāciju, badu un nabadzību!
+Nost kara gatavošanu pret PSRS!
+Lai dzīvo Kompartija un komjaunatne!
+Lai dzīvo Padomju Latvija!
+Lai dzīvo revolucionārais 1. Maijs!
+
+Latvijas Komunistiskās partijas Latgales apgabala komiteja
+Latvijas Komunistiskās jaunatnes savienības Latgales apgabala komiteja

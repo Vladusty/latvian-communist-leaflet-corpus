@@ -1,0 +1,29 @@
+id: 102
+file_name: lclc-2-n102-LKP_Riga_committee_LKJS_Riga_committee-10000-[1930-04-06…].txt
+title: LKP un LKJS Rīgas komiteju lapiņa ar aicinājumu strādniekiem cīnīties pret slimokasu reorganizācijas likuma apstiprināšanu saeimā
+author: LKP Rīgas komiteja un LKJS Rīgas komiteja
+date: [1930-04-06…]
+print_run: 10000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 181–182.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKI! DARBAĻAUDIS!
+Slimokasu sagraušanas brīdis tuvojas. Visas buržuāzijas grupas jau galīgi ir vienojušās par slimokasu reorganizēšanas likuma pieņemšanu saeimā. Viņas gaida tikai izdevīgu brīdi, kad mūsu kopējā uzmanība no tā būs novirzīta.
+Uzmanības novirzītāja lomu uz sevi ir uzņēmušies socfašisti. Viņi atklātībā gan it kā nostājas pret slimokasu reorganizēšanu. Neticiet šiem nodevējiem! Viņi ar mierīgo vienas dienas «ģenerālstreiku» 18. oktobrī pagājušā gadā dezorganizēja turpmāko cīņu, sagrāva jūsu cīņas sparu. Tāpat tagad viņi rīko mierīgo svētdienas pastaigu un buržuāzijai nekaitīgo un vajadzīgo izpļāpāšanos protesta sapulcēs un mītiņos, lai nomierinātu jūsu sašutumu pret slimokasu reorganizēšanu. Šī pastaigāšanās un izpļāpāšanās ir arī veikls 1. Maija sagatavošanas triks no socfašistu puses. Neķītra liekulība ir 6. aprīļa protesta [sapulces] rezolūcijas prasība par slimokasu likuma kropļojumu noraidīšanu saeimā pēc tam, kad paši socfašistu līderi saeimas komisijās ir ņēmuši visaktīvāko dalību labklājības ministrijas ierēdņa, s.-d. partijas biedra H. Liepiņa sastādītā likuma panta galīgajā formulēšanā. Vel lielāka liekulība ir rezolūcijas punkts par gala darīšanu mantīgās buržuāzijas varai.
+Tikai proletāriskā revolūcija Komunistiskās partijas vadībā darīs galu buržuāzijas varai un socfašistu nodevībām. Bet no proletāriskās revolūcijas un Kompartijas socfašisti visvairāk baidās un tās apkaro. Ne vārda nav socfašistu protesta rezolūcijās, ne runās minēts par cīņas gatavošanu pret slimokasu reorganizēšanu. Kompartijas un jūsu aktivitāte 16., 17., 18. oktobrī ir pietiekoši tos iebaidījusi.
+Biedri
+neļaujiet sevi iemidzināt ar socfašistu rīkojamo pastaigāšanos un izpļāpāšanos. Gatavojieties darba vietās un revolucionārās organizācijās uz slimokasu aizstāvēšanu. Apmeklējiet revolucionārās protesta sapulces ne priekš izpļāpāšanās, bet priekš organizēšanās. Sekojiet turpmākiem Komunistiskās partijas norādījumiem, saeimas darbībai un presei.
+Uz slimokasu reorganizēšanu atbildēsim ar politisko streiku. 16., 17., 18. oktobra streika dalībnieki, gatavojieties arī tagad stāties streikotāju pirmajās rindās. S.-d. strādnieki! Izdzeniet no sava vidus savus līderus un stājieties plecu pie pleca ar revolucionāro strādniecību aktīvākā cīņā.
+Izejiet visi 1. Maijā zem Kompartijas karogiem pret slimokasu grāvējiem un nodevējiem.
+Nost buržuāzijas un socfašistu rokas no slimokasēm!
+Slimokases tikai pašu strādnieku priekšstāvju rokās!
+Lai dzīvo politiskais streiks pret slimokasu graušanu!
+
+Latvijas Komunistiskās partijas Rīgas komiteja
+Latvijas Komunistiskās jaunatnes savienības Rīgas komiteja

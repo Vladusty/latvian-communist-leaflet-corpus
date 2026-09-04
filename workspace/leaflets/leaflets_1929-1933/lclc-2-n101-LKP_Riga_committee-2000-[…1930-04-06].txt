@@ -1,0 +1,26 @@
+id: 101
+file_name: lclc-2-n101-LKP_Riga_committee-2000-[…1930-04-06].txt
+title: LKP Rīgas komitejas lapiņa par sociāldemokrātu līderu nodevīgo politiku un sadarbību ar buržuāziju slimokasu sagraušanā
+author: LKP Rīgas komiteja
+date: […1930-04-06]
+print_run: 2000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 179–181.
+
+text:
+Visu zemju proletārieši, savienojieties!
+NOST MASKAS! TRIEKSIM RATĀ NODEVĒJUS!
+Visus «demokrātijās» pastāvēšanas gadus socfašisti nemitīgi ir iemidzinājuši strādniecību ar slavas dziesmām sociālās apdrošināšanas «sasniegumiem». Visus šos gadus viņi ir grāvuši komunistu un pārējās revolucionārās strādniecības cīņu par sociālās apdrošināšanas uzlabošanu un paplašināšanu pēc SPRS parauga, kur sociālās apdrošināšanas pārvalde ir pilnīgi tikai pašu strādnieku rokās, kur strādnieks pilnīgi atsvabināts no iemaksām.
+Gadu atpakaļ slimokasu kārtējā kongresā revolucionārās, strādniecības priekšstāvji lika priekšā gatavot ģenerālstreiku pret buržuāzijas gatavojamo slimokasu reorganizāciju. Socfašisti to nosauca par provokāciju. Pa to laiku socfašists H. Liepiņš, tautas labklājības ministrijas sociālās apdrošināšanas nodaļas vadītājs, gatavoja slimokasu reorganizācijas likumprojektu. Lai strādniecības šausmīgo sašutumu pret slimokasu sagraušanu novadītu mierīgā likumīgā gultnē, socfašisti organizēja vienas dienas «ģenerālstreiku», tajā pat laikā lemjot CK sēdē par streika nodošanu un nododot policijas un politapsardzes rokās komunistus un aktīvākos strādniekus vispār. Tā bija vislielākā nodevība, kuru Latvijas strādniecība neaizmirsīs. Tikko slimokasu reorganizācija tika pasludināta, socfašisti bija tie, kas vissteidzīgākā kārtā centās to izvest dzīvē: ieveda piemaksas uz zālēm, likvidēja pilnvarnieku institūtu. Kad uz slimokasu revolucionāro priekšstāvju neatlaidīgas uzstāšanās pamata socfašisti bija spiesti sasaukt ārkārtēju slimokasu kongresu, uz socfašistu norādījumu politapsardze iepriekš kongresa izveda revolucionārās strādniecības delegātu arestus, lai tādējādi nodrošinātu reorganizācijas mierīgu izvešanu.
+Socfašistu 6. aprīlī rīkojamais protesta mītiņš un pārējās pēdējā laikā rīkotās protesta sapulces ir strādnieku šķiras visrupjākais mānīšanas un nodevības līdzeklis. Slimokasu reorganizēšana priekš socfašistiem ir tikpat nepieciešama kā priekš pārējās buržuāzijas. Buržuāzijai viņa ir nepieciešama, atsvabinoties no iemaksām sociālā apdrošināšanā. Socfašistiem, lai atsvabinātos no komunistu iespaida pieauguma slimokasēs un apvienotos ar buržuāziju pret strādnieku šķiru. Protesta sapulču rīkošana socfašistiem nepieciešama, lai parādītu strādnieku šķirai, it kā viņi arī cīnās pret slimokasu sagraušanu, un lai tādējādi galīgi nezaudētu krītošos iespaidu masās.
+Biedri strādnieki!
+Jūsu starpā nedrīkst būt ne mazāko ilūziju par to, ka socfašisti satirgosies ar buržuāziju par savu un buržuāzijas priekšstāvju skaitu slimokasu pārvaldē, lai izolētu revolucionārās strādniecības priekšstāvjus. Politapsardzes un policijas terors, socfašistu denuncēšana nedrīkst būt par šķērsli mūsu turpmākai cīņai par tādu sociālo apdrošināšanu, kuru ir iekarojis SPRS proletariāts Oktobra revolūcijā. Lai to sasniegtu, jums jāizsviež no sava vidus socfašisti, jāorganizējas ap Kompartiju darba vietās, jābūt aktīviem, lai tagadējās strādnieku izsūkšanās un apspiešanas valdības vietā revolūcijas ceļā nodibinātu strādnieku-zemnieku valdību.
+Nost socfašistus!
+Slimokases pašu strādnieku rokās!
+Lai dzīvo cīņa par strādnieku-zemnieku valdību!
+
+Latvijas Komunistiskās partijas Rīgas komiteja

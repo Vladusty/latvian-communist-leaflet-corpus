@@ -1,0 +1,33 @@
+id: 106
+file_name: lclc-2-n106-LKP_Daugavpils_city_committee_LKJS_Daugavpils_city_committee-4000-1930-04.txt
+title: LKP un LKJS Daugavpils komiteju Pirmā Maija lapiņa ar aicinājumu darbaļaudīm iziet demonstrācijā zem LKP karoga
+author: LKP Daugavpils pilsētas komiteja un LKJS Daugavpils pilsētas komiteja
+date: 1930-04
+print_run: 4000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 190–191.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+1. Maijā — zem Kompartijas un komjaunatnes sarkanajiem cīņas karogiem! Pirmajā Maijā iela pieder proletāriešiem un darbaļaudīm!
+VISIEM DAUGAVPILS PILSĒTAS STRĀDNIEKIEM, STRĀDNIECĒM, VISIEM DARBAĻAUDĪM UN DARBA JAUNATNEI!
+Biedri! Buržuāzija trako, viņa pārdzīvo trauksmainu stundu, tās aģenti — policija un špiki mētājas no vienas puses uz otru, sarīkodami tvarstīšanas strādnieku rajonos, slēdzot strādnieku organizācijas. Viņi vairs neatšķir savējos no strādniekiem. Viņi ķer, arestē, met cietumos katru, kas pagadās pa rokai (110 cionistu arests 26. aprīlī mežā). Represijas sasniegušas nedzirdētus apmērus. Bet, buržuju kungi, vai ir tāds spēks, kas varētu iebiedēt un sagraut strādnieku šķiras spēkus? Mēs, komunisti, praksē pierādīsim, ka tāda spēka nav. Kamēr pastāv ekspluatācija un apspiešana, kamēr kapitālistu jūgā smok miljoni darbaļaužu, mēs cīnīsimies uz barikādēm, kamēr nenoslaucīsim no zemes virsas nolādēto kapitālistisko iekārtu un kopā ar to nodevējus sociālfašistus.
+Mēs prasām pārtraukt represijas! Rokas nost no strādnieku organizācijām! Amnestiju politieslodzītajiem! Nost nolādēto kapitālistisko iekārtu! Lai dzīvo strādnieku šķiras revolucionārā ciņa!
+Darbaļaudis! Mēs, komunisti, aicinām visus darba cilvēkus 1. Maija 41. gadadienā mūsu vadībā iziet cīņā uz ielām. Kompartija ne vienu vien reizi praksē pierādījusi, ka tikai viņa ir darba tautas aizstāve, ka sociāldemokrāti ir pērkami strādnieku interešu nodevēji, strādnieku kustības šķēlāji, tāpēc mēs aicinām boikotēt visus viņu mītiņus un demonstrācijas.
+Nost sociāldemokrātus, strādnieku interešu nodevējus!
+Lai dzīvo Kompartija un komjaunatne — strādnieku un strādnieku jaunatnes vadoņi!
+Sarkanā Maija dienā, kad pasaules proletariāts izvirza savas prasības un iziet ielās, mēs aicinām visu Daugavpils proletariātu saliedēties ap mūsu karogiem un ciešās, saliedētās rindās iziet cīņā, demonstrācijā ar prasībām: pret darba algas samazināšanu, pret uzbrukumu sociālai apdrošināšanai, par darba algas paaugstināšanu, par 8 stundu darba dienu un pāreju uz 7 stundu darba dienu, par pilnīgu sociālo nodrošināšanu slimībās, vecuma un bezdarba gadījumā. Par vārda, preses un sapulču brīvību!
+Daugavpils darba tauta, strādnieki, strādnieces un darba jaunatne!
+Kompartija aicina jūs visus 1. Maijā pārtraukt darbu uzņēmumos, fabrikās un rūpnīcās, aicina uz aktīvu revolucionāro cīņu pret imperiālistiskā uzbrukuma gatavošanu proletariāta tēvijai — PSRS! Lieciet darbaļaužu bendēm nodrebēt spēcīgas proletariāta dūres priekšā!
+Rokas nost no PSRS! Mēs viņu aizsargāsim ar ieročiem rokās!
+Nost Latvijas buržuāzisko valdību!
+Lai dzīvo strādnieku šķiras uzvara!
+Lai dzīvo revolucionārais 1. Maijs!
+Lai dzīvo Padomju Latvija!
+
+LKP Daugavpils komiteja
+LKJS Daugavpils komiteja

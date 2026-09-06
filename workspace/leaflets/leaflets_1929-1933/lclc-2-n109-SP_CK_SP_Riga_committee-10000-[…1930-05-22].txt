@@ -1,0 +1,27 @@
+id: 109
+file_name: lclc-2-n109-SP_CK_SP_Riga_committee-10000-[…1930-05-22].txt
+title: Sarkanās Palīdzības CK un Sarkanās Palīdzības Rīgas komitejas lapiņa, kas veltīta 1919. gadā kritušajiem revolucionāriem, ar aicinājumu cīnīties pret balto teroru
+author: Latvijas Sarkanās Palīdzības CK un Latvijas Sarkanās Palīdzības Rīgas komiteja
+date: […1930-05-22]
+print_run: 10000
+typography_name: unk
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 195–196.
+
+text:
+Visu zemju proletārieši, savienojieties!
+22. MAIJS — LATVIJAS SARKANĀS PALĪDZĪBAS DIENA
+Biedri strādnieki, nemantīgie zemnieki un darba inteliģence! Šogad 22. maijā paiet 11 gadi kopš tās vēsturiskās dienas priekš Latvijas proletariāta, kad starptautiskie imperiālisti kopīgi ar sociālimperiālistiem un iekšējiem kontrrevolūcijas spēkiem nožņaudza sarkano Padomju Latviju.
+Latvijas proletariāts, saņemot varu savās rokās, mantoja no buržuāzijas izsaimniekotās Latvijas tikai drupu kaudzes. Fabrikas skursteņi vairs nekūpēja, lauki netika apstrādāti. Pie Rīgas vārtiem stāvēja līdz zobiem apbruņotie baltgvardisti, kuri katru brīdi varēja iebrukt sarkanā Latvijas galvaspilsētā. Šādos apstākļos, nesaņemdama arī pabalstu no starptautiskā proletariāta, Latvijas revolucionārā strādniecība ilgi nevarēja turēties. Pēc 5 mēnešu varonīgajām cīņām viņas spēki tika salauzti.
+Sākās asiņainais baltais terors. Tūkstošiem strādnieku, nemantīgo zemnieku tika zvēriskā kārtā noslepkavoti. Strādnieku un darba zemnieku līķiem bija pārklātas pilsētu ielas un lauku sētas. Rīgā vien vairāk kā 4000 noslepkavotu strādnieku. Visā Latvijā vairāk kā 10 000.
+Biedri! Uz mūsu brāļu — strādnieku un darba zemnieku līķiem Latvijas buržuāzija ar sociāldemokrātiem nodibināja tagadējo Latvijas «demokrātisko» republiku. Pēc 11 buržuāzijas un sociāldemokrātu valdīšanas gadiem Latvijas proletariāts novests izmisuma stāvoklī. Tūkstošiem bezdarbnieku Latvijas pilsētās un laukos. Tūkstošiem strādnieku un zemnieku padoti bada nāvei. Tūkstošiem Latvijas labāko revolūcijas cīnītāju smok buržuāzijas moku kambaros.
+Biedri! Kas darīs šīm neģēlībām galu, kas izbeigs šo badu un postu, kas likvidēs šausmīgo bezdarbu Latvijas pilsētās un ciemos? Vienīgi Latvijas revolucionārais proletariāts un viņa avangards — mūsu revolucionārās masu organizācijas — LKP, LKJS un Sarkanā Palīdzība. Biedri! Visi kā viens stāsimies Latvijas Sarkanā Palīdzībā. Tikai vienotiem spēkiem mēs izbeigsim represijas, šausmīgo teroru, nabadzību, bezdarbu un postu.
+Nost represijas un teroru! Nost strādniecības preses žņaugus! Nost politieslodzīto bendēšanu — mēs prasām viņu atsvabināšanu! Biedri! Pēc 11 terora gadiem lai atskan vēl skaļāk kā toreiz visā Latvijā:
+Lai dzīvo sarkanā Padomju Latvija!
+Lai dzīvo proletariāta diktatūra!
+Lai dzīvo revolucionārais proletariāts un Sarkanā Palīdzība!
+
+Latvijas Sarkanās Palīdz. Centrālā un Rīgas komitejas

@@ -1,0 +1,32 @@
+id: 107
+file_name: lclc-2-n107-SP_CK_SP_Riga_committee-10000-1930-04.txt
+title: Sarkanās Palīdzības CK un Rīgas komitejas lapiņa ar aicinājumu darbaļaudīm cīnīties par politieslodzīto stāvokļa uzlabošanu cietumos un visu politieslodzīto amnestiju
+author: Latvijas Sarkanās Palīdzības CK un Latvijas Sarkanās Palīdzības Rīgas komiteja
+date: 1930-04
+print_run: 10000
+typography_name: unk
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 191–192.
+
+text:
+Visu zemju proletārieši, savienojieties!
+CĪŅĀ PAR POLITIESLODZĪTO STĀVOKĻA UZLABOŠANU!
+Biedri strādnieki, nemantīgie zemnieki un darba inteliģence!
+Latvijas cietumi ar katru dienu vairāk pildās ar ieslodzītiem darbaļaudīm. Ar katru dienu politieslodzīto stāvoklis pasliktinās. Drakoniskā cietumu režīma kaulainā nāves roka arvien ciešāk žņaudzas ap politieslodzīto ķermeņiem. Politieslodzīto stāvoklis «demokrātiskos» Latvijas cietumos ir jau tapis daudz ļaunāks, kā tas bija cara laikos. Latvijas buržuāzija cietumus pārvērtusi par politieslodzīto iznīcināšanas vietām. Demokrātija, parlaments — buržuāzijai un s.-d. ir līdzeklis lētticīgo muļķošanai.
+Tos, kas cīnās par darbaļaužu tiesībām, buržuāzija un s.-d. sloga cietumos, lai tur tos iznīcinātu fiziski un garīgi. S.-d. 1927. g., atrodoties pie valsts stūres, izdeva likumu par lauka kara tiesām un cietumnieku bendēšanas režīmu.
+Biedri! Tuvojoties 1.. Maijam — starptautiskā proletariāta solidaritātes dienai — politiskā reakcija arvien pieņemas visos Latvijas cietumos. Tāpēc, visi Latvijas darbaļaudis, izejot 1. Maijā cīņā par ielu, lai atskan lozungi:
+Izbeigt politieslodzīto bendēšanu! Amnestiju politieslodzītiem!
+Bez tam mēs prasām: atcelt karcera sodu un «melnos mēnešus», izbeigt politieslodzīto sišanu un spīdzināšanu; pārtraukt politieslodzīto izsūtīšanu uz provinces cietumiem, izsūtītos atgriezt atpakaļ; anulēt 1929. g. oktobra noteikumus par sarakstīšanos, noteikumus par kladu un burtnīcu lietošanu, ieslodzītiem no cietuma izejot.
+Nekavējoši ierīkot kopējas kameras. Viennīcās pavadītos 9 mēnešus skaitīt par vienu gadu. Uzlabot cietuma ēdienu: pārtraukt sapuvušo siļķu, kartupeļu un citu bojātu produktu izsniegšanu, palielināt taukvielu un cukura devu. Uzlabot sanitāros apstākļus: laižot ieslodzītos mazākais 3 reizes mēnesī uz pirti. Izsniegt katram ieslodzītam mazākais 100 g ziepes mēnesī. Nekavējoši izsniegt arī gultas veļu.
+Visiem ieslodzītiem dot ne mazāk par stundu pastaigas katru dienu: atļaut brīvi staigāt pa divi blakus un sarunāties. Atļaut ne mazāk kā 3 reizes nedēļā lietot sporta laukumus. Visiem politieslodzītiem atļaut satikties un sarakstīties kā ar radiem, tā arī ar citām personām pēc vēlēšanās. Atļaut visiem politieslodzītiem saņemt pienesumus ne mazāk kā 4 reizes mēnesī.
+Visiem politieslodzītiem atļaut abonēt un saņemt visus Latvijā legāli iznākošos laikrakstus, žurnālus un grāmatas.
+Neaprobežot kamerā turamo grāmatu un rakstāmlietu daudzumu. Izmeklēšanā pavadīto laiku ieskaitīt piespriestā sodā. Atcelt Kerenska likumu! Izbeigt ieslodzīto sūtīšanu pie darbiem.
+Biedri! Šīs prasības par politieslodzīto stāvokļa uzlabošanu lai atskan visā Latvijā: fabrikās, zavodos, darbnīcās, kantoros, ostā utt.
+Biedri, stāsimies mūsu revolucionārā organizācijā — Sarkanā Palīdzībā, lai vienotiem spēkiem ar šīm prasībām izietu uz ielas 1. Maija demonstrācijās.
+Nost cietumnieku bendēšanas režīmu! Nost karcerus un «melnos mēnešus»! Lai dzīvo proletariāta solidaritātes cīņa par politieslodzīto atbrīvošanu!
+Lai dzīvo revolucionāra cīņa! Lai dzīvo Sarkanā Palīdzība!
+
+Latvijas Sark. Palīdzības Centrālā un Rīgas komitejas

@@ -1,0 +1,33 @@
+id: 110
+file_name: lclc-2-n110-LKP_CK-unk-[…1930-05-22].txt
+title: LKP CK uzsaukums darbaļaudīm par buržuāzijas represijām pret darbaļaudīm 1. Maijā, ar aicinājumu turpināt revolucionāro cīņu Latvijas Komunistiskās partijas vadībā
+author: LKP CK
+date: […1930-05-22]
+print_run: unk
+typography_name: unk
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 197–198.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+TURPINĀSIM 1. MAIJĀ IESĀKTO CĪŅU!
+Represijas un cietumi nelīdz! Pretojieties arestiem! Iestājieties Komunistiskajā partijā un revolucionārās organizācijās! Gatavojieties svinēt 22. maiju — Padomju Latvijas piemiņas dienu!
+Latvijas darbaļaudis!
+Fašisti un sociālfašisti 1. Maija priekšvakarā un tieši 1. Maijā bija zaudējuši jebkādu līdzsvaru. Bailes no strādnieku un visu apspiesto masu demonstrēšanas zem Komunistiskās partijas vadības bija novedušas buržuāziju un sociālfašistus pie izmisuma soliem. Politiskām žulicībām, meliem, neķītrībām, liekulībām un masu teroram vairs nebija robežu.
+«Sociāldemokrāts» maija priekšvakarā kūdīja valdību uz kreiso arodbiedrību slēgšanu! Liepājas sociāldemokrāti nekautrējās pierakstīt sev Komunistiskās partijas uzvilktos karogus.
+Aresti! Aresti! Aresti! Piedzērušies politapsardzes huligāni, sakot no 22. aprīļa līdz 1. maijam, bez pārtraukuma, dienās un naktīs, izdara kratīšanas un arestus. Visa Rīgas apkārtne pilna ar policijas patruļām, aizsargiem, politpārvaldes špikiem. Spiegu uzbāzība ir tik nekautrīga, ka pilnīgi privāti cilvēki tiek terorizēti.
+Trieciet no sevis šos buržuāzijas suņus! Niciniet viņus!
+Neskatoties uz vēl nepieredzēto teroru, neskatoties uz aizliegumiem, draudiem un melu izvirumu — 1. Maijā masas tomēr veseliem bariem dodas uz Komunistiskās partijas aicinātām demonstrācijām! Velti politpārvaldes sociālisti mēģina sevi pārliecināt, ka masas neiet aiz Komunistiskās partijas.
+Uz s.-d. pastaigāšanos, 2 orķestru pavadībā, zem stingras «siseņu» un policijas apsardzības iet vienīgi viņu ierēdņi un vecas tantiņas. Uz Komunistiskās partijas demonstrācijām, kuras sola tikai cīņu, bariem nāk strādnieki, apspiestās masas.
+Darbaļaudis un visi apspiestie!
+Cīņa vēl nav galā! Buržuāzija intensīvi gatavo karu pret SPRS. Sociāldemokrāts Bruno Kalniņš pārmet buržuāzijai, ka viņa par maz izlietojot no darbaļaudīm izplestos nodokļus priekš bruņošanās!
+Esiet gatavi aizstāvēt SPRS! Neļaujieties sevi iebaidīt no represijām! Katra arestētā komunista vietā jāstājas desmit jauniem! Iestājieties Komunistiskā partijā! Komunistiskā partija turpinās nesaudzīgu cīņu pret fašistu un sociālfašistu uzbrukumiem slimokasēm, īres likumam, 8 stundu darba dienai [un pret] dzīves dārdzību. Buržuāzija gatavojas ievest muitas uz labību, maksāt prēmijas lielsaimniekiem, nosist laukstrādniekiem un darbaļaudīm darba algas. Komunistiskā partija turpinās nesaudzīgu cīņu pret šiem buržuāzijas uzbrukumiem apspiestām šķirām, neraugoties uz represijām un teroru.
+Nost teroru! Nost policistu un spiegu rokas no strādniekiem!
+Komunistisko partiju nevar iznīcināt! Mēs nicinām represijas un arestus! Mēs turpināsim cīņu! Nelaidiet sevi arestēt! Pretojieties policistu un spiegu patvaļai! Trieciet viņus prom! Organizējieties! Organizējieties! Iestājieties savās šķiras organizācijās! Gatavojieties izšķirošām kaujām! Esiet modri! Tiek gatavots uzbrukums revolucionārām arodbiedrībām un saeimas strādnieku-zemnieku frakcijai! Neklausiet buržuāzijas un socfašistu tenkām par SPRS un Komunistisko partiju! Gatavojieties svinēt 22. maiju — Padomju Latvijas piemiņas dienu! Attīstiet pašiniciatīvu! Cīņā par strādnieku-zemnieku valdību! Lai dzīvo LKP!
+
+Latvijas Komunistiskās partijas Centrālā Komiteja

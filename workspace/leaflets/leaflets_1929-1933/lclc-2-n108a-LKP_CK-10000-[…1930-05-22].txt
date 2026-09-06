@@ -1,0 +1,43 @@
+id: 108a
+file_name: lclc-2-n108a-LKP_CK-10000-[…1930-05-22].txt
+title: LKP CK lapiņa sakara ar 11. gadadienu kopš padomju varas krišanas Rīgā
+author: LKP CK
+date: […1930-05-22]
+print_run: 10000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 193–195.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+LATVIJAS KOMUNISTISKA PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+LAI DZĪVO 22. MAIJS — PADOMJU LATVIJAS PIEMIŅAS DIENA!
+Latvijas darbaļaudis! Šogad 22. maijā izpildās 11 gadi, kopš Latvijas kontrrevolūcija kopā ar starptautiskām bruņotām bandām ielauzās Rīgā un gāza Padomju valdību. Revolucionārais Latvijas proletariāts kopā ar darba zemniecību veda ilgu un pašaizliedzīgu cīņu pret uzbrūkošo reakciju. Pret varonīgo Latvijas proletariātu un darba zemniecību ar ieročiem rokās cīnījās ne tikai vācu muižnieki, algotie vācu junkuri un Latvijas buržuāzijas dēliņi, bet arī sociāldemokrāti. Daudzi no tagadējiem sociālfašistu līderiem 1919. g. cīņā pret revolucionāro darba tautu izpelnījās no buržuāzijas ordeņus un činas. Bruno Kalniņam ne visai sen tika dota leitnanta čina vienīgi tāpēc, ka viņš 1919. gadā varonīgi slaktēja strādniekus. Sociāldemokrāti 1919. g. maijā ienāca Rīgā kopā ar algotiem vācu slepkavām — landesvēristiem. Sociāldemokrāti ar savu karogu svētīja visus tos asinsdarbus, visas tās slepkavības, ko sarīkoja landesvēristi. Buržuāzijai un sociāldemokrātiem bija vajadzīgas līķu kaudzes, lai sasniegtu varas augstumus, lai nodibinātu savu diktatūru; viņiem bija jāizbrien asinsjūra, lai tiktu pie darbaļaužu apspiešanas un aplaupīšanas.
+Strādnieki! Ko jums ir devusi buržuāzija un sociāldemokrātija savā 11 gadu valdīšanas laikā?
+Bezdarbu, neierobežotu darba laiku, bada algu, kura bieži vien netiek izmaksāta, necilvēcīgu izmantošanu, uzņēmēju un Policijas teroru, politiskas verdzības, masu arestus utt.
+Laukstrādnieki! Jums solīja zemi, darbu un maizi. Tagad jūs esat aculiecinieki tam, ka resnie lauku buržuji jūs uzskata par saviem vergiem.
+Lielie saimnieki tagad nolēmuši jums maksāt tādas algas, kādas tiem iepatīkas. Lauku buržuji jums uzbrūk kopā ar tagadējo valdību, kurā tie salikuši savus cilvēkus.
+Darba zemnieki, jaunsaimnieki!
+Jūs neesat paspējuši likvidēt kara sekas, vēl neesat paspējuši sev piešķirtās zemēs apsildīties, bet tiekat jau apdraudēti no ūtrupes āmura. Jums uz saviem pleciem jāiznes lielo nodokļu smagums, jums jāiet vergu klaušās. No jums izspiež pēdējo sviedru lāsīti, lai jūs padzītu savam liktenim, bet jūsu saražotās bagātības iegūtu kārtējais liekēdis.
+Mazrentnieki un mazgraudnieki!
+Jūs esat lielo saimnieku vergi. Uz jūsu rēķina tie dzīvo vieglas dienas; jūs ar saviem sviedriem, rūpēm un darba augļiem tos barojat.
+Strādnieki, laukstrādnieki un visa izsūktā zemniecība!
+Buržuāzija kopā ar sociāldemokrātiem ne tikai nav jums sagādājusi labākus dzīves apstākļus, bet gluži otrādi — jūsu stāvoklis top arvien grūtāks un nepanesamāks.
+Vienīgi Komunistiskā partija aizstāv jūsu intereses. Neklausiet buržuāzijas un s.-d. teikām par 1919. gadu. 1919. gadā Padomju valdība tiešām pielaida to kļūdu, ka nesauca pie stingras atbildības visus tos, kas uz laukiem apzināti izkropļoja tās rīkojumus. Padomju valdība nebūt neuzspieda zemniecībai ar varu iet kolektīvos, komūnās. To izveda uz vietām viņai naidīgi cilvēki, tie, kas gribēja Padomju valdību zemniecībā nomelnot. Tādas lietas vairs atkārtoties nevarēs; šādi cilvēki tiks uz stingrāko sodīti. Neklausiet meliem par Padomju Krieviju. Padomju Krievijā nevienu ar varu kolektīvos nespiež iet. Kolektīvi organizējas tikai uz brīvprātīgiem pamatiem. Neklausiet teikām par badu Padomju Krievijā. Padomju Krievijā darbaļaudis dzīvo daudz labāk nekā jebkurā kapitālistiskajā valstī.
+Buržuāzija un s.-d. izlaiž šīs melu ziņas par Padomju Krieviju tāpēc, ka tie gatavojas kopā ar pārējām kapitālistiskajām valstīm karam pret šo darbaļaužu cietoksni. Kara draudi pašreiz ir ļoti nopietni. Karš var izcelties vistuvākajā laikā. Ģenerālis Radziņš jau atklāti uzstājas par karu pret Padomju Krieviju. Tādos pat uzskatos ir arī visa Latvijas buržuāzija, un s.-d. tikai vairāk maskojas, lai apmānītu apspiestās masas.
+Kara gadījumā ar SPRS grieziet ieročus pret tiem, kas jūs sūta karot, un pārejiet Padomju Krievijas proletariāta pusē.
+Darbaļaudis! Vienīgi Komunistiskā partija uzstājas pret kara draudiem, pret pārmērīgiem nodokļiem darba zemniecībai, pret ūtrupēm un klaušām; vienīgi Komunistiskā partija cīnās par cilvēcīgu darba algu laukstrādniekiem; vienīgi Komunistiskā partija cīnās par 8 stundu darba dienu; pret pārmērīgu strādnieku izsūkšanu, pret uzņēmēju un policijas teroru; par darbu un maizi, par strādnieku-zemnieku valdību.
+Tas ir galvenais iemesls, kādēļ Komunistiskā partija ir padzīta pagrīdē un kādēļ pret to tiek lietotas tik mežonīgas represijas, kuras līdzinās viduslaiku inkvizīcijām.
+1. Maijā visos Latvijas cietumos ieslodzītie ne tikai ir mežonīgi sisti, bet tiem ir bāzti mutē kaļķi no kāts, tiem laists virsū auksts ūdens, tie dzīti caur kareivju stroju un sisti ar šautenēm, samesti tumšos karceros; daudzi politieslodzītie sisti līdz nesamaņai. Tie briesmu darbi, kas notikuši un notiek Latvijas cietumos, nav vārdiem aprakstāmi.
+Visas šīs inkvizīcijas notiek tikai tāpēc, ka Komunistiskā partija aizstāv apspiesto masas intereses. S.-d. nelieši ne tikai visu to noklusē, bet viņi ņem pie visa tā līdzdalību.
+Bet ar teroru, represijām un inkvizīcijām nevar un nekad nevarēs piespiest Komunistisko partiju atteikties no cīņas. Jo mežonīgāka paliek buržuāzija, jo nodevīgāki paliek s.-d., jo ar lielāku sparu un enerģiju mēs dodamies cīņā.
+Komunistiskā partija cīnās pret karu, pret uzbrukuma gatavošanu SPRS, par visu apspiesto masu interesēm. Nav spēka un varas, kas mums varētu stāties ceļā!
+Iestājieties Komunistiskās partijas rindās! Esiet aktīvi un organizējieties izšķirošām kaujām par strādnieku-zemnieku valdību.
+Lai dzīvo 22. maijs — Padomju Latvijas piemiņas diena! Nost cietumnieku inkvizītorus!
+Lai dzīvo Latvijas Komunistiskā partija!
+
+LKP Centrālā Komiteja

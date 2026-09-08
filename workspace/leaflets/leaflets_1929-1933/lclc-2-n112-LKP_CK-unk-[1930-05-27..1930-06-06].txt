@@ -1,0 +1,34 @@
+id: 112
+file_name: lclc-2-n112-LKP_CK-unk-[1930-05-27..1930-06-06].txt
+title: LKP CK lapiņa par buržuāzijas un sociāldemokrātu līderu uzbrukumu slimokasēm, ar aicinājumu gatavoties vispārējam politiskam streikam LKP vadībā
+author: LKP CK
+date: [1930-05-27..1930-06-06]
+print_run: unk
+typography_name: unk
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 200–201.
+
+text:
+LATVIJAS KOMUNISTISKA PARTIJA
+(KOMUNISTISKAS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+GATAVOJIETIES IZIET PLAŠĀ ENERĢISKĀ POLITISKĀ STREIKĀ PRET SLIMOKASU UZBRUCĒJIEM!
+Fašistu un sociālfašistu uzbrukums slimokasēm ir uzbrukums darbaļaužu interesēm vispār! Reizē ar uzbrukumu slimokasēm fašisti un sociālfašisti uzbrūk darbaļaužu dzīves līmenim, 8 stundu darba dienai, darba algām utt.!
+Esiet gatavi pretsparam! Apmeklējiet mītiņus, organizējiet demonstrācijas, gatavojieties vispārējam politiskam streikam zem Latvijas Komunistiskās partijas vadības!
+Strādnieki un visi darbaļaudis!
+Fašistu un sociālfašistu uzbrukums slimokasēm ir iegājis pēdējā stadijā. Šo strādniekiem naidīgo likumprojektu, kuru uzrakstījis sociāldemokrāts Liepiņš, buržuāzija ar vēl lielākiem sakropļojumiem gatavo 6. jūnijā galīgā veidā saeimā pieņemt. Ar šā likuma pieņemšanu slimokases tiks pilnīgi nodotas buržuāzijas un sociālfašistu rokās. Valdēs tiks sasēdināti fabrikanti un nodevīgie sociālfašisti. Strādnieku vēlētie priekšstāvji no slimokasu vadības tiks padzīti. Reizē tiks ievesti noteikumi, kuri uzliek strādniekiem maksāt par ārsta palīdzību un zālēm. Slimokasēm tiek atrauti valsts līdzekļi. Ar no strādniekiem izplēstiem līdzekļiem saimniekos fabrikanti, fašisti un sociālfašisti.
+Biedri! Reakcijas uzbrukumam slimokasēm ir daudz plašāka nozīme. Reizē ar slimokasu likumu reakcija gatavojas pieņemt veselus trīs no Zemnieku savienības izstrādātus likumprojektus, kuru nolūks pabalstīt bagātos lauku buržujus uz izmantojamo masu rēķina. Ja šie likumprojekti tiks pieņemti, tad dzīves dārdzība labākā gadījumā dubultosies. Tai pašā laikā reakcija gatavojas galīgā veidā likvidēt astoņstundu darba dienu un nosist darba algas. Laukstrādnieku algas jau buržuāzijai ir izdevies nosist.
+Ļoti nopietni buržuāzija gatavojas sagraut strādnieku arodbiedrības, kuras pēdējā laikā ved sekmīgu streika cīņu uzņēmumos, bet jo sevišķi apdraudēta ir strādnieku-zemnieku saeimas frakcija. Buržuāzijas koalīcijas vadītājs Celmiņš saeimā atklāti deklarējis, ka strādnieku-zemnieku frakcija jābāž cietumā.
+Darbaļaudis! Neklausiet sociālfašistu nodevīgām frāzēm. Viņi paši ierosināja slimokasu reorganizēšanu, viņu partijas biedrs pat šo likumprojektu ir izstrādājis. 18. oktobrī viņi izsludināja tikai vienas dienas streiku, lai neļautu cīņai iet plašumā. Tagad viņi runā vienīgi par slimokasēm, lai atvieglotu buržuāzijai izvest Zemnieku savienības likumus, lai novērstu masu uzmanību no savas streiklauzības uzņēmumos un kopā ar buržuāziju varētu uzbrukt strādnieku-zemnieku saeimas frakcijai.
+Strādnieki un visi darbaļaudis! Esiet gatavi iziet cīņā pret fašistu un sociālfašistu uzbrukumiem slimokasēm, dzīves līmenim, esiet gatavi uzstāties pret vienotu fašistu un sociālfašistu teroru zem Latvijas Komunistiskās partijas vadības. Neklausiet sociālfašistu kreisajām frāzēm, viņi jūs cīņas brīdī no jauna nodos!
+Iestājieties Komunistiskās partijas rindās!
+Apmeklējiet mītiņus! Organizējiet demonstrācijas!
+Gatavojieties vispārējam politiskam streikam!
+Organizējiet streika komitejas! Pieņemiet rezolūcijas!
+Sekojiet Komunistiskās partijas aicinājumiem!
+Esiet gatavi cīnīties zem LKP vadības!
+
+Latvijas Komunistiskās partijas Centrālā Komiteja

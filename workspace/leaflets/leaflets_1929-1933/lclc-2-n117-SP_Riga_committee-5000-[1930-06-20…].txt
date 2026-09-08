@@ -1,0 +1,31 @@
+id: 117
+file_name: lclc-2-n117-SP_Riga_committee-5000-[1930-06-20…].txt
+title: Sarkanās Palīdzības Rīgas komitejas lapiņa par buržuāzijas terora pastiprināšanos pret strādnieku šķiru, ar aicinājumu darbaļaudīm iestāties Sarkanajā Palīdzībā
+author: Latvijas Sarkanās Palīdzības Rīgas komiteja
+date: [1930-06-20…]
+print_run: 5000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 210–212.
+
+text:
+Visu zemju proletārieši, savienojieties!
+CĪŅĀ PRET BALTO TERORU KĀ CEĻA SAGATAVOTĀJU FAŠISTU DIKTATŪRAI!
+Biedri strādnieki, darba jaunieši un progresīvā inteliģence!
+Ar katru dienu fašistiskā apvērsuma draudi pieņemas. Buržuāzijas patva|a un terors arvien vairāk pastiprinās arī tā saucamās demokrātiskās valstīs. Zem «demokrātisko republiku» aizsardzības maskas fašisti un viņu aģenti socfašisti gatavo nodibināt savu diktatūru. Vācijā socfašisti ieveda «republikas aizsardzības» likumu, kurš līdzīgs Latvijas «kreisās» valdības ievestām kara lauka tiesām. Austrijā socfašisti grozīja konstitūciju fašistu garā. Rumānijā atbalstīja karaļa diktatūras nodibināšanos. Beidzot Somijā ar socfašistu labvēlīgu neitralitāti fašisti atklāti pasludina, ka 1. jūlijā ies uz Helsinkiem gāzt «demokrātisko» un tas vietā nodibināt fašistisko diktatūru. Apvērsuma sagatavošanai visā Somijā pastiprina teroru pret strādniekiem un darba zemniekiem. Vispirms fašistu algotņi izdemolē komunistu laikrakstu drukātavas, pēc tam gubernatori noliedz laikrakstu izdošanu. Noliedz visas strādnieku un zemnieku sapulces un demonstrācijas. Komunistu deputātus un citus darbiniekus dienas laikā gubernatoru un policijas klātbūtne «nozog», aizved mežā, piekauj un piedraud nākošo reizi dzīvus neatstāt.
+Somijas notikumi ceļ kājās arī Latvijas fašistus. Fašistu orgānā «Latvī» drukā cildinošus rakstus un ilustrācijas par to, kā fašisti piekauj revolucionāros strādniekus. Saeimā fašisti kopā ar s.-d. piedraud strādnieku-zemnieku frakcijai ar tādu pašu izrēķināšanos kā Somijā. «Sociāldemokrāta» 20. jūnija numurā Rudevics piedraud revolucionārās strādniecības priekšstāvjus izsviest no saeimas, atklāti pasludinādams fašistu un socfašistu vienotu fronti.
+Baltais terors paasinās arī Latvijas cietumos. Politieslodzīto piekaušanas, «melnie mēneši», karceri kļūst ikdienišķas parādības. Lai jo drīzāk politieslodzītos fiziski iznīcinātu, tiek ierobežota vai pavisam aizliegta produktu pieņemšana no ārienes. Produktu pienesējus terorizē ar pasu pierakstīšanu un pratināšanu par attiecībām ar ieslodzīto. Ja nevar pierādīt radniecības saites, tad produktus nepieņem. Pa pastu ieslodzītam piesūtītas paciņas nepieņem, bet sūta atpakaļ.
+Biedri!
+Tas ir uzbrukums visai strādnieku šķirai. Katrs strādnieks var tikt iemests buržuāzijas moku kambaros, kur tiek padots fiziskai iznīcībai!
+Biedri!
+Protestēsim pret buržuāzijas zvērisko izrēķināšanos ar aktīvākiem revolucionārās strādniecības cīnītājiem! Par to jāraksta un jārunā visās darba vietās. Katrā darba vietā dibināsim palīdzības komitejas politieslodzīto atbalstīšanai un cīņai pret balto teroru. Šai darbā ierausim visplašākās darba biedru un visas revolucionārās strādniecības masas
+Biedri strādnieki fabrikās un ostā, progresīvā inteliģence buržuju kantoros un iestādēs, darba zemnieki pelēko baronu kalpībā!
+Visi kā viens iestāsimies Latvijas Sarkanās Palīdzības vienotās cīņas rindās pret balto teroru un nāvējošo cietumu režīmu. Sarkanā Palīdzība ir vienīgā organizācija, kas kopā ar Latvijas Komunistisko partiju ved patiesu un aktīvu cīņu pret buržuāzijas teroru un fašismu, par strādnieku un zemnieku uzvaru un sociālismu.
+Biedri! Piedalīsimies visi Sarkanās Palīdzības darbā!
+Tikai vienotiem spēkiem salauzīsim fašisma terora blokādi! Lai dzīvo revolucionārā cīņa pret balto teroru!
+Lai dzīvo Sarkanā Palīdzība!
+
+Latvijas Sarkanās Palīdzības Rīgas komiteja

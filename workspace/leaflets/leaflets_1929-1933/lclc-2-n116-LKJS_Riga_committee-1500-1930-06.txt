@@ -1,0 +1,32 @@
+id: 116
+file_name: lclc-2-n116-LKJS_Riga_committee-1500-1930-06.txt
+title: LKJS Rīgas komitejas uzsaukums kokzāģētavas nodarbinātajiem jauniešiem gatavoties vispārējam kokstrādnieku streikam
+author: LKJS Rīgas komiteja
+date: 1930-06
+print_run: 1500
+typography_name: Spartaks
+production_method: rotator
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 209–210.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+VISAI KOKZĀĢĒTAVU DARBA JAUNATNEI!
+Biedri!
+Organizēti, saliedētiem spēkiem buržuāzija izdara sistemātisku spiedienu uz strādnieku tiesībām. Buržuāzijas nepiepildāmā rijība neapmierinājās ar politisko tiesību atņemšanu. Viņa gāja tālāk. Visur fabrikanti, jūtot valdošās kliķes atbalstu, sāka pakāpeniski samazināt strādnieku darba algu un pagarināt darba dienu.
+Mēs, kokstrādnieki, labāk par visiem varam izjust to uz savas ādas. Cik zemu nokritušās darba algas kokapstrādāšanas uzņēmumos?! Vīrieši nopelna Ls 2,40—2,80, visaugstākais Ls 3,20; sievietes Ls 1,60—1,80, maksimumu Ls 2. Lūk, cik zemu noslīdējusi strādnieka izpeļņa. Bet jaunatnes stāvoklis? Likums nosaka mums 6 stundu darba dienu, bet mēs strādājam par nabaga grašiem 8—10 stundas. Mūs ekspluatē vēl vairāk. Mums maksā mazāk kā pieaugušiem, bet darbs ir tikpat ellišķīgi smags. Un tas viss tikai tādēļ, ka fabrikants neredz organizētu strādnieku saliedētību.
+Nevienam strādniekam nav izturams tāds stāvoklis, viņš nav apmierināts ar to un grib to grozīt, bet ko viņš viens var grozīt? Un tā domā katrs. Pareizi. Viens strādnieks maz ko var izdarīt. Tas ir kā smilšu graudiņš pret fabrikantu. Bet visi strādnieki kopā — tas ir varens kalns, kas var visu panākt. Tādēļ nekas vēl nav zaudēts. Tāpat kā fabrikanti organizētiem spēkiem uzbrūk strādnieku tiesībām, tā arī mums jāorganizējas, lai kopējiem spēkiem atsistu fabrikantu spiedienu un pārietu uz cīņu par sava stāvokļa uzlabošanu!
+Revolucionārās arodbiedrības gatavo vispārēju kokapstrādāšanas uzņēmumu strādnieku streiku. Jau sen bija laiks to darīt. Piebiedrojieties šim streikam, ejiet revolucionāro arodbiedrību vadībā izšķirošajā cīņā pret fabrikantiem par darba algas paaugstināšanu, par stingru 8 stundu darba dienas ievērošanu. Organizējiet fabrikā fabrikas komiteju, veiciet starp visiem fabrikas strādniekiem sagatavošanās kampaņu streikam, izstrādājiet savas prasības, izejiet izšķirošā cīņā!
+Tikai cīņa var atnest mums uzvaru, var uzlabot mūsu stāvokli. Un tādēļ visi ka viens, kokapstrādāšanas uzņēmumu strādnieki un strādājošā jaunatne, uz cīņu par streiku!
+Cīnīties līdz galīgai uzvarai! Būsim pārliecināti, ka organizētā cīņā mēs uzvarēsim!
+Revolucionārā proletariāta avangards — Latvijas Komunistiskā partija un Latvijas Komunistiskā jaunatnes savienība ir visu laiku kopā ar jums un par jums. Meklējiet sakarus ar tām, papildiniet to rindas, un ar to jūs vēl vairāk tuvināsiet ne tikai atsevišķu cīņu, bet arī galīgu darba uzvaru pār kapitālu!
+Visi aktīvi uz cīņu, uz streiku!
+Ciņa sola uzvaru!
+Meklējiet sakarus ar Komunistisko partiju un komjaunatni!
+Organizējiet fabrikas komiteju fabrikā un sagatavojiet streiku darba vietā!
+Lai dzīvo Latvijas kokstrādnieku revolucionārā cīņa!
+Lai dzīvo vispārējs kokstrādnieku streiks!
+
+Latvijas Komunistiskās jaunatnes savienības Rīgas komiteja

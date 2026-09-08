@@ -1,0 +1,35 @@
+id: 120
+file_name: lclc-2-n120-LKJS_CK_LKJS_Riga_committee-15000-1930-07.txt
+title: LKJS CK un Rīgas komitejas uzsaukums darba jaunatnei organizēties cīņai pret uzbrūkošo reakciju un fašismu, par strādnieku-zemnieku valdību
+author: LKJS CK un LKJS Rīgas komiteja
+date: 1930-07
+print_run: 15000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 217–218.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+DARBA JAUNATNE!
+Latvijas fašisms neatlaidīgi turpina uzbrukumu strādnieku šķirai, darba jaunatnei, revolucionārai strādniecībai un viņas priekšstāvjiem saeimā.
+Pilsētu un lauku buržuāzija ar visiem viņai pieejamiem spēkiem cenšas uz strādnieku šķiras, it sevišķi uz darba jaunatnes rēķina segt pašreizējās kapitālistiskās saimniecības krīzes sekas. Strādnieku bezdarba armija Latvijā, kā arī citās valstīs pieņēmusi neredzētus apmērus. Buržuāzija cenšas, par cik vien viņai iespējams, ražošanā samainīt tā jau lēto pieaugušo strādnieku darbaspēku ar sieviešu un it sevišķi jaunatnes darbu. Jaunatnes svars ražošanā, izsūkšanas nasta un arī viņas revolucionārā cīņas loma ieņem izcilu vietu.
+Jaunatnes darba apstākļi, katastrofiskā darba algas krišana un necilvēciski rupjā apiešanās no uzņēmēju un meistaru puses ar katru dienu pieņemas, paliek galīgi neciešami.
+Mums, darba jaunatnei, kā jau līdz šim, jāpaliek joprojām par vienu no aktīvākiem vispārējas strādniecības locekļiem, tajā pat laikā jo straujāk un drošāk ar cīņas uzvaras drosmi jāturpina jaunatnes ekonomiskā cīņa, jābūt par iniciatoriem un praktiskiem streika pasācējiem.
+Darba jaunatne! Buržuāzija pašreiz galīgi grib atņemt mūsu slimokases. Tajā pat laikā valdība ar ministru Laimiņu gādā par fašistu pulkiem. «Nolēma jau tuvākā nākotnē organizēt valsts mērogā bezmaksas ambulatoriski medicīnisko palīdzību priekš visiem aizsargiem un aizsardzēm.»
+Ko strādniekam atņem, to fašistam atdod!
+Neraugoties uz fašistu un sociālfašistu ārkārtējo teroru pret strādnieku-zemnieku frakciju, vienīgi viņa atsita pirmajā ārkārtējā sesijā slimokasu likuma pieņemšanu. Tajā pat laikā noplēsa masku kankarus no s.-d. muguras, jo s.-d. it kā arī būtu pret slimokasu likuma pieņemšanu. Valdība vistuvākā laikā nodomājusi slimokasu likumu pieņemt.
+Jāzin ikvienam darba jaunietim, ka s.-d. ir par slimokasu likuma pieņemšanu, jo sociālfašisti likuma komisijā kopēji buntējuši ar tīrasinīgiem fašistiem. S.-d. necīnās par slimokasēm, bet palīdz reakcijai caur saviem «kreisiem» trikiem nekaitīgi novadīt strādnieku šķiras revolucionāro enerģiju.
+Darba jaunatne! Fašisma uzbrukums strādnieku šķirai un kara gatavošana pret Padomju Krieviju stāv mūsu priekšā tuvāk kā jebkad. Somijas fašisms uzsācis komunistiskās frakcijas likvidāciju un revolucionārās strādniecības padzīšanu galīgā pagrīdē.
+Pēc Somijas parauga Latvijas fašistiskā Zemnieku savienība gatavojas iet uz Rīgu ar «rungām» vajāt strādniecību, saeimas frakciju, lai «izrungotu» varas ceļā lauksaimniecības «aizsardzības», bet strādnieku bada likumus.
+Pret uzbrūkošo fašismu s.-d. neved un nav spējīga vest cīņu, jauc ikkatru cīņas pasākumu un apkaro revolucionāro strādniecību, viņas vadītāju — Komunistisko partiju.
+Lai atsistu fašismu un kara draudus, jauniešiem jāorganizējas darba vietās, caur arodbiedrībām, fabriku komitejām, jaunatnes sekcijām. Jāstājas aktīvās strādnieku un darba zemnieku jaunatnes cīņas vadoņu priekšpulkā — Komunistiskā jaunatnes savienībā.
+Darba jaunatne! Mēs atrodamies uzbrūkošā fašisma priekšā un imperiālistiskā kara priekšvakarā. Mums jābūt organizētiem, tikai tad mēs revolucionāri ar revolucionārām metodēm varēsim vienoti iziet cīņā ar uzvaru!
+Cīņā par slimokasēm!
+Par strādnieku un zemnieku varu Latvijā!
+Gatavojieties uz politisko streiku!
+
+LKJS Centrālā Komiteja
+LKJS Rīgas komiteja

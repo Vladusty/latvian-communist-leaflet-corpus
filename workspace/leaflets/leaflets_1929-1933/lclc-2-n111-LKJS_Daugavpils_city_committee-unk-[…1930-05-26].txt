@@ -1,0 +1,29 @@
+id: 111
+file_name: lclc-2-n111-LKJS_Daugavpils_city_committee-unk-[…1930-05-26].txt
+title: LKJS Daugavpils komitejas lapiņa par darbaļaužu bērnu smago stāvokli, ar aicinājumu strādniekiem atbalstīt sarkano pionieru organizāciju un tās prasības
+author: LKJS Daugavpils pilsētas komiteja
+date: […1930-05-26]
+print_run: unk
+typography_name: Spartaks
+production_method: shapirograph
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 198–199.
+
+text:
+LATVIJAS KOMUNISTISKA JAUNATNES SAVIENĪBA
+(KOMUNISTISKĀS JAUNATNES INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKI UN STRĀDNIEKU JAUNATNE!
+Kapitālistiskajā sabiedrībā cīņā pret buržuāziju iet ne tikai apzinīgo un revolucionāro strādnieku saliedētās rindas, ne tikai strādnieku jaunatnes varenās rindas, bet arī proletāriskā bērnu paaudze — sarkano pionieru pulki, kas gatavojas šai cīņai.
+Strādnieki un strādnieces! Tāpat kā jūs, arī jūsu bērni izjūt kapitālistiskās iekārtas — varmācības un ekspluatācijas iekārtas jūgu. Jūs esat spiesti izņemt viņus no skolām, jo 6 gadus par savu nožēlojamo darba algu jūs nespējat apgādāt visu ģimeni. Jūs esat spiesti atdot mācīties amatu vai fabrikā 10—12 gadus vecus bērnus. Bez zināšanām, neizbaudot bērnības un jaunības priekus, jūsu bērni spiesti pavadīt smacīgās un mazās darbnīcās pa 10—12 stundām. Saspiestais gaiss un putekļi ātri sagrauj jauno organismu. Ļoti bieži novērojama parādība pie jūsu bērniem ir tuberkuloze.
+Kapitālisti bērniem maksā visniecīgāko darba algu; darbnīcās 2—8 latus mēnesī, fabrikā 50—60 santīmus dienā. Uzņēmēji jūsu bērniem nemāca amatu, nelaiž klāt mašīnām, darbam, bet izmanto tos kā izsūtāmos.
+Buržuāzija katrā ziņā cenšas pakļaut bērnus savai, buržuāziskajai ietekmei. Tā rada visvisādas bērnu organizācijas; skolās ar fašistisko skolotāju starpniecību audzina jūsu bērnus reliģiska gara, cenšas tiem iestāstīt dažādas melu pasakas par PSRS un revolucionāro komunistisko kustību. Bet strādnieku bērniem jāpieder strādnieku šķirai. Strādnieku bērniem jāatrodas tikai jūsu revolucionārajā ietekmē. Jūsu bērnu personās jums jāgatavo sev maiņa, jauna paaudze cīņai pret kapitālismu.
+Biedri strādnieki un strādnieku jaunatne! Jums sevišķi aktīvi jāpiedalās bērnu paaudzes organizēšanā, jo līdz ar to jūs gatavojat jaunus kadrus, kas ar laiku papildinās jūsu rindas.
+Biedri! No 19. līdz 26. maijam sarkanie pionieri svin savu Starptautisko pionieru nedēļu. Tā norisinās ar sekojošiem lozungiem: 1) par bērnu darba atcelšanu; 2) 4 stundu darba dienu bērniem no 14 līdz 16 gadiem; 3) normālu darba algu strādnieku bērniem; 4) nepieļaut bērnu darbu uzņēmumos ar veselībai kaitīgiem darba apstākļiem; 5) mēnesi ilgu un garāku atvaļinājumu strādnieku bērniem; 6) slimokases un pārējo sociālo apdrošināšanu strādnieku bērniem; 7) dot iespēju strādnieku bērniem apmeklēt pamatskolu; 8) bezmaksas brokastis un mācību piederumus strādnieku bērniem; 9) organizēšanās brīvību strādnieku bērniem.
+Strādnieki, strādnieces un strādnieku jaunatne!
+Visi cīņā par strādnieku bērnu taisnīgo prasību ievērošanu! Līdzās jūsu prasībām, jūsu cīņas lozungiem jāliek jūsu bērnu. Jūsu jaunāko brāļu un māsu prasības.
+Lai dzīvo sarkanie pionieri — proletārisko bērnu organizācija! Lai dzīvo Starptautiskā proletāriskā bērnu nedēļa!
+
+Latvijas Komunistiskās jaunatnes savienības Daugavpils komiteja

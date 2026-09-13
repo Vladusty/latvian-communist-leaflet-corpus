@@ -1,0 +1,27 @@
+id: 126
+file_name: lclc-2-n126-LKP_Ventspils_org_LKJS_Ventspils_org-2000-1930-07.txt
+title: LKP un LKJS Ventspils organizāciju uzsaukums zemniekiem un laukstrādniekiem sakarā ar Starptautisko pretkara dienu, ar aicinājumu cīnīties pret kara draudiem
+author: LKP Ventspils organizācija un LKJS Ventspils organizācija
+date: 1930-07
+print_run: 2000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 227–228.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+DARBA ZEMNIEKI, LAUKSTRĀDNIEKI, LAUKSTRĀDNIECES!
+Pēdējā laikā buržuāzija attīsta strauju uzbrukumu darba šķirai. Darbaļaužu stāvoklis kā uz laukiem, tā pilsētās strauji pasliktinās. Visas ar saimniecisko krīzi saistītās grūtības buržuāzijā uzveļ uz darba zemnieka un pilsētas strādnieka pleciem. Laukstrādnieku algas tiek nosistas (pēdējos gados algas pazeminājušās līdz 40%). Laukstrādniekam burtiski jāvergo no agra rīta līdz vēlam vakaram kā uzvilktai mašīnai. Pārpūlējušos bez žēlastības izmet no vietas, jādzīvo visiem kopā netīras telpās. Uzturs slikts: siļķe un mašinēts piens. Buržuāzija iet uz priekšu uzbrukumā darbaļaudīm. Tiek projektēts t. s. pašvaldību nodoklis, kurš nāktu galvasnaudas vietā, 81. panta kārtībā tiek izdots lauksaimniecības aizsardzības likums: lauku budži piespiež strādāt par puscenu un no šīs niecīgās algas spiež izdarīt piemaksas pie saimnieka sviesta, cūkām un labības. Visi šie likumi ved pie darba zemniecības dzīves līmeņa pasliktināšanās. Sis uzbrukums darba zemniecībai no budžu puses tiek izdarīts organizētā veida, kas bija redzams pavasara līgšanas dienās.
+Biedri! Sociāldemokrāti, bļodnieki un citi reakcijas kalpi izlieto jūsu grūto stāvokli, viņi nostājas jūsu aizstāvju lomās, lai, darba zemniecībai uzstādot savas noteiktas prasības, varētu tas nodot reakcijai, iznīcināt. Uz viņu norādījumiem tiek slēgtas jūsu arodbiedrības, arestēti aktīvākie biedri utt. Biedri! S.-d. ņem aktīvu līdzdalību buržuāzijas uzbrukumā darba šķirai, palīdz buržuāzijai izstrādāt nodokļu normas u. c. tamlīdzīgus likumus, lai uz darba šķiras rēķina varētu saglābt kapitālistisko iekārtu. S.-d. uzdevums ir ar skaistām frāzēm, melīgiem solījumiem novirzīt laukstrādnieku uzmanību citā virzienā, lai buržuāzija tos labāki varētu izsūkt. S.-d., šie turīgie namīpašnieki, banku direktori utt. nekad neaizstāvēs jūsu intereses. Nost ar proletariāta interešu nodevējiem — sociāldemokrātiem!
+Biedri! Kapitālistiskā iekārtā jūsu stāvoklis nekad neuzlabosies, lauku budžiem nerūp jūsu intereses. Tikai Padomju iekārtā darba šķira gūs labklājību. Darba zemnieki! Pašreizējā momentā, kad visas kapitālistiskās valstis pārņēmušas revolucionārās kustības uzplūdi, arī jums aktīvi jāņem dalība šai cīņā. Organizējieties savas šķiras organizācijās, uzstādiet savas prasības: par darba algas palielināšanu, darba laika normēšanu uz 8 st., uztura uzlabošanu, dzīvokļu uzlabošanu, apdrošināšanu slimību gadījumos, par brīvu svētdienu un 2 nedēļu atvaļinājumu gadā. Vienīgi Komunistiskā partija līdz galam izvedīs cīņu par darba šķiras stāvokļa uzlabošanu. To pierāda SPRS; šim proletariāta iekarojumam vispasaules imperiālisti gatavo visā drīzumā uzbrukumu — karu. Šo karu buržuāzija gatavo, lai iznīcinātu SPRS, kura 12 pastāvēšanas gados ir strauji attīstījusies, gūdama arvien lielākas masas piekrišanu. Šim nolūkam, lai nodrošinātu sev aizmuguri, mūsmāju fašisti gatavojas ievest Latvijā fašistisko diktatūru pēc Somijas, Polijas, Lietuvas parauga. Katram jāzin, ka fašistiskā iekārtā darba šķiras stāvoklis kļūs neciešams, darba šķira kļūs par vergu šķiru.
+Biedri! 1. augustā visas pasaules strādniecība zem Komunistiskās partijas vadības iziet cīņā pret draudošo fašismu, pret karu, pret strādnieku iznīcināšanu, izejot protesta streikos, demonstrācijās.
+Laukstrādnieki! 1. augustā solidarizējieties ar visu strādniecību, atbalstiet protesta streiku! 1. augustā neizejiet darbā!
+Lai dzīvo revolucionārā cīņa par Padomju Latviju!
+Nost fašistisko reakciju! Nost karu! Kara gadījumā — ieročus pret kara cēlājiem!
+Rokas nost no SPRS!
+Lai dzīvo Padomju Latvija! Lai dzīvo Komunistiskā partija!
+
+Latvijas Komunistiskās partijas un Latvijas Komunistiskās jaunatnes savienības Ventspils org.

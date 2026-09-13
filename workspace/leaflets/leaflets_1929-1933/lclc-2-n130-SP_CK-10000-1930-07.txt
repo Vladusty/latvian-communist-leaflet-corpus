@@ -1,0 +1,30 @@
+id: 130
+file_name: lclc-2-n130-SP_CK-10000-1930-07.txt
+title: Sarkanās Palīdzības CK lapiņa sakarā ar Starptautisko pretkara dienu
+author: Latvijas Sarkanās Palīdzības CK
+date: 1930-07
+print_run: 10000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 234–236.
+
+text:
+Visu zemju proletārieši, savienojieties!
+1. AUGUSTS — PRETKARA CĪŅAS DIENA
+Starptautiskā kapitālisma vispārējā saimnieciskā krīze pieaug. Dažu kapitālistisko valstu saimniecībā ne tikai depresija, bet Amerikā, Vācijā, Anglijā u. c. saimnieciskā krīze pieņēmusi ļoti asu veidu un vienmēr vēl. padziļinās šķiru pretešķības. Buržuāzija tiecas uz fašisma diktatūru. Buržuāzijas uzbrukums atduras uz pieaugošo strādnieku aktivitāti. Sakarā ar pieaugošo koloniju tautu ekspluatāciju pieaug antiimperiālistiskā revolucionārā kustība koloniju zemēs. SPRS sociālistiskās saimniecības attīstība iet milzu soļiem uz priekšu, kas revolucionarizē visas kapitālistiskās pasaules strādniecību un ārkārtīgi paasina visas kapitālistiskās pasaules saimniecisko krīzi un līdz ar to attiecības pret SPRS. Saimnieciskās krīzes un konkurences dēļ tirgiem paasinās attiecības pašu kapitālistisko valstu starpā. Bet jauni tirgi gūstami vienīgi ar karu. Tāpēc, lai iegūtu jaunus tirgus un ar to palīdzību glābtu brūkošo kapitālistisko iekārtu, visas kapitālistiskās valstis drudžaini bruņojas un gatavojas uz karu. Lai apklusinātu revolucionārās strādniecības protestus pret kara gatavošanu, buržuāzija visās valstīs tiecas pēc fašisma diktatūras. Fašisms un kara draudi tagad ir daudz reālāki kā gadu atpakaļ.
+Strādniecība vēl nav aizmirsusi pagājušā pasaules kara šausmas. Vel nav [no]žuvušas asinis, kas izlietas kapitālistu interešu dēļ. Miljoniem pasaules kara kropļu vēl redzami ielās un laukos. Bet kapitālistiskās valstis ar savas saimniecības un ražošanas kārtības pretrunām nonākušas atkal starptautiskos sarežģījumos, ko nespēj atrisināt ne Tautu Savienība, ne «atbruņošanas» konferences. Šie sarežģījumi atrisināmi vienīgi imperiālistiska kara ceļā.
+Kapitālistiskās valstis ir jau gatavas vēl šausmīgākam strādniecības slaktiņam, kāds bija pasaules karš. Ja pagājušā imperiālistiskajā pasaules karā lielgabalu lādiņi un no aeroplāniem mestas bumbas krita tālā kara frontes aizmugurē, tad nākošajā pasaules karā, izlietojot moderno kara tehniku, būs iespējams ar nāvējošo gāzu lidmašīnu mestu spridzināmu vielu palīdzību iznīcināt veselus rūpniecības centrus tālā ienaidnieka aizmugurē. Tad kara briesmas draudēs katru brīdi ne tikai kareivjiem frontē, bet visiem mierīgiem iedzīvotājiem, sievietēm un bērniem tālās aizmugures pilsētās. Tas viss tikai tāpēc, lai buržuāzija paliktu pie varas, saglabātu brūkošo kapitālistisko iekārtu, lai varētu neaprobežoti ekspluatēt strādniecību un darba zemniecību un lepni dzīvot uz izsūktās tautas rēķina.
+Karu gatavo buržuāzija, un karš ir tikai buržuāzijas interesēs. Strādniecībai karš nes vienīgi upurus — kritušus, sakropļotus, nabadzību un postu.
+Sarkanā Palīdzība līdz ar citām revolucionārām strādnieku organizācijām aicina visu darba tautu 1. augustā atgādināt buržuāzijai lozungu: karš karam, parādīt spēku un gatavību cīņai pret karu, pret buržuāziju, demonstrējot savu spēku un cīņas gatavību ar streiku un demonstrācijām.
+Karu novērst var tikai pati strādniecība, vienprātīgi uzstājoties pret karu, pret kara gatavošanu. Tādēļ 1. augustā nepietiek tikai ar pretkara lozungiem, bet strādniecībai jādernonstrē arī savi reālie pretkara spēki. Tikai pretkara spēku parāde — masu streiki un demonstrācijas piespiedīs buržuāziju atturēties no šausmīgā slaktiņa izvešanas, no darba tautas apkaušanas karā.
+Tikai starptautiskā proletariāta spēku organizētība un cīņas gatavība piespiedīs kapitālistiskās valstis atturēties no uzbrukuma SPRS.
+Vienīgi SPRS nav krīzes un strādniecības stāvoklis pastāvīgi uzlabojas, pateicoties tam, ka tur sociālistiskās celtniecības un visa sava darba noteicējs ir pati strādniecība.
+Nost karu!
+Lai dzīvo pretkara spēku parāde — streiks un demonstrācija!
+Lai dzīvo starptautiskā strādnieku solidaritāte!
+Lai dzīvo Sarkanā Palīdzība!
+
+Latvijas Sarkanās Palīdzības Centrālkomiteja

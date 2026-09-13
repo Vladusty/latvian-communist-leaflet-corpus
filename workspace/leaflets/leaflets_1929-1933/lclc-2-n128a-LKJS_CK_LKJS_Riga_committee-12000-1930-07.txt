@@ -1,0 +1,37 @@
+id: 128a
+file_name: lclc-2-n128a-LKJS_CK_LKJS_Riga_committee-12000-1930-07.txt
+title: LKP Daugavpils pilsētas komitejas uzsaukums dzelzceļniekiem sakarā ar Starptautisko pretkara dienu
+author: LKJS CK un LKJS Rīgas komiteja
+date: 1930-07
+print_run: 12000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 230–232.
+
+text:
+LATVIJAS KOMUNISTISKĀ JAUNATNES SAVIENĪBA
+(KOMUNISTISKĀS JAUNATNES INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+JAUNATNE, PRET KARU, PRET FAŠISMU!
+Pagājuši 16 gadi, kā sākās pasaules slaktiņš. Imperiālistiskā kara brūces uz strādnieku šķiras un zemniecības ķermeņa vēl nav sadzijušas. Apkārt klejo ārprātā un kroplībā desmitiem miljonu kara invalīdu, un bārenīši sēro par dusošiem brāļu kapenēs tēviem. Fabrikantu, baņķieru un lauku bagātnieku labā ar strādnieku un zemnieku jaunatnes asinīm tika slacīti pasaules lauki.
+Darba jaunatne dveš niknu naidu pret kapitālistu karu. Tamdēļ buržuāzija un s.-d. cenšas pielabināties darba jaunatnei, lai viņu no jauna dzītu slaktiņā.
+Jaunatne! Pašreiz mēs atrodamies tuvāk kā jebkad jauna imperiālistiska kara priekšā. Buržuāzijas bruņošanās ar tiešu s.-d. palīdzību ir sasniegusi neredzētus apmērus. Daudzkārtēji pavairotas jūras un gaisa flotes, gatavotas smacējošas gāzes un skaitliski vairotas armijas.
+Kapitālistiskās saimniecības krīze aizvien vēl padziļinās. Neredzētos apmēros pieaug bezdarbs, strādnieku cīņa pret buržujisko iekārtu un plaši nemieri norit Ķīnā un Indijā. Tajā pat laikā vienīgi Padomju Krievijā strauji attīstās sociālistiskā saimniecība, izzūd bezdarbs, redzami pieaug strādnieku un darba jaunatnes materiālā labklājība. Padomju Krievijas rūpniecības un lauku kolektivizācijas sasniegumi revolucionarizē darba tautu un apdraud buržuāzijas kundzību pasaulē.
+Lūk, tāpēc buržuāzija drudžaini bruņojas, ir jau gatava ikkatru brīdi uzbrukt Padomju Krievijai, lai iznīcinātu vienīgo strādnieku valsti pasaulē.
+Arī Latvija rosīgi gatavojas uz karu un ir pilnīgi saistīta pretpadomju imperiālistisko spēku lēģerī. Rīgu nesen apmeklēja amerikāņu un franču gaisa flotes, tuvākā laikā sagaidāma angļu kara flotes ciemošanās. Tajā pat laikā ģenerāļi un pulkveži kā dunduri vasaras karstumā aplido visas Padomju Krievijas pierobežu valstis, karagājienu plānodami. Latvijas teritoriju imperiālisti plāno izmantot kā kaujas lauku un darba jaunatni dzīt karā pret saviem brāļiem — Sarkano Armiju, kura varonīgi aizstāvēs mierīgo sociālistiskās celtnes darbu.
+Darba jaunatnei jāzin, ka Latvijas pilsētu un lauku buržuāzija gatavo atklātu fašisma diktatūru, lai rosīgāki un vēl rupjāki izrēķinātos ar strādniecību un izpildītu imperiālistisko lielvalstu pavēli būt pilnīgā pretpadomju kara gatavībā. Buržuāzija gatavo atklātu fašisma apvērsumu un karu, tajā pat laikā s.-d. cenšas klusēt par asām fašisma un kara briesmām, bet gan centīgi ķengā un nekaunīgi apmelo Krieviju un mūsu Komunistisko partiju. Šādā kārtā s.-d. tieši palīdz fašistiem pretpadomiski noskaņot darba tautas masas karam. Latvijas buržuāzija fašistiski audzina un militarizē savas šķiras jaunatnes organizācijas: skautus, vanagus, «Latvju nacionālās jaunatnes savienību»36 un aizsargus, padarot tos par fašisma bruņotu spēku karā un cīņā pret strādniecību.
+Arī s.-d. nepaliek kaunā buržuāzijas priekšā, cītīgi «SSS» organizāciju ved pa kontrrevolūcijas ceļu. Zem Bruno Kalniņa vadības «SSS» tiek vadīta strādnieku apspiedēju un bendes lomā.
+Darba jaunatne nedrīkst ļaut sevi maldināt no s.-d. — Latvijas armijas leitnanta Bruno Kalniņa tik nopietnā strādnieku un kapitālistu cīņas posmā. Darba jaunatnei organizēti jāiziet no «SSS» un jānostājas pretkara, pretfašisma cīnītāju rindās zem Latvijas Kompartijas [un] komjaunatnes vadības.
+1. augustā strādniecība un darba jaunatne visā pasaulē plaši protestēs pret gatavojamo imperiālistisko karu. Spēcīgi pasludinās buržuāzijai, ka darba jaunatne kopā ar visu strādniecību cīnās pret karu un fašismu, pret kara gatavotājiem — buržuāziju, s.-d. un visu kapitālistisko valsts varu.
+L augustā Latvijas pilsētu strādnieku, lauku kalpu un darba zemnieku jaunatne zvērēs vispasaules strādniecībai, ka viņa ar visiem līdzekļiem aizstāvēs strādnieku valsti — Sociālistisko Padomju Krieviju. Bet, ja buržuāzijas fašistu bari, neraugoties uz visu strādnieku pretkara cīņu, karu pasāks, tad darba jaunatnes pienākums neraidīt nevienu šāvienu pret Sarkano Armiju, bet gan pāriet savu brāļu — Sarkanās Armijas pusē. Tajā pat laikā bruņotai darba jaunatnei, atrodoties buržuāzijas armijā, jāpagriež ieroči pret saviem bruņotājiem un kapitālistu karš jāpārvērš pilsoņu karā. Jācīnās par strādnieku-zemnieku varu Latvijā. 1. augustā Latvijas Komunistiskā jaunatnes savienība aicina visu darba jaunatni plaši uzstāties ar vienas dienas politisku streiku un plašām demonstrācijām.
+Darba vietās organizēties 1. augusta komitejās un pretfašistu. cīņas grupās.
+Tikai ar vienotu organizētu uzstāšanos un cīņas uzvaras drosmi, kopā ar visu strādniecību zem Kompartijas vadības ķerties pie praktiskā pretkara un pretfašisma darba veikšanas, tad 1. augusta uzvara būs mūsu.
+Uz politisku streiku pret karu un fašismu!
+Visi uz Padomju Krievijas aizsardzību!
+Lai dzīvo Sarkanā Armija — mūsu armija! Kapitālistu karu pārvērtīsim pilsoņu karā! Stājieties Komunistiskā jaunatnes savienībā!
+
+LKJS Centrālā Komiteja
+LKJS Rīgas komiteja

@@ -1,0 +1,28 @@
+id: 127
+file_name: lclc-2-n127-LKP_Daugavpils_city_committee-700-1930-07.txt
+title: LKP Daugavpils pilsētas komitejas uzsaukums dzelzceļniekiem sakarā ar Starptautisko pretkara dienu
+author: LKP Daugavpils pilsētas komiteja
+date: 1930-07
+print_run: 2000
+typography_name: Spartaks
+production_method: shapirograph
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 229–230.
+
+text:
+LATVIJAS KOMUNISTISKA PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+NOST IMPERIĀLISTISKO SLAKTIŅU!
+Lai dzīvo pilsoņu karš!
+Biedri dzelzceļnieki!
+Komunistiskā Internacionāle izsludināja 1. augustu par pretkara cīņas dienu. Šajā dienā miljoniem lielas darbaļaužu masas, pieteicot streiku, zem Komunistiskās partijas sarkanajiem cīņas karogiem izies demonstrācijās pret karu. Kopā ar vispasaules imperiālistiem arī Latvija gatavojas uz asiņainu karu pret PSRS. Ārzemju lielvalstis Polija, Francija un Anglija vada Latvijas armijas gatavošanos karam. Latvijas armija ieved jaunākos kara ieročus — tankus, lidmašīnas, smacējošās gāzes, organizē velosipēdistu daļas. Palielina savu militāro varenību arī Latvijas aizsargi, kuri ir iegādājušies tanku un noorganizējuši dzelzceļnieku nodaļas. Visā savā pastāvēšanas laikā Latvijas armija nav sarīkojusi tik plašus manevrus kā šajā gadā.
+Visā Latgalē labo un būvē jaunus ceļus. Visi šie fakti liecina, ka Latvija pastiprināti gatavojas karam pret PSRS. Tāpēc mūsu, Latgales strādnieku, galvenais uzdevums ir modri sargāt mums uzticēto iecirkni un, ja sāktos karš, ieročiem rokās stāties PSRS sardzē.
+Biedri strādnieki! Kara laikā liela nozīme ir dzelzceļiem — transportam. Gandrīz visi kara ieroči ies caur jūsu rokām. Tāpēc L augustā Komunistiskā partija aicina jūs pārtraukt darbu un, solidarizējoties ar vispasaules proletariātu, pierādīt, ka jūs esat Pret karu, ka, sākoties atklātam uzbrukumam PSRS, jūs nepieļausiet karaspēka pārgrupēšanu pret PSRS, tādā veidā nodrošinot strādnieku un zemnieku armijas virzīšanos uz priekšu.
+Lai dzīvo Sarkanā Armija!
+Strādnieki! Jūsu rindās atrodas jūsu apspiedēji, spiegi — nodevēji. Jums jāpienaglo pie kauna staba šie pēdu dzinēji — suņi — budzini, mošini, vitaļini. Izdzeniet no savām rindām šos neģēlīgos suņus. Kauns tam strādniekam, kam ir kaut kāda sazināšanās ar šiem neliešiem. Biedri dzelzceļnieki! Komunistiskā partija pasludina viņus par provokatoriem un aicina jūs boikotēt viņus. Komunistiskā partija spēs iztīrīt no strādnieku vidus visus okšķerus, kas uz savas muguras izjutīs, ko nozīmē proletariāta dūres spēks. Ārā nodevējus no strādnieku vidus! Nost buržuju valdību, kas gatavo jaunu karu! Lai dzīvo darbaļaužu masu 1. augusta cīņa pret karu!
+Lai dzīvo strādnieku-zemnieku valdība!
+
+Latvijas Komunistiskās partijas Daugavpils pilsētas komiteja

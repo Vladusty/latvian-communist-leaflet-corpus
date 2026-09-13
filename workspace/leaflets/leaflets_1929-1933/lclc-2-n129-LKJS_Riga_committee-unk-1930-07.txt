@@ -1,0 +1,33 @@
+id: 129
+file_name: lclc-2-n129-LKJS_Riga_committee-unk-1930-07.txt
+title: LKJS Rīgas komitejas uzsaukums sociāldemokrātisko organizāciju jaunatnei par sociāldemokrātu līderu nodevību, ar aicinājumu sociāldemokrātiskai jaunatnei cīnīties kopā ar komjaunatni pret kara un fašisma draudiem
+author: LKJS Rīgas komiteja
+date: 1930-07
+print_run: unk
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 232–234.
+
+text:
+LATVIJAS KOMUNISTISKA JAUNATNES SAVIENĪBA
+(KOMUNISTISKAS JAUNATNES INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+VISIEM «SSS», «DARBA JAUNATNES» BIEDRIEM UN 6. SPORTA SVĒTKU VIESIEM
+Biedri, visu kapitālistisko valstu saimniecība pārdzīvo asu krīzi. Neredzēti aug bezdarbs, darba jaunatnes trūkums un bads. Arī visās kapitālistiskās zemēs strauji pieaug revolucionārā strādnieku cīņa, plaši nemieri norit Ķīnā, Indijā un Ēģiptē. Šīs cīņas norit zem Komunistiskās partijas vadības par buržuāzijas kundzības iznīcināšanu pasaulē. Tajā pat laikā visas s.-d. partijas aicina strādniekus atturēties no cīņas, sludina «mieru rūpniecībā» un «saimniecības demokrātiju». Šādi s.-d. cenšas glābt postā ejošo kapitālismu. Strādnieku un darba jaunatnes revolucionāro uzstāšanos s.-d. kā pērkona vads cenšas novadīt buržuāzijai nekaitīgā gultnē. Pat vairāk, s.-d. vadība nostājas žandarmu un policistu lomā, paliek par socfašistiem, negantiem revolucionārās strādniecības vajātājiem. To liecina 1929. g. 1. Maijā zem s.-d. vadības Vācijas strādnieku [ap]šaušana, un Latvijā ar socfašista Bruno Kalniņa vadītām rotām 1928. g. 22. augustā un [1929. g.] 1. Maijā uz ielas tika tvarstīti darba jaunieši un nodoti politpārvaldei. Vairāki desmiti darba jauniešu smok 4 gadu spaidu darbos «demokrātiskās» Latvijas cietumos. Latvijas armijas leitnants Bruno Kalniņš «SSS» organizāciju ved pa kontrrevolūcijas ceļu!
+Plosoties krīzei un strādnieku trūkumam kapitālistiskā pasaulē, galīgi pretēji neredzētos apmēros attīstās sociālistiskā saimniecība Padomju Krievijā. Daudzkārtēji vairojas fabrikas, izzūd bezdarbs, [ir] 7 stundu darba diena, 4 dienu darba nedēļa, redzami pieaug strādnieku un darba jaunatnes materiālā un kulturālā labklājība. Sociālistiskās rūpniecības un lauku kolektivizācijas sasniegumi revolucionarizē plašas darba tautas masas kapitālistiskās valstīs un galīgi apdraud buržuāzijas kundzību pasaulē. Tādēļ buržuāzija neredzētos apmēros ar s.-d. palīdzību drudžaini bruņojas un gatavo karu pret Padomju Krieviju.
+Imperiālistiskā kara briesmas ir mūsu priekšā tuvāk kā jebkad. Darba jaunatnei aktīvi jācīnās ar visiem līdzekļiem pret karu, Par Padomju Krievijas aizsardzību.
+Patlaban buržuāzija, lai rastu izeju no krīzes, lai lauztu pieaugušo revolucionāro kustību un atvieglinātu praktisko imperiālistiska kara pasākšanu, pirmkārt pret Padomju Krieviju, ir pasākusi plašu fašisma gājienu pret revolucionāro strādniecību. No Somijas fašisma apvērsuma pamudināti Latvijas fašisti. Zemnieku savienība ir jau nolēmusi gājienu uz Rīgu atklātas fašistiskās diktatūras dibināšanas nolūkā. S.-d. necīnās un nav spējīga cīnīties pret draudošo fašismu un karu, bet gan ar «kreisu» izrunāšanos aizmidzina strādnieku un darba jaunatnes vērību. Tajā pat laikā uz bezkaunīgāko apmelo Padomju Krieviju un mūsu Komunistisko partiju, un šādi s.-d. palīdz buržuāzijai pretpadomiski noskaņot masas karam pret Padomju Krieviju.
+Visa darba jaunatne dveš niknu naidu pret ikkatru imperiālistisko karu, tāpēc buržuāzija ar s.-d. palīdzību cenšas tagad par ikkatru cenu pielabināties jaunatnei, lai varētu dzīt jaunā slaktiņā.
+Darba jaunatne! Neļaujiet sevi maldināt tik nopietnā cīņas brīdī. Organizēti aizejiet no «SSS» un «Darba jaunatnes» organizācijām. Stājieties revolucionārās pretkara, pretfašisma cīnītāju rindās.
+1. augustā, vispasaules strādniecības pretkara cīņas dienā, vienoti uzstāsimies pret karu, pret fašismu, pret socfašistu vadoņiem!
+Visi uz vienotu pretkara, pretfašisma ciņu — 1. augusta streiku un demonstrāciju!
+Nost ar nodevējiem Br. Kalniņu [un] socfašistu vadību!
+Visi cīņā pret karu un fašismu!
+Aizsargāsim Padomju Krieviju!
+Lai dzīvo Komunistiskā partija!
+Lai dzīvo komjaunatne!
+
+LKJS Rīgas komiteja

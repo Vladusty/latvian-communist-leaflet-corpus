@@ -1,0 +1,29 @@
+id: 125
+file_name: lclc-2-n125-LKP_Latgale_regional_committee-10000-1930-07.txt
+title: LKP Latgales apgabala komitejas lapiņa sakarā ar Starptautisko pretkara dienu, ar aicinājumu aizstāvēt PSRS pret imperiālistu uzbrukumiem
+author: LKP Latgales apgabala komiteja
+date: 1930-07
+print_run: 10000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 225–227.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKI UN ZEMNIEKU
+1. augusts — Starptautiskā sarkanā pretkara cīņas diena. Šajā diena Komunistiskā partija aicina darbaļaužu masas cīnīties pret karu un visu kapitālistisko režīmu, kas neizbēgami rada kara briesmas. Jau pagājušā gadā, kad pirmoreiz atzīmēja sarkano [pretkara] dienu — 1. augustu, starptautiskais proletariāts pēc Komunistiskās Internacionāles aicinājuma sarīkoja grandiozas demonstrācijas pret noziedzīgajiem buržuāzijas nodomiem — mest no jauna darbaļaužu miljonu masas kara ugunīs.
+Pēdējā gadā kara draudi vēl vairāk pieauguši. Pasaules kapitālisms pārdzīvo dziļu krīzi, no kuras izeju buržuāzija meklē jauna imperiālistiskā karā. Sevišķi spēcīgi pieaug kara draudi pret Padomju Savienību. Pēdējos gados jau ir bijuši vairāki gadījumi, kad imperiālisti jau tik tikko neuzbruka PSRS. Atcerēsimies 1927. g. vasaru, kad Anglija pārtrauca diplomātiskās attiecības ar PSRS un izdemolēja Padomju sūtniecību, kad tika nogalināts Padomju diplomātiskais pārstāvis Polijā biedrs Voikovs, kad iesākās pastiprināta buržuāzijas aģentu graujošā darbība Padomju Savienībā. Viss tika darīts, lai izprovocētu Padomju Savienību uz karu.
+Vai atcerēsimies pagājušo gadu, kad imperiālistu uzdevumā ķīniešu militāristi pat atklāja Tālajos Austrumos kara .darbību pret PSRS. Tikai kad ķīniešu ģenerāļi bija izjutuši sarkanarmiešu durkļu graujošo spēku un Padomju Savienības konsekventās miera politikas dēļ izdevās novērst tālākos sarežģījumus.
+Beidzot atcerēsimies vispasaules buržuāzijas šā gada «krusta kara gājienu» pret PSRS. Arī tagad buržuāzija un visu sugu popi nav nomierinājušies. Viņi turpina uzkūdīt tautu pret lieliniekiem, izplata visādas tenkas par «kristīgo vajāšanām» un atklāti aicina doties karā pret PSRS. Un Latgales ksendzi, kuriem katram ir liela kulaku saimniecība, nebeidz ķērkt visļaunākos melus par Padomju Savienības strādniekiem un zemniekiem.
+Kamēr ksendzi un popi «apstrādā» tautas smadzenes, ģenerāļi apmāca un apbruņo armiju. Nesen ģenerālis Radziņš paziņoja, ka Latvija savienībā ar Poliju karos pret PSRS. Šajā pašā nolūkā Latvijas armija šinī gadā izrīko līdz šim neredzēti plašus manevrus.
+Pastiprinātu kara gatavošanu pret PSRS pavada vispārējs buržuāzijas uzbrukums strādnieku šķirai un darba zemniecībai. Pasliktinās strādnieku sociālā apdrošināšana; pēc 81. panta izdod likumus pret slimokasēm. Darba algu pazemina un neizmaksā, uzņēmumus slēdz, vai arī tie samazina darba apjomu. Pelēkie baroni prasa desmitiem miljonu lielas piemaksas savām saimniecībām. 10 milj. latu jau viņiem piešķīra, un tas nozīmē jaunus nodokļus darbaļaudīm. Savā konferencē pelēkie baroni draudēja doties karagājienā uz Rīgu «pārkalt lemešus zobenos». Viņu ministru prezidents Celmiņš paziņoja, ka vajadzības gadījumā «komunistus izņems no apgrozības», ka saeimas strādnieku-zemnieku frakcija jāiesēdina cietumā. Tas viss liecina, ka fašistiskā apvērsuma gatavošana un kara draudi pret PSRS pieaug paātrinātā tempā.
+Tāpēc strādnieku un zemnieku cīņai 1. augustā jābūt sevišķi grandiozai. Organizējiet Padomju Savienības aizstāvēšanu, cīnieties pret pieaugošo fašismu, nepieļaujiet saeimas strādnieku-zemnieku frakcijas sagrāvi, protestējiet pret trim kulaku likumiem, kas palielina nodokļus un paceļ dzīves dārdzību —- tādi ir 1. augusta pamatlozungi.
+Latgales strādnieki, trūcīgie un vidējie zemnieki!
+Piedalieties masu sapulces, skrejošos mitinos un demonstrācijās! Stājieties ciešās rindās zem 1. augusta sarkanajiem cīņas karogiem!
+
+Latvijas Komunistiskās partijas Latgales apgabala komiteja

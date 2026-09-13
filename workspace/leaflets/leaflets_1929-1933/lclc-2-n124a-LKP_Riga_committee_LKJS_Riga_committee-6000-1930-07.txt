@@ -1,0 +1,36 @@
+id: 124a
+file_name: lclc-2-n124a-LKP_Riga_committee_LKJS_Riga_committee-6000-1930-07.txt
+title: LKP un LKJS Rīgas komiteju uzsaukums Rīgas darbaļaudīm Starptautiskajā pretkara dienā iziet demonstrācijā
+author: LKP Rīgas komiteja un LKJS Rīgas komiteja
+date: 1930-07
+print_run: 6000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 224–225.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Visu zemju proletārieši, savienojieties!
+RĪGAS DARBAĻAUDIS, 1. AUGUSTĀ VISI UZ IELAS!
+Vēl pēdējā pasaules slaktiņa sistās brūces strādnieku un darba zemnieku miesās nav sadzijušas.
+Bet visas pasaules imperiālisti gatavo jaunu, daudz šausmīgāku slaktiņu. Slaktiņu, lai pārdalītu tirgus savā starpā. Slaktiņu, lai iznīcinātu Padomju Krieviju, vienīgo valsti, kur strādnieki kopā ar darba zemniekiem strauji cel jaunu sociālistisko iekārtu, kurā nebūs vairs izsūcēju un apspiedēju.
+Lielvalstu imperiālisti apvieno Padomju Krievijas pierobežas valstis dzelzs lokā karam pret Padomju Krieviju. Lai iznīcinātu Komunistisko partiju un tad galīgi nospiestu strādniecības pretošanos karam pret Padomju Krieviju un izsūkšanas pastiprināšanai, šinīs valstīs tiek ievesta asiņainā fašistiskā diktatūra. Pēdējā laikā dienas kārtībā ir fašistiskās diktatūras ievešanā Somija, Igaunijā un Latvijā.
+Kara sagatavošanā un fašistiskās diktatūras ievešanā visaktīvāko dalību ņem socfašisti. Viņu kreisās frāzes par cīņu pret fašismu ir visneķītrākā strādniecības nodevība, jo darbos viņi pret fašismu neuzstāsies.
+Biedri strādnieki! Darbaļaudis!
+Pārdzīvojamais moments ir ārkārtīgi nopietns. Neviens nedrīkst palikt vienaldzīgs. Visiem jābūt aktīviem. Visiem jāapspriežas un jāorganizējas darba vietās. Zem Kompartijas vadības jāiziet politiskā streikā un demonstrācijās pret kara un fašisma apvērsuma draudiem.
+Komunistiskā partija uzaicina jūs 1. augustā salasīties pie
+Jaunās Ģertrūdes baznīcas pīkst. 6 vakarā
+un iziet demonstrācijās pa Rēveles, Marijas un Matīsa ielām uz Matīsa tirgus laukuma mītiņa vietu.
+Nekādi valdības noliegumi, policijas terors, sociālfašistu demagoģijas nedrīkst atturēt mūs iziet 1. augustā uz ielas demonstrēt savus spēkus pret karu un fašismu.
+Rokas nost no Padomju Krievijas. Aizstāvēsim SPRS no imperiālistu uzbrukumiem.
+Nost fašistus un sociālfašistus — kara gatavotājus.
+Cīņā pret fašisma apvērsumu.
+Lai dzīvo strādnieku-zemnieku valdība!
+Lai dzīvo Latvijas Komunistiskā partija!
+
+Latvijas Komunistiskās partijas Rīgas komiteja
+Latvijas Komunistiskās jaunatnes savienības Rīgas komiteja

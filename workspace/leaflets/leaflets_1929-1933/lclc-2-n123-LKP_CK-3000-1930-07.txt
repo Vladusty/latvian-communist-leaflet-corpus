@@ -1,0 +1,30 @@
+id: 123
+file_name: lclc-2-n123-LKP_CK-3000-1930-07.txt
+title: LKP CK lapiņa, kura izdota sakarā ar Starptautisko pretkara dienu un kurā izvirzītas kareivju prasības
+author: LKP CK
+date: 1930-07
+print_run: 3000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 221–223.
+
+text:
+LATVIJAS KOMUNISTISKA PARTIJA (KOMINTERNES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI KAREIVJI!
+1. augustā paiet 16 gadu, kā nodārdēja Eiropā pirmie pagājušā imperiālistiskā kara grāvieni. Cari, karaļi, baņķieri, visi bagātnieki kopā ar tagadējiem sociālfašistiem sludināja savas «tēvuzemes» aizsardzību. Desmitiem miljonu strādnieku un darba zemnieku, tērpti zaldātu mundieros, tika atrauti no sava darba, no savas ģimenes un mesti pasaules slaktiņā dēļ jaunu tirgu iekarošanas un buržuāzijas virskundzības nostiprināšanas. Kara brūces uz strādnieku šķiras un zemniecības ķermeņa vēl nav sadzijušas, vēl struto rētas, apkārt klejo ārprātā un kroplībā novesti miljoni kara invalīdu, un bāriņi sēro pēc tēviem. Kas ir šie upuri? Tie ir strādnieku un zemnieku labākie dēli. Viņu asinīm slacīti visas pasaules lauki, viņu kauli nereti ieķeras arāju lemešos, viņi dveš šķiras naidu pret kara iesācējiem — visas pasaules imperiālistiem.
+Biedri kareivji! Mēs atrodamies jaunu karu priekšvakarā. Kapitālistiskās pasaules saimniecība pārdzīvo asu krīzi. Ražošana samazinās, neredzētos apmēros pieaug bezdarbnieku armija. Kapitālisms šīs dziļās pretrunas grib atrisināt kara ceļā.
+Vienīgi strauju saimniecisko attīstību uzrāda Padomju Krievijas sociālistiskā saimniecība, kur vairojas fabrikas un darbnīcas, ar katru gadu pieaug strādnieku materiālā un kulturālā labklājība, ievesta 7 stundu darba diena un 4 dienu darba nedēļa! Padomju republiku saimniecības spīdošie sasniegumi izsauc vispasaules darba tautas simpātijas, revolucionārās kustības pieaugšanu un buržuāzijas niknumu.
+Arī Latvijas lauku budži un pilsētas buržuāzija pārdzīvo ļoti dziļu saimniecisko krīzi, kas izsauc revolucionārās kustības pieaugšanu. Latvijas buržuāzija mēģina rast izeju no krīzes, pasliktinot darbaļaužu stāvokli, pastiprinot izsūkšanu un uzveļot jaunas nodokļu nastas; lai to izvestu, buržuāzija gatavojas atklātam fašistiskam apvērsumam. Grib izrēķināties ar revolucionāro strādniecību un darba zemniecību.
+Fašistiskā Zemnieku savienība gatavo rudenī bruņotu gājienu uz Rīgu, lai nodibinātu fašistisko diktatūru. Šinī apvērsumā fašisti mēģinās pievilkt savā pusē arī armiju caur fašistiskiem virsniekiem. Kareivji! Komunistiskā partija aicina jūs būt nomodā, neļaut sevi izmantot fašistiem cīņā pret darbaļaudīm.
+Fašistiskais apvērsums iekšzemē buržuāzijai nepieciešams, lai sagatavotu un izvestu karagājienu pret strādnieku-zemnieku valsti — SPRS zem Polijas virsvadonības. Visas SPRS pierobežas valstis — Rumānija, Polija, Latvija, Igaunija un Somija zem Eiropas imperiālistisko lielvalstu vadības gatavojas karam pret SPRS. Sevišķa vērība tiek piegriezta Latvijas armijas sagatavošanai. Ģenerālis Radziņš pasaka atklāti, ka kara gadījumā Polijas un Latvijas armijām vienoti jāiet pret Padomju Krieviju. Par to vēl liecina biežā franču, angļu, poļu un Igaunijas «augsto viesu» ierašanās uz mūsu armijas dresēšanu. Ikvienam kareivim jāzin, ka kara briesmas patlaban ir tuvāk kā jebkad. Arī buržuāzijas kalpi — Latvijas sociālfašisti un mācītāji ved visnekaunīgāko aģitāciju un pauž visneķītrākos melus par Padomju republiku. Nost kara gatavotājus, buržujisko valdību un sociālfašistus, strādniecības cīņas nodevējus! Kareivji! Karš tuvojas milzu soļiem! Jūs stāvat atbildīga momenta priekšā. Jūsu uzdevums sekot slaveno sarkano latviešu strēlnieku piemēram, kuri 1917. g. pirmie pārgāja revolucionāro strādnieku pusē, ar ko paātrināja vispasaules slaktiņa izbeigšanu un strādnieku-zemnieku valsts nodibināšanu.
+Biedri kareivji! 1. augusts ir Starptautiskā pretkara diena! 1. augustā vispasaules proletariāts kopā ar strādniekiem un darba zemniekiem, kuri atrodas armijā, uzstājas pret jaunu karu. Pret jaunu uzbrukumu SPRS. Par Padomju republikas aizstāvēšanu.
+Kareivji! Nešaujiet uz strādniekiem! Lai neatskan neviens šāviens uz strādnieku rindām. Vienotiem spēkiem kopā ar strādniekiem un darba zemniecību stājieties pret fašistiem, pret kara gatavošanu, pret fašistisko apvērsumu.
+Kopā ar revolucionāro strādniecību un Komunistisko partiju uzstādiet arī savas īpatnējās prasības. Cīņā par šīm prasībām jūs atbalstīs arī revolucionārā strādniecība. Tāpēc meklējiet sakarus ar Kompartiju, zem viņas vadības cīnieties par savām tiesībām, interesēm.
+Kareivji prasa: 1) atcelt visus miesas sodus, kurus uzliek virsnieki, kā stāvēšanu zem šautenes, tā arī citus; 2) atcelt rīta un vakara lūgšanas; 3) apmācības laikam jābūt 8 stundas dienā, un šinī laikā jāietilpina arī ieroču tīrīšana, dziedāšanas mācīšana un citi darbi, kas līdz šim bija jāveic ārpus 8 stundām; 4) katram kareivim visā dienesta laikā jādod 2 ilgtermiņa atvaļinājumi pa 14 dienām katrs; 5) jāpiešķir kareivjiem tiesības atstāt kazarmas pēc apmācībām un dienesta pienākumu izpildīšanas bez speciālas atļaujas līdz rītam; 6) tiesības sastāvēt un darboties līdzi politiskās partijās, arodbiedrībās un citās sabiedriskās organizācijās; 7) algu palielināt līdz 15 latu mēnesī; 8) uzlabot ēdienu, palielināt produktu normas un izsniegt priekš kareivju ķēķiem nemaitātus produktus.
+Nost karu! Nost kara gatavotājus! Cīņā pret fašistisko apvērsumu! Karu pret SPRS pārvērtīsim karā pret saviem apspiedējiem, pariesim Sarkanās Armijas pusē! Aizstāvēsim Padomju republiku! Lai dzīvo Padomju Latvija! Stājieties LKP rindās! Lai dzīvo LKP! Lai dzīvo Komunistiskā Internacionāle!
+
+LKP Centrālā Komiteja

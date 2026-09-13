@@ -1,0 +1,22 @@
+id: 121
+file_name: lclc-2-n121-LKP_Jelgava_city_committee-500-1930-07.txt
+title: LKP Jelgavas pilsētas komitejas lapiņa, kas raksturo Hoffa Jelgavas linu vērptuves strādnieču nežēlīgo izsūkšanu un terorizēšanu
+author: LKP Jelgavas pilsētas komiteja
+date: 1930-07
+print_run: 500
+typography_name: unk
+production_method: shapirograph
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 218–219.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+UZSAUKUMS «HOFFA» STRĀDNIECĒM
+Sekodams Vakareiropas vergu turētājiem, arī Hoffs savā fabrikā ir izvedis darba racionalizāciju, tikai ne uz tehnisku uzlabojumu, bet gan strādnieku izdzīšanas rēķina. Un tomēr nav diezgan, ka strādnieces zem pastiprināta meistaru terora un draudiem ar atlaišanu no darba ir spiestas apkalpot ārkārtīgā ātruma sadzītas mašīnas. Ka, saņemdamas smieklīgus grašus, pusbada dzīvodamas, strādnieces padotas tuberkulozei u. c. slimību briesmīgām sekām. Katru dienu ir gadījumi, kad strādnieces, pat pie mašīnām, aiz nespēka vai slimības sabrūk un nestavās tiek iznestas no fabrikas. Nav diezgan vēl ar to — strādnieces ir spiestas ziedot pat savu miesu buržujisko izvirtuļu un viņu rokaspuišu: tieksmēm. Ir zināmi gadījumi, kur D. Hoffs ir uzbāzies strādniecēm ar neķītriem priekšlikumiem. Ir zināms, ka direktora palīgs Rings (bonza) ir draudējis ar atlaišanu vairākām strādniecēm, kuras nav pieņēmušas viņa neķītros priekšlikumus, pie kam arī darba uzraugi bijuši piepalīdzīgi.
+Tādēļ: prasām atlaist izvirtušos darba vadītājus. Prasām izbeigt strādnieču terorizēšanu. Prasām iekārtot labu ventilāciju, izdot darba drēbes un slapjās nodaļās attiecīgus apavus.
+Nost s.-d. nodevējus, kuri tikai ņirgājas par strādnieču postu un neģēlīgo izsūkšanu, bet savā vietējā lapelē* nodarbojas tikai ar revolucionārās strādniecības apmelošanu un nodošanu politapsardzei.
+Pret fašistiem un sociālfašistiem.
+
+Latv. Komunistiskās partijas Jelgavas pilsētas komiteja

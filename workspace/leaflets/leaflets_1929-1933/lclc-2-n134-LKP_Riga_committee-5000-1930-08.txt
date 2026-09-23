@@ -1,0 +1,36 @@
+id: 134
+file_name: lclc-2-n134-LKP_Riga_committee-5000-1930-08.txt
+title: LKP Rīgas komitejas lapiņa ar aicinājumu cīnīties pret buržuāzijas uzbrukumu strādnieku dzīves līmenim, pret Zemnieku savienības 3 likumprojektiem, par strādnieku-zemnieku valdību
+author: LKP Rīgas komiteja
+date: 1930-08
+print_run: 5000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 244–245.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+PRET MAIZES KUMOSA SADĀRDZINĀŠANU!
+Pret fašismu un sociālfašismu!
+Biedri strādnieki! Darbaļaudis!
+Buržuāzija stājusies pie visneģēlīgākās jūsu apstākļu pasliktināšanas. Sākot ar šo nedēļu, maizes mārciņas cena ir uzskrūvēta no 6 santīmiem, uz 8—10 santīmiem.
+No jūsu jau tā plānā maizes rieciena viena trešā daļa tiek nogriezta valdošās buržuāzijas naudas makam par labu. Jūsu aplaupīšana ļoti veikli tiek izvesta uz darba dalīšanas pamatiem buržuāzijas grupu un socfašistu starpā.
+Valdības grupas izdod noteikumus par vietējās labības piemalumu 50% apmēros, uz kuru pamata pašām valdības grupām un pārējiem lauku budžiem tiek pārmaksāti no Ls 1—1,5 par katru pārdoto rudzu pudu. Valdības grupas, labības lieltirgotāji spekulanti, dzirnavnieki un to organizācijas pa noteikumu izstrādāšanas laiku ieved desmitiem tūkstošu tonnu lētas ārzemju labības. Vēlāk šī ārzemju labība būs pārvērtusies par vietējo «ražojumu» un starpnieku-spekulantu un dzirnavnieku kabatās ieplūdis no Ls 1—2 piemaksas uz puda.
+Lai valdības noteikumu izstrādāšana gludāk ritētu un viņi būtu spekulantiem un dzirnavniekiem labvēlīgāki, viņu delegācija ir nodevusi valdības grupām kukuli 25 miljonu rubļu * apmērā.
+No spekulantiem dzirnavniekiem apietais demcentrs un socfašisti taisa bungu rībēšanu ap labības monopolu, ieteikdami to kā labāku jūsu aplaupīšanas veidu. Tajā pat laikā tas ir veikls manevrs, lai slēptu no jums visus tos augšā minētos jūsu aplaupīšanas veidus.
+Ko nozīmē šis labības monopols? Tas nozīmē, ka labības tirgus regulēšana jeb, pareizāki sakot, jūsu aplaupīšana tiek nodota tās pašas buržuāziskās valdības un pašvaldību rokās, kuras jau tagad izved jūsu aplaupīšanu. Uzstādot prasību par patērētāju priekšstāvju pielaišanu labības monopola pārvaldē, sociālfašisti jūs mēģina apkrāpt visneģēlīgākā kārtā. Ar to viņi cenšas panākt, lai jums nebūtu iespējams cīnīties pret jūsu aplaupīšanu (sacelties pret saviem priekšstāvjiem). Patiesībā aiz tā slēpjas socfašistu tendence pašiem ņemt līdzdalību kā jūsu priekšstāvjiem jūsu aplaupīšanas izvešanā un baudīt spekulantu kukuļu labumus. Slimokasu reorganizācija rāda, ka strādnieku priekšstāvji tiek arvien vairāk izspiesti ar fašistiskām un socfašistiskām metodēm pat no pašu strādnieku organizācijām.
+Vienīgi Komunistiskā partija un strādnieku-zemnieku saeimas frakcija jau mēnešiem ilgi cīnījusies pret Ulmaņa 3 likumprojektiem un pārējiem uzbrukumiem jūsu stāvoklim. Vienīgi pateicoties enerģiskai strādnieku-zemnieku frakcijas uzstāšanai, buržuāzija nevarēja izvest caur saeimu no viņas sasauktā saeimas ārkārtējā sesijā šos 3 likumprojektus, un, tikai pielietojot fašistiskās metodes, 81. panta kārtībā valdība to tagad izved.
+Biedri strādnieki! Darbaļaudis!
+Šī maizes sadārdzināšana ir tikai sākums. Visdrīzākā laikā sāks vēl vairāk celties maizes, sviesta, gaļas un pārējo produktu cenas. Priekš piemaksām lauku budžiem, spekulantiem un to organizācijām tiks bez tam uz jūsu pleciem uzveltas jaunas nodokļu nastas, akcīzes, muitas.
+Lai sekmīgāk un bez pretestības to varētu izvest, buržuāzija ar socfašistu palīdzību arvien vairāk pielietos fašistiskas metodes un gatavos fašistisko apvērsumu klajas fašistiskās diktatūras ievešanas nolūkos.
+Lai nenokļūtu galējā badā un verga stāvoklī, Komunistiska partija aicina jūs nekavējoši un aktīvi gatavoties pretsparam pret šiem buržuāzijas uzbrukumiem, atsvabinoties no socfašistiem un viņu māņiem.
+Sasauciet sapulces darba vietās, pārrunājiet par šiem uzbrukumiem un protestējiet, organizējiet darba vietu komitejas, uzstādiet prasības par darba algas paaugstināšanu, saistieties ar laukstrādniekiem un darba zemniekiem, iestājieties revolucionārās arodbiedrībās un Komunistiskajā partijā, aizstāviet strādnieku-zemnieku frakciju un revolucionārās arodbiedrības no fašistu grautiņiem, gatavojieties demonstrācijām pret dzīves dārdzību, fašismu, gatavojieties politiskam masu streikam.
+Cīņā pret dzīves dārdzības cēlājiem,
+pret fašizējošos valdību un socfašistiem, par strādnieku-zemnieku valdību Komunistiskās partijas vadībā!
+
+LKP Rīgas komiteja

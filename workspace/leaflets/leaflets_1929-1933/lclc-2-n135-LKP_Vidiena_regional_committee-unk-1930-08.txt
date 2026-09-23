@@ -1,0 +1,25 @@
+id: 135
+file_name: lclc-2-n135-LKP_Vidiena_regional_committee-unk-1930-08.txt
+title: LKP Vidienas apgabala komitejas uzsaukums laukstrādniekiem dibināt savas organizācijas, lai LKP vadībā cīnītos par sava stāvokļa uzlabošanu
+author: LKP Vidienas apgabala komiteja
+date: 1930-08
+print_run: unk
+typography_name: unk
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 246–247.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+LAUKU STRĀDNIEKI UN STRĀDNIECES!
+Mūsu stāvoklis ar katru dienu pasliktinās. Vairāki tūkstoši laukstrādnieku bez darba un maizes. Darba algas tiek samazinātas. Zemsavienībnieki, «lauku papi», organizē apspriedi pēc apspriedes. Tajās lemj par cenu paaugstināšanu uz produktiem, darba algas samazināšanu un strādniecības izsmalcinātāku izkalpināšanu. Neskatoties uz lielo bezdarbnieku daudzumu, mūsu «pelēči» izsalkuši pēc lielās virspeļņas, tikpat kā asinssuņi pēc jēlas gaļas. Tie nežēlīgā krāpšanas nolūkā ieved mūsu biedrus no Lietuvas un Polijas, — pavairo bezdarbnieku armiju, nosit darba algu. Un, beidzot, budži, mūs izkalpinājuši, padzen, neizmaksājuši nopelnīto algu. Atstāj bezizejas stāvoklī.
+Par piemēru: 1) Skrīveru pagastā pie kāda saimnieka strādāja par puisi no Lietuvas ievestais strādnieks. Strādājot saimnieka darbā, tas nocirta sev kreisai rokai īkšķi. Saimnieks viņu padzina bez kādas atlīdzības. Atrazdamies bezizejas stāvoklī, tas izdarīja pašnāvību, metoties zem vilciena; 2) Vandzenē Salu māju saimnieks līdz asinīm piekāva savu puisi un padzina bez atlīdzības; 3) Matkules saimnieks S. dzina no tumsas līdz tumsai savu 19 gadus veco kalponi pie smagiem darbiem. Beidzot to saimnieks padzina, nesamaksājot tai un aizturot kalpones kleitu, jo viņa negāja pie saimnieka gulēt; 4) Lašos jaunās muižas saimnieks aizsargs Egle padzina ganu meitu. Kad gane kopā ar māti nogāja pie saimnieka Egles pēc nopelnītās algas, aizsargs ar šauteni rokās izgāja tām pretim un piedraudēja ar nošaušanu. Nesamaksājis ganei algu, ar ieroci rokā izdzina no mājām. Lūk, biedri strādnieki un strādnieces! Šādu piemēru ir loti daudz, tā ir ikdienišķa parādība. Ar mums apietas tagad sliktāk kā bijušās Krievijas cariskās patvaldības laikā.
+Reakcionārā Latvijas valsts vara nav darba tautas interešu aizstāvētāja. Tā kopā ar saviem aģentiem — sociāldemokrātiem, strādniecības nodevējiem, vajā mūs uz katra soļa: arestē darba tautas priekšstāvjus — Latvijas Komunistiskās partijas biedrus, slēdz laukstrādnieku arodbiedrības, arestē arodbiedrību aktīvākos darbiniekus, aptur darba tautas laikrakstus, noliedz darba tautas preses un vārda brīvību. Visneķītrākā kārtā aizliedz darba tautai runāt un rakstīt patiesību. Par patiesības runāšanu un rakstīšanu mūs arestē un smacē tumšajos reakcijas cietumos!
+Biedri lauku strādnieki un strādnieces! Organizēsim savas lauku strādnieku arodbiedrības. Iestāsimies savās organizācijās un kopējiem spēkiem, organizēti zem Latvijas Komunistiskās partijas vadības aizstāvēsim savas intereses. Mums nav nekas sagaidāms no reakcionārās Latvijas valsts varas un tās aģentiem sociāldemokrātiem — darba tautas nodevējiem. Vienīgi mēs paši ar saviem spēkiem, organizētā ceļā būsim spējīgi uzlabot darbaļaužu stāvokli un veidot jaunu sabiedrisku valsts iekārtu, kura būs patiesa strādniecības interešu aizstāvētāja!
+Nost ar laukstrādnieku izsūcējiem — «pelēkiem baroniem» un. viņu atbalstītājiem sociāldemokrātiem — strādniecības nodevējiem!
+Lai dzīvo strādnieku un zemnieku valdība!
+Lai dzīvo Latvijas Komunistiskā partija!
+
+LKP Vidienas apg. kom.

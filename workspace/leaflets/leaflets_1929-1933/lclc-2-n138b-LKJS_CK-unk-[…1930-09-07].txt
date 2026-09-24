@@ -1,0 +1,48 @@
+id: 138b
+file_name: lclc-2-n138b-LKJS_CK-unk-[…1930-09-07].txt
+title: LKJS CK lapiņa sakarā ar Starptautisko jaunatnes dienu, ar aicinājumu darba jaunatnei cīnīties pret fašistiskās diktatūras draudiem un pretpadomju kara gatavošanu
+author: LKJS CK
+date: […1930-09-07]
+print_run: 5000
+typography_name: unk
+production_method: unk
+original_language: Russian
+text_language: Latvian
+is_translation: True
+note: teksts atšķiras no oriģināla (saīsināts variants), bet šīs atšķirības šajā tekstā nav atspoguļotas
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 252–255.
+
+text:
+LATVIJAS KOMUNISTISKA JAUNATNES SAVIENĪBA
+(KOMUNISTISKAS JAUNATNES INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI!
+Latvijas strādnieku, laukstrādnieku un darba zemnieku jaunieši! Pelēko patvarībām padotie ganu zēni un meitenes! Skolu jaunieši! Visa ekspluatējamā un apspiestā jaunā paaudze!
+Ik gadus septembra mēneša pirmajā svētdienā Komunistiskā Jaunatnes Internacionāle aicina visu zemju strādnieku jaunatni svinēt Starptautisko jaunatnes dienu.
+Šā gada Starptautiskai jaunatnes dienai — 7. septembrim ir jāpārvēršas par varenu strādnieku jaunatnes demonstrāciju.
+Pret atklāti gatavoto fašistiskās diktatūras ievešanu!
+Pret imperiālistu karagājiena gatavošanu [pret] Padomju Savienību!
+Pret imperiālistu uzsākto intervenci [pret] revolucionāro Ķīnu!
+Pret strādnieku jaunatnes nežēlīgo izsūkšanu un meistaru necilvēciski rupjo apiešanos!
+Strādnieku jaunatne! Mēs atrodamies nopietnu notikumu un pārbaudījumu priekšā. Latvijas lauku un pilsētu buržuāzija drudžaini mobilizē masas atklātas fašistiskās diktatūras ievešanai. Pēc Somijas parauga Latvijas budži — Zemnieku savienība ar saviem aizsargiem gatavojas iet uz Rīgu, lai «izrungotu» lauksaimniecības «aizsardzības» likumu, kurš budžiem nesīs desmitiem miljonu latu, bet strādniekiem un darba zemniekiem — badu un jaunus nodokļus. Arvien ciešāk savelkas žņaugi ap saeimas strādnieku-zemnieku frakciju. Revolucionārai strādniecībai tiek atņemtas ikkuras legālas organizēšanās iespējamības. Bet s.-d. tanī pat laikā skali solās aizstāvēt demokrātisko republiku pret «abām diktatūrām» — pret fašismu un komunismu. Ja s.-d. kungi izliekas, ka viņiem nebūt nav no svara, kādas šķiras diktatūru taisās ievest — buržuāzijas vai proletariāta, tad strādniecībai gan tas nav vienalga. Strādniecība uz saviem pleciem jau izbaudījusi, ka t. s. «tīrā» demokrātija ir patiesībā demokrātija priekš buržuāzijas. Tamdēļ pret fašismu (nemaskotu ar demokrātijās kankariem buržuāzijas diktatūru) var vienīgi cīnīties tie, kas cīnās par strādnieku-zemnieku valdību, par proletārisko diktatūru. S.-d. turpretim ar savu kreiso frāžu palīdzību tikai atvieglo, sagatavo ceļu fašismam, kurš jau tagad ar abām rokām ieķēries valdības sēdekļos. Tamdēļ mēs viņus arī saucam par sociālfašistiem. Socfašisti dara visu, lai iemidzinātu strādniecību un novērstu tās uzmanību no atklāti uzbrūkošā fašisma. Tanī laikā, kad fašisma briesmas ir lielākas kā jebkad, Br. Kalniņš «SSS» svētkos iegalvo, ka fašismam Latvijā pat nekāda iespaida neesot. Šis pats Brunis, rakstīdams par notikumiem Somijā, saka, ka somu sociāldemokrātiem vajadzējis izvēlēties no diviem ļaunumiem to mazāko — atklātu fašisma diktatūru vai apstiprināt saeimā viņiem priekšā liktos fašistiskos likumprojektus. Somijas s.-d. izvēlējušies «mazāko ļaunumu» — balsojuši par fašistiskiem likumprojektiem.
+Tāda, lūk, izskatās tā s.-d. «cīņa» pret fašismu — papriekšu fašisti padzen strādnieku organizācijas, fiziski iznīcina komunistus, varas ceļā izmaina līdzšinējo pilsonisko konstitūciju; pēc tam socfašistiem «atliek» saeimā apstiprināt šos no fašistiem jau izvestos aktus.
+Tamlīdzīgi tagad rīkojas arī Latvijas sociālfašisti. Fašistiskā buržuāzija padzen revolucionārās strādnieku organizācijas, gatavojas bāzt cietumā strādnieku-zemnieku frakcijas deputātus un, lai spētu turpināt uzsākto fašistisko saimniecisko politiku, ķeras arī pie fašistiskiem valdīšanas līdzekļiem. Pēc tam arī mūsmāju socfašistiem atliksies vienīgi nobalsot par «mazāko ļaunumu» samierināties ar fašistisko valdību.
+Un, ja gadījumā Latvijas strādniecība zem Kompartijas vadības satriektu fašismu un priekš buržuāziskās demokrātijas lielākais ļaunums būtu proletariāta diktatūra, tad Brunīts «SSS» apmānītiem strādnieku jauniešiem pavēlētu šaut uz revolucionāro strādniecību, kā «mazāko ļaunumu». Tas tā jau ir bijis Vācija Noskes laikā, tas Austrijā jūlija dienās, un tas būs visur, kur proletariāts centīsies saņemt varu savās rokās. Tādēļ, darba jaunieši «SSS» un citu mūsu pretinieku rindās, neļaujiet sevi pataisīt par savu brāļu strādnieku slepkavām. Neļaujiet piekrāpties no sporta, izpriecām un dažādām ārišķībām, militārās bravūras, kreisām frāzēm utt. Trieciet ārā fašistus un socfašistiskos līderus, dibiniet savas revolucionārās organizācijas.
+Strādnieku jaunieši! Fašistiskās diktatūras ievešana ir vajadzīga arī, lai Latvijas buržuāzija vieglāk spētu noorganizēt savu piedalīšanos pretpadomju karagājienā.
+Pēdējos mēnešos visas pasaules buržuju presē sacelta riebīga brēka par Padomju Krievijas preču izvedumiem uz ārzemēm. Ar provokāciju par «vergu darbu», «badu» Padomju Savienībā kapitālisti un sociālfašisti grib apslāpēt augošo revolucionāro kustību, pūlas tāpat kā ar «reliģijas aizstāvēšanas» lozungu mobilizēt masas pret Padomju Krieviju. Amerika, baidīdamās plaukstošās Padomju Savienības konkurences, cenšas noorganizēt viņas preču boikotu. Jo aktīvi angļu un poļu imperiālisti raujas Baltijas valstīs, lai galīgi noformētu bloku pret Padomju Savienību.
+Pret revolucionāro Ķīnu, kur notiek [pilsoņu karš] un kur strādnieku-zemnieku Sarkanā armija iegūst arvien varenākas uzvaras, vienā apgabalā pēc otra padzen muižniekus un ģenerāļus, izdala zemi zemniekiem, nodibina padomju varu, ārzemju imperiālisti jau uzsākuši atklātu intervenciju. Angļu, Amerikas un Japānas imperiālisti jau sūta uz Ķīnu savus kara kuģus, izsēdina desantus un vērš savu ložmetēju uguni pret lielo Ķīnas revolūciju, kura šoreiz norit zem Kompartijas vadības. Tamdēļ aizstāviet Ķīnas strādnieku-zemnieku revolūciju! Ja tiks sagrauta atbrīvošanās kustība Ķīnā, Indijā, tad tiem pašiem angļu un citu imperiālistu kara kuģiem būs vieglāk Baltijas jūras ūdeņos griezt stobrus pret Padomju Savienību — strādnieku valsti. Starptautiskā jaunatnes dienā lai skaļi izskan: rokas nost no Padomju Savienības un Ķīnas revolūcijas!
+Darba jaunatne! Visās zemēs kapitālisti apzinīgākos strādniekus izmet uz ielas un pieņem lētāku un sākumā vēl neapzinīgu darbaspēku — sievietes un jaunatni. Nosit darba algu, pagarina darba dienu. Kad arī jaunieši sāk protestēt, — izmet arī tos ārā. Sevišķi mežonīga izsūkšana pastāv Latvijā. Šeit mašīnu defektus aizpilda strādnieku, sevišķi jauniešu spēks.
+Darba zemnieku jaunatnes, jauno laukstrādnieku, it sevišķi ganu dzīve Latvijā ir moku un ciešanu pilna. Ne darba aizsardzības, nedz citu sociālo likumu tur nav.
+Neskatoties uz teroru, represijām, darba jaunatnei jāved aktīva cīņa par ekonomiskām un politiskām tiesībām. Iestājieties revolucionārās arodbiedrībās. Vediet ekonomiskus streikus par īpatnējām jauniešu prasībām.
+Iestājoties darbā, meklējiet sakarus ar Komunistisko jaunatnes savienību — vienīgo strādnieku jaunatnes vadoni.
+LKJS aicina visu pilsētu un lauku strādnieku jaunatni slēgties ciešās rindās ap septembra dienas sarkanajiem kaujas karogiem.
+Par darba aizsardzību jaunatnei!
+Cilvēcisku darbu un algu!
+6 stundu darba dienu jaunatnei!
+Pret fašisma ievešanu Latvijā!
+Nost fašistus un socfašistus!
+Nost imperiālistu rokas no Ķīnas revolūcijas!
+Aizsargāsim Padomju Savienību!
+Iestājieties Latvijas Komunistiskajā jaunatnes savienībā!
+
+LKJS Centrālā Komiteja

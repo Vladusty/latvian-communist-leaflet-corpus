@@ -1,0 +1,37 @@
+id: 150
+file_name: lclc-2-n150-LKP_Latgale_regional_committee-10000-1930-10.txt
+title: LKP Latgales apgabala komitejas lapiņa ar aicinājumu aizstāvēt saeimas strādnieku-zemnieku frakcijas deputātus un cīnīties pret buržuāzisko iekārtu
+author: LKP Latgales apgabala komiteja
+date: 1930-10
+print_run: 10000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 278–280.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+LATGALES DARBA TAUTAI!
+Biedri strādnieki un darba zemnieki! Rūpniecības krīze, savijoties ar lauksaimniecības krīzi, pieņem neredzētu apjomu gandrīz visās kapitālistiskajās zemēs. Ražošanas uzplaukuma vietā — nabadzība, kolosāls bezdarba pieaugums. Lauksaimniecības uzplaukuma vietā — miljoniem izputinātu zemnieku.
+Pasaules krīze stipri jūtama arī Latvijā. Visstiprāk tā jūtama Latgalē. Buržuāzija visiem spēkiem cenšas uzvelt visu krīzes smagumu darbaļaužu pleciem. Slimokasu likumi izkropļoti, maize ar katru dienu top dārgāka; līdz ar maizes sadārdzināšanos vistuvākajā nākotnē jāgaida visu pirmās nepieciešamības preču sadārdzināšanās. Fašisti jau sagatavo likumu par darba dienas pagarināšanu, darba algas samazināšana jau notiek. Latgales zemniecība vaid nodokļu, parādu un zemes trūkuma spaidos. Gandrīz vai katru dienu Latgales sādžās notiek pēdējā zirdziņa un gotiņas izūtrupēšana.
+Celmiņa valdība, pamatojoties uz 81. pantu, izdod virkni fašistisku likumu (slimokases, maizes monopols), tā gatavojas-izdot tiesu likumus pret presi, par jauniem nodokļiem utt. Tajā pašā laikā fašisti gatavojas apvērsumam, sociālfašisti visu vainu uzveļ komunistiem, saeimas strādnieku-zemnieku frakcijas sešiem deputātiem. Bet kas vainīgs, ka Amerikā 8 milj. bezdarbnieku, bet Anglijā, kur pie varas Makdonalda sociāldemokrātu valdība, 3 milj. bezdarbnieku.
+Lai sociāldemokrāti izgudro jaunus melus savu nodevību attaisnošanai. Buržuāzija gatavojas strādnieku-zemnieku frakcijas sešus deputātus mest cietumā, bet sociāldemokrāti ar savu rīdīšanu pret strādnieku-zemnieku frakciju sagatavo tam labvēlīgus apstākļus. Sociāldemokrāti jau sasaukuši ārkārtēju sesiju, lai paātrinātu deputāta Jankusa arestēšanu.
+Biedri strādnieki un zemnieki!
+Uzbrukums b. Jankusam nozīmē uzbrukumu visai strādnieku-zemnieku frakcijai un strādnieku organizācijām. Tas ir uzbrukums visai strādnieku šķirai un darba tautas masām.
+Biedri strādnieki un zemnieki!
+Buržuāzija gatavo uzbrukumu strādnieku-zemnieku frakcijai tādēļ, ka šīs frakcijas deputātus ievēlējuši strādnieki un zemnieki, tādēļ, ka šie 6 deputāti atklāti un bezbailīgi uzstājas pret dzīves dārdzību, pret nodokļiem, pret darba dienas pagarināšanu, pret darba algas pazemināšanu, pret pelēkajiem baroniem, pret fašismu, pret uzbrukumu PSRS.
+Biedri strādnieki un darbaļaudis! Jums jāpieņem fašistu un sociālfašistu izaicinājums un jāsagatavojas cīņai pret strādnieku-zemnieku frakcijas deputātu arestu. Uz strādnieku-zemnieku frakcijas arestu strādnieku šķirai un zemniecībai Komunistiskās partijas vadībā jāatbild ar vispārēju politisku streiku.
+Strādnieku šķirai un darbaļaudīm jāzin, ka cīņa pret strādnieku-zemnieku frakcijas deputātu arestēšanu — ir cīņa pret fašismu un sociālfašismu, cīņa pret karu utt. un ka šo cīņu Komunistiskā partija varēs sekmīgi vadīt.
+Biedri strādnieki un darba zemnieki!
+Iestājieties Komunistiskajā partijā un komjaunatnē! Tā būs labākā atbilde uz jūsu deputātu arestu. Ievēliet revolucionārās cīņas komitejas! Gatavojieties uz politisku streiku!
+Lai dzīvo Komunistiskā partija un komjaunatne!
+Rokas nost no strādnieku-zemnieku frakcijas!
+Nost dzīves dārdzību! Lai dzīvo 7 stundu darba diena!
+Lai dzīvo ciņa pret fašismu un sociālfašismu!
+Par strādnieku-zemnieku valdību!
+
+Latvijas Komunistiskās partijas Latgales apgabala komiteja

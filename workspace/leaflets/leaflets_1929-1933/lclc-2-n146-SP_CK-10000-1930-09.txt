@@ -1,0 +1,29 @@
+id: 146
+file_name: lclc-2-n146-SP_CK-10000-1930-09.txt
+title: Sarkanās Palīdzības CK lapiņa, kas veltīta buržuāziskās Latvijas cietumos nomocītajiem revolucionāriem
+author: Latvijas Sarkanās Palīdzības CK
+date: 1930-09
+print_run: 10000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 269–270.
+
+text:
+Visu zemju proletārieši, savienojieties!
+VISI LATVIJAS DARBAĻAUDIS! — cīņā pret politpārvaldes slepkavām!
+Biedri strādnieki, darba zemnieki un progresīvā inteliģence! Latvijas reakcionārā buržuāzija un fašisti šogad svin strādnieku bendētavas — politizspiedzes 10 gadu pastāvēšanas jubileju. Ar zvērisku prieku šie nelieši atzīmē, cik daudz viņi paspējuši noslepkavot revolucionāros cīnītājus.
+Un, tiešām, noslepkavoto skaits ir ļoti liels šajos 10 baltā terora gados.
+Biedrs Ābele kļuva vājprātīgs un mira bada nāvē, Daņčauska — kļuva vājprātīgs, Prokovļevs — pakārās, Fricis Bergs — mira no sakropļojumiem, K. Antons — nožņaudzās, Samuilovs — pakārās, Rūdolfs Iraids — kļuva vājprātīgs, Marta Mende, Milda Smēķis, Leons Paegle, Andrejs Polis — mira no cietumā dabūtām slimībām. Katrīna Pētersone — kļuva vājprātīga Liepājas cietumā.
+Tā tikai niecīga daļiņa no tiem simtiem, kas cietumos pataisīti par fiziskiem un garīgiem kropļiem, no tiem simtiem, kas vēl tagad smok Latvijas buržuāzijas moku kambaros.
+Biedri! Fašistiskā buržuāzija paliek jo dienas jo rijīgāka. Viņa grib par katru cenu noslāpēt pusbadā esošo strādnieku augošo nemieru. Kas notiek ar tiem strādniekiem, kuri nokļūst politizspiedzē, to rāda notikumi ar arestēto Slokas strādnieku Bajarinasu, kurš pratināšanas laikā izlēcis caur dubultlogu no piektā stāva.
+Šo šausmīgo gadījumu pilsoniskā prese nekaunas izskaidrot kā bēgšanas mēģinājumu, kā arī nekautrējas apgalvot, ka fiziski un garīgi sakropļotajam Bajarinasam dzīvība apdraudēta neesot, bet šis gan simulējot vājprātību.
+Ko dara s.-d. spices vīri, kas krītot un mirstot par strādnieku interesēm? Viņu centrālorgans «Sociāldemokrāts» ne vārda nemin par šīm mežonībām. Tas vēl lieku reizi pastrīpo, ka s.-d. līderi ir līdzdalībnieki strādnieku slepkavošanā.
+Biedri! Fašistu neģēlībām jādara gals. Neļausim nobendēt savus brāļus, revolūcijas cīnītājus, kas vēl šodien smok politpārvaldes moku kambaros. To panāksim vienotiem spēkiem zem Sarkanās Palīdzības cīņas karogiem. Visi kā viens stāvēsim Sarkanās Palīdzības cīņas rindās! Sarkanai Palīdzībai jātop revolucionārai masu organizācijai!
+Lai dzīvo Sarkanā Palīdzība un viņas revolucionārā cīņa par politieslodzīto atbrīvošanu!
+Slava nomocītiem revolūcijas cīnītājiem!
+Lāsts politpārvaldes slepkavām!
+
+Latvijas Sark. Palīdz. Centrālā Komiteja

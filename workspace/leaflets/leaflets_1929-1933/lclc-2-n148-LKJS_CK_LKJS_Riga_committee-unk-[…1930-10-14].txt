@@ -1,0 +1,40 @@
+id: 148
+file_name: lclc-2-n148-LKJS_CK_LKJS_Riga_committee-unk-[…1930-10-14].txt
+title: LKJS CK un LKJS Rīgas komitejas lapiņa par saeimas strādnieku-zemnieku frakcijas darbu, ar aicinājumu pilsētu un lauku darba jaunatnei aizstāvēt frakciju no reakcijas uzbrukumiem
+author: LKJS CK un LKJS Rīgas komiteja
+date: […1930-10-14]
+print_run: unk
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 273–275.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+VISIEM FABRIKĀS UN PELĒKO BARONU LAUKOS NODARBINĀTIEM JAUNIEM STRĀDNIEKIEM, GANIEM UN PĀREJAI DARBA JAUNATNEI!
+Biedri jaunie strādnieki! 1928. g. Latvijas strādnieki un darba zemnieki ar jūsu visaktīvāko atbalstu, laužot buržuāzijas un sociālfašistu vienotu terora fronti, pirmo reizi demokrātiskās Latvijas pastāvēšanas laikā iesūtīja buržujiskā saeimā savus īstos darba tautas priekšstāvjus. Atminiet tos negantos terora spaidus, kādus buržuāzija vērsa pret darba tautu vēlēšanu laikā un kurus darba tautai «demokrātiskā valstī» nācās pārvarēt, iekams tā spēja nodibināt saeimā savu revolucionāro priekšstāvniecību — strādnieku-zemnieku frakciju. Noliedza un terorizēja kreiso vēlētāju sapulces, konfiscēja kreisos izdevumus, vajāja un slodzīja cietumos kreiso sarakstu kandidātus, un tomēr 75 000 Latvijas strādnieku un lauku nemantīgo iedzīvotāju balsis tika nodotas par revolucionāriem sarakstiem. Šie 75 000 vēlētāji nodeva savas balsis par īstiem strādniekiem, kuri paši līdz ar pārējiem strādniekiem svīda kapitālistu uzņēmumos, par cilvēkiem, kuri pierādījuši savu uzticību proletariāta revolucionārai cīņai. Strādnieku un zemnieku frakcijas nodibināšana — tā bija visas Latvijas darba tautas gribas un revolucionārā spēka izpausme. Šausmīgā terora apstākļos nodotās 75 000 balsis liecināja, ka plašas darba tautas masas pamostas revolucionārai cīņai, novēršas no nodevējiem socfašistiskiem banku direktoriem, vasarnīcu īpašniekiem, arodbiedrību birokrātiem u. c. buržuāzijas dienderiem, kuri uzmetušies Par strādniecības interešu aizstāvjiem saeimā.
+Līdz ar strādnieku-zemnieku frakcijas ievēlēšanu pirmo reizi baņķieru, fabrikantu, pelēko baronu, spekulantu un viņu algoto rokaspuišu — sociālfašistu saeima bija spiesta klausīties īstas, vienkāršas strādnieku runas.
+Strādnieku-zemnieku frakcija ir bijusi vienīgā frakcija saeimā, kura patiesi stāvējusi par strādnieku šķiras interesēm, kura izsacījusi no saeimas tribīnes atklāti darba tautas gribu. Vienīgi viņa ir nelokāmi stāvējusi par strādnieku algu palielināšanu, par 8 stundu darba dienu un viņas tālāko saīsināšanu pieaugušiem strādniekiem un par 4—6 stundu darba dienu nepieaugušiem, vienīgi viņa ir stāvējusi par bezdarbnieku pilnīgu apdrošināšanu uz uzņēmēju rēķina, vienīgi viņa ir cīnījusies pret sociālās apdrošināšanas likumu apcirpšanu, pret pārmērīgām nodokļu nastām, kas gulstas uz strādnieku pleciem. Kā īstā darba tautas priekšstāve tā vienīgi stāvējusi par darba zemniecības stāvokļa uzlabošanu, par nodokļu nastas uzvelšanu uz bagāto pleciem, tā uzstājusies pret visiem likumprojektiem, kuri nākuši par labu vienīgi bagātajai zemniecībai un pasliktinājuši trūcīgās zemniecības stāvokli, tā prasījusi visas zemes reformas revidēšanu.
+Strādnieku-zemnieku frakcija ir bijusi vienīgā, kura uzstājusies pret visiem reakcionāriem likumprojektiem, kas ierobežojuši politiskās tiesības strādniekiem un darba jaunatnei.
+Tā vedusi nepagurstošu cīņu pret buržuāzijas gatavošanos uz karu pret vienīgo strādnieku valsti — Sociālistisko Padomju Republiku Savienību.
+Savā darbā strādnieku-zemnieku frakcija vadījusies no revolucionārās šķiru cīņas principiem, atmaskojusi buržujisko demokrātiju, mobilizējusi masas uz cīņu par strādnieku-zemnieku valdības nodibināšanu Latvijā.
+Ārpus saeimas strādnieku-zemnieku frakcija centusies būt revolucionārās masu cīņas priekšgalā. Un par visu to — tā visu laiku saeimā, tā ārpus tās visnegantākā kārtā terorizēta. Saeimā viņas deputātus rāva nost no tribīnes, slēdza ārā no sēdes. Ārpus saeimas tos vajāja politiskā pārvalde un policija. Tiem noliedza sapulces, tiesāja par revolucionārām uzstāšanām u. c.
+Buržuāzija turpina negantu uzbrukumu darba tautai. Tiek nosistas algas, atcelti likumi par virsstundām, pagarināts darba laiks, apcirpti sociālās apdrošināšanas likumi, tiek sadārdzināta maize, tiek izdoti 81. panta kārtībā visreakcionārākie likumi. Buržuāzija zem imperiālistisko lielvalstu vadības neatlaidīgi gatavojas karam pret SPRS, lai vēl vairāk izsūktu darba tautu, lai nostādītu to galīgā beztiesības stāvoklī, lai izvestu savus kara plānus — tā soli pa solim fašizē visu valsts dzīvi. Tā raida jau lodes pret demonstrējušiem strādniekiem!
+Strādnieku-zemnieku frakcija ir vienīgā, kura modri stāv par darba tautas interesēm, kura ved revolucionāru cīņu pret draudošām kara briesmām. Tāpēc buržuāzija gatavojas izrēķināties ar darba tautas priekšstāvjiem. Sanākot saeimas rudens sesijai oktobrī, uz dienas kārtības stāvēs deputāta Jankusa izdošana ieslodzīšanai cietumā par turēto revolucionāro runu. Tas ir pirmais solis visas strādnieku-zemnieku frakcijas galīgai likvidēšanai.
+Lai sociālfašisti griež zobus pret strādnieku-zemnieku frakciju, — viņi palīdzējuši buržuāzijai terorizēt frakcijas darbību to denuncējuši. Neko tie nedara un nedarīs, lai neļautu buržuāzijai izrēķināties ar darba tautas priekšstāvjiem. Viņi atbalstījuši un atbalstīs ikkatru buržuāzijas soli, kas vērsts pret strādnieku-zemnieku frakciju.
+Vienīgi paši strādnieki un darba zemnieki spēj atturēt buržuāziju šinī izrēķināšanās darbā. Un darba tautai ir jāpierāda, ka viņa ir spējīga ne tikai ievēlēt saeimā savus deputātus, bet arī tos pienācīgi atbalstīt un aizstāvēt.
+Jaunie strādnieki! Arī par jūsu interesēm ir cīnījusies strādnieku-zemnieku frakcija. Jūs esat tie, kurus buržuāzija izsūc un apspiež visvairāk. Jūs esat tie, kurus kalpina par zemāko darba algu pie nedzirdēti garas darba dienas. Jūs esat tie, kuru veselību priekšlaikus saēd fabrikas un lauku darbs. Jūs esat tie, kurus buržuāzija pirmos sviedīs kara liesmās.
+Jums jābūt par tiem, kuri blakus pieaugušai strādniecībai visdrošāk uzstājas par strādnieku-zemnieku frakcijas aizstāvēšanu, pret Jankusa izdošanu ieslodzīšanai cietumā.
+Biedri! Rīkojiet protesta skrejošos mītiņus! Rīkojiet un piedalieties nelegālās masu sapulcēs! Piedalieties ielu demonstrācijās! Esiet gatavi uz buržuāzijas teroru atbildēt ar politisko masu streiku!
+Protestējiet pret deputāta Jankusa izdošanu soda izpildīšanai!
+Protestējiet pret saeimas vienīgās revolucionārās frakcijas gatavojamo iznicināšanu!
+Nost uzbrūkošo fašismu! Nost karu pret vienīgo strādnieku-zemnieku valsti SPRS!
+Nost maizes sadārdzinātājus un fašistu palīgus — sociālnodevējus!
+Nost ministru valdību, kas šauj uz strādniekiem un ieved fašismu!
+Lai dzīvo strādnieku-zemnieku valdība! Lai dzīvo strādnieku-zemnieku frakcija!
+Lai dzīvo LKP un LKJS — revolucionārās [cīņas] vadoņi!
+
+Latvijas Komunistiskās jaunatnes savienības Centrālā Komiteja
+Latvijas Komunistiskās jaunatnes savienības Rīgas komiteja

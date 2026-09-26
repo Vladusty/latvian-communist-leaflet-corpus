@@ -1,0 +1,33 @@
+id: 143
+file_name: lclc-2-n143-LKP_CK-8000-1930-09.txt
+title: LKP CK kareivju nodaļas uzsaukums kareivjiem ar brīdinājumu par kara un fašistiskās diktatūras draudiem, ar aicinājumu kara gadījumā vērst ieročus pret buržuāziju un pāriet PSRS pusē
+author: LKP CK
+date: 1930-09
+print_run: 8000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 263–264.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI KAREIVJI!
+Augusta beigās Rīgā notika augstāko virsnieku slepena apspriede, kurā nolemts savest armiju kaujas gatavībā. Apspriedē pieņemtie lēmumi tika steidzoši izvesti dzīvē. Kaujas patronas no pulku mantnīcām tiek izdotas rotām, lai uz katru kareivi būtu kara laika norma, tiek pastiprinātas apmācības, tiek ievestas ielu cīņu apmācības. Tas viss liecina, ka tuvojas izšķirošais moments. Fašisti gatavojas apvērsumam un karam pret SPRS. Fašistiskie virsnieki pieliek visas pūles, lai varētu armiju vajadzīgā brīdī pagriezt pret revolucionāro kustību, pret strādniecību un nabadzīgo zemniecību. Tas liecina, ka buržuāzija gatavojas ievest fašistisko diktatūru, lai apslāpētu augošo revolucionāro vilni, lai varētu kopīgiem spēkiem uzstāties pret Padomju Krieviju, kas jau lemts notikušā «agrārā» konferencē. Varšavā Polijas fašistu vadonis Pilsudskis pirmais rāda piemēru saviem «agrārās» konferences biedriem, kā izrēķināties ar «demokrātiju» — izvedot masu arestus un sagraujot katru visnenozīmīgāko opozīciju pret fašismu.
+Ielu cīņu apmācības un triecienu nodaļas ievešana Latvijas armijā nozīmē, ka Latvijas fašisti verdziski seko savam kungam — Polijas fašismam un grib izvest fašistisku apvērsumu arī Latvijā ar armijas palīdzību.
+Biedri kareivji! Esiet nomodā! Nepielaidiet sevi izmantot pret revolucionāro strādniecību no fašistiskiem virsniekiem, pret saviem šķiras biedriem -— strādniekiem un zemniekiem.
+Biedri kareivji! Ar ieročiem rokās aizstāviet strādnieku revolucionāro kustību. Uzstājieties pret fašistisko apvērsumu.
+Pēdējie notikumi Polijā spilgti vēlreiz parāda īsto socfašistu seju, kuri visnopietnākā brīdī nodod masu cīņu pret uzbrūkošo fašismu. Par savu visaugstāko uzdevumu kā Polijas, tā Latvijas socfašisti stāda sagatavot sabiedrisko domu par kara nepieciešamību pret SPRS, sludināt visneķītrākos melus par Padomju republiku, ķengāties par strādnieku un zemnieku sasniegumiem sociālistiskā celtniecībā. Ar šādu rīcību socfašisti taisni veicina fašisma nostiprināšanos.
+Biedri kareivji! Vienīgi Latvijas Komunistiskā partija ir spējīga vest cīņu līdz uzvarai, tāpēc katra kareivja uzdevums vajadzīgā momentā — iet cīņā par strādnieku un zemnieku valdību zem Kompartijas vadības.
+Biedri kareivji! Šinī brīdī, kad vispasaules proletariāts un koloniju apspiestie darbaļaudis kopā ar brīvo krievu strādniecība iet pretim vienmēr jaunām uzvarām, jūsu uzdevums noteikti nostāties strādnieku un darba zemnieku pusē un ar ieročiem rokās vajadzīgā momentā cīnīties pret fašismu, par strādnieku-zemnieku valdību!
+Beidzamā laikā atkal samazināta jau tā sliktā un nepietiekošā produktu norma armijā. Kareivji, protestējiet pret šo uzbrukumu jūsu materiālam stāvoklim!
+Kareivji, esiet gatavi aizstāvēt revolucionāro kustību ar ieročiem rokās! Nost fašistus un sociālfašistus!
+Kara gadījumā grieziet ieročus pret saviem apspiedējiem!
+Pārejiet Sarkanās Armijas pusē!
+Esiet gatavi cīņai par strādnieku-zemnieku valdību, par Padomju Latviju!
+Lai dzīvo Latvijas Komunistiskā partija!
+
+LKP Centrālās Komitejas kareivju nodaļa

@@ -1,0 +1,36 @@
+id: 142
+file_name: lclc-2-n142-LKJS_Riga_committee-unk-1930-09-07.txt
+title: LKJS Rīgas komitejas uzsaukums skautu organizācijā sastāvošiem jauniešiem saraut saites ar buržuāziju un iestāties komjaunatnē
+author: LKJS Rīgas komiteja
+date: 1930-09-07
+print_run: unk
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 261–263.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+VISIEM SKAUTU ORGANIZĀCIJĀS SASTĀVOŠIEM JAUNIEŠIEM UN DARBAĻAUŽU BĒRNIEM!
+Ar 7. septembri Latvijas skautu organizācija uzsāk skautu propagandas nedēļu.
+Prezidents apsveic, ministri un ģenerāļi aktīvi uzstājas, buržuji pieliek visas pūles, lai pārvilktu savā pusē strādnieku jaunāko paaudzi. Kāpēc? Vai tikai tamdēļ, lai izstaigātos skaistajos formas tērpos un rotaļātos sporta bumbām. Nē! Skautu organizācijas galvenais uzdevums ir atraut darba jauniešus no savas šķiras brāļiem, izaudzināt par strādnieku šķiras naidniekiem, strādnieku nodevējiem un slepkavām!
+Visas pasaules buržuji drudžaini gatavojas karam pret vienīgo strādnieku valsti — SPRS. SPRS darba jaunatne kopā ar visiem, darbaļaudīm strauji ceļ sociālismu. Bezdarbs izzūd. Ceļas strādnieku dzīves līmenis. Jauniešu darbs tiek pietiekoši atalgots un aizsargāts. Buržuji visiem spēkiem cenšas satricināt šo strādnieku valsti, strādnieku asinīs tie grib noslīcināt revolūcijas sasniegumus. Armijas rindas taču jāpiepilda jauniešiem. Jāiegūst jaunieši savā pusē, lai nodrošinātu kaujas spējīgu armiju.
+Buržuji visādi pielabinās darba jauniešiem un dažādiem līdzekļiem (sportu, izpriecām, dižvīru siltajiem vārdiem) cenšas tos ievilināt savās organizācijās, lai vēlāk saformētu no viņiem strādnieku slepkavošanas bataljonus.
+Jau lielajā pasaules slaktiņā skauti tika dzīti pirmajās kaujas pozicijās. Toreiz viņi aizstāvēja «tēvzemi». Tagad būs «jāglābj kultūra» no komunistu «mežonīgiem uzbrukumiem».
+Fašistu ģenerāļa Goppera vadībā darbojas Latvijas skautu organizācija. Organizācijas aparāts ir fašizēts, bet skautus izaudzina par fašistu armijas palīgspēku.
+7. septembrī Komunistiskā Jaunatnes Internacionāle svin savu 16. Jaunatnes starptautisko cīņas dienu.* Visu zemju darba jaunieši izies šinī dienā uz cīņu pret buržuju [piekopto] nežēlīgo izsūkšanu, pret kara uzbrukumu gatavošanu Padomju Savienībai, par darba jaunatnes iekarošanu un organizēšanu.
+Latvijas Komunistiskā jaunatnes savienība aicina Latvijas darba jaunatni uz aktīvu uzstāšanos. Pēc Somijas parauga Latvijas buržuji cenšas ievest fašistu diktatūru. Tad strādnieku dzīve paliks vēl neciešamāka. Vēl stiprāk mūs izsūks. Vēl vairāk sviedīs cietumos.
+Bet jūs, Latvijas skauti, jūs, skautu organizācijās sastāvošie darba jaunieši, būsiet šīs diktatūras atbalsti. Jūsu rokām buržuji iedzīs postā jūsu brāļus un tēvus. Tagad ir jau saskrūvētas maizes cenas. Tas tikai sākums. [Ar] jūsu palīdzību buržuji spers arī nākošos soļus.
+Bet reiz uz visām reizēm jums jānokrata buržuji no sevis! 7. septembrī Latvijas Komunistiskā jaunatnes savienība aicina jūs uz kopēju cīņu! Organizēti izstājieties no skautu organizācijām! Meklējiet sakarus ar Latvijas Komunistisko jaunatnes savienību! Stājieties Komjaunatnes savienības cīņas rindās!
+Uz kopēju cīņu: Pret fašistu, diktatūras ievešanu!
+Pret kara uzbrukumu Padomju Savienībai!
+Pret fašistu ģenerāļu organizācijām!
+Nost darba jaunatnes fašizēšanu!
+Nost fašistiskās skautu organizācijas!
+Lai dzīvo darba jauniešu vienotā revolucionārā ciņa!
+Lai dzīvo Latvijas Komjaunsavienība!
+Lai dzīvo sarkanais 7. septembris!
+
+LKJS Rīgas komiteja

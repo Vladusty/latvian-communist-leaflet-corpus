@@ -1,0 +1,44 @@
+id: 145
+file_name: lclc-2-n145-LKP_Vidiena_regional_committee-1000-1930-09.txt
+title: LKP Vidienas apgabala komitejas lapiņa ar laukstrādnieku ekonomiskajām un politiskajām prasībām
+author: LKP Vidienas apgabala komiteja
+date: 1930-09
+print_run: 1000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 267–269.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMINTERNES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+VISĀM DARBAĻAUŽU MASĀM!
+Visās valstīs, izņemot Padomju Krieviju, ir saražoto preču pārprodukcija. Bezdarbs pieaug! Ziemeļamerikas Savienotajās Valstis bezdarbnieku 9 milj.; Anglijā — 2; Vācijā — 5; bet Polijā katrs otrais strādnieks ir bezdarbnieks. Vakareiropā kopējais bezdarbnieku skaits ar viņu sievām un bērniem ap 70 milj.
+Ekonomiskai krīzei padziļinoties, laukstrādnieku un sīkzemnieku stāvoklis pasliktinās. Lauksaimniecības produktu saražots tik daudz, ka trūkst pircēju. Bet strādnieku maizes kumoss paliek mazāks! Valdība ieved augstu muitu uz produktiem. Dzirnavu īpašnieki no ārzemēm ievesto lēto labību pārdod par spekulatīvām cenām. Celmiņa valdības koalīcija pārdevās par 30 milj. latu lieltirgotājiem — dzirnavu īpašniekiem, ieveda augstas maizes cenas!
+Kapitālistisko valsts aparātu vadītāji nav spējīgi novērst ekonomisko krīzi. To pamati šķobās. Saniknotās strādnieku masas iziet uz ielas ar lozungiem: «Darbu un maizi dodiet!» Buržuāzijas reakcija pieaug. Slēdz kreiso arodnieku biedrības, laikrakstus aptur un arestē to biedrus. Uz strādnieku demonstrācijām šauj. Nupat Rīgā, Mežaparkā, darba svētkos valdība špikus iesūtīja demonstrantu vidū. Špiki provokācijas nolūkā šāva gaisā; pēc tam policija uz demonstrantiem atklāja uguni no kaujas ieročiem. Trīs strādnieki no policijas sašauti un vairāki cietuši no gumiju pipku sitieniem!
+Biedri strādnieki! Visās kapitālistiskajās valstīs apspiestā darba tauta organizēti uzstājas cīņā par sava stāvokļa uzlabošanu zem Kompartijas vadības! Revolucionārā kustība Ķīnā iet plašumā. 8 apgabalos nodibināta strādnieku-zemnieku valdība. Viņas rīcībā atrodas Sarkanā armija, sastāvoša no 14 korpusiem. Plašos apmēros darbojas sarkano partizāņu grupas. Visi šie fakti imperiālistiem dara galvassāpes. Bez tam vēl Padomju Krievijas pastāvēšana un tās straujā attīstība. Piecgadīgā plāna izpildīšana 4 gados, pārejot uz nepārtrauktu darba nedēļu, pie 7 stundu darba dienas, nepilngadīgiem 4—6 st., strādājot 4 dienu darba nedēļu. Straujā lauksaimniecības attīstība, jaunu fabriku atvēršana neticamos apmēros samazina bezdarbu, kurpretim kapitālistiskajās valstīs bezdarbs pieaug.
+Lai galīgi sakautu strādniecības organizācijas, lauku buržuāzija kopā ar pilsētu [buržuāziju] gatavo fašisma apvērsuma izvešanu šoruden, pēc Somijas parauga. Ievedot fašisma diktatūru, plašās darbaļaužu masas tie grib pārvērst par vergiem un iesākt karagājienu pret Padomju Krieviju kopā ar pārējām Baltijas valstiņām zem imperiālistu vadības. Lūk, biedri strādnieki, ko perina Latvijas valdība priekš strādniecības!
+Esiet gatavi priekšā stāvošajai cīņai!
+Biedri laukstrādnieki un strādnieces! Uzstāsimies ar savām prasībām! Neļausimies beidzamo maizes kumosu no mutes izraut! Sarīkosim protesta mītiņus pret maizes cenu sadārdzināšanu! Pret zemsavienībnieku 3 likumprojektu izvešanu dzīvē! Organizēsim pašaizsardzības grupas minēto kampaņu izvešanai!
+Mēs prasām:
+1) Atcelt maizes cenu sadārdzināšanu!
+2) Zemsavienības 3 likumprojektus nepieņemt!
+3) Aizsargus likvidēt!
+4) Darba algas palielināt līdz pilsētu strādnieku algu līmenim!
+5) 8 stundu darba dienu!
+6) 42 stundas pilnīgai atpūtai katru nedēļu!
+7) Pirms atlaistais strādnieks nav atradis darbu, to nedrīkst izdzīt no korteļa!
+8) Vienādu algu lauku strādniecei ar laukstrādnieku!
+9) Sievieti atsvabināt no darba 2 mēneši pirms un 2 [mēneši] pēc dzemdēšanas, izmaksājot algu par šo laiku!
+10) Laukstrādniekus un trūcīgo zemniecību atsvabināt no nodokļiem, klaušām un galvasnaudas!
+11) Noliegt nakts kulšanas!
+Nost ar reakcionāro Latvijas valdību!
+Cīņā pret fašisma apvērsumu!
+Rokas nost no Padomju Krievijas!
+Lai dzīvo strādnieku-zemnieku valdība!
+Lai dzīvo Latvijas Komunistiskā partija!
+
+LKP Vidienas apgabala kom.

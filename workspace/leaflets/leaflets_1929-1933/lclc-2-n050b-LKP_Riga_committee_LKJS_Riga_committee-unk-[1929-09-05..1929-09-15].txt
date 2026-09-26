@@ -1,5 +1,5 @@
 id: 50b
-file_name: lclc-2-n050b-LKP_Riga_committee_LKJS_Riga_committee-5000-[1929-09-05..1929-09-15].txt
+file_name: lclc-2-n050b-LKP_Riga_committee_LKJS_Riga_committee-unk-[1929-09-05..1929-09-15].txt
 title: LKP un LKJS Rīgas komiteju uzsaukums strādniekiem, kareivjiem un jaunatnei dot pretsparu reakcijas uzbrukumiem un nepieļaut buržuāzijai izdarīt fašistisko apvērsumu
 author: LKP Rīgas komiteja un LKJS Rīgas komiteja
 date: [1929-09-05..1929-09-15]

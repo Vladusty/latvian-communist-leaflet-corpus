@@ -3,7 +3,7 @@ file_name: lclc-2-n127-LKP_Daugavpils_city_committee-700-1930-07.txt
 title: LKP Daugavpils pilsētas komitejas uzsaukums dzelzceļniekiem sakarā ar Starptautisko pretkara dienu
 author: LKP Daugavpils pilsētas komiteja
 date: 1930-07
-print_run: 2000
+print_run: 700
 typography_name: Spartaks
 production_method: shapirograph
 original_language: Russian

@@ -1,5 +1,5 @@
-id: 71a
-file_name: lclc-2-n071a-LKP_Riga_committee_LKJS_Riga_committee-5000-[…1929-11-18].txt
+id: 71b
+file_name: lclc-2-n071b-LKP_Riga_committee_LKJS_Riga_committee-5000-[…1929-11-18].txt
 title: LKP un LKJS Rīgas komiteju lapiņa, kurā atmaskota Latvijas buržuāzijas prettautiskā politika
 author: LKP Rīgas komiteja un LKJS Rīgas komiteja
 date: […1929-11-18]

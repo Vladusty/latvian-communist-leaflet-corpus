@@ -3,7 +3,7 @@ file_name: lclc-2-n138b-LKJS_CK-unk-[…1930-09-07].txt
 title: LKJS CK lapiņa sakarā ar Starptautisko jaunatnes dienu, ar aicinājumu darba jaunatnei cīnīties pret fašistiskās diktatūras draudiem un pretpadomju kara gatavošanu
 author: LKJS CK
 date: […1930-09-07]
-print_run: 5000
+print_run: unk
 typography_name: unk
 production_method: unk
 original_language: Russian

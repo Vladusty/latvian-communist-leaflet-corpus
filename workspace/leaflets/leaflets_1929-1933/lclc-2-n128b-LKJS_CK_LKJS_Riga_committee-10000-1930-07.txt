@@ -1,5 +1,5 @@
 id: 128b
-file_name: lclc-2-n128b-LKJS_CK_LKJS_Riga_committee-12000-1930-07.txt
+file_name: lclc-2-n128b-LKJS_CK_LKJS_Riga_committee-10000-1930-07.txt
 title: LKP Daugavpils pilsētas komitejas uzsaukums dzelzceļniekiem sakarā ar Starptautisko pretkara dienu
 author: LKJS CK un LKJS Rīgas komiteja
 date: 1930-07

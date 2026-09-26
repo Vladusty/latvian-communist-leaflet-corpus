@@ -1,4 +1,4 @@
-id: 4
+id: 4b
 file_name: lclc-2-n004b-LKP_CK_LKJS_CK-unk-1929-01.txt
 title: LKP CK un LKJS CK uzsaukums kareivjiem un jūrniekiem ar brīdinājumu par imperiālistisko valstu gatavošanos uzbrukt PSRS un aicinājumu kara gadījumā vērst ieročus pret pašmāju buržuāziju
 author: LKP CK un LKJS CK

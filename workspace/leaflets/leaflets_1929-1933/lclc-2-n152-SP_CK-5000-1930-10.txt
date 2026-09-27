@@ -1,0 +1,28 @@
+id: 152
+file_name: lclc-2-n152-SP_CK-5000-1930-10.txt
+title: Sarkanas Palīdzības CK uzsaukums sakara ar valdības izdoto jauno soda likumu, kas vērsts pret revolucionāro strādniecību
+author: Latvijas Sarkanās Palīdzības CK
+date: 1930-10
+print_run: 5000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 282.
+
+text:
+Visu zemju proletārieši, savienojieties!
+Cīņā pret fašistiskiem soda likumiem, pret ieslodzīto saslēgšanu dzelžos!
+VISI LATVIJAS DARBAĻAUDIS!
+Fašistiskā buržuāzija ar socfašistu atbalstu 81. diktatūras panta kārtībā izdevusi jaunus soda likumus, kuri galvenām kārtām vērsti pret revolucionāro strādniecību. Jauni likumi palielina mazāko soda normu. Ne mazāk kā 2 gadi pārmācības nams, ne mazāk kā 6 gadi spaidu darbos. Bet tas nav galvenais, jo arī augstākās soda normas palielinātas no 8 uz 12 gadiem. Buržuāzijas zvērinātie blēži pret revolucionāro strādniecību nekad nav bijuši skopi.
+Arvien augstāko soda normu!
+Aiz šiem pantiem slēpjas galvenais, par kuru buržuāziskā prese noklusē. Jaunajos likumos paredzēti miesas sodi. Ieslodzītos saslēgs dzelžos. Pieslēgs pie kameras sienas vai pie ķerras ka suni pie saimnieka būdas. Šo likumu «demokratizēšanu», viņu izvešanu dzīvē apņēmušies 5 buržuāzijas zvērinātie blēži. No tiem 2 sociāldemokrāti — Nikolajs Kalniņš un Kolčaka komisārs Cielēns.
+Revolucionārās strādniecības priekšstāvis komisijā nav pielaists, lai neredzētu, kā sociāldemokrāti, sadevušies rokās ar fašistiem, palaiž kopīgi reakcijas danci pār revolucionārās strādniecības līķiem.
+Biedri! Acis vaļā! Vērosim katru fašistu un socfašistu kustību! Neļausim saslēgt mūsu brāļus — revolūcijas cīnītājus dzelžos!
+Pret reakcijas fronti virzīsim Sarkano fronti!
+Visi pret miesas sodiem, pret ieslodzīto saslēgšanu dzelžos!
+Lai dzīvo Sarkanā fronte!
+Lai dzīvo Sarkanā Palīdzība!
+
+Latvijas Sarkanās Palīdzības Centrālā Komiteja

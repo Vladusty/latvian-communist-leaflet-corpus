@@ -1,0 +1,41 @@
+id: 155
+file_name: lclc-2-n155-LKP_Latgale_regional_committee_LKJS_Latgale_regional_committee-8000-[1930-10-20..1930-10-31].txt
+title: LKP un LKJS Latgales apgabala komiteju lapiņa, kas veltīta Lielās Oktobra sociālistiskās revolūcijas 13. gadadienai
+author: LKP Latgales apgabala komiteja un LKJS Latgales apgabala komiteja
+date: [1930-10-20..1930-10-31]
+print_run: 8000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 286–288.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+VISIEM LATGALES PILSĒTU UN LAUKU STRĀDNIEKIEM, STRĀDNIECĒM, DARBAĻAUDĪM!
+Tuvojas 7. novembris (25. oktobris) —  Oktobra revolūcijas 13. gadadiena, kad strādnieki un zemnieki nokratīja muižnieku, kulaku un buržuāzijas jūgu! Kad strādnieki un zemnieki Komunistiskās partijas vadībā zemeslodes 1/6 daļā nodibināja savu varu — padomju varu un lika pamatus sociālisma uzcelšanai!
+Pēdējos gados Padomju Savienībā sociālisma celtniecībā bijuši milzīgi panākumi. Pieaugot sociālisma celtniecībai, pieaug arī strādnieku labklājība. Strādnieks Padomju Savienībā ir iekarojis 7 stundu darba dienu un 4 dienu darba nedēļu. Viņu rindās nav bezdarbnieku armijas, bet buržuāziskās zemēs ir vairāk nekā 20 miljonu bezdarbnieku.
+Straujais rūpniecības pieaugums ir devis iespēju pāriet uz strauju lauksaimniecības attīstību, nosūtot uz laukiem simtiem tūkstošu visjaunāko lauksaimniecības mašīnu un traktoru. Padomju vara, visādi veicinādama trūcīgo un vidējo zemnieku saimniecību attīstību, ir radījusi augsni kolektivizācijai, kas pēdējos 2 gados ir guvusi milzīgus panākumus. Vairāk nekā 20 miljonu (no 25 miljoniem) zemnieku saimniecību ir apvienojušās kolhozos.
+Kolosālā sociālisma celtniecība Padomju Savienībā rada niknumu imperiālistu nometnē. Buržuāziskā prese apzināti izplata neķītras tenkas par PSRS: it kā padomju vara būtu novedusi zemi līdz badam, ar varu dzenot zemniekus kolhozos utt. Neticiet! Tie ir meli! Jo patiesība par PSRS ir dinamīts, kas spridzina kapitālismu.
+Vispasaules krīze žņaudz kapitālistisko, tai skaitā arī Latvijas saimniecību. Tās rezultātā — bezdarbs, nabadzība, miljoniem izputinātu zemnieku. Buržuāzija cenšas pierādīt, ka krīze, bezdarbs, darba algas pazemināšana, darba dienas pagarināšana, proletariāta sociālo iekarojumu sagrāve, zemnieku stāvokļa pasliktināšanās — nav vis krīzes sekas, bet Padomju konkurences rezultāts. No šejienes izriet niknuma pilnā kampaņa pret padomju preču ievešanu, trakā gatavošanās karam pret PSRS.
+Tukšie solījumi strādniekiem un zemniekiem, policistu nūjas un lodes, zvēriskā izrēķināšanās ar komunistiem, revolucionāro organizāciju sagrāve un fašistiskā diktatūra — visi šie līdzekļi tiek izlietoti ar nolūku uzvelt uz strādnieku un zemnieku pleciem krīzes sekas.
+Brīdī, kad fašistiskā buržuāzijā met cietumos izbadējušos strādniekus un zemniekus, sakropļo viņus uz visu mūžu, sociāldemokrāti spēlē riebīgu lomu. Sociāldemokrātu līderi, kļuvuši ar buržuāziskās valsts palīdzību par banku direktoriem un akciju sabiedrību valžu locekļiem, ieguvuši muižu centrus utt., saauguši ar policejiski birokrātisko valsts aparātu, uzskata par vislielāko noziegumu jebkādu uzstāšanos pret buržuāzisko iekārtu.
+Biedri Latgales strādnieki un darbaļaudis! Cīņā pret fašistisko asinssuņu diktatūru, pret musinātājiem uz karu jums jāpaļaujas tikai uz saviem spēkiem! Latgales darba tautai nav citas organizācijas kā tikai vajātā, pagrīdē iedzītā Latvijas Komunistiskā partija. Tikai viņa ir spējīga vest revolucionārā cīņā strādnieku šķiru un zemniecību!
+Biedri! Oktobra revolūcijas 13. gadadienai jābūt cīņas dienai pret jaunu imperiālistisko karu, pret karu ar PSRS, pret fašistisko diktatūru, par padomju varu.
+Biedri Latgales pilsētu un sādžu strādnieki un darbaļaudis! Lai Oktobra revolūcijas 13. gadadienā atskan Latgales darbaļaužu masu varenā balss: rokas nost no PSRS!
+Latgales darbaļaudis, bezdarbnieki un bezdarbnieces! PSRS sociālisma celtniecības 13. gadadienā visi zem sarkanajiem karogiem! Šajā dienā visi uz ielas, uz demonstrācijām! Ja policija jūs kavēs, sakļaujiet ciešāk savas rindas! Lieciet drebēt darbaļaužu bendēm!
+Lai dzīvo PSRS sociālisma celtniecības 13. gadadiena!
+Nost kara kūdītājus!
+Rokas nost no PSRS!
+Mēs aizstāvēsim PSRS ar ieročiem rokās!
+Nost fašistisko teroru!
+Nost fašismu!
+Nost nodevējus — sociāldemokrātus — visbīstamākos strādnieku šķiras nodevējus!
+Lai dzīvo strādnieku un darbaļaužu cīņa par Padomju Latgali!
+Lai dzīvo Latvijas Komunistiskā partija — pārbaudītā strādnieku šķiras vadone!
+
+Latvijas Komunistiskās partijas Latgales apgabala komiteja
+Latvijas Komunistiskās jaunatnes savienības Latgales apgabala komiteja

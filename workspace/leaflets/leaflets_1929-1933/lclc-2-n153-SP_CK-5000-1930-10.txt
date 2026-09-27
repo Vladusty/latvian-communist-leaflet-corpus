@@ -1,0 +1,30 @@
+id: 153
+file_name: lclc-2-n153-SP_CK-5000-1930-10.txt
+title: Sarkanās Palīdzības CK uzsaukums darbaļaudīm palīdzēt cietumos ieslodzītajiem biedriem un iestāties Sarkanās Palīdzības organizācijā
+author: Latvijas Sarkanās Palīdzības CK
+date: 1930-10
+print_run: 5000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 283–284.
+
+text:
+VISI LATVIJAS DARBAĻAUDIS!
+Palīdzību revolucionārās cīņas upuriem!
+Biedri strādnieki, darba zemnieki, progresīvā inteliģence! Visi kapitāla algotņi fabrikās, ostās, kantoros, laukstrādnieki pie pelēkā barona, kalpones pie fašistu un socfašistu leitnantiem un viņu madamām — visi sniegsim brālīgi roku revolucionārās cīņas upuriem.
+Ar katru dienu fašistu un socfašistu terors pieņemas. Ar katru dienu vairāk pildās buržuāzijas moku kambari — Latvijas cietumi. Cietumos ieslodzīti simtiem mūsu brāli, māsas, tēvi un mātes — simtiem mūsu labākie, aktīvākie revolūcijas cīnītāji.
+Fašistu un socfašistu cietumos ievestais režīms ir nāvējošs.. Par katru kustību, kas nepatīk administrācijai, ieslodzīto iemet tumšā karcerī vai soda ar «melno mēnesi» — noliedz pabalstu no piederīgiem. Pie cietuma uztura — sapuvušām siļķēm un kartupeļiem — ieslodzītie padoti bada nāvei. Cietuma kameras mitras, aukstas, smirdošas. Iestājoties ziemai, stāvoklis paliek vēl ļaunāks. Fašistu un viņu aģentu nolūks — iznīcināt savas šķiras Pretiniekus — aktīvākos revolūcijas cīnītājus.
+Biedri! Tas nedrīkst notikt! Nepieļausim iznīcināt tos, kas, nebaidīdamies nāves, gājuši cīņā par mūsu kopējo lietu — par darbaļaužu atsvabināšanu no kapitālisma verdzības. Būsim vienoti ar tiem!
+Visi darbaļaudis fabrikās, kantoros, lauku sētās! Vāksim drēbes, apavus, siltu veļu, cimdus, zeķes u. c. priekšmetus ieslodzīto vajadzībām. Vāksim grāmatas, rakstīsim vēstules, lai viņi zin, ka mēs tos neesam aizmirsuši.
+Katram strādniekam, katram darba cilvēkam jāzin: cīņa būs sekmīga tikai tad, ja visi vienoti ķersimies pie darba. «Visi par vienu, viens par visiem» — ir mūsu parole.
+Šo revolucionāro darbu — atbalstīt šķiru cīņā cietušos revolucionārus — ir uzņēmusies Latvijas Sarkanā Palīdzība. Tā ir organizācija, kas brālīgā šķiras solidaritātē vieno visus strādniekus un darbaļaudis.
+Latvijas Sarkanā Palīdzība Komunistiskās partijas vadībā ar revolucionārā proletariāta atbalstu sagraus terora blokādi, fašismu un sociālfašismu. Sagraus cietuma mūrus un žogus, atsvabinās revolucionāros cīnītājus.
+Biedri! Katra strādnieka, darba cilvēka pienākums un uzdevums — būt Sarkanās Palīdzības vienotās cīņas rindās. Visi Sarkanā Palīdzībā!
+Lai dzīvo Sarkanā Palīdzība un revolucionārā cīņa par politieslodzīto atbalstīšanu un galīgu atbrīvošanu!
+Nost fašistus un socfašistus — darbaļaužu izsūcējus!
+Nost politpārvaldes slepkavas!
+
+Latvijas Sarkanās Palīdzības Centrālā Komiteja

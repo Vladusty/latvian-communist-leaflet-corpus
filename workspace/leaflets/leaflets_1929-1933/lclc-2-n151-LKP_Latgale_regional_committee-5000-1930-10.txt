@@ -1,0 +1,32 @@
+id: 151
+file_name: lclc-2-n151-LKP_Latgale_regional_committee-5000-1930-10.txt
+title: LKP Latgales apgabala komitejas lapiņa, kurā atmaskota buržuāziskā agrārā reforma Latvijā un izvirzītas Latgales zemnieku prasības
+author: LKP Latgales apgabala komiteja
+date: 1930-10
+print_run: 5000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 280–281.
+
+text:
+LATVIJAS KOMUNISTISKA PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+VISIEM LATGALES DARBAĻAUDĪM!
+Biedri bezzemnieki un sīkzemnieki! Lai nodrošinātu savu politisko un ekonomisko varu, radītu sociālo bāzi savai varai, buržuāzija pirms 10 gadiem deklarēja, ka viņa izdarīs agrāro reformu — sadalot vācu, krievu un polu muižnieku zemes. Kas saņēma zemi un ko ir devusi buržuāziskā agrārā reforma Latvijas bezzemniekam un sīkzemniekam?
+Muižniekiem atņemto zemi buržuāzija sadalīja atnācējiem — jaunsaimniekiem un lielos centrus atstāja bijušiem muižniekiem, deputātiem, augstākiem virsniekiem un kulakiem. Daļa fonda zemes ir sadalīta dažādām kultūras vajadzībām, daudzas muižas atrodas valsts rīcībā. Tikai niecīgu daļiņu un vissliktākos gabalus iemērīja sīkzemniekiem un bezzemniekiem. Buržuāziskā agrārā reforma 10 gados ir nomocījusi un padarījusi nabadzīgu Latgales sādžu. Zemnieku mājeles stāv uz vistas kājas, trūkst būvmateriālu, meži ir izcirsti 10—20 gadu uz priekšu, zemnieki vaid zemes trūkuma, nodokļu un bezdarba dēļ. Latgales zemnieks, kas dabūjis zemes gabaliņu, spiests sagādāt līdzekļus ne tikai sev un savai ģimenei, bet viņam jādomā arī par to, kā nomaksāt nodokļus, procentus, kā atdot aizdevumus.
+Viņam jādomā par to, kur ņemt līdzekļus, lai samaksātu prēmiju par eksporta sviestu un bekonu pelēkajiem baroniem. Kur ņemt 4 latus, lai nopirktu pudu labības sev un savai ģimenei un atdotu parādu sēklas fondam. Gandrīz katru dienu Latgales sādžās izūtrupē zemnieka pēdējo gotiņu un zirģeli.
+Lūk, pie kā novedusi Latgales zemnieku buržuāziskā, sociāldemokrātu atbalstītā agrārā reforma, kas piešķīra zemi nevis-bezzemniekiem un sīkzemniekiem, bet Latvijas un Latgales buržuāzijai — pelēkiem baroniem un muižniekiem.
+Biedri bezzemnieki un sīkzemnieki! Velti gaidīt no buržuāzijas, ka tā uzlabos jūsu stāvokli. Biedri, tikai revolucionārā cīņā Komunistiskās partijas vadībā jūs varat uzlabot savus dzīves-apstākļus.
+Jums jāprasa: sadalīt visu muižu centru zemes, atņemt zemes pārpalikumus pelēkiem baroniem, atņemt zemi deputātiem, ierēdņiem un augstākiem virsniekiem! Atņemto zemi sadalīt bezzemniekiem un sīkzemniekiem, kas atrodas bezizejas stāvokli; prasīt pilnīgu trūcīgo zemnieku atbrīvošanu no visiem nodokļiem, no nomaksām sēklas fondam, pazemināt nodokļus vidējiem zemniekiem; pārnest nodokļu smaguma centru uz kulaku saimniecībām; atbrīvot darba zemniekus no aizdevumu nomaksas; izsniegt darba zemniekiem bez maksas būvmateriālus; nodrošināt ar darbu bezzemniekus un sīkzemniekus, nosakot viņiem 8 stundu darba dienu!
+Biedri, organizējieties, sasauciet sapulces un apspriediet visas šīs prasības! Organizējiet revolucionārās cīņas komitejas! Meklējiet sakarus ar Komunistisko partiju, ejiet cīņā zem tās karoga!
+Bet nedrīkst aizmirst, ka visu šo prasību realizēšana iespējama tikai padomju varas apstākļos.
+Nost buržuāzisko agrāro reformu!
+Nost fašistisko ekonomisko politiku!
+Lai dzīvo strādnieku un darba zemnieku revolucionārā cīņa un šās cīņas vadone — Komunistiskā partija!
+Lai dzīvo Padomju Latgale!
+
+Latvijas Komunistiskās partijas Latgales apgabala komiteja

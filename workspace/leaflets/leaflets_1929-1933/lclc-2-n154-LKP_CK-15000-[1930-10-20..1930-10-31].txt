@@ -1,0 +1,45 @@
+id: 154
+file_name: lclc-2-n154-LKP_CK-15000-[1930-10-20..1930-10-31].txt
+title: LKP CK lapiņa sakarā ar Lielās Oktobra sociālistiskās revolūcijas 13. gadadienu, ar aicinājumu darbaļaudīm aizstāvēt PSRS
+author: LKP CK
+date: [1930-10-20..1930-10-31]
+print_run: 15000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 284–286.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+Kapitālistiskās valstīs stāvoklis ar katru dienu pasliktinās! Padomju Krievijā sociālistiskā celtniecība iet milzu soļiem uz priekšu! Bezdarbs likvidēts, ievesta 7 stundu darba diena, darbaļaužu materiālais stāvoklis ar katru dienu uzlabojas!
+SPRS 13 GADU JUBILEJA!
+Strādnieki! Darba zemnieki un inteliģence!
+Pagājuši 13 gadi, kopš Krievijā revolūcijas ceļā tika nodibināta strādnieku-zemnieku valdība. Šinī īsajā laika sprīdī strādnieku-zemnieku valdība ir veikusi tik milzu darbu, kāds vēl vēsturē nav pieredzēts. SPRS lielie sasniegumi krīt acīs sevišķi pašreiz, kad visās kapitālistiskās valstīs pieaug bezdarbnieku armijas, ceļas dzīves dārdzība, pieaug nodokļu nasta, pazeminās darba alga, tiek pagarināta darba diena, strādniekiem tiek laupītas visas sociālās un politiskās tiesības. SPRS šinī pat laikā bezdarbs ir galīgi likvidēts, darbaļaudis no nodokļiem galīgi atsvabināti, ir ievesta 7 stundu darba diena, pieaug darbaļaužu materiālā labklājība, darbaļaudis ir politiski brīvi un neaizskarami. Pat buržuāzija un tās rokaspuiši, s.-d., vairs nav spējīgi apstrīdēt faktu, ka SPRS ir likvidēts bezdarbs un ka strādnieki strādā tikai 7 stundas dienā.
+Šī lielā starpība starp SPRS un kapitālistiskām valstīm izskaidrojama ar to, ka kapitālisms atrodas nenovēršamā sabrukuma priekšā, turpretim SPRS ražošana straujā tempā tiek pārveidota uz sociālistiskiem pamatiem.
+Ar to arī ir izskaidrojams tas, ka buržuāzija un s.-d. izplata par SPRS dažādas melu ziņas. Pēdējā laikā buržuāzija ir ķērusies pie jaunas melu kampaņas, kliedzot par SPRS dempingu. Patiesībā Padomju Krievija nekādu dempinga politiku neved. Neraugoties uz to, ka SPRS tagad ražo daudz plašākos apmēros nekā pirms kara, uz ārzemēm tiek izvests daudz mazāk nekā agrāk — pirms kara.
+Kliegšana par SPRS dempingu ir nekas cits kā jauns imperiālistu un s.-d. izgudrojums, lai organizētu karagājienu pret sociālistisko celtniecību.
+Latvijas darbaļaudis!
+Pēdējā laikā notiek negants fašistu uzbrukums strādnieku darba algām, darba dienai, sociālai apdrošināšanai, dzīves līmenim. Tiek gatavota jaunu nodokļu uzvelšana uz darbaļaužu pleciem. Fašistu valdība izdevusi 81. diktatūras panta kārtībā jaunu soda likumu, kurš paredz ierobežot preses brīvību un ņemt strādniekiem visas politiskās tiesības. Fašistu nekautrība zaudē katras robežas. Fašisti sāk valdīt ar atklātas diktatūras metodēm. Uz darbaļaužu rēķina miljoni tiek atdoti lieldzirnavniekiem un lauku buržuāzijai.
+Pret strādniekiem valdība izved atklātu teroru. Valdība gatavo uzbrukumu strādnieku-zemnieku saeimas frakcijai un strādnieku organizācijām. Ventspils arodbiedrība jau slēgta.
+Kareivji! Latvijas fašistu valdība izaicinošā kārtā apspriežas ar imperiālistiskām valstīm par uzbrukuma gatavošanu SPRS. Pēc Varšavas konferences Latvijas buržuāzija sūta savus priekšstāvjus apspriesties par kara gatavošanu pret SPRS uz Bukarestu.
+Latvijas darbaļaudis! Kareivji! Padomju Krievijas 13 gadu jubilejā izejiet demonstrācijās par SPRS aizstāvēšanu, pret fašistu uzbrukumiem darbaļaužu sociālām un politiskām tiesībām, pret teroru, pret uzbrukuma gatavošanu strādnieku-zemnieku saeimas frakcijai, pret uzbrukumu darba algām, 8 stundu darba dienai, dzīves līmenim.
+Pret strādnieku ieslēgšanu važās!
+Demonstrējiet par darba algas paaugstināšanu, par 7 stundu darba dienu, par darbu un maizi bezdarbniekiem!
+Strādnieki! Izejiet streikā pret uzbrukumu darba algai, pret uzbrukumu 8 stundu darba dienai, pret teroru. Izejiet streikā par tādu stāvokli, kādu sev iekarojis SPRS proletariāts.
+Darba zemnieki! Demonstrējiet pret zemes izpirkšanas maksām, pret ūtrupēm, pret jauniem nodokļiem un klaušām!
+Neklausiet tenkām par Padomju Krieviju! Padomju Krievijā ar varu nevienu kolektīvos nedzen. Šīs tenkas izlaiž buržuāzija un s.-d., lai atturētu jūs no cīņas pret saviem apspiedējiem.
+Latvijas darbaļaudis! Izejiet 7. novembrī vienotā demonstrācijā pret uzbrukumu strādnieku-zemnieku saeimas frakcijai un strādnieku organizācijām, pret Jankusa arestēšanu, pret teroru cietumos, pret fašistisko soda likumu.
+Izejiet demonstrācijā pret karu, pret uzbrukuma gatavošanu SPRS, par strādnieku-zemnieku valdību!
+Stājieties Komunistiskās partijas rindās!
+Kareivji! Kara gadījumā grieziet ieročus pret savu buržuāziju!
+Mēs nepielaidīsim karu pret SPRS!
+Trakojošais fašisms jāsavalda!
+Lai dzīvo varonīgā Vissavienības Komunistiskā (lielinieku) partija!
+Lai dzīvo SPRS un Latvijas proletariāta kopējā cīņa!
+Lai dzīvo LKP! Lai dzīvo Komunistiskā Internacionāle!
+
+LKP Centrālā Komiteja

@@ -121,7 +121,9 @@ The LCLC does not provide diplomatic transcriptions of the original leaflets. Th
 
 Some Latvian texts marked `is_translation: True` reproduce translations published in the source edition rather than the language of the original leaflet. The original language and translation status are recorded explicitly in the metadata fields `original_language`, `text_language`, and `is_translation`.
 
-The LCLC generally preserves the spelling found in the published edition. Only limited additional normalization has been introduced by the corpus compiler. In particular, the forms *tipografija*, *sociāldemokrats*, *telegrafs*, *demokratija*, *krize*, *birokratisms*, *simpatija*, *baze*, *fraze*, *organs*, *muzika* and *birokrats* have been consistently rendered according to modern Latvian orthography as *tipogrāfija*, *sociāldemokrāts*, *telegrāfs*, *demokrātija*, *krīze*, *birokrātisms*, *simpātija*, *bāze*, *frāze*, *orgāns*, *mūzika* and *birokrāts* respectively.
+The LCLC generally preserves the spelling found in the published edition. Only limited additional normalization has been introduced by the corpus compiler. In particular, the forms *tipografija*, *sociāldemokrats*, *telegrafs*, *demokratija*, *krize*, *birokratisms*, *simpatija*, *baze*, *fraze*, *organs*, *muzika*, *birokrats* and *pozicija* have been consistently rendered according to modern Latvian orthography as *tipogrāfija*, *sociāldemokrāts*, *telegrāfs*, *demokrātija*, *krīze*, *birokrātisms*, *simpātija*, *bāze*, *frāze*, *orgāns*, *mūzika*, *birokrāts* and *pozīcija* respectively.
+
+The form *programa* has not been normalized and is retained with a single m, as it appears in the published edition, although the modern Latvian spelling is *programma*. Users may normalize this form themselves where required for their analysis.
 
 This limited normalization reflects the analytical purpose of the corpus. Orthographic variation is not treated as an object of analysis, and unnecessary spelling variation can cause the same lexeme to be represented as separate features in computational text analysis. 
 

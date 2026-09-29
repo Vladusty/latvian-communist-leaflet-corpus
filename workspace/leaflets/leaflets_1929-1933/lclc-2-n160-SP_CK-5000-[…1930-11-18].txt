@@ -1,0 +1,33 @@
+id: 160
+file_name: lclc-2-n160-SP_CK-5000-[…1930-11-18].txt
+title: LKJS CK lapiņa par Latvijas buržuāzijas prettautisko politiku, ar aicinājumu darbaļaudīm gāzt buržuāzijas varu
+author: LKJS CK
+date: […1930-11-18]
+print_run: 5000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 297–299.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+FABRIKANTU, SPEKULANTU UN PELĒKO BARONU JUBILEJA!
+18. novembrī Latvijas ekspluatatori pie vīna glāzēm atzīmēs savas varas nodibināšanu pār Latvijas darba tautu. Frakotie kungi un viņu ministri, buržuāzijas militārās varas nesēji — ģenerāļi un zvaigžņotie leitnanti, padevīgie kungu kalpi un darba tautas nodevēji — sociālfašisti, visi, visi, kam tagadējā Latvijas valsts devusi iespēju iedzīvoties uz darba tautas nedzirdētas izsūkšanas un muļķošanas rēķina, visi tie 18. novembrī dziedās slavas dziesmas nacionālai Latvijas valstij.
+Bet tu, jaunais strādniek, vai tu dziedāsi līdzi ekspluatatoru un viņu rokaspuišu — sociāldemokrātu jubilejas korim? Nē — mūžam nē! Ko devusi tev tagadējā valsts? Labklājības vietā — katorgas darbu fabrikantu fabrikās un pelēko baronu laukos, nedzirdēti zemo darba algu, kas tālu nesedz dzīves nepieciešamās vajadzības, melnos bez ēšanas darba mēnešos, kad cieti badu un salu. Brīvības vietā — politisko beztiesību un izsmieklu no fabrikantu un saimnieku puses. Izglītības vietā — garos gadus «tēvijas» daudzajos cietumos, ja uzdrošinies prasīt cilvēcīgu dzīvi un īstu brīvību. To devusi tev buržuāziskā Latvija. Tādu tagadni tev un pārējai darba tautai sagādājuši tagadējie valdnieki pa «brīvās» Latvijas pastāvēšanas laiku.
+Bet kā ar nākotni? Valdošā šķira — buržuāzija gatavo tev dubultas verdzības nākotni. Par augstām tai liekas strādnieka bada algas, un tā nosit algas arvien zemāk un zemāk. Tai liekas, ka par maz strādnieks tiek izsūkts — tā pagarina bez mēra darba dienu. Lai mazāk tu varētu nopirkt par jau tā zemo darba algu — tā sadārdzina Labību, pacel muitas uz apaviem, drēbēm u. c. Tu ciet no bezdarba, bet fabrikanti, saimnieciskās krīzes spiesti, sašaurina darbus un izsviež uz ielas arvien jaunas bezdarbnieku armijas. Par tavām politiskām tiesībām buržuāzija un viņas policija ir tikai ņirgājušās. Tā izdzenājusi tavas sapulces un demonstrācijas, vajājusi darba jaunatnes biedrības, konfiscējusi tavus izdevumus, šāvusi nost jeb slodzījusi cietumos tos drošsirdīgos jauniešus, kas uzdrošinājušies stāties uz revolucionārā cīņas ceļa. Bet buržuāzijai tas liekas vēl par maz. Nākotnē, lai pastiprināti tevi izsūktu, lai triektu karā pret vienīgo strādnieku valsti pasaulē — Padomju Krieviju, buržuāzija Latvijas darba tautai draud ar fašisma teroru. Caur savu valdību buržuāzija jau tagad pakāpeniski iznīcina visas atlikušās politiskās tiesības darba tautai. Tā pasliktina cara soda likumus, kuri buržuāzijai liekas par mīkstiem, uz maksimālo tā ierobežo darba tautas bieddrošanās u. c. tiesības. Pakāpeniski caur valdību tā ieved fašistisku diktatūru Latvijā. Bargu nākotni gatavo tagadējie valdnieki darba tautai un tev, darba jaunatne!
+Cīņai pret Padomju Krieviju un darba tautu vispār nacionālā buržuāzija ar starptautisko imperiālistu palīdzību nodibināja nacionālo Latvijas valsti, kuras vārdā fabrikanti, spekulanti un bagātie saimnieki negantā kārtā ir apspieduši strādniekus un barojušies no viņu sviedriem. To apzinoties, tie rīko 18. novembrī savu jubileju.
+Par tagadējo Latviju ir stāvējuši un stāv sociāldemokrāti. Ar savu streiklauzību un atklāto sadarbību ar policiju viņi palīdz buržuāzijai apspiest revolucionāro .kustību un sekmē fašisma diktatūras ievešanu Latvijā. Sociālfašistu nopelni pret tagadējo Latviju tiešām lieli. To mēs neapstrīdam. Bet jo lielāka socfašistu nodevība pret Latvijas darba tautu. Sociāldemokrāti ir līdzvainīgi pie to apmēram 12 000 nobendēto strādnieku, kuri nobendēti no kara tiesām buržujiskās Latvijas sākotnē un vēlākos gados — cietumos. Tie līdzvainīgi pie Latvijas darba tautas sūrā likteņa un ciešanām. To darba tauta neaizmirsīs nekad!
+Biedri jaunieši! Buržujiskās Latvijas jubilejas dienā jums noteikti jānorobežojas no buržujiskās valsts. Jums .jāpasaka, ka jūs savu nākotni nesaistāt ar to valsti, kurā valda kungi un kurā strādnieks nostādīts verga stāvoklī. Jūsu nākotne jums jāņem savās rokās. Plecu pie pleca ar pieaugušo strādniecību uz cīņu par Latvijas darba tautas atsvabināšanu, uz cīņu par strādnieku un zemnieku valdību, kas vienīgā spēs dot īstu brīvību darba tautai, kas ievedīs stingru darba jaunatnes darba aizsardzību, kas dos brīvu pieeju pie zinātnes.
+Darba jaunieši — kareivji! Latvijas armija ir tas spēks, uz kura balstās buržuāzijas kundzība pār darba tautu. 18. novembrī jums nāksies demonstrēt gar buržujiskās valsts prezidentu un citiem cilindrotiem varasvīriem. Apzināties, ka [viņi] ir darba tautas apspiedēji, tāpēc ne padevību un uzticību demonstrēt, bet gan naidu pret valdošo šķiru un savu solidaritāti ar darba tautas revolucionāro cīņu!
+Jaunie strādnieki! Uz cīņu par patiesu darba tautas atsvabināšanu jūs aicina Latvijas Kompartija un Komunistiskā jaunatnes savienība! Atbrīvojiet sevi no ilūzijām, ka tagadējā valsts ir visas tautas valsts, apzinieties, ka tā ir buržujiskā valsts, stājieties zem LKJS cīņas karogiem!
+Nost buržujisko Latviju! Nost uzbrūkošo fašismu!
+Nost buržuāzijas varas balstus — sociālfašistus!
+Lai dzīvo cīņa par 6—4 stundu darba dienu jaunatnei!
+Lai dzīvo pilnīga bezdarba jaunatnes apdrošināšana uz uzņēmēju un valsts rēķina!
+Lai dzīvo strādnieku un zemnieku valdība Latvija!
+Lai dzīvo Sarkanā Palīdzība — buržujiskās valsts vajāto strādnieku sargs!
+Lai dzīvo Latvijas Kompartija un Latvijas Komunistiskā jaunatnes savienība!
+
+Latvijas Kom. jaun. savienības Centrālā Komiteja

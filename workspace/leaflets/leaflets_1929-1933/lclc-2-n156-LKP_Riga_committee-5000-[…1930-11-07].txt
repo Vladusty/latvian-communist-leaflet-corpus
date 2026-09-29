@@ -1,0 +1,34 @@
+id: 156
+file_name: lclc-2-n156-LKP_Riga_committee-5000-[…1930-11-07].txt
+title: LKP Rīgas komitejas lapiņa sakarā ar Lielās Oktobra sociālistiskās revolūcijas 13. gadadienu, ar aicinājumu darbaļaudīm 7. novembri uzsākt streiku un iziet demonstrācijā
+author: LKP Rīgas komiteja
+date: […1930-11-07]
+print_run: 5000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 288–290.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+CĪŅĀ PAR OKTOBRA REVOLŪCIJU LATVIJĀ!
+Biedri strādnieki! Darbaļaudis!
+7. novembrī paiet 13 gadi kopš Oktobra revolūcijas Krievijā 13 gadus atpakaļ Krievijas proletariāts kopā ar darba zemniecību zem varonīgās lielinieku partijas un Ļeņina vadības revolūcijas ceļā gāza veco izsūkšanas un apspiešanas iekārtu, sagrāba valsts varu un ražošanas līdzekļus savās rokās, lai celtu jaunu, sociālistisku sabiedrības iekārtu, kurā vairs nebūs ne izsūkšanas, ne apspiešanas.
+13 gadus no vietas Latvijas buržuāzija un s.-d. kopā ar visas pasaules buržuāziju un sociāldemokrātiem pareģoja Padomju Krievijas saimniecisko sabrukumu, viņas bojā eju. 13 gadus no vietas viņi ir darījuši visu, lai iznīcinātu vienīgo strādnieku valsti — SPRS. Tas viņiem nav izdevies. SPRS ar starptautiskā revolucionārā proletariāta atbalstu strauji ceļ sociālismu.
+Visus šos 13 gadus buržuāzija ar sociāldemokrātiem pareģoja kapitālisma ziedu laikus, solīja darbaļaužu masām darbu un labklājību, apdziedāja «demokrātiju», sprediķoja par šķiru pretešķību samierināšanos un kara draudu izzušanu.
+Kā ziepju burbuļi šī darbaļaužu muļķošana sašķīst pret dzīves īstenības klintīm. Latvija, tāpat kā pārējā kapitālisma pasaule, pārdzīvo vēl neredzētu, arvien pieaugošu saimniecisku krīzi. Viss krīzes smagums tiek pārvelts uz strādniecības un pārējo darbaļaužu pleciem. Bezdarbs strauji pieaug un ziemas mēnešos sasniegs rekorda apmērus. No bada un izmirstības jau tagad Latvijā ir apdraudēti vairāki tūkstoši, bet visā kapitālistiskā pasaulē — 70 miljonu bezdarbnieku un viņu ģimeņu locekļu. Uzņēmēji ar socfašistu palīdzību izved vispārēju uzbrukumu nodarbināto darba algai, darba dienai, sociālai apdrošināšanai. Konkurence, jauni nodokļi un muitas izputina vidējos slāņus.
+Visa tā rezultātā šķiru pretešķības saasinās. Streiku kustība (Francijā, Vācijā, Spānijā, arī Latvijā un citur), vēlēšanu rezultāti Vācijā, «sarkanais gailis» Rietumukrainā, demonstrācijas un bruņotās sacelšanās veselā rindā kapitālistiskās valstīs, revolucionārās kaujas kolonijās liecina par revolucionārās kustības pieaugšanu. Viņas apspiešanai valdošā buržuāzija ar socfašistu atbalstu pāriet uz fašistu diktatūru un gatavo uzbrukumu revolūcijas bāzei — SPRS. Cīņā dēļ jauniem tirgiem kapitālistiskās valstis jau atklāti noslēdz blokus jauna imperiālistiska kara uzsākšanai, noslēdz visas kapitālistiskās pasaules apvienību karam pret SPRS.
+Tāds ir «ziedošais» kapitālisms, tāda ir buržuāzijas un socfašistu solītā «labklājība» darbaļaudīm, tāda ir tā apdziedātā «demokrātija».
+Gluži pretēja aina ir Oktobra revolūcijas zemē — SPRS. Krīzes vietā norit strauja sociālistiska celtniecība. No buržuāzijas un socfašistiem par utopiju iztēlotais 5 gadīgais plāns ar uzviju tiek izvests dzīvē. Plāna 2. gadā paredzēto 21,5% vietā rūpniecības produkcija ir pieaugusi par 25%. Piecgades izvešana 4 gados ir nodrošināta ar lielo strādnieku iniciatīvu un entuziasmu, kas izpaužas sociālistiskās sacensībās triecienbrigādēs, cīņā ar birokrātismu. Kapitālisma paliekas rūpniecībā sekmīgi tiek uzveiktas.
+Ne mazāki panākumi ir lauku sociālistiskā pārveidošanā uz padomju un kolektīvo saimniecību pamatiem ar kulaku kā izsūcēju šķiras iznīcināšanu. Tas dos iespēju jau tuvākos 2 gados apmierināt darbaļaužu pieaugošās prasības pēc gaļas un piena produktiem.
+Līdz ar straujo sociālistisko celtniecību norit SPRS strādnieku un zemnieku materiālā un kulturālā līmeņa pieaugšana. Pašreiz bezdarbs SPRS ir galīgi likvidēts, reālā darba alga kopā ar sociālo apdrošināšanu sastāda 167% no pirmskara reālās darba algas, 40% no strādniekiem strādā 7 stundas dienā, 1,5 milj. rūpniecībā nodarbinātiem strādniekiem katra piektā diena ir brīva, ir ievesta vispārēja apmācība skolās, zinātne un māksla strādniekiem ir pieejama un uzplaukst.
+Biedri! Šo SPRS proletariāta un zemniecības sasniegumu priekšā un tā trūkuma, bada, apspiestības un izmirstības priekšā, kas mums neatlaidīgi uzmācas, mums līdz ar visas pasaules proletariātu ir jāizvēlas: par kapitālismu vai komunismu, par fašismu un socfašismu vai padomju varu. Citas izejas mums nav. SPRS sociālistiskās celtniecības piecgadīgā plāna sekmīga piepildīšana ir aicinājums mums izšķirties par padomju varu un komunismu, sekojot Oktobra revolūcijas piemēram. Tāpat kā Krievijas proletariāts kopā ar darba zemniecību 13 gadus atpakaļ izeju no imperiālistiskā kara radītās katastrofas panāca Oktobra revolūcijā, tāpat ari mums un visas pasaules proletariātam un darba zemniecībai izeja no šīs vēl nebijuši smagās krīzes meklējama vienīgi proletāriskā revolūcijā zem Kompartijas vadības.
+7. novembris ir proletariāta revolucionārie svētki!
+7. novembrī apliecināsim gatavību aizstāvēt savu darbaļaužu tēviju — SPRS un stāties Latvijas proletāriskās revolūcijas cīnītāju rindās!
+7. novembrī iziesim vienoti no uzņēmumiem streikos un demonstrācijās pret buržuāziju, pret badu un karu, pret fašismu un socfašistiem. Organizēsimies revolucionārās pretfašisma cīņas komitejās!
+Lai dzīvo SPRS! Lai dzīvo Oktobra revolūcija Latvijā!
+Lai dzīvo proletariāta vispasaules Oktobris!
+
+Latvijas Komunistiskās partijas Rīgas komiteja

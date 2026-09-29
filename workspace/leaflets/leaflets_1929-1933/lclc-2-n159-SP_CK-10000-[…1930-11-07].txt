@@ -1,0 +1,35 @@
+id: 159
+file_name: lclc-2-n159-SP_CK-10000-[…1930-11-07].txt
+title: Sarkanas Palīdzības CK lapiņa, kas veltīta Lielas Oktobra sociālistiskās revolūcijas 13. gadadienai
+author: Latvijas Sarkanās Palīdzības CK
+date: […1930-11-07]
+print_run: unk
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 296–297.
+
+text:
+1917. g. — 7. XI — 1930.
+Visi Latvijas darbaļaudis, strādnieki, darba zemnieki, amatnieki, kalpotāji, darba inteliģenti!
+Šogad 7. novembrī varonīgais SPRS proletariāts atskatās uz Sarkanā Oktobra noietiem 13 gadiem. 1917. gadā, proletariātam nākot pie varas, tas saņēma kā mantojumu drupu kaudzes. Rūpniecība bija sagrauta, lauki neapstrādāti. Visur rēgojās bads, posts, nabadzība.
+Bet tagad — pēc 13 gadiem? Simtiem jaunas rūpniecības iestādes, elektrostacijas, traktorstacijas, šahtas, naftas torņi. Laukos giganti — padomju un kolektīvās saimniecības. Simtiem traktoru, kombainu, elevatoru. Miljoniem pudu kviešu padomju zemnieks ražo savām vajadzībām. Skolas, teātri, kino, klubi, kultūrparki, sanatorijas — viss proletariāta rīcībā. Tas panākts neatlaidīgā darbā, kopīgiem spēkiem.
+SPRS proletariāts nepazīst vairs bezdarbu. Strādā 4 dienas nedēļā, 7 stundas dienā. Pie kaitīga darba 6 stundas.
+Bet kapitālistiskā pasaulē 30 milj. bezdarbnieku! Mazajā Latvijā vien vairāk kā 10 tūkstoši badā mirstošu strādnieku. Pārējie strādā 12—14 un vairāk stundas dienā pie bada algas. To pašu neizmaksā. Ja prasa, — izmet uz ielas, sloga cietumos.
+Latvijas laukstrādnieks, nabadzīgais zemnieks strādā dienu un nakti. Vergo svētdienas un darbdienas pie pelēkā barona par dažiem pūriem labības un kartupeļu gadā.
+Ar katru dienu Latvijas un visa starptautiskā proletariāta stāvoklis pasliktinās, bet SPRS proletariāts iet uzvaras gājienā uz priekšu, tuvojas galīgai uzvarai pār iekšējo un ārējo kontrrevolūciju.
+To saprot kapitālisti un viņu aģenti —- sociālfašisti. Dienu no dienas tie kaļ ieročus, izplata melu ziņas, raksta savā presē, izlaiž uzsaukumus, ka SPRS proletariāts mirstot badā. Biedri! Tie ir riebīgi meli! To zin arī fašistiskie un sociālfašistiskie nelieši. Tie saprot, ka ar meliem pretinieku neuzvarēs. Viņi gatavo kopēju fronti uzbrukumam Padomju Savienībai, gatavo nožņaugt pirmo strādnieku, darba zemnieku valsti — SPRS.
+Biedri, to nepielaidīsim! Slēgsimies ciešāk Latvijas Sarkanās Palīdzības rindās. Zem Komunistiskās partijas vadības, kas ir vienīgā darbaļaužu aizstāve, gatavosim pretuzbrukumu, iziesim cīņā pret fašistisko un sociālfašistisko diktatūru,
+pret balto teroru,
+pret politpārvaldes slepkavām,
+pret darba algas nosišanu un darba laika pagarināšanu,
+pret bezdarbu,
+pret jauniem imperiālistiskiem slaktiņiem!
+Par darbu un maizi visiem strādniekiem,
+par biedrošanās un strādnieciskās preses brīvību, par SPRS aizsardzību!
+Par Padomju Latviju!
+Lai dzīvo revolucionārā cīņa un Latvijas Sarkanā Palīdzība!
+
+Latvijas Sarkanās Palīdzības Centrālā Komiteja

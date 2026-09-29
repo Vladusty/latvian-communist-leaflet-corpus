@@ -1,5 +1,5 @@
 id: 160
-file_name: lclc-2-n160-SP_CK-5000-[…1930-11-18].txt
+file_name: lclc-2-n160-LKJS_CK-5000-[…1930-11-18].txt
 title: LKJS CK lapiņa par Latvijas buržuāzijas prettautisko politiku, ar aicinājumu darbaļaudīm gāzt buržuāzijas varu
 author: LKJS CK
 date: […1930-11-18]

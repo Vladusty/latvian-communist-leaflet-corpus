@@ -1,0 +1,32 @@
+id: 167
+file_name: lclc-2-n167-LKP_Latgale_regional_committee-8000-1930-12.txt
+title: LKP Latgales apgabala komitejas lapiņa ar aicinājumu Latgales darbaļaudīm neļaut buržuāzijai izrēķināties ar saeimas strādnieku-zemnieku frakcijas deputātiem
+author: LKP Latgales apgabala komiteja
+date: 1930-12
+print_run: 8000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 311–312.
+
+text:
+LATVIJAS KOMUNISTISKA PARTIJA
+(KOMUNISTISKAS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI LATGALES STRĀDNIEKI UN DARBA ZEMNIEKI!
+Buržuāzija, sociāldemokrātu atbalstīta, nepārtraukti gatavojas saeimas strādnieku-zemnieku frakcijas sagrāvei.
+Vasarā pelēko baronu (Zemnieku savienības) konferencē ministru prezidents Celmiņš paziņoja, ka strādnieku-zemnieku frakcijas vieta ir — cietums.
+Buržuāzija nolēma likvidēt pa vienam revolucionāro strādnieku deputātus. Pirmais, pret kuru viņa sakoncentrēja uzbrukumu, bija biedrs Jankuss. Viņu par revolucionāru aģitāciju buržuāziskā tiesa notiesāja uz 4 gadiem cietoksnī. Deputātu lietu komisija nolēma mest viņu cietumā, bet pārējos strādnieku-zemnieku frakcijas deputātus, kas notiesāti uz dažādiem termiņiem, no 1 līdz 3 mēnešiem, un gaida spriedumu, buržuāzija nolēma izdot saeimas atlaišanas laikā. Tāpēc, ja tagad strādnieki un darba zemniecība necīnīsies par savu deputātu aizstāvēšanu un neatkaros buržuāzijai b. Jankusu, tad līdz ar to būs vieglāk sagraut ne tikai strādnieku-zemnieku frakciju, bet arī visas revolucionārās organizācijas.
+Buržuāzija netraucēti pazemina darba algu, pagarina darba dienu, paaugstina cenas visvairāk nepieciešamajiem produktiem, paaugstina nodokļus utt.
+Biedrs Jankuss jāaizstāv ne tikai tiem 75 000 strādniekiem un darba zemniekiem, kas ir balsojuši par strādnieku-zemnieku frakciju, bet visai strādnieku šķirai, jo vienīgā strādnieku šķiras un darba zemniecības interešu aizstāve ir saeimas strādnieku-zemnieku frakcija, kuru atbalsta Komunistiskā partija. Tāpēc strādnieku un zemnieku frakciju tā neieredz buržuāzija un tās rokaspuiši •— sociālfašisti; tāpēc viņi met cietumā šos īstos strādnieku šķiras pārstāvjus.
+Strādnieku šķiras un darba zemnieku uzdevums ir visiem kā vienam aizstāvēt b. Jankusu un visu strādnieku un zemnieku frakciju.
+Biedri strādnieki un zemnieki!
+Gatavojieties uz vispārēju politisku streiku. Nepieļausim b. Jankusa izdošanu buržuāziskajiem slepkavām!
+Rokas nost no strādnieku-zemnieku frakcijas!
+Lai dzīvo strādnieku un zemnieku revolucionārā cīņa!
+Lai dzīvo cīņa pret fašismu un sociālfašismu!
+Par Padomju Latviju!
+
+Latvijas Komunistiskās partijas Latgales apgabala komiteja

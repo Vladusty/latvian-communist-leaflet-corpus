@@ -1,0 +1,31 @@
+id: 169
+file_name: lclc-2-n169-LKP_Ventspils_org_LKJS_Ventspils_org-unk-1930-12.txt
+title: LKP un LKJS Ventspils organizāciju uzsaukums bezdarbniekiem Komunistiskās partijas vadībā cīnīties pret kapitālistisko iekārtu, par Padomju Latviju
+author: LKP Ventspils organizācija un LKJS Ventspils organizācija
+date: 1930-12
+print_run: unk
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 314–315.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI BEZDARBNIEKI!
+Pastāvot kapitālistiskai ražošanai, vienmēr lielākā vai mazākā mērā bija bezdarba strādnieki, bet tādos apmēros, kādus mēs redzam tagad kapitālistiskās valstīs, nekad nav piedzīvots. Bezdarbnieku skaits patlaban visā pasaulē pie 25 miljonu cilvēku, viņu skaits ar katru dienu aug. Tikai vienīgi Padomju Savienībā nav bezdarbnieku — gluži otrādi, pateicoties sociālisma celtniecībai, [ir] strādnieku trūkums. Bezdarbs šogad lielos apmēros ir arī Latvijā un Ventspilī. Neskatoties uz sociāldemokrātu un buržuju avīžu cenšanos to noklusēt, Ventspils varasvīri par tādiem niekiem kā bezdarbniekiem nebūt neuztraucas. Šie kungi labi zin, ka, līdz kamēr strādnieki Latvijā un Ventspilī nodibinās padomju varu, šiem bezdarbs nedraud — pat vairāk: strādās nosvīduši, strādniekus izsūcot.
+No kā ir bezdarbs? Gluži vienkārši, kapitālisti, neapmierinādamies ar esošo peļņu un kapitālu, cenšas pēc vēl lielākas peļņas, kāpēc pastiprina izsūkšanu, nosit algas, pagarina darba laiku, izmanto sievietes un pusaudžus utt., tādā veidā rodot iespēju ražot vairāk preču un līdz ar to gūt lielāku peļņu. Kapitālistu augstākais bauslis: «Vairāk peļņas!» Vairāk strādnieku sviedru, asiņu pārvērst skanošā metālā — zeltā. Arī pastāvošo krīzi buržuji labi prot izmantot saviem peļņas nolūkiem (piemēram, Ventspils kokrūpnieki). Buržuāzija dzīvo pārmērībās — bezdarbniekiem bada nāve.
+Strādniekiem dzimtā zemē Latvijā represijas. Ikviens brīvāks pareizi teikts vārds, ikviens aktīvāks strādnieks tiek bez žēlastības ar politpārvaldes, policijas un aizsargu bandu palīdzību nomākts un iemests cietumos.
+Biedri Ventspils strādnieki! Kamdēļ buržuāzija ir radījusi strādniekiem kauna pilno verdzības un bada dzīvi, bet tajā paša laikā saviem bezmugurkaulainiem ierēdņiem un vienmēr buržuāzijai iztapīgai sociāldemokrātu līderu bandai nodrošina lielas algas, izmaksā svētku gratifikācijas, ordeņus, direktoru un it siltas vietiņas, namus, vasarnīcas — izšķiež milzu summas lauku budžu un taukaino kokrūpnieku-spekulantu pabalstam utt.? Tam dēļ, ka daudzos mūsu biedros vēl valda vienaldzība un gļēvulība. Tamdēļ, ka Latvijas buržujs un sociālfašisms uzskata strādniekus par tiem mīļiem lopiņiem, kurus vienmēr līdz šim izdevās slaukt un šmaukt. Tamdēļ, ka daudzi strādnieki vēl iedomājas atsvabināšanos no buržuju sloga pienākam pašu no sevis. Veltas cerības! Mēs ne no kurienes nekā negūsim, ja nesekosim Krievijas strādnieku slavenajam paraugam. Pašiem jāņem to, kas mūsu rokām ražots un celts.
+Biedri strādnieki! Nost vienaldzību un gļēvulību! Vairāk cīņas drosmes! Augstu sarkano cīņas karogu! Mums skaļi jāprotestē pret mums vērstām represijām. Velti bezdarbniekiem ciest, gaidīt un lūgt žēlastību (bezdarbnieku delegācijas neveiksme Rīgā). Kategoriski prasīsim no valsts un pašvaldības darbu un cilvēcīgu atalgojumu.
+Ventspils strādnieki, atbalstiet bezdarbniekus cīņā dēļ maizes gabala. Komunistiskā partija uzaicina bezdarbniekus uz aktīvu cīņu par savām interesēm. Bezdarbnieki, aktīvi protestēsim, demonstrēsim par savām prasībām.
+Prasām: nekavējoši apgādāt ikvienu darba pieprasītāju ar darbu un pienācīgu atalgojumu. Katru akorda darba noliegšanu. Nodot sabiedrisko darbu vadību strādnieku rokās. Izsniegt nestrādājošiem bezdarbniekiem uz valsts rēķina pabalstu vidējas dienas algas apmērā.
+Bezdarbnieki! Izbīdiet savai vadībai no sava vidus bezdarbnieku cīņas komitejas.
+Nost Latvijas taukaino buržuāziju! Nost sociālfašistus nodevējus!
+Lai dzīvo Padomju Latvija!
+Lai dzīvo bezdarbnieku revolucionārā cīņa!
+Lai dzīvo Latvijas Komunistiskā partija!
+Bezdarbnieki aktīvi cīņā — uz ielas!
+
+Latv. Kom. partijas un Kom. jaunatnes savienības Ventspils organizācijas

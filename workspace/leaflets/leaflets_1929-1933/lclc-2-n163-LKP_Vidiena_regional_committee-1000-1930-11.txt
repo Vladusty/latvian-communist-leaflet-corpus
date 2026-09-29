@@ -1,0 +1,39 @@
+id: 163
+file_name: lclc-2-n163-LKP_Vidiena_regional_committee-1000-1930-11.txt
+title: LKP Vidienas apgabala komitejas uzsaukums ar laukstrādnieku ekonomiskajām un politiskajām prasībām
+author: LKP Vidienas apgabala komiteja
+date: 1930-11
+print_run: 1000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 303–304.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA (KOMINTERNES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+LAUKU STRĀDNIEKI UN STRĀDNIECES!
+Kapitālistiskā iekārta nav spējīga izdzīvot ekonomisko krīzi — tā ar katru dienu vēl padziļinās! Sakarā ar krīzes padziļināšanos visas strādniecības stāvoklis pasliktinājās. Lai mīkstinātu krīzes sekas, buržuāzija skrūvē pārtikas cenas augšā: maizei, gaļai, sviestam, cukuram utt. — uz visiem strādniecības dzīvē nepieciešamiem produktiem, tas ir, no vienas puses, bet, no otras, visai strādniecībai ka pilsētas, tā lauku, darba algas samazina — notiek maskotā veidā darba dienas pagarināšana!
+Buržuāzija ar sociāldemokrātu un sociālfašistu palīdzību visā visumā uzbrūk strādniecībai — tie strādniecībā pieaugošo nemieru cenšas spaidu ceļā apspiest, pat laižot ieročus darba (šoruden Rīgā, Mežaparkā)! Arestē kreisās strādniecības labākos biedrus! Konfiscē strādnieku Laikrakstus! Slēdz kreiso strādnieku arodbiedrības! Strādniecībai nav brīv runāt, nedz rakstīt patiesību. Par taisnības runāšanu un rakstīšanu mūs smacē Latvijas cietumos!
+Buržuāzija labi zin, ja strādniecība visu sapratīs un [ja] ļaus tai organizēties, tad Latvijas buržujiskā iekārta nepastāvēs ilgi — strādniecība ņems varu savās rokās un nokratīsies no šiem strādniecības izsūcējiem, liekēžiem!
+Neļausim b. Jankusu apcietināt!
+Biedri strādnieki, strādnieces un trūcīgā zemniecība! Neļausim b. Jankusu Latvijas buržujiskai valsts varai iemest cietumā! Sarīkosim politiskus streikus, skrejošus mītiņus kā protestu pret b. Jankusa apcietināšanu! Katra apzinīga strādnieka, trūcīgās zemniecības — būdelnieka pienākums ir aktīvi uzstāties politiskā streikā! Mums bb. nav ko baidīties, mēs nedrīkstam būt pasīvi. Priekšā stāvošās cīņās mēs nevaram vairāk nekā zaudēt, vienīgi kā savas ķēdes! Mums taču nav nekā! Visu, ko mēs nopelnam, Paņem buržuji — budži. Vienīgā mūsu manta ir mūsu pašu divas rokas un veselība. Ja no tās mēs ko darba procesā zaudējam. tad arī mēs esam budzim nevajadzīgi!
+Biedri strādnieki! lestāsimies Latvijas Komunistiskā partijā un visi kā viens uz Latvijas Komunistiskās partijas pirmo aicinājumu būsim pirmajās cīņas rindās! Vienīgi zem Latvijas Komunistiskās partijas vadības kopējiem spēkiem būsim spējīgi nokratīties no pastāvošās buržujiskās iekārtas — strādniecības izsūcējas un nodibināt strādnieku-zemnieku valdību, kura būs patiesa strādniecības interešu aizstāvētāja!
+Mēs prasām:
+1. 8 stundu darba dienu!
+2. Ulmaņa 3 likumprojektu atcelšanu!
+3. Galvasnaudas un klaušu pilnīgu atcelšanu!
+4. Darba algas paaugstināšanu!
+5. Biedra Jankusa neaizskaramību!
+6. Sapulces un preses brīvību!
+7. Aizsargu likvidēšanu!
+8. Kara budžeta samazināšanu!
+9. Bezdarbniekiem izsniegt pabalstus uztura minimumam!
+Nost ar Latvijas buržujisko iekārtu!
+Rokas [nost] no biedra Jankusa!
+Lai dzīvo Latvijas Komunistiskā partija — patiesa strādnieku aizstāve!
+Lai dzīvo strādnieku-zemnieku padomju valdība Latvijā!
+
+LKP Vidienas apg. komiteja

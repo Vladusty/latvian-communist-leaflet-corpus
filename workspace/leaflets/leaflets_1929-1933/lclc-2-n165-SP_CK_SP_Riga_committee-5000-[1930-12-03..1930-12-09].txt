@@ -1,0 +1,36 @@
+id: 165
+file_name: lclc-2-n165-SP_CK_SP_Riga_committee-5000-[1930-12-03..1930-12-09].txt
+title: Sarkanās Palīdzības CK un Sarkanās Palīdzības Rīgas komitejas lapiņa ar aicinājumu darbaļaudīm cīnīties pret buržuāzijas teroru un aizstāvēt strādnieku-zemnieku frakciju pret reakcijas uzbrukumiem
+author: Latvijas Sarkanās Palīdzības CK un Latvijas Sarkanās Palīdzības Rīgas komiteja
+date: [1930-12-03..1930-12-09]
+print_run: 5000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 307–308.
+
+text:
+LATVIJAS SARKANĀ PALĪDZĪBA (MOPRA SEKCIJA)
+Visu zemju proletārieši, savienojieties!
+AIZSTĀVĒSIM MŪSU VELĒTOS PRIEKSSTĀVJUS SAEIMĀ UN PAŠVALDĪBĀS!
+Pret fašistu un socfašistu uzbrukumiem!
+Biedri strādnieki, nemantīgie zemnieki, kalpi, amatnieki, darba inteliģenti!
+Baltais terors pastiprinās visā kapitālistiskā pasaulē, pastiprinās arī Latvijā. Latvijas fašisti kopā ar socfašistiem attīsta negantu uzbrukumu revolucionārai strādniecībai.
+Pret revolucionāro strādniecību pielieto arvien biežāk «melnā simta» metodes. Piekaušanas, spīdzināšanas paliek par ikdienišķu parādību. Triju mēnešu laikā vairākas politiskas slepkavības. Politpārvaldes špiki piekāva un izsvieda no piektā stāva loga politemigrantu Bajarinasu. Mežaparkā sašāva trīs strādniekus, Lubānā aizsargi nošāva jaunsaimnieku. Piekaušana žīdu kapos, šaušana uz laukstrādnieku Ezeriņu Kastrānes pagastā. Soda ekspedīcijas Latgalē: policisti šauj nemantīgos zemniekus, kuri nemaksā nodokļus. Kur nu vēl visas piekaušanas, slepkavības, kuras notiek ikkatru dienu politpārvaldes moku kambaros — cietumos!
+Arī buržuāzijas šķiras tiesa aktivizējas. Sarkanās Palīdzības, Kompartijas, komjaunatnes u. c. prāvas notiek ikkatru nedēļu. Vairākas «spiegu» (!) prāvas Rīgā un Latgalē. 28-ņu prāva Valmierā. Visur augstākais soda mērs — no 1 līdz 12 gadiem spaidu darbos. Nupat tiek iztiesāta 34-u prāva Rīgā. Uz apsūdzēto sola strādnieki, nemantīgie zemnieki, kalpi, darba inteliģenti.
+Rīgas un visi Latvijas darbaļaudis! Esiet modri par saviem brāļiem, aktīviem revolūcijas cīnītājiem! Protestējiet, demonstrējiet pret buržujisko šķiras tiesu! Neļaujiet aktīvos cīnītājus saslēgt dzelžos!
+Biedri! Baltā terora, buržujiskās šķiras tiesas pastiprināšanās ir solis uz priekšu fašisma diktatūras ievešanai. Ar teroru un fašistiskās šķiras tiesas palīdzību fašisti un socfašisti gatavo atklātu uzbrukumu mūsu vēlētiem priekšstāvjiem saeimā — strādnieku-zemnieku frakcijai. Uzbrukuma gatavošanā piedalās, viss buržujiskais bloks, socfašistus ieskaitot.
+Visi mūsu vēlētie priekšstāvji saeimā jau sodīti no buržujiskās. šķiras tiesas. Atliek saeimai izdot, lai iesēdina cietumā, saslēdz dzelžos.
+To pieprasa visa buržujiskā prese. Socfašisti jau vairākas reizes deklarējuši savu stāvokli: agri vai vēlu — jūs tiksat izdoti, jūs traucējat mūs sastrādāt ar buržuāziju, tāpēc cīņā pret jums mēs neatteiksimies ne no kādiem līdzekļiem. Demcentrs pieprasa, lai arestē mūsu priekšstāvjus «nozieguma» vietā. Zemnieku savienība savā divgadīgās valdīšanas jubilejas dienā izsakās, ka tas ir pliķis demokrātijai, ka saeimā atrodas 6 un pus komunisti. Tiem pievienojas arī berģisti: nav šaubu, ka saeima tos izdos.
+Biedri! Mums arī nav šaubu, ka buržuāziskā saeima tos izdos. Biedri! Mēs tos neizdosim! Mēs aizstāvēsim savus vēlētos priekšstāvjus.
+Biedri! Būsim modri! Koposim spēkus! Gatavosimies cīņai aizstāvēt saeimas strādnieku-zemnieku frakciju!
+Biedri! Šī cīņa ir cīņa pret fašistisko teroru un buržuāzisko šķiru tiesu vispār! Katra daļējā uzvara ir solis uz priekšu.
+Vienotiem spēkiem Sarkanās Palīdzības rindās!
+Cīņā pret teroru un buržujisko šķiras tiesu!
+Par preses, sapulču un biedrošanās brīvību strādniecībai!
+Par spēcīgu masu organizāciju — Sarkano Palīdzību!
+
+Latvijas Sarkanās Palīdzības Rīgas komiteja
+Latvijas Sarkanās Palīdzības Centrālā Komiteja

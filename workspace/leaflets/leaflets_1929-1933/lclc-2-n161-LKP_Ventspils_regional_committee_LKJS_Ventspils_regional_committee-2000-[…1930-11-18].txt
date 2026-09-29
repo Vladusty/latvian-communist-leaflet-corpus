@@ -1,0 +1,32 @@
+id: 161
+file_name: lclc-2-n161-LKP_Ventspils_regional_committee_LKJS_Ventspils_regional_committee-2000-[…1930-11-18].txt
+title: LKP un LKJS Ventspils apgabala organizāciju lapiņa ar aicinājumu darbaļaudīm cīnīties pret buržuāzisko iekārtu, par Padomju Latviju
+author: LKP Ventspils apgabala organizācija un LKJS Ventspils apgabala organizācija
+date: […1930-11-18]
+print_run: 2000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 300–301.
+
+text:
+BIEDRI!
+18. novembrī Latvijas buržuāzija svinēs savu 12 valdīšanas gadu jubileju. No visām kancelēm melnsvārči raidīs pret debesīm pateicību lūgšanas par buržuāzijas laimīgo valdīšanu. Prezidenti, ministri, uniformēti ierēdņi, virsnieki tiks apbalvoti ordeņiem, algu paaugstinājumiem. Buržuju rautos plūdīs šampanietis un vīni. Viss tas par darbaļaužu sekmīgu apspiešanu-izsūkšanu 12 Latvijas pastāvēšanas gados. Resnvēderains buržujs līgsmosies par 12 gados uz strādnieku rēķina saraustām bagātībām — īpašumiem.
+Biedri! Buržuāzijai nav daļas, ka visu to viņi ieguvuši, pateicoties strādnieku un darba zemnieku «tautiskai izsūkšanai». Kāda gan daļa buržujam, ka strādniecības stāvoklis pa visiem šiem gadiem ir milzīgi pasliktinājies. Buržuju rijībai nav robežu — uzbrukums darbaļaudīm paliek arvien neatlaidīgāks. Savas kapitālistiskās saimniekošanas rezultātu, pašreizējo smago saimniecisko krīzi, t. i., viņas sekas, uzveļ strādniekam. Visā Latvijā vēl nepieredzēts bezdarbs, posts, tiek paaugstināta tiešo un netiešo nodokļu nasta, līdz nejēdzībai nosista darba alga, pagarināts darba laiks, pasliktināti darba apstākļi utt.
+Darbaļaudīm draud pilnīgs bezdarbs un bads.
+Ar katru dienu aug dzīves dārdzība. Tirgotāju-spekulantu un bagāto lauku budžu kabatu pildīšanai 81. panta kārtībā tiek fabricēti dažādi likumi, kā lauksaimniecības aizsardzības un citi, kuru sekas pārtikas preču strauja sadārdzināšanās.
+Visā Latvijā nemitīgas represijas: strādnieku masu aresti, strādnieku organizāciju revolucionāro arodbiedrību grautiņi, strādnieciskās preses konfiskācija, iznīcināšana, biedrošanās, sapulču noliegšana utt. Strādnieki tiek piekauti pipkām, pēdējā laikā vienkārši apšauti (pēdējo Rīgas darbaļaužu darba svētku izgaiņāšana). Fašistiskā Celmiņa valdība 81. panta kārtībā izdeva strādniecības — revolucionāro cīnītāju bendēšanas jauno sodu likumu. Fašisti gatavojas iznīcināt, noarestēt darbaļaužu pārstāvjus saeimā, strādnieku-zemnieku deputātus.
+Biedri! Socfašisti pilnīgi solidarizējas ar fašistiem kā saeimā, tā ārpus tās (slimokasu nodošana uzņēmējiem, vesela rinda streiku nodošana, «SSS» sadarbība ar policiju, strādnieku nodošana utt.). 18. novembri socfašisti atzīmē tautiskā garā, tāpat kā buržuji, parādot ar to savu pakalpību fašistiem.
+Nost nodevējus socfašistus!
+Nost buržujisko 18. novembri!
+Nost Latvijas buržuāziju un viņas valdību!
+Biedri! Tikai zem Latvijas Komunistiskās partijas vadības panāksim sava stāvokļa pilnīgu uzlabošanu, kā tas ir Padomju Savienībā, uzvarēsim cīņā.
+Organizēsimies Latvijas Komunistiskā partijā, Komunistiskā jaunatnes savienībā!
+Lai dzīvo vienota strādnieku revolucionārā cīņa!
+Lai dzīvo Padomju Latvija!
+Lai dzīvo vispasaules proletariāta revolūcija!
+Rokas nost no SPRS!
+
+Latvijas Komunistiskās partijas un Komunistiskās jaunatnes savienības Ventspils apg. organizācijas

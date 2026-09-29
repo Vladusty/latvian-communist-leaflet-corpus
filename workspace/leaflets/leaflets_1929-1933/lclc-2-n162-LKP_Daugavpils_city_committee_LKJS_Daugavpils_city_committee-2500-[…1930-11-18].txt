@@ -1,0 +1,32 @@
+id: 162
+file_name: lclc-2-n162-LKP_Daugavpils_city_committee_LKJS_Daugavpils_city_committee-2500-[…1930-11-18].txt
+title: LKP un LKJS Daugavpils pilsētas komiteju lapiņa ar aicinājumu uz ciņu pret kapitālistisko iekārtu, par Padomju Latviju
+author: LKP Daugavpils pilsētas komiteja un LKJS Daugavpils pilsētas komiteja
+date: […1930-11-18]
+print_run: 2500
+typography_name: Spartaks
+production_method: rotator
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 301–302.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA UN LATVIJAS KOMUNISTISKĀ JAUNATNES SAVIENĪBA
+(KOMUNISTISKĀS INTERNACIONĀLES UN KOMUNISTISKĀS JAUNATNES INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+VISIEM DAUGAVPILS DARBAĻAUDĪM!
+Otrdien, 18. novembrī, Latvijas buržuāzija svin savas republikas 12. gadadienu. Šo republiku buržuāzija dibināja uz strādnieku un zemnieku līķu kaudzēm un ar sociālfašistu palīdzību, nosargā to ar nepārtrauktu teroru, vēršoties pret revolucionāro proletariātu un zemniecību, ar tukšiem solījumiem, policijas pipkām un lodēm.
+Darbaļaudis, ko ir devusi jums buržuāziskā republika? Bezdarbu (vienā pašā Daugavpilī vairāk nekā 1000 cilvēku), badu, nabadzību, pagarinātu darba dienu, pazeminātu darba algu, zemes trūkumu, lielus nodokļus, vergu darbus pie latviešu un latgaliešu kulakiem, nacionālo vajāšanu. Lūk, ar ko ir apbalvojusi mūs buržuāzija savas valdīšanas 12 gados. Lai nostiprinātu savu varu, buržuāzija uzkūda nācijas citu citai, tādējādi uzkurinot prasās vispretīgāko šovinismu.
+Tagad, kad starptautiskā buržuāzija rīko kampaņu uzbrukumam PSRS, latviešu buržuāzija dara visu, lai nostiprinātu reakcionāro un kontrrevolucionāro fronti pret PSRS. Viņa līdz pat šim laikam ir uzticīgs angļu-franču buržuāzijas sulainis. Buržuāziskās Latvijas 12 gadi ir parādījuši darba tautai, ka buržuāzija nav spējīga iznīcināt bezdarbu, nabadzību, parādus, bet tā ir spējīga dot tikai asiņaino fašismu un jaunus karus.
+Biedri Cīņā pret fašistisko asinssuņu diktatūru, pret badu un bezdarbu, pret jauna kara kurinātājiem mēs varam paļauties tikai uz saviem spēkiem.
+Cīņa saistīta ar milzīgām grūtībām, bet bez cīņas nav uzvaras.
+Biedri! Jāatceras, ka sekmīga revolucionārā cīņa pret buržuāziju nav iespējama bez Komunistiskās partijas vadības. Tikai Latvijas Komunistiskā partija spēs vest revolucionārā cīņā strādniekus un darba zemniecību. Tāpēc buržuāziskās Latvijas 12. gadadienā katram apzinīgam strādniekam jāstājas Latvijas Komunistiskās partijas un Latvijas Komunistiskās jaunatnes savienības revolucionāro cīnītāju rindās. To prasa strādnieku šķiras pašreizējais stāvoklis, atklātas fašistiskās diktatūras uzbrukums un gatavošanās karam pret PSRS.
+Lai dzīvo Latvijas Komunistiskā partija un Latvijas Komunistiskā jaunatnes savienība!
+Lai dzīvo PSRS — vispasaules proletāriešu tēvija!
+Nost buržuāzisko Latviju!
+Lai dzīvo cīņa par Padomju Latviju! Prasām Latgales pašnoteikšanās tiesības!
+Nost kara kurinātājus — fašistus un sociālfašistus!
+
+Latvijas Komunistiskās partijas Daugavpils pilsētas komiteja
+Latvijas Komunistiskās jaunatnes savienības Daugavpils pilsētas komiteja

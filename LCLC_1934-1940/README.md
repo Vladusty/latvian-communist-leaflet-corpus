@@ -117,17 +117,38 @@ Metadata fields appear at the beginning of the file, and the leaflet text begins
 
 ## Transcription policy
 
-The LCLC does not provide diplomatic transcriptions of the original leaflets. The transcriptions are based on the Soviet published edition, whose editors had already normalized aspects of the spelling of the original documents. Consequently, the textual layer reflects the editorially normalized form presented in the source edition rather than the exact orthography of the surviving original leaflets. 
+The LCLC does not provide diplomatic transcriptions of the original leaflets. The transcriptions are based on the Soviet published edition, whose editors had already normalized aspects of the spelling of the original documents. Consequently, the textual layer reflects the editorially normalized form presented in the source edition rather than the exact orthography of the surviving original leaflets.
 
 Some Latvian texts marked `is_translation: True` reproduce translations published in the source edition rather than the language of the original leaflet. The original language and translation status are recorded explicitly in the metadata fields `original_language`, `text_language`, and `is_translation`.
 
-The LCLC generally preserves the spelling found in the published edition. Only limited additional normalization has been introduced by the corpus compiler. In particular, the forms *tipografija*, *sociāldemokrats*, *telegrafs*, *demokratija*, *krize*, *birokratisms*, *simpatija*, *baze*, *fraze*, *organs*, *muzika*, *birokrats*, *pozicija* and *metals* have been consistently rendered according to modern Latvian orthography as *tipogrāfija*, *sociāldemokrāts*, *telegrāfs*, *demokrātija*, *krīze*, *birokrātisms*, *simpātija*, *bāze*, *frāze*, *orgāns*, *mūzika*, *birokrāts*, *pozīcija* and *metāls* respectively.
+Square brackets `[ ]` occurring within the transcribed leaflet text indicate words or short passages supplied by the editors of the published source edition rather than text present in the original leaflet. In most cases, these additions consist of clarifying words or phrases. Such editorial additions are preserved in the LCLC transcriptions.
 
-The form *programa* has not been normalized and is retained with a single m, as it appears in the published edition, although the modern Latvian spelling is *programma*. Users may normalize this form themselves where required for their analysis.
+The LCLC generally preserves the spelling found in the published edition. Only limited additional normalization has been introduced by the corpus compiler. The following forms have been consistently normalized according to modern Latvian orthography:
 
-This limited normalization reflects the analytical purpose of the corpus. Orthographic variation is not treated as an object of analysis, and unnecessary spelling variation can cause the same lexeme to be represented as separate features in computational text analysis. 
+| Form in the published edition | Form used in the LCLC |
+|---|---|
+| `tipografija` | `tipogrāfija` |
+| `sociāldemokrats` | `sociāldemokrāts` |
+| `telegrafs` | `telegrāfs` |
+| `demokratija` | `demokrātija` |
+| `krize` | `krīze` |
+| `birokratisms` | `birokrātisms` |
+| `simpatija` | `simpātija` |
+| `baze` | `bāze` |
+| `fraze` | `frāze` |
+| `organs` | `orgāns` |
+| `muzika` | `mūzika` |
+| `birokrats` | `birokrāts` |
+| `pozicija` | `pozīcija` |
+| `metals` | `metāls` |
 
-Researchers interested in the exact orthographic or typographic characteristics of the historical documents should therefore consult the original leaflets.
+The form *programa* has not been normalized and is retained with a single *m*, as it appears in the published edition, although the modern Latvian spelling is *programma*. Users may normalize this form themselves where required for their analysis.
+
+Historical leaflet texts use several Latvian abbreviations and word-order variants for the Soviet Union. In particular, **SPRS** (*Sociālistisko Padomju Republiku Savienība*), **PSRS** (*Padomju Sociālistisko Republiku Savienība*), and **RS** (*Republiku Savienība*) refer to the same state. These forms are preserved as they appear in the published source edition and have not been standardized in the corpus. Researchers conducting frequency-based or other computational analyses should therefore take these variants into account when references to the Soviet Union are intended to be treated as a single category.
+
+This limited normalization reflects the analytical purpose of the corpus. Orthographic variation is not treated as an object of analysis, and unnecessary spelling variation can cause the same lexeme to be represented as separate features in computational text analysis.
+
+Researchers interested in the exact orthographic, textual, or typographic characteristics of the historical documents should therefore consult the original leaflets.
 
 ---
 

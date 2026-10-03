@@ -1,0 +1,37 @@
+id: 176b
+file_name: lclc-2-n176b-LKJS_Riga_committee-500-1931-01.txt
+title: LKJS Rīgas komitejas uzsaukums tekstilstrādniekiem apvienoties streiku cīņai pret strādnieku stāvokļa pasliktināšanu sakarā ar tekstilrūpnieku sindikāta nodibināšanos
+author: LKJS Rīgas komiteja
+date: 1931-01
+print_run: 500
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 332–334.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+VISIEM TEKSTILFABRIKĀS NODARBINĀTIEM STRĀDNIEKIEM!
+Biedri! Tekstilstrādnieku stāvoklis jau līdz šim bija neciešams. Jāstrādā pie bada algām, sliktos apstākļos, pie meistaru nekaunīgās lamāšanās un daudzos uzņēmumos tikai dažas dienas nedēļā. Vairums tekstilstrādnieku ir sieviešu un jauniešu, kuriem jāstrādā viņu veselībai kaitīgos apstākļos ar zemāku algu nekā pieaugušiem strādniekiem pie tā paša darba. Tagad tekstilfabrikas apvienojušās vienā sindikātā. Ko tas nozīmē?
+Tas nozīmē, ka, saimnieciskai krīzei padziļinoties, uzņēmēji apvienojas vienā sindikātā, lai labāk cīnītos ar krīzes grūtībām un saviem konkurentiem, lai ar ražošanas sašaurināšanu paceltu preču cenas.
+Tas nozīmē, ka tekstilsindikāts dos darbu tikai dažas dienas nedēļā vai tikai dažas stundas dienā, maksājot algu par stundām.
+Tas nozīmē, ka sindikāts visu tekstilfabriku algas nolīdzinās ar to fabriku algām, kurās ir viszemākās, un pazeminās vēl vairāk.
+Tas nozīmē, ka sindikāts centīsies pēc arvien lielākas peļņas un neko nedarīs, lai uzlabotu darba apstākļus un ievestu aizsarglīdzekļus pie mašīnām pret nelaimes gadījumiem.
+Tas nozīmē, ka sindikāts vēl vairāk kā līdz šim nodarbinās par smieklīgām algām sievietes un jauniešus viņiem kaitīgos darbos.
+Tas nozīmē, ka no vienas fabrikas izmests strādnieks nedabūs darbu nevienā citā, jo visas viņas apvienojušās sindikātā.
+Tas nozīmē, ka buržuji apvienojušies, lai būtu stiprāki cīņā pret strādniekiem.
+Tas nozīmē, ka buržuji visas tās grūtības, kuras ceļas no viņu pašu iekārtas — kapitālisma, uzveļ uz strādnieku pleciem.
+Biedri tekstilfabrikās nodarbinātie strādnieki un strādājošie jaunieši!
+Šādu buržuju rīcību mēs nevaram pielaist, jo tā ir šausmīga strādnieku saimnieciskā apspiešana un izsūkšana. Tāpēc mums jāgatavojas un jāizved cīņa. Lai šo cīņu izvestu ar panākumiem, jābūt vienotiem. Bet tagad tekstilstrādnieki ir sašķelti sociāldemokrātu arodbiedrībās, no vienas puses, un kreisās un komunistiskās biedrībās, no otras puses. Šāda sašķelšanās ir kaitīga. Visiem strādniekiem tagad vairāk kā jebkad līdz šim jāvienojas, lai izvestu aktīvu cīņu ar streikiem pret sindikātu, kurš pasliktina apstākļus, par sava stāvokļa uzlabošanu. Strādnieki, kas nopietni cīnās par sava stāvokļa uzlabošanu, ir kreisie un komunistiskie strādnieki. Ar sociāldemokrātiem mēs nekādā gadījumā nevaram ielaisties, jo tie mūsu cīņu nodos tāpat, kā nodeva «Kontinenta» strādniekus, rorlicējus un daudz citu strādnieku. Tāpēc iestāsimies savā revolucionārā arodbiedrībā, Kompartijā un Komjaunatnes savienībā. Dibināsim fabrikas komitejas. Sasauksim atsevišķu fabriku un visu tekstilnieku sapulces un paši lemsim par savām prasībām, par to, ko darīt, kā izvest streiku.
+Biedri tekstilnieki, uz ciņu!
+Pret sindikātu — mūsu stāvokļa pasliktinātāju!
+Pret algu nosišanu! Pret dzīves dārdzības pacelšanu!
+Pret sociāldemokrātiem — strādnieku cīņas nodevējiem!
+Par algu paaugstināšanu! Par nodrošināšanu pret bezdarbu!
+Par strādnieku-zemnieku valdību Latvijā!
+Lai dzīvo strādnieku vienotā cīņa!
+Lai dzīvo Kompartija un Komjaunatnes savienība — strādnieku cīņas vadītāji!
+
+LKJS Rīgas komiteja

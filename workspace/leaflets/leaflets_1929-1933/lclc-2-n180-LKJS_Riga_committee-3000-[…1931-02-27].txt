@@ -1,0 +1,33 @@
+id: 180
+file_name: lclc-2-n180-LKJS_Riga_committee-3000-[…1931-02-27].txt
+title: LKJS Rīgas komitejas uzsaukums karadienestā iesaucamajiem darba jauniešiem būt gataviem cīņai pret fašismu un jauniem imperiālistiskiem kariem
+author: LKJS Rīgas komiteja
+date: […1931-02-27]
+print_run: 3000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 339–340.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+ATVIJAS KOMUNISTISKĀ JAUNATNES SAVIENĪBA
+(KOMUNISTISKĀS JAUNATNES INTERNACIONĀLES SEKCIJA)
+BIEDRI KARAKLAUSĪBĀ IESAUCAMIE DARBA JAUNIEŠI!
+Šinīs dienās tūkstošiem strādnieku jauniešu ierodas uz komisiju Kazaku ielā. Tur viņus «apskata» un ieskaita aktīvā armijā «tēvijas» aizsardzībai, kura sagādājusi bezdarbu, badu un postu, tas «tēvijas» aizsardzībai, kura jūs nežēlīgi izmanto, tās «tēvijas» aizsardzībai, kura gatavojas uz karu pret vienīgo strādnieku valsti pasaulē — SPRS. Šī «tēvija» liks apšaut un apspiest strādniekus, ja tie izies revolucionārā cīņā par labāku nākotni. Šī «tēvija» liks šaut Uz SPRS strādniekiem, lai viņus atkal apspiestu un iedzītu vergu stāvoklī.
+To mēs, strādnieku jaunieši, nedrīkstam pielaist. Mums jābūt gataviem uz cīņu pret jauniem imperiālistiskiem kariem pret jaunu strādnieku asinsizliešanu, pret fašismu, pret bezdarbu, par darbu un maizi, par strādnieku-zemnieku valdību!
+Šī cīņa jāsāk ar daļējām prasībām. Jaunkareivju cīņas sākas no iesaukšanas komisijas, kurā jāprasa:
+1) visus rūpīgi izmeklēt;
+2) visus, kam ir kāda vaina, — atsvabināt;
+3) Rīgā dzīvojošos iedalīt Rīgas garnizonā!
+4) iesaukšanas komisijās pielaist strādnieku revolucionāro organizāciju pārstāvjus!
+Biedri — uz cīņu par savām prasībām!
+Nost fašismu!
+Nost karu ar vienīgo strādnieku valsti — SPRS!
+Griezīsim durkļus pret strādnieku apspiedējiem!
+Par strādnieku-zemnieku valdību — par Sarkano Latviju!
+Lai dzīvo strādnieku revolucionārās cīņas vadītājas — Latvijas Komunistu partija un Latvijas Komunistiskā jaunatnes savienība!
+
+LKJS Rīgas komiteja

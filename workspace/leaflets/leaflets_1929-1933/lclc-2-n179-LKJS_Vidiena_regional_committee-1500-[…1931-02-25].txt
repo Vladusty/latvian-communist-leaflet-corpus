@@ -1,0 +1,31 @@
+id: 179
+file_name: lclc-2-n179-LKJS_Vidiena_regional_committee-1500-[…1931-02-25].txt
+title: LKJS Vidienas apgabala komitejas uzsaukums strādniekiem, bezdarbniekiem un darba jaunatnei Vispasaules cīņas dienā pret bezdarbu — iziet cīņā par savām prasībām un demonstrēt savu gatavību aizstāvēt Padomju Savienību
+author: LKJS Vidienas apgabala komiteja
+date: […1931-02-25]
+print_run: 1500
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 338–339.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKI, BEZDARBNIEKI UN DARBA JAUNIEŠI!
+25. februāris ir vispasaules bezdarbnieku diena. Miljoniem bezdarbnieku kopā ar visu strādniecību izies uz ielas demonstrēt savus spēkus pret bojā ejošo, brūkošo kapitālistisko pasauli.
+Šai cīņā strādniecība izies, neskatoties uz visiem buržuāzijas noliegumiem un represijām.
+25. [februārī] strādniecība demonstrēs pret buržuāzijas nodomiem karagājiena rīkošanai pret vienīgo strādnieku valsti pasaulē SPRS un ar to apliecinās savu cīņas gatavību kara gadījumā nostāties ar ieročiem rokā pret savas šķiras apspiedēju — buržuāziju un [par] SPRS aizstāvēšanu.
+25. [februārī] strādniecība izies cīņā uz ielas par savām prasībām: Par darbu un maizi, par tiesībām uz cilvēcīgu dzīvi.
+7 stundu darba dienu.
+Bezdarba gadījumā nodrošināt pilnu dienas algu. Slimības un nelaimes gadījumā brīvu ārstu un zāles.
+25. [februārī] strādniecība izies uz ielas cīņā par cilvēcīgām prasībām, kaut arī buržuāzija kopā ar socfašistiem izlietos vismežonīgākos paņēmienus, lai noslīcinātu strādniecību asinīs. Ar gumijas pipkām samīdot strādnieku sievas un bērnus zem zirgu pakaviem, pielietojot nāvējošas gāzes, bruņotos auto un ložmetēju uguni.
+To viņa dara, lai vēl kaut uz īsu brīdi varētu turpināt savu grezno un izvirtības pilno dzīvi uz strādnieku sviedriem un asinīm.
+Biedri strādnieki, bezdarbnieki un darba jaunatne! Stājieties revolucionāro cīnītāju rindās par Padomju Latviju zem Komunistiskās partijas un KJS vadības. Rokas nost no SPRS.
+Nost buržuāziju un viņas dienderus socfašistus.
+Lai dzīvo revolucionārā cīņa.
+Lai dzīvo Komunistiskā partija un Komunistiskā jaunatnes savienība.
+Lai dzīvo Padomju Latvija!
+
+LKJS Vid. apg. kom.

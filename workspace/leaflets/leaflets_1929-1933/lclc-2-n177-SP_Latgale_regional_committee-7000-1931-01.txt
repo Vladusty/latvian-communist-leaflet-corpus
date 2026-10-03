@@ -1,0 +1,36 @@
+id: 177
+file_name: lclc-2-n177-SP_Latgale_regional_committee-7000-1931-01.txt
+title: Latvijas Sarkanās Palīdzības Latgales apgabala komitejas uzsaukums Latgales strādniekiem un darba zemniekiem protestēt pret politieslodzīto spīdzināšanām Daugavpils cietumā
+author: Latvijas Sarkanās Palīdzības Latgales apgabala komiteja
+date: 1931-01
+print_run: 7000
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 334–335.
+
+text:
+LATVIJAS SARKANĀ PALĪDZĪBA
+(MOPRA IZPILDU KOMITEJAS SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+VISIEM LATGALES STRĀDNIEKIEM UN DARBA ZEMNIEKIEM!
+Revolūcijas viļņu iebiedēta, zvēriskā Latvijas buržuāzija, nāves krampjos raustoties, vēlas noslīcināt asiņu jūrā strādnieku revolucionāro kustību, lai paildzinātu savu pastāvēšanu. Desmitiem simtu labākie, pašaizliedzīgākie, priekšzīmīgākie, kas cīnījušies par Latgales strādnieku un zemnieku atbrīvošanu, iemūrēti akmens zārkos — tuberkulozes perēkļos uz gadu desmitiem, t. i., uz lēnu, moku pilnu nāvi. Par ko?
+Par to, ka šie trauksmainie proletariāta dēli negribēja mirt zem verdziskās kapitāla pātagas. Par to, ka viņi iedrošinājās prasīt sev cilvēcīgu dzīves veidu, uzstājās pret bada algām, pret bezdarbu, pret strādniecībai uzlikto nepanesamo nodokļu nastu, tas nozīmē — par pilnīgu kapitālisma spaidu likvidēšanu, jo katrs bezdarbnieks un zemnieks zin, ka nevarēs radikāli uzlabot savu stāvokli un panākt pilnīgu atbrīvošanos bez kapitālistiskās verdzības važu iznīcināšanas.
+Lūk, šo strādnieku un zemnieku apspiešanai mūsu buržuāziska valdība izsviež desmitiem tūkstošu rubļu, izspiestus no šiem pašiem strādniekiem un zemniekiem, lai uzturētu algotus bendes, špikus un policistus, lai celtu jaunus cietumus un izdotu jaunus kodeksus — kaltu važas.
+Mūsu buržuāzijai vēl par maz visa tā. Ar savu asiņaino roku viņa turpina nesaudzīgi izrēķināties ar nelokāmajiem revolucionārajiem strādniekiem, piekauj slimos biedrus, nedēļām ilgi ieslēdz karcerī, aizliedz pienest paciņas un vēstules, neatļauj pastaigas, atņem svaigu gaisu un gaismu, aiznaglojot logus. Ko gan nozīmē dzīvot no cietuma sapuvušās pārtikas, no atkritumiem, kādus pat cūkām nedod? Dzīvot no cietuma pārtikas nozīmē būt notiesātam uz lēnu bada nāvi.
+Daugavpils cietumā, kur administrācijas priekšgalā atrodas priekšnieka palīgs Pētersons, kas vienlaicīgi ir arī politpārvaldes aģents, politieslodzītie neatrodas labākā stāvoklī. Šis bende zvēriski moka politieslodzītos un ņirgājas par tiem. Pēc asinssuņa norādījumiem vesela virkne kameru tika nosodītas ar melno mēnesi. Uz politieslodzīto sūdzībām atbild ar vēl stiprākām represijām.
+Bet, neraugoties uz visām šīm spīdzināšanām un mokām, viņiem mūs nesalauzt. Kaut arī mēs miesīgi esam izmocīti, bet garīgi mēs esam stipri. Nešaubīgi ticam savas cīņas taisnīgumam.
+Biedri Latgales strādnieki un darba zemnieki! Pacelsim savu protesta, balsi pret Daugavpils cietuma administrācijas zvērisko izrēķināšanos ar politieslodzītiem!
+Mēs prasām:
+atlaist no darba bendi un varmāku — Daugavpils cietuma priekšnieka palīgu Pētersonu un viņa līdzdalībniekus! Likvidēt melno mēnesi! Likvidēt karcerus! Tiesības valkāt privātas drēbes! Pārtikas uzlabošanu! Pastaigu laika pagarināšanu! utt.
+Biedri strādnieki un darba zemnieki!
+Stājieties Moprā! Organizējiet līdzekļu vākšanu baltā terora upuriem! Organizējiet protesta mītiņus savās fabrikās, rūpnīcās un darbnīcās!
+Nost Latvijas asiņaino buržuāziju!
+Slava cīnītājiem, kas smok cietumu kazemātos par strādnieku šķiras lietu!
+Lai dzīvo revolucionārā strādnieku kustība Latvijā Komunistiskās partijas vadībā!
+Liesmains cīņas sveiciens cietumos smokošajiem cīnītājiem!
+Lai dzīvo nenogurstošā ciņa par Padomju Latgali! Lai dzīvo Moprs — Sarkanā Palīdzība!
+
+Mopra Latgales apgabala komiteja

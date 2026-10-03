@@ -1,0 +1,44 @@
+id: 178a
+file_name: lclc-2-n178a-LKP_CK-10000-[…1931-02-25].txt
+title: LKP CK uzsaukums strādniekiem un bezdarbniekiem Starptautiskajā cīņas dienā pret bezdarbu cīnīties par savām prasībām
+author: LKP CK
+date: […1931-02-25]
+print_run: 10000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 336–338.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKI, BEZDARBNIEKI!
+Saimnieciskā krīze, kura plosās visā kapitālistiskā pasaulē, novedusi darbaļaudis bezizejas stāvoklī. Fabrikas pārtrauc darbus, liela daļa strādā nepilnu darba nedēļu. Miljoniem cilvēku tiek izmesti uz ielas. Bezdarbs sasniedzis apmērus, kādus pasaule nav piedzīvojusi. 30 miljonu bezdarbnieku —• lūk, kliedzošs apvainojums kapitālismam un līdz ar to aicinājums miljoniem strādnieku un bezdarbnieku gāzt šo bada un posta iekārtu.
+Ņemot vērā nepiedzīvotos bezdarba apmērus un sevišķi grūto ziemu, galvenās kapitālistisko valstu komunistiskās partijas aicina visu zemju revolucionārās organizācijas izvest 25. februārī Starptautisko cīņas dienu pret bezdarbu.
+Latvijas strādniecībai, kura sevišķi cieš no bezdarba posta, bez kavēšanās ir jāuzsāk gatavošanās uz 25. februāri — Starptautisko bezdarbnieku dienu.
+Pašreiz Latvijā ir ap 30 000 bezdarbnieku. Piemēram, Ventspilī no 2500 strādniekiem sakarā ar krīzi kokrūpniecībā bez darba atrodas 2300 strādnieku. Bezdarba posts apņēmis arī Latvijas laukus un mazpilsētas.
+Bezdarbnieku ciešanas un trūkums ir neaprakstāms. Nekādus pabalstus tie nesaņem. Sabiedriskos darbos tiek nodarbināta niecīga daļa. Arvien biežāk notiek bezdarbnieku nemieri darba biržās. Darba biržu priekšgalā atrodošies sociālfašisti ar policijas un politpārvaldes spiegu palīdzību, kā tas bija, piemēram, Ventspilī, Daugavpilī, apspiež strādnieku sašutumu un nemieru.
+Buržuāzija tanī pat laikā uzliek jaunas un jaunas nastas darbaļaudīm. Vasarā tika pieņemti tā saucamie lauksaimniecības likumi, kuri desmitiem miljonu latu atlaida lauku budžiem, bet strādniecībai uzlika jaunus nodokļus un dzīves dārdzību. Nupat tiek paaugstinātas muitas uz rūpniecības un lauksaimniecības patēriņa priekšmetiem. Ja līdz šim pilsētas un lauku darbaļaudis maksāja 50 milj. latu muitas nodokli jeb 30 latu no galvas, tad jaunais muitas tarifs paceļ šo netiešo nodokļu slogu vēl uz 25—30 milj. latu. Un kā toreiz vasarā, kad pieņēma miljonu piemaksas lauku budžiem, tā tagad, kad pieņem jauno muitas tarifu, sociāldemokrāti palīdz un atvieglina buržuāzijai izvest darbaļaužu izģērbšanu.
+Biedri strādnieki un bezdarbnieki! Gatavojieties savos uzņēmumos, sabiedrisko darbu vietās, darba biržās uz 25. februāri, uzstādiet un vediet cīņu par sekojošām jūsu vistiešākajām prasībām:
+Pirmkārt: izsniegt katram bezdarbniekam vienreizēju ziemas pabalstu, kas -pietiktu ne mazāk kā 2 mēnešu iztikai.
+Otrkārt: izvest apdrošināšanu pret bezdarbu. Bet līdz tam visiem bezdarbniekiem, kuri netiek nodarbināti sabiedriskos darbos, izsniedzami pabalsti vidējas darba algas apmēros.
+Treškārt: uzlabot darba apstākļus sabiedriskos darbos. Atalgojumu ne mazāku par vidējo strādnieka darba algu pie 7 stundu darba dienas un 4—5 stundu darba dienas darba jauniešiem. Atmaksāt ceļa izdevumus līdz darba vietai. Higiēnisku telpu un novārītu ūdeni sabiedrisko darbu vietās. Biezāku darba drēbju izsniegšanu.
+Ceturtkārt: bezdarbniekus atsvabināt no dzīvokļa un komunālo pakalpojumu maksas. Aizliegt bezdarbnieku izlikšanu no dzīvokļiem maksātnespējas gadījumos.
+Piektkārt: no pašu bezdarbnieku vidus izvēlētas bezdarbnieku komitejas kā sabiedrisko darbu vietās, tā darba biržās.
+Sestkārt: pret jauno muitas tarifu un citiem pārtikas sadārdzināšanas likumiem.
+Septītkārt: pret strādnieku masu atlaišanu. Kopā ar strādājošiem cīņā par 7 stundu darba dienu, pret darba algas pazemināšanu, pret nopelnītās darba algas neizmaksu.
+Vienīgā izeja no bezdarba ir — padomju ceļš.
+Padomju Savienībā bezdarbs 1930. g. otrā pusē, pretēji straujam pieaugumam kapitālistiskās valstīs, pilnīgi likvidēts. 1931. g. tautsaimniecībā tiek ierauti 2 milj. jaunu strādnieku un kalpotāju. Strādnieku reālā darba alga ir pieaugusi, salīdzinot ar pirmskara līmeni, līdz 167%. Puse no visiem rūpniecībā nodarbinātiem strādniekiem pārvesta uz 7 stundu darba dienu, ievesta 5 dienu darba nedēļa. Miljoniem zemnieku pāriet uz sociālistisko kopdarbību. Ienākumi kolektīvās saimniecībās pie daudz īsāka darba laika pusotras līdz divi reizes pārsniedz ienākumus individuālās saimniecībās.
+Visi šie Padomju Savienības darbaļaužu sasniegumi ir tiešs aicinājums Latvijas darbaļaudīm — cīnīties par padomju strādnieku-zemnieku valdību, visiem spēkiem aizstāvēt Padomju Savienību.
+Lai dzīvo 25. februāris — Starptautiskā cīņas diena — pret bezdarba postu, pret kapitālismu, kurš mērdē badā 30 milj. bezdarbnieku un rada jaunas ciešanas darba tautai.
+Pret karu, pret imperiālistu uzbrukumu Padomju Savienībai, kuru tie organizē uz 1931. gadu.
+Pret fašismu, pret strādnieku organizāciju grautiņiem, bezdarbnieku un strādājošo sapulču noliegšanu un terorizēšanu.
+Lai dzīvo strādājošo un bezdarbnieku kopējā cīņa!
+Lai dzīvo tuvojošā vispasaules proletāriskā revolūcija!
+Lai dzīvo Latvijas Komunistiskā partija!
+Lai dzīvo strādnieku-zemnieku valdība!
+
+LKP Centrālā Komiteja

@@ -1,0 +1,29 @@
+id: 171
+file_name: lclc-2-n171-SP_CK-5000-[…1931-01-22].txt
+title: Latvijas Sarkanās Palīdzības CK lapiņa, kas veltīta 1905. g. kritušo cīnītāju piemiņai, ar aicinājumu strādniekiem, darba zemniekiem un progresīvajai inteliģencei nepieļaut imperiālistu gatavoto karu pret PSRS
+author: Latvijas Sarkanās Palīdzības CK
+date: […1931-01-22]
+print_run: 5000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 321–322.
+
+text:
+LATVIJAS SARKANĀ PALĪDZĪBA (MOPRA SEKCIJA)
+Visu zemju proletārieši, savienojieties!
+9. JANVĀRIS
+Biedri strādnieki, darba zemnieki un progresīvā inteliģence! 1905. g. 9. janvārī cara valdība ar mācītāja Gapona palīdzību noslepkavoja izbadojušos strādniekus, kuri pazemīgi, svētbildēm rokas devās uz cara pili lūgt maizi. Nomāktais strādnieks ticēja, ka ķeizars ir žēlīgs, visuvarens un uzklausīs izsalkušās tautas lūgšanas. Maizes vietā viņi saņēma svinu, un Pēterburgas ielas pārklāja līķu kaudzes . . .
+Tas pats notika 13. janvārī Rīgā pie dzelzs tilta. Atkal nobendēja simtiem strādnieku. Tad strādniecībai zuda aklā ticība dievam un ķeizaram: dievmātes vietā viņi ņēma ieročus.
+Biedri! Caru gāza 1917. g. varonīgais proletariāts. Latvijā viņa vietā pie varas nākusi apvienota buržuāziska valdība ar visiem cara laika likumiem un metodēm. Šī buržuju «demokrātiskā» valdība vēl drakoniskāk izrēķinās ar strādnieku šķiru.
+Biedri! Latvijas cietumi nekad vēl līdz šim nav pieredzējuši tik daudz ieslodzīto revolucionārās strādniecības priekšstāvju kā tagad, «demokrātiskās» valdības pastāvēšanas laikā. Nepaiet neviena diena bez arestiem un kratīšanām strādnieku dzīvokļos. Nepaiet neviena diena, kad netiktu iztiesātas revolucionārās strādniecības prāvas ar soda mēru 8 un vairāk gadiem katorgā un spaidu darbos.
+Biedri! Vispasaules kapitālistiskā saimniecība raustās sabrukuma krampjos. Bezdarbnieku armija aug ar katru dienu. Visa kapitālistiskā pasaulē bezdarbnieku skaits sniedzas pie 50 miljoniem. Lai glābtu kapitālistisko pasauli, buržuāzija kopā ar fašistiem un socfašistiem redz tikai vienu izeju: gatavot vispasaules 9. janvāri, gatavot jaunu asiņainu karu pret pirmo strādnieku valsti — SPRS. Šo patiesību apliecina iztiesātā «rūpniecības [partijas]» prāva Maskavā, to apliecina intervencijas vadītājs Ramzins.
+Biedri! Neļausim slepkavām pacelt rokas ,pret strādnieku valsti! Neļausim buržuāziskai tiesai nobendēt mūsu biedrus! Stāsimies visi Sarkanās Palīdzības cīņas rindās!
+Nost jauna 9. janvāra gatavotājus!
+Lāsts strādnieku slepkavām! Slava kritušiem revolūcijas cīnītājiem!
+Lai dzīvo vienota darba valsts!
+Lai dzīvo Sarkanā Palīdzība un viņas vadone — Latvijas Komunistiskā partija!
+
+Latvijas Sarkanās Palīdzības Centrālā Komiteja

@@ -1,0 +1,44 @@
+id: 172a
+file_name: lclc-2-n172a-LKP_CK-8000-1931-01.txt
+title: LKP CK uzsaukums jauniesaucamajiem un visiem kareivjiem imperiālistiskā kara gadījumā aizstāvēt Padomju Savienību un kopā ar Sarkano Armiju cīnīties par padomju varu
+author: LKP CK
+date: 1931-01
+print_run: 8000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 322–325.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+GRIEZĪSIM DURKĻUS PRET MŪSU APSPIEDĒJIEM!
+Biedri strādnieki un darba jaunieši! Kā katru gadu, tā arī šogad buržujiskā valsts iesauc karaklausībā tūkstošiem strādnieku un zemnieku jauniešu. Tur viņus dzīs manevros, apmācīs rīkoties ar šautenēm, ložmetējiem, lielgabaliem un citiem kara ieročiem, bet galvenais — apmācīs bez iebildumiem akli padoties virsniecībai un uz viņas pirmo pavēli kaut kurā brīdī, dienu vai nakti, aizsargāt tēviju no iekšējiem un ārējiem ienaidniekiem.
+Mūsu buržuāzijai, kā visu citu kapitālistisko ekspluatatorisko valstu buržuāzijai, ir vajadzība apsargāt savas bagātības — greznas mājas, fabrikas, lielas tirgotavas, muižas, lauku mājas ar simtām pūrvietām zemes un dārziem; ir vajadzība apsargāt savu pārpilno, grezno un saldo dzīvi, ir vajadzība aizsargāt savas tiesības ar esošām bagātībām kļūt vēl bagātākiem, vēl vairāk aptaukoties, iegūt vēl lielākas iespējas mētāties ar tūkstošiem pa restorāniem un bagātām publiskām mājām uz trūkumā un postā dzīvojošo plašo strādnieku un zemnieku [masu] rēķina.
+Šīs savas bagātības, savu grezno un izvirtušo dzīvi, savas tiesības ekspluatēt darba tautu buržuāzija sauc par tēviju. Lūk, šīs «tēvijas» aizsardzībai buržuāzija arī apmāca karam un aklai disciplīnai ik gadus vairāk kā 30 000 strādnieku un zemnieku jauniešu.
+Virsniecība, tā, uz kuras pirmo pavēli strādniekiem un zemniekiem vajadzēs aizsargāt «tēviju», sastāv no lauku budžu, pilsētas fabrikantu, baņķieru un tirgotāju dēliem, brāļiem, radiniekiem, tie kauls no kaula, asinis no to asinīm, kuriem šī tēvija pieder.
+Imperiālistiskā un pilsoņu kara gadi tūkstošiem un atkal tūkstošiem no darba tautas parādīja, kā intereses aizsargā buržujiskās valsts armija. Kā intereses aizsargāja Latvijas armija pēdējos miera gados? Vai ir bijis gadījums, kad armija uzstātos par darba tautas interešu aizstāvēšanu? Nav bijis. Smieklīgi pat par to jautāt. Tāpēc gadījumu, kur armija tikusi izmantota bagātnieku interešu aizsardzībai pret strādniekiem, ir daudz. Ne vienreiz vien Latvijas armijas kareivjus izmantoja kā streiklaužus strādnieku streiku laikā. Latvijas armijas kareivji ar aklās disciplīnas palīdzību uz priekšniecības, virsnieka Oliņa pavēli ir izmantoti asiņainas fašistiskas diktatūras nodibināšanas mēģinājumam. Arī tagad mūsu fašistiskā buržuāzija, lai izvestu savu bada un nāves diktatūru, grib izlietot armiju. Tuvākā laikā tādu uzdevumu armijai liks izpildīt daudz, kad strādnieki ar pieaugošas krīzes smagumu uzvelšanu uz viņu pleciem tiks novesti galīgā izmisuma stāvoklī un noteikti nostāsies par savu interešu aizsargāšanu. Par to arī runā viens no galveniem armijas uzdevumiem — aizsargāt tēviju no iekšējā ienaidnieka. Kas ir šis iekšējais ienaidnieks? Virsnieki paskaidro — tie ir komunisti, tas ir, attīstītākie, apzinīgākie, aktīvākie, pašaizliedzīgākie strādnieki, kuri sauc visus strādniekus uz cīņu ar kapitālistisko bezdarba, bada un trūkuma iekārtu, par savas proletāriskās varas nodibināšanu, par labāku dzīvi.
+Skaidrs, buržujiskās Latvijas armija gatavojas buržujiskās labklājības un izvirtības — buržujiskās tēvijas aizsardzībai, gatavojas par ieroci fašistiskās diktatūras nodibināšanai, asiņainai revolucionārās strādnieku kustības apspiešanai, pret strādnieku un darba zemnieku interesēm.
+Bet armija vajadzīga ne tikai bagātnieku varas un īpašumu aizsardzībai no pašu valsts strādnieku šķiras. Otrs armijas uzdevums — cīnīties pret ārējo ienaidnieku. Kas ir ārējais ienaidnieks? — Padomju Savienība — atbild mūsu buržuāzijas vadonis Arvīds Bergs.
+Biedri! Bergam taisnība! Zem franču imperiālistu vadības visas Padomju Savienības pierobežas kapitālistiskās valstiņas drudžaini gatavojas uzbrukumam pirmajai strādnieku valstij pasaulē. Ari Latvijas buržuāzija ir gatava savienībā ar Poliju, Rumāniju, Igauniju un citām kapitālistiskām valstīm pie angļu un franču jūras un sauszemes spēku palīdzības sūtīt mūsu strādniekus un zemniekus karā Krievijas revolūcijas apspiešanai. To rādīja vasaras manevri Latgalē pie Padomju Savienības robežas ar franču virsnieku piedalīšanos. To pierāda arī kontrrevolucionāru — kaitētāju process Maskavā, pret kuru visas pasaules buržujiskā prese pacēla tik ellišķīgas gaudas un vaimanas.
+Bergam taisnība! Tagadējā momentā Latvijas buržuāzija savu vienīgo ienaidnieku redz strādnieku šķirā. Iekšējais ienaidnieks — komunisms, tā ir Latvijas strādnieku šķira. Ārējais ienaidnieks — Padomju Savienības strādnieku šķira, pret kuru tagad vēršas visa kapitālistiskā pasaule.
+Jāzin, biedri, kā tam biedram, kas tikko vēl aiziet armijā, tā arī tam, kas jau atvaļināts un atrodas rezervē, — tuvojas nopietnas, izšķirošas dienas. Tai momentā, kad buržujiskā virsniecība dos pavēli iet pret «tēvijas» ienaidnieku, tev vajadzēs zināt, ko darīt.
+Nevienu lodi neraidīsim mūsu brāļiem — Padomju Savienības strādniekiem un zemniekiem!
+Durkli, kuru tev dos rokās priekšniecība, tu pagriezīsi pret viņu pašu.
+Ne šaut uz padomju strādniekiem, bet brāļoties ar viņiem!
+Vadiem, rotām, veseliem pulkiem mēs pāriesim Sarkanās Armijas pusē un kopā ar Padomju Savienības strādniekiem, kopā ar visas pasaules strādniekiem gāzīsim kapitālistisko varmācības, ekspluatācijas, bezdarba un trūkuma iekārtu, nodibināsim Vispasaules sociālistisko padomju republiku savienību, kur vairs nebūs ekspluatācijas, nebūs pazemošanas, kur strādnieks būs valsts saimnieks, kur nebūs bezdarba, kā tas nav vairs Padomju Savienībā, kur nebūs trūkuma un bēdu, kur visas pasaules darba tauta vienotā brālīgā darba saimē iznīcinās karus uz visiem laikiem un radīs iespēju neaprobežotai strādājošo masu labklājības pacelšanai un viņu kultūras attīstībai.
+Biedri! Tas būs iespējams tikai tad, kad būs stipra strādnieku šķiras revolucionārā partija, kura par to cīnās, tas ir, Komunistiskā partija, kad plašas strādnieku šķiras masas būs apvienotas un organizētas.
+Esi drošs un bezbailīgs, cīnies par labāku dzīvi, iestājies komunistu partijas rindās, iestājies revolucionārās arodbiedrībās, dibini uzņēmumos SPRS aizsardzības komitejas, fabrikas komitejas, pretfašistu grupas, strādnieku pašaizsardzības grupas. Jo organizētāka strādnieku šķira, jo lielākas izredzes uz mūsu cīņas panākumiem.
+Bet tev, aiz sociāldemokrātu vadoņiem ejošam strādniekam, jāzin, ka tavi vadoņi tevi nodos arī šoreiz tikpat cietsirdīgi kā 1914. g. augusta dienās. Kā toreiz sociāldemokrātiskiem vadoņiem katrā valstī atradās sava tēvija, kuru viņi aicināja aizsargāt, tāpat viņi aizsargās buržujisko tēviju arī šoreiz. Triec prom savus nodevīgos vadoņus. Radi vienotu fronti ar revolucionārajiem strādniekiem. Kopā ar viņiem aizsargā Padomju Savienību, sagrauj kapitālistisko nabadzības un varmācības iekārtu.
+Nost buržujisko armiju!
+Nost kapitālistisko varmācības, bezdarba un trūkuma iekārtu!
+Pret fašistisko bada un nāves diktatūru!
+Pret nodevīgajiem sociālfašistiskajiem vadoņiem!
+Aizsargāt Padomju Savienību!
+Durkļus pret mūsu apspiedējiem!
+Lai dzīvo strādnieku un zemnieku valdība!
+
+LKP Centrālā Komiteja

@@ -1,0 +1,31 @@
+id: 174
+file_name: lclc-2-n174-LKP_Vidiena_regional_committee-800-1931-01.txt
+title: LKP Vidienas apgabala komitejas uzsaukums laukstrādniecēm pašvaldību vēlēšanās balsot par strādnieku un trūcīgo zemnieku kandidātiem
+author: LKP Vidienas apgabala komiteja
+date: 1931-01
+print_run: 800
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 328–329.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+LAUKSTRĀDNIECES, NEĻAUJIET BUDŽIEM SEVI EKSPLUATĒT!
+Darbaļaužu stāvoklis uz laukiem kļūst ar katru dienu ļaunāks. Šausmīgais bezdarbs, kurš pašreiz kā drudzī rausta Latviju, ir novedis strādnieku šķiru bezizejas stāvoklī. Bet lauku budži tik berzē rokas un priecājas, ka nu reiz ir pienācis tik ļoti kārotais brīdis, kad vergus var ekspluatēt pēc patikas.
+Sevišķi laukstrādnieces stāvoklis ir kļuvis nepanesams. Laukstrādnieces izmantošana no budžu puses stāv uz visaugstākās pakāpes, viņa ir padota visnegantākai izmantošanai. Pārmērīgi garais darba laiks, kurš nereti sniedzas līdz 17 stundām dienā. Dienā laukstrādnieces tiek nodarbinātas pie visiem smagiem vīriešu darbiem, bet vakarā jākopj govis un jāpadara visi pārējie mājas darbi. Svētdienas arī laukstrādniecei nav brīvas, jāveic visi tekošie mājas darbi, un, nereti gadās, sanāk pelēčiem viesi, tad jau kalponei jāvergo līdz pat 12 naktī. Bez tam strādniecei maksā daudz zemāku algu nekā strādniekam vīrietim. Tad vēl necilvēcīgā izturēšanās no budža puses, pa piemēram: ja strādniece saslimst, tad pēdējo bez žēlastības atlaiž no darba, padzen no mājām, neizmaksājot pat nopelnītos niecīgos grašus.
+Tagad pašreiz tuvojas pašvaldību vēlēšanas. Arī šeit budži uzstājas un mēģina iespaidot strādnieces, lai tās nodotu savas balsis par tiem. Visādus līdzekļus budzis laiž darbā, ja nevar ar labu, tad piedraud ar atlaišanu no darba.
+Darba sievietes! Uz priekšu tas vairs nedrīkst turpināties! Neļausim pelēčiem sevi izsūkt un savas cilvēcīgās tiesības kājām mīdīt.
+Būsim savas šķiras apzinīgas un pašvaldību vēlēšanās nodosim balsis par strādniekiem un trūcīgo zemniecību.
+Iestāsimies laukstrādnieku arodbiedrībās un ar organizētiem spēkiem aizstāvēsim savas intereses.
+Droša uzvara šinī cīņā ir iespējama vienīgi, ja zem Komunistiskās partijas sarkanā cīņas karoga ies [ne tikai] strādnieks vīrietis, bet arī sieviete strādniece.
+Nost ekspluatatorus — lauku pelēčus!
+Nost buržujisko Latvijas iekārtu!
+Lai dzīvo Latvijas Komunistiskā partija!
+Lai dzīvo strādnieku-zemnieku padomju valdība!
+
+LKP Vidienas apg. kom.

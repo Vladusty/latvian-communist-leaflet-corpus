@@ -1,0 +1,40 @@
+id: 182
+file_name: lclc-2-n182-LKP_LKJS_Kursanska_Himmelhoha_factory_cells-unk-1931-02.txt
+title: Tekstilfabrikas «Kuršanskis un Himmelhohs» LKP un LKJS šūnu uzsaukums strādniekiem organizēties cīņai pret atlaišanu no darba un darba algas pazemināšanu
+author: LKP un LKJS «Kuršanska un Himmelhoha» fabrikas šūnas
+date: 1931-02
+print_run: unk
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 342–344.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+VISIEM KURŠANSKA UN HIMMELHOHA FABRIKAS STRĀDNIEKIEM!
+Biedri strādnieki! Mūsu ekonomiskais stāvoklis pasliktinās ar katru dienu. Ar ekonomiskās krīzes paasināšanos Kuršanska un Himmelhoha kungi meklē visādus veidus, kā izspiest mūsu spēku un naudu. Dažādu mašīnu iegāde izmet strādnieku masas uz ielas, un tas, pastāvot vispārējai krīzei un bezdarbam, arvien vairāk un vairāk papildina bezdarbnieku rindas, un strādnieku ģimeņu skaits, kas cieš badu, ar katru dienu palielinās.
+Biedri! Mūs, visus fabrikā atlikušos, saimnieki ekspluatē arvien vairāk un vairāk. Vēl visi mēs atceramies gadījumu ar strādnieci Bīriņu no abratūras nodaļas. Mēs atceramies, ka Himmelhoha kungs, ieejot abratūras nodaļā, pamanījis, ka strādniece Bīriņa pagriezusi galvu, un nekavējoties izdzina viņu no fabrikas.
+Biedri strādnieki! Mūsu fabrika tagad strādā 4 dienas nedēja. Līdz šim laikam strādnieki, kas saņēma Ls 2 dienā, nemaksāja slimokasei, tagad viņi spiesti maksāt no savas kabatas. Bez tam darba alga visiem strādniekiem tā pazemināta, ka nav iespējams eksistēt.
+Biedri! Kuršanska un Himmelhoha kungi izdara darba racionalizāciju uz mūsu rēķina, eksplutējot mūs.
+Salīdzināsim tagad strādnieku stāvokli Padomju Krievijā! Strādnieku stāvoklis tur pavisam citāds. Tur uz darba racionalizācijas rēķina uzlabojas strādnieku stāvoklis. Padomju Krievijā strādnieki strādā 7 stundas dienā — 4 dienas strādā, 5. dienu atpūšas un visiem tekstilrūpniecības strādniekiem paaugstināta darba alga.
+Biedri! Buržuāzija gatavo jaunu asiņainu karu pret strādnieku šķiru un pret proletariāta valsti — Padomju Krieviju.
+Arī mūsu kungi Kuršanskis un Himmelhohs cenšas ievilkt mūs Padomju Savienības ienaidnieku rindās un atraut mūs nošķiru cīņas, noveļot visu atbildību par mūsu grūto stāvokli uz «padomju dempingu».
+Biedri! Ne jau padomju dempings vainojams mūsu smagajā stāvoklī, bet buržuāzijas satrunējušā kapitālistiskā iekārta.
+Tagad atkal Kuršanska un Himmelhoha kungi gatavojas izmest veselu virkni strādnieku no fabrikas uz ielas; tāpēc mūsu uzdevums ir cīnīties pret ekspluatatoriem un, lai to realizētu, jāorganizējas revolucionārā tekstilnieku arodbiedrībā.
+Organizēt revolucionāru komiteju fabrikā.
+Tikai organizēti mēs uzlabosim savu stāvokli.
+Biedri strādnieki! Visas partijas jau gatavojas pilsētas domes velēšanām, un pie jums dosies buržuāzija ar saviem sulaiņiem — sociāldemokrātiem un baros jūs solījumiem. Biedri, neticiet šiem solījumiem. Mēs jau esam dzīvē pārliecinājušies, kādi ir viņu solījumi, un tāpēc mēs uzstādām revolucionārā sarakstā savus kandidātus pilsētas domes vēlēšanām.
+Biedri strādnieki! Sargieties no strādnieces Olgas! Viņas vīrs ir špiks! Viņi nodod mūsu intereses! Boikotējiet viņu!
+Visi kā viens pret strādnieku šķiras bendētājiem, asinskārajiem suņiem Kuršanski un Himmelhohu!
+Visi pret niecīgo darba algu un dārdzību!
+Mēs prasām darbu un maizi!
+Mēs prasām cilvēcīgus apstākļus fabrikā!
+Lai dzīvo strādnieku šķiras organizētība!
+Lai dzīvo strādnieku-zemnieku valdība!
+Lai dzīvo revolucionārā fabrikas komiteja!
+Lai dzīvo strādnieku šķiras avangards —
+Latvijas Komunistiskā partija!
+
+Latvijas Komunistiskās partijas un komjaunatnes «Kuršanska un Himmelhoha» fabrikas šūnas

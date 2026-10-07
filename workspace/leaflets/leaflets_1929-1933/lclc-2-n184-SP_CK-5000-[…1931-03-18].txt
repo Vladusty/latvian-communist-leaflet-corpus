@@ -1,0 +1,34 @@
+id: 184
+file_name: lclc-2-n184-SP_CK-5000-[…1931-03-18].txt
+title: Latvijas Sarkanās Palīdzības CK Parīzes Komūnas atcerei veltīta lapiņa ar aicinājumu Latvijas strādniekiem Komunistiskās partijas vadībā cīnīties pret buržuāziskās reakcijas uzbrukumiem
+author: Latvijas Sarkanās Palīdzības CK
+date: […1931-03-18]
+print_run: 5000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 347–349.
+
+text:
+LATVIJAS SARKANĀ PALĪDZĪBA
+(STARPTAUTISKĀS SARKANAS PALĪDZĪBAS SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+PRET STRĀDNIEKU NODEVĒJIEM UN SLEPKAVĀM
+Biedri! Š. g. 18. martā paiet 60 gadi, kopš pirmo reizi pasaulē Parīzes varonīgais revolucionārais proletariāts uz pilsoņu kara barikādēm kā valdnieks pacēla savu sarkano cīņas karogu un nodibināja Parīzes Komūnu. Saimnieciskā posta un kara izmocītais proletariāts droši padzina savus apspiedējus un deva pirmo uzmetumu tam, kādā virzienā un uz ko jāvirza proletariāta cīņas, deva pirmo uzmetumu strādnieku valstij — proletariāta diktatūrai. Bet Parīzes Komūna pastāvēja tikai īsu laiku. Viņu sakava asiņainā reakcija, apslaktējot tūkstošiem un atkal tūkstošiem Parīzes komunārus — strādniekus un nabadzīgos iedzīvotājus. Parīzes Komūnas dzimšanā, pastāvēšanā un krišanā, buržuāzijas izvestā šausmīgā komunāru apslepkavošanā atrodam daudzas mācības tagadējām cīņām, redzam pirmos sākumus tām reakcijas briesmām, kādas buržuāzija mūsu dienās izved daudz plašākos apmēros.
+Parīzes Komūnu noslīcināja asinīs buržuāzijas slepkavu bandas Tjēra vadībā. Tagad, kad pēc pasaules kara proletāriskās revolūcijas vilnis draudēja pārņemt visu pasauli, kad proletariāts visā pasaulē draudēja pacelt sarkano Komūnas karogu, — buržuāzija izrēķinājās tāpat. Mūsdienu buržuāzija sociāldemokrātisko slepkavu Noskes, Šeidemana, Cielēna, Kalniņa u. d. c. vadībā visas zemēs apspieda revolucionāro strādniecību, noslīcināja asinīs Padomju Latviju, Vācijas revolūciju, Padomju Ungāriju, izveda vēl neredzētus slepkavības gājienus pret Sociālistisko Padomju Republiku Savienību. Tomēr tagad proletariātu vairs neizdevās sakaut galīgi, un viņš palika kā uzvarētājs vienā sestdaļā no visas zemeslodes.
+Pašreiz proletāriskā revolūcija ceļas uz augšu ar jaunu sparu. Kapitālisms savā pēdējā posmā ar sevišķi aso krīzi novedis strādājošās masas nedzirdētā postā, trūkumā un badā. Sis masas arvien vairāk apzinās, ka buržuju meklētās izejas no krīzes karā pret SPRS un fašismā ir vērstas pret strādnieku šķiru, ka buržuāzija visas grūtības pārveļ uz darbaļaužu pleciem un ka vienīgā izeja atrodama proletāriskā revolūcijā, nodibinot strādmeku un zemnieku valdību. To redz un saprot arī buržuāzija. Tāpēc viņa vēl pastiprinātāk terorizē strādnieku šķiru, tāpēc viņa vēl drudžaināk gatavojas uz karu pret SPRS.
+Katru dienu buržuāzija arestē un soda uz ilgiem katorgas un moku gadiem revolucionāros strādniekus, slēdz viņu biedrības, konfiscē avīzes, žurnālus un uzsaukumus. Bet ar šīm represijām buržuāzija nevar sakaut revolucionāro kustību. Buržuāzija, lai slēgtu revolucionārās arodbiedrības, ķeras pie nekaunīgas provokācijas, iemetot biedrību telpās pašu pagatavotus, it kā komunistiskus karogus. Lai ienestu dezorganizāciju un paniku revolucionārā kustībā, buržuāzija melo, ka esot arestētas Kompartijas un Komjaunatnes savienības Centrālās Komitejas un atklāta Sarkanās Palīdzības konference. Tāpat politpārvaldes aģenti grib kaitēt revolucionārajai kustībai ar dažādu baumu palaišanu, kuras sevišķi cītīgi izplata s.-d. Socfašisti, pūzdami politpārvaldes taurē, no saeimas tribīnes apgalvo, ka «visdedzīgākie komunisti ir visdedzīgākie savu biedru nodevēji». To viņi dara, lai maskētu īsto provokatoru un sociāldemokrātu nodevību pēdas. Bet tas neizdosies. Revolucionārā strādniecība zin, ka sociāldemokrātiskie bruno kalniņi nodevuši Kuldīgas sportistus, mūsu biedrus Šilfu, Bērziņu u. c. Revolucionārā strādniecība zin, ka Kalniņš sastāvējis politpārvaldes dienestā un tagad nodibinājis otro politpārvaldi, ka sociāldemokrāts Šaberts, bijušais Satversmes sapulces sociāldemokrātiskās frakcijas loceklis, tagad ir politpārvaldes izmeklēšanas ierēdnis utt.
+Strādnieku šķirai jāiet cīņā pret šīm nodevībām un provokācijām. Uz buržuāzijas pastiprināto teroru, uz revolucionāro arodbiedrību slēgšanu un saeimas strādnieku-zemnieku frakcijas likvidēšanu strādnieku šķirai jāatbild ar politisku masu streiku un jāatsit reakcijas uzbrukums, panākot pilnīgu uzvaru.
+Kapitālistu uzbrukums strādnieku šķirai cieši saistīts ar intervencijas kara gatavošanu pret SPRS. Kara iespējamības pašreiz ir nobriedušas vairāk kā jebkad. Vairāk kā jebkad buržuāzija gatavojas šausmīgā slaktiņā sakaut proletārisko revolūciju, iznīcināt SPRS. Ja Parīzes Komūnas krišanā vainojami iekšējie nogrupējumi, kuri nodeva komunāru cīņas, tad tagad sociāldemokrātija šo nodevības darbu dara daudz plašākos apmēros. Maskavā iztiesātais sociāldemokrātu mazinieku partijas process skaidri parādīja, ka s.-d. kopā ar buržuāziju grāvuši SPRS saimniecību, kaitējuši proletāriskai revolūcijai un gatavojušies šausmīgam strādnieku šķiras slaktiņam. Visi «slavenie» s.-d. līderi kautski, hilferdingi, denikes, dani, dukuri un daudzi citi pielikuši savu roku, lai šis lielais kontrrevolucionārais darbs «uz priekšu tiek».
+Biedri strādnieki un strādnieku jaunieši!
+Mēs atrodamies izšķirošu kauju priekšvakarā starp darbu un kapitālu. Šajās kaujās mums jābūt aktīviem, drošiem un kaujas spējīgiem. Mēs nedrīkstam nomaldīties dažādu nodevēju, reakcijas kalpu pusē, bet mums jāstāv komunistu partijas pusē un viņas vadībā jāatsit reakcijas uzbrukumi, uz viņas pirmo aicinājumu jāiziet politiskā masu streikā, kara gadījumā jāgriež durkļi pret apspiedējiem un. jāizcīna sociālistiskā Padomju Latvija.
+Turpināsim Parīzes komunāru cīņas!
+Pret reakciju, pret strādnieku nodevējiem un bendēm!
+Pret karu ar SPRS!
+Lai dzīvo strādnieku un zemnieku revolucionārā cīņa par proletārisko diktatūru!
+Lai dzīvo LKP un LKJS!
+Lai dzīvo Sarkanā Palīdzība!
+
+Latvijas SP Centrālā Komiteja

@@ -1,0 +1,37 @@
+id: 190
+file_name: lclc-2-n190-LKP_Vidiena_regional_committee-1500-1931-03.txt
+title: LKP Vidienas apgabala komitejas uzsaukums laukstrādniekiem vienotā frontē cīnīties par savām prasībām
+author: LKP Vidienas apgabala komiteja
+date: 1931-03
+print_run: 1500
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 361–362.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA (KOMINTERNES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+LAUKU STRĀDNIEKI UN STRĀDNIECES!
+Deramdienas tuvojas! Visi kā viens aktīvi uzstāsimies ar savam prasībām. Diezgan mēs esam svīduši saimnieku tīrumos un kūtīs. Skrandās noplīsušām drēbēm tiem mantu raušam. Izbalējušām sejām, iekritušiem vaigiem, lietū un salā, no tumsas līdz tumsai, bez atpūtas mūs budži izkalpina! Tie ēdina mūs ar zilo putraimu putru un sasmakušām siļķēm, bet paši tie līksmo un ēd gardus cepešus!
+Vienīgā izeja — vienota fronte!
+Biedri strādnieki un strādnieces! Tik kopējiem spēkiem, organizēti zem Latvijas Komunistiskās partijas vadības mēs iekarosim savas prasības. Latvijas reakcionārā valsts vara strādniecības intereses neaizstāv! Tā vajā strādniecības aktīvākos darbiniekus: kreisos arodniekus, Kompartijas biedrus un pat no strādniekiem izvēlētos priekšstāvjus saeimā, strādnieku-zemnieku frakcijas biedrus, konfiscē un aizliedz strādnieku laikrakstus! Par patiesības runāšanu un rakstīšanu mūs smacē reakcijas cietumos!
+Mēs prasām:
+1. Gada puišiem un tāpat arī gada meitai Ls 750!
+2. Vasaras puisim un tāpat vasaras meitai Ls 450!
+3. Kā puisim, tā meitai mēneša alga Ls 75!
+4. Dienas strādniekiem pie saimnieka maizes Ls 6!
+5. 8 stundu darba dienu!
+6. Katru nedēļu 42 stundas pilnīgai atpūtai!
+7. Pusdienā strādnieku atpūtai 3 stundas!
+8. Pēc katriem nostrādātiem 6 mēnešiem 2 nedēļas atvaļinājuma, izmaksājot pilnu algu!
+9. Slimības gadījumos pilna algas izmaksa pa slimošanas laiku!
+10. Katru dienu pārmaiņus jādod gaļas un piena ēdieni!
+11. Gaišas, siltas atsevišķas istabas!
+12. Strādnieces 2 mēneši pirms un 2 pēc dzemdēšanas jāatsvabina no darba, izmaksājot pilnu algu!
+Lai dzīvo Latvijas Komunistiskā partija — patiesa strādniecības aizstāvētāja!
+Lai dzīvo strādnieku-zemnieku valdība!
+
+LKP Vidienas apg. kom.

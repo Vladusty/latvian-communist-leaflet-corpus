@@ -1,0 +1,37 @@
+id: 187
+file_name: lclc-2-n187-LKJS_Riga_committee-5000-[…1931-03-28].txt
+title: LKJS Rīgas komitejas uzsaukums jaunajiem strādniekiem pilsētas domes vēlēšanās balsot par kreisās strādniecības kandidātiem
+author: LKJS Rīgas komiteja
+date: […1931-03-28]
+print_run: 5000
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 356–357.
+
+text:
+LATVIJAS KOMUNISTISKĀ JAUNATNES SAVIENĪBA
+(KOMUNISTISKĀS JAUNATNES INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+JAUNIE STRĀDNIEKI!
+Revolucionārā cīņā par proletariāta uzvaru!
+Biedri! Mūsu stāvoklis kļūst arvien šausmīgāks. Trešā daļa no visiem bezdarbniekiem ir jaunieši, kuri atstāti badam un aukstumam. Strādājošie jaunieši nenopelna vairāk par Ls 60 mēnesī. Daudzi saņem vēl mazāk. Daudzi kā mācekļi strādā pilnīgi par brīvu. Politisko un biedrošanās brīvību strādnieku jaunatnei nav. Brīvību vietā tā saņem ilgus cietuma un katorgas gadus, biedrību slēgšanas, preses konfiskācijas.
+Kultūras vietā mums pasniedz reliģiskus murgus. Mūs grib apmuļķot, fašizēt.
+Ilgāk tā nevar iet! No tagadējā stāvokļa ir tikai divas izejas. Viena izeja — buržuju un sociāldemokrātu izeja. Pa šo ceļu krīzes grūtības grib pārvelt uz strādnieku un strādnieku jaunatnes pleciem, grib ievest fašistisku diktatūru, grib izvest intervencijas karu pret SPRS. Tāpēc jau tagad ar provokāciju palīdzību grib slēgt kreisās arodbiedrības un likvidēt strādnieku un zemnieku frakciju.
+Otra izeja — strādnieku šķiras izeja. Pa šo ceļu ejot, strādnieku jaunatnei jāvienojas revolucionārā frontē.
+Pret algotas verdzības jūgu!
+Pret fašismu!
+Pret sociālfašismu!
+Pret karu ar SPRS!
+Par strādnieku-zemnieku valdību!
+Savās cīņās mums jāpanāk tas, ko panākuši SPRS strādnieki, kuri vairs nepazīst bezdarbu un krīzes, kuru stāvoklis vienmēr uzlabojas.
+Vēlēšanās komjaunatnes savienība nevar uzstāties, jo buržuāzija bailēs no revolūcijas to nepielaiž. Tāpēc strādnieku jaunatne aģitēs un balsos par kreiso strādnieku sarakstu, kas aizstāv viņas intereses, no kura buržuāzija visvairāk baidās un tāpēc visvairāk apkaro, — par Nr. 26.
+Iesim droši revolucionārā cīņā pret algu nosišanu un atlaišanu no darba ar streikiem un demonstrācijām!
+Pret reakcijas uzbrukumu kreisai strādniecībai ar politisku masu streiku! Izcīnīsim sociālistisko Padomju Latviju!
+Mēs uzvarēsim. Būsim vienoti un organizēti! Mēs uzvarēsim, ja būsim aktīvi un norobežosimies no strādnieku muļķotājiem un nodevējiem — sociālfašistiem, tautas sociālistiem u. tml. buržuāzijas un politpārvaldes aģentiem. Mēs uzvarēsim. Iesim pa revolucionāro ļeņinisko komunisma ceļu.
+Pilsētas domes vēlēšanās vienosimies un organizēsimies tālākām masu cīņām.
+Balsosim par kreiso strādniecību, par Nr. 26.
+
+LKJS Rīgas komiteja

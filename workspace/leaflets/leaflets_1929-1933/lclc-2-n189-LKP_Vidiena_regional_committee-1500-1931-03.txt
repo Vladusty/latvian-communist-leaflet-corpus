@@ -1,0 +1,32 @@
+id: 189
+file_name: lclc-2-n189-LKP_Vidiena_regional_committee-1500-1931-03.txt
+title: LKP Vidienas apgabala komitejas uzsaukums strādniekiem Komunistiskās partijas vadībā cīnīties pret reakciju, par proletariāta uzvaru
+author: LKP Vidienas apgabala komiteja
+date: 1931-03
+print_run: 1500
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 360–361.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA (KOMINTERNES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+UZ CĪŅU PRET REAKCIJU!!!
+Biedri strādnieki un strādnieces! Latvijas buržuāziskā valdība cīņā pret revolucionāro strādniecību pielieto visnesaudzīgākos līdzekļus.
+Visnesaudzīgākā kārtā tiek grautas strādnieku organizācijas, cietumos tiek mesti un mocīti politpārvaldes moku kambaros labākie biedri.
+Satrakotā Latvijas buržuāzija ar saviem padevīgiem kalpiem, policiju un politiskās pārvaldes asinssuņiem, špikiem slāpst pēc strādnieku asinīm.
+Ar šausmīga terora palīdzību buržuāziskā valdība cer vēl kaut uz īsu brīdi noturēties pie varas.
+Lai kādas represijas buržuāzija necenstos izlietot pret strādniecību, tomēr revolucionāro cīņas sparu tai neizdosies salauzt.
+Strādnieku šķira gluži labi redz, ka savu stāvokli tai ir iespējams uzlabot vienīgi cīņā pret pastāvošo iekārtu.
+Biedri strādnieki un strādnieces! Būsim stipri, nezaudēsim cīņas drosmi, stāsimies Kompartijas rindās, zem viņas vadības gūsim drošu uzvaru.
+Lai trako reakcija, viņai strādnieku revolucionāro kustību nesalauzt! Nelīdzēs ne politpārvaldes spīdzināšanas, ne cietuma žņaugi. Izšķirošā cīņa ir sākusies, un šai cīņā kā uzvarētāja izies vienīgi strādnieku šķira!
+Nost teroru!
+Nost Latvijas buržuāzisko iekārtu!
+Nost politpārvaldi un asinssuņus — špikus!
+Lai dzīvo Latvijas Komunistiskā partija!
+Lai dzīvo strādnieku-zemnieku Sarkanā Padomju Latvija!
+
+LKP Vidienas apg. kom.

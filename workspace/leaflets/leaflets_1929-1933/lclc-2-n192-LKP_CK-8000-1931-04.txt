@@ -1,0 +1,39 @@
+id: 192
+file_name: lclc-2-n192-LKP_CK-8000-1931-04.txt
+title: LKP CK uzsaukums strādniekiem nepiedalīties sociāldemokrātu 1. Maija gājienā, bet demonstrēt savu proletārisko solidaritāti Komunistiskās partijas vadībā
+author: LKP CK
+date: 1931-04
+print_run: 8000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 363–366.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Visu zemju proletārieši, savienojieties!
+NOST 1. MAIJA NODEVĒJUS — SOCIĀLDEMOKRĀTU LĪDERUS SOCIĀLFAŠISTUS!
+Biedri! Arī šogad s.-d. līderi 1. Maijā rīkos mītiņus un gājienus un aicinās strādniekus viņos piedalīties. Tamdēļ, biedri, salīdzini s.-d. līderu vārdus ar viņu darbiem, un tu redzēsi, ka s.-d. līderiem nav absolūti nekā kopēja ar revolucionāro Pirmo Maiju un tā cīņas lozungiem, ka viņu rīkotie mītiņi un gājieni ir vienīgi maskēšanās un strādnieku muļķošanas darbs, ka tu nedrīksti piedalīties šinīs mītiņos un gājienos, ka tev jādemonstrē revolucionārās kaujas rindās zem Komunistiskās partijas vadības.
+Pirmā Maija pamatlozungi ir divi: proletariāta starptautiska solidaritāte un revolucionārā šķiru cīņa par proletariāta diktatūru.
+Kā pilda sociālfašisti šos lozungus?
+Proletariāta un visu apspiesto starptautiskās solidaritātes un atbalsta vietā socfašisti izved šādu politiku: lielā pasaules kara laikā visas pasaules sociāldemokrāti aktīvi atbalstīja katrā zemē savu buržuāziju, kā interesēs tika vests karš, sūtīja savas zemes darbaļaudis slaktēt citu zemju strādniekus un balsoja par kara budžetiem. Anglijas Makdonalda valdība angļu imperiālistu uzdevumā apspiež Indijas revolucionāro kustību, apšauj Indijas revolucionārus un desmitiem tūkstošu bāž cietumos; tā pati Makdonalda valdība palīdz Ķīnas kontrrevolucionāriem ģenerāļiem apspiest revolucionāro kustību Ķīnā. II, fašistiskā, Internacionāle savā pagājušā gada maija sesijā atzina par pareizu Makdonalda valdības izvesto koloniju tautu apspiešanas politiku, un tādā kārtā tā visas pasaules priekšā samina kājām proletariāta starptautiskās solidaritātes lozungu un solidarizējās ar lielkapitāla imperiālistisko politiku.
+Vēl niknāk socfašisti uzstājās pret revolucionārās šķiru cīņas un proletariāta diktatūras lozungu: Krievijas un visu Eiropas zemju sociāldemokrāti 1918.—1920. g. atbalstīja kapitālistisko valstu bruņoto intervenciju pret Sociālistisko Padomju Republiku Savienību; Vācijas s.-d. Šeidemanis, Noske, Millers-Frankens u.c. kopā ar vācu buržuāziju apspieda proletārisko revolūciju Vācija, apšāva tūkstošiem revolucionāro strādnieku, asinīs noslīcināja proletariāta diktatūru Bavārijā un noslepkavoja Vācijas proletariāta vadoņus — Kārli Lībknehtu un Rozu Luksemburgu. Ungārijas s.-d. palīdzēja savai buržuāzijai sakaut proletariāta diktatūru Ungārijā; Latvijas s.-d. organizēja baltās Latvijas kaujas nodaļas un kopā ar Latvijas buržuāziju un vācu baroniem cīnījās pret Sarkano Latviju; s.-d. Cielēns ar baltgvardu ģenerāļa Kolčaka atbalstu organizēja kaujas vienības cīņai pret Padomju Krieviju; Polijas s.-d. palīdzēja nākt pie varas fašistam Pilsudskim un tagad turpina to atbalstīt; Anglijas s.-d. 1926. g. nodeva lielo ģenerālstreiku un ņēma līdzdalību ogļraču streika apspiešanā. Latvijas s.-d. aktīvi darbojas politiskā pārvaldē, Br. Kalniņš un citi līderi dod politpārvaldei norādījumus par revolucionāro strādnieku arestēšanu, ko savā laikā no saeimas katedras apliecināja iekšlietu ministrs Juraševskis; beidzot, kā noskaidrojās nesen Maskavā iztiesātā sociāldemokratu-kaitētāju prāvā, — Krievijas s.-d. ar II Internacionāles aktīvu atbalstu ir grāvuši ar savu kaitēšanu darbību SPRS proletariāta izvesto sociālisma celtniecību un Francijas un Anglijas imperiālistiem palīdzējuši gatavot bruņotu uzbrukumu visas pasaules proletariāta un apspiesto dzimtenei — Padomju Savienībai.
+Biedri! Vai šie fakti visā kailumā neparāda starptautiskās sociāldemokrātijas asiņaino nodevību? Nevis proletariāta starptautiskā solidaritāte, bet imperiālistisko karu atbalstīšana un koloniju tautu nacionāli revolucionārās kustības apspiešana. Nevis revolucionārā cīņa par proletariāta uzvaru un sociālisma celtniecību, bet — aktīva uzstāšanās kopā ar buržuāziju pret proletariāta revolucionāro cīņu, asiņaina izrēķināšanās ar revolucionāriem cīnītājiem, sociālisma celtniecības graušana un intervencijas gatavošana pret vienīgo pasaulē sociālisma zemi — tāda, lūk, patiesībā ir visu zemju s.-d. «reālā» politika.
+Tamdēļ sociālneliešiem nav un nevar būt nekas kopējs ar cīnošās strādniecības revolucionāro Maiju!
+Vēl vairāk. Socfašisti ne tikai nodod un min kājām Pirmā Maija lozungus, viņi tieši uzstājas pret Pirmā Maija revolucionāro svinēšanu: 1929. gada 1. Maijā Berlīnes policijprezidents s.-d. Cergibels ar policiju un bruņotu s.-d. kaujinieku palīdzību mēģināja izklīdināt Berlīnes strādniecības Pirmā Maija demonstrācijas, vairākas dienas Jaunķelnes priekšpilsētā apšaudīja strādnieku barikādes, aiz kurām tie veda cīņu par tiesībām svinēt Pirmo Maiju, vairākus strādniekus nošāva un ievainoja. Latvijas sociālpolicisti katrā Pirmā Maijā palīdz policijai un politpārvaldei arestēt strādniekus.
+Tādi ir sociālneliešu asiņainie 1. Maija un to lozungu nodevības darbi.
+Pirmā Maijā viņi aicina strādniekus savos gājienos, nevis lai demonstrētu strādnieku starptautisko solidaritāti un gatavotos cīņai pret pastāvošo ekspluatācijas un izsūkšanas iekārtu, bet gan lai ar buržuāzijai padevīgām un miermīlīgām demonstrācijām sasistu strādniecības cīņas sparu, lai neļautu izplūst laukā strādnieku sirdīs degošam nemieram un naidam pret pastāvošo iekārtu, kas vairo bezdarbu, trūkumu un badu. Ievelkot savos gājienos, viņi novirza strādnieku uzmanību no revolucionārās cīņas, saista tiem rokas un padara tos buržuāzijai un pastāvošai iekārtai nekaitīgus. Ar savu buržuāzijai padevīgo gājienu palīdzību viņi izlaiž vējā strādnieku revolucionāro enerģiju, atbruņo strādniecību, un, kad tas padarīts, kad strādniecība saģiftēta ar mierīgas «šķiru sadarbības» un buržujiskas «demokrātijas sargāšanas» ģifti, kad viss labākais un spēcīgākais, kas strādnieku šķirā ir, tiek nokauts, tad saistītā veidā viņi nodod strādniecību buržuāzijai galīgai sakaušanai.
+Strādnieki! Šķiras biedri! Neklausiet šos buržuju un fašistu aģentus un mūsu revolucionārās šķiru cīņas nodevējus! Neklausiet viņu kreisām frāzēm! Tās viņi lieto, lai strādniekus labāk saistītu pie sevis. Ar kreisām frāzēm par cīņu pret fašismu un buržuāziju viņi grib maskēt savus buržuāzijai un fašismam padevīgos šķiru cīņas nodevības darbus. Viss viņu spēks pastāv strādnieku maldināšanā ar kreisām frāzēm un savu Kaina darbu maskēšanā ar kādreiz revolucionārās Latvijas sociāldemokrātiskās strādnieku partijas čaumalu. Tagadējiem sociālneliešiem, izņemot veco nosaukumu, nav nekā kopēja ar 1905. gada revolucionāro sociāldemokrātiju un tās cīņām. Šīs cīņas par proletariāta uzvaru un sociālismu pašaizliedzīgi tālāk turpina vienīgi Latvijas Komunistiskā partija.
+Tamdēļ neviens godīgs un apzinīgs strādnieku šķiras loceklis 1. Maijā nedrīkst piedalīties sociālfašistu rīkotos strādnieku šķiras nodevības gājienos. Ejot šādos gājienos, strādnieki paši kaļ savas ķēdes. Katrs solis sociālfašistu gājienā stiprina saimnieciskās un politiskās reakcijas ķēdi! To nedrīkst aizmirst neviens strādnieks.
+Vienīgi zem Komunistiskās partijas vadības 1. Maijā strādnieki patiesi demonstrēs proletariāta starptautisko solidaritāti, mobilizēs savus spēkus un gatavosies izšķirošai cīņai
+pret bezdarbu,
+pret algu nosišanu,
+pret fašismu,
+pret karu,
+pret kapitālistisko-ekspluatatorisko iekārtu,
+par Padomju Latviju!
+
+LKP Centrālā Komiteja

@@ -1,0 +1,34 @@
+id: 195
+file_name: lclc-2-n195-LKP_Vidiena_regional_committee-1500-1931-04.txt
+title: LKP Vidienas apgabala komitejas 1. Maija lapiņa ar laukstrādnieku ekonomiskajām prasībām un aicinājumu strādniekiem 1. Maiju atzīmēt, izejot demonstrācijās
+author: LKP Vidienas apgabala komiteja
+date: 1931-04
+print_run: 1500
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 371–372.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA (KOMINTERNES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+1. MAIJS — STRĀDNIEKU SVĒTKI!
+Biedri strādnieki! Visā pasaulē, visās valstīs strādniecība un trūcīga zemniecība svētīs Pirmo Maiju. 1. Maijā nestrādājiet — tie ir jūsu, vispasaules proletāriešu svētki. Neejiet pie darba, — lai draud darba devēji ar atlaišanu no darba — nepadodieties viņu gribai! Šie svētki ir no strādniecības iekaroti iepriekšējās cīņās, kurās daudzi jūsu labākie biedri tika arestēti, daudzi no viņiem tiek mocīti un spīdzināti buržuāzijas modernajos moku kambaros, daudzi no viņiem tiek badā mērdēti šausmīgajos cietuma mūros.
+Biedri strādnieki! Jūs nevarat un nedrīkstat ne soli atkāpties no iekarotām pozīcijām, kuras izcīnīja jūsu biedri iepriekšējas cīņās. Jūsu uzdevums ir iet tālāk un pierādīt tiem biedriem, kuri smok reakcijas cietumos, ka jūs neatlaidīgi turpināsiet viņu iesākto lielo darbu — līdz galīgai uzvarai! Pirmā Maijā sarīkojiet skrejošus mītiņus, masovkas, demonstrācijas — pārbaudiet savas rindas un gatavojieties jaunām priekšā stāvošām cīņām! Visi ka viens uzstādiet savas prasības — vienīgi kopējiem spēkiem piespiedīsiet darba devējus izpildīt jūsu prasības!
+Mēs prasām:
+Darba algas palielināšanu laukstrādniekiem:
+1. Gada puišiem	Ls	750,	gada meitām	Ls	750!
+2. Pusgada  „	„	450,	pusgada  „	„	450!
+3. Mēnesī   „	„	75,	mēnesī   „	„	75!
+4. Pusdienas atpūtai 3 stundas pārtraukuma!
+5. Katru dienu pārmaiņus gaļas un piena ēdienus!
+Lāsts strādniecības nodevējiem, slepkavām, — politpārvaldes aģentiem! Lai plivinās sarkanie karogi virs Latvijas pilsētām un ciemiem — kā simbols, kurš liecina par strādniecības gatavību priekšā stāvošai cīņai!
+Nost buržujisko Latvijas iekārtu!
+Rokas nost no Padomju Krievijas!
+Lai dzīvo Sarkanā Armija, tā ir mūsu armija!
+Lai dzīvo Latvijas Komunistiskā partija!
+Lai dzīvo sarkanā Padomju Latvija!
+
+LKP Vidienas apg. kom.

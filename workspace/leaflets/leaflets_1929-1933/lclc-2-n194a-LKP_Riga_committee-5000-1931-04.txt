@@ -1,0 +1,40 @@
+id: 194a
+file_name: lclc-2-n194a-LKP_Riga_committee-5000-1931-04.txt
+title: LKP Rīgas komitejas uzsaukums Rīgas strādniekiem 1. Maijā iziet demonstrācijā ar savām prasībām
+author: LKP Rīgas komiteja
+date: 1931-04
+print_run: 5000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 369–371.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+UZ IELĀM! PAR DARBU UN MAIZI! PRET FAŠISMU! PAR PADOMJU LATVIJU!
+Rīgas strādnieki! Visā pasaulē 1. Maijā strādnieki izies uz pilsētu ielām, lai demonstrētu savas cīņas gatavību pret bezdarbu, pret badu, pret fašismu, pret karu, par Vispasaules Padomju Savienību!
+Biedri! Arī mūs nospiež bezdarba posts. Arī mūsu kapitālisti no atsevišķiem uzbrukumiem darba algai taisās jau tuvākā laikā pāriet ģenerāluzbrukumā uz visas līnijas. Jaunā Ulmaņa fašistiskā valdība jau paziņojusi, ka viņa gatavo jaunu uzbrukumu slimokasēm. Arī pie mums fašistiskais negantais terors trako arvien stiprāk un draud pārvērsties pilnīgā neaprobežotā fašistu diktatūrā. Arī mūsu valdība kopā ar citu zemju kapitālistiskām valdībām taisās uz karu pret Padomju Savienību. Arī mūsu vienīgā izeja no pašreizējā posta, trūkuma un bada, vienīgais līdzeklis posta tālākai vairošanās novēršanai ir — kapitālistiskās iekārtas sagraušana un padomju iekārtas nodibināšana, lai kopā ar krievu strādniekiem, nezinot vairs par krīzēm un bezdarbu, celtu jaunu, brīvu, labāku dzīvi — celtu sociālismu. Arī mēs nedrīkstam 1. Maija dienā palikt mājās.
+Katras sekmīgas revolucionārās uzstāšanās stiprina strādnieku revolucionāros spēkus, tuvina strādnieku galīgu uzvaru pār nolādēto kapitālistisko bezdarba iekārtu.
+1. Maija spēcīga demonstrācija parādīs buržujiem, ka strādnieki neļaus sevi cirpt kā jērus, ka strādnieki piespiedīs kapitālistus ievērot bezdarbnieku prasības, atsitīs uzbrukumu darba algām, trieks fašistu varmākas, sacelsies Padomju Savienības aizstāvēšanai, ja Latvija uzstāsies karā pret to.
+Jo lielākā skaitā strādnieki ieradīsies demonstrācijas vietā, jo stiprāks būs strādnieku spēks, jo vieglāk būs atsist kapitālistu pipku suņu uzbrukumus, jo spēcīgāka būs strādnieku demonstrācija.
+Tamdēļ neviens strādnieks nedrīkst 1. Maija dienā slēpties mājās. Strādnieku nedrīkst atbaidīt kapitālistu sargu pipkas un šautenes. Mēs visi kopā esam daudz stiprāki par kapitālistiem un viņu kalpiem. Mēs pārvarēsim fašistu teroru.
+Ne zem gultām slēpjoties, iekaroja varu Krievijas strādnieki. Ne ar bailību strādnieki iekaros pasauli. Ar drošumu, bezbailību un spēcīgu pretsparu fašistu pipkām tiks satriekta kapitālistu varmācība, un strādnieki demonstrēs pa Rīgas ielām. Zem drošsirdīgiem sacēlušās tautas sitieniem pēdējās dienās jau krita Spānijas varmāku valdība. Spānijas strādnieki novedīs cīņu līdz galam pret saviem kerenskiem un miļukoviem, tāpat kā to izdarīja Krievijas strādnieki 1917. gadā.
+Kreisās strādniecības vēlētāj! Parādi, ka tu esi gatavs ne tikai iemest listi urnā, bet arī uzstāties atklāti par savām taisnīgām prasībām, par labāku dzīvi!
+Bezdarbniek! Lai izbeigtu bezdarbu, vajag cīnīties! Uzstādamies 1. Maija demonstrācijā zem Komunistiskās partijas vadības, tu cīnīsies par visu strādnieku apdrošināšanu pret bezdarbu pilnas vidējās algas apmērā, tu palīdzēsi tuvināt strādnieku galīgo uzvaru, kas padarīs bezdarbam galu uz visiem laikiem!
+Darba sieviete, strādājošā un bezdarbniece! Parādi, ka tu esi derīga ne tikai priekš izsūkšanas. Pirmās rindās, blakus vīrietim, ņem dalību 1. Maija demonstrācijā.
+Sociāldemokrātu strādniek! Ņemot dalību savu fašistisko līderu rīkotā gājienā, tu atbalsti viņu nodevīgo darbu, tu kavē strādniecības cīņu pret fašismu un karu, tu atbalsti kapitālistisko bada iekārtu. Ne gājienā aiz buržuāzijai pārdevušamies līderiem tev jāiet, bet revolucionārās strādniecības kaujas rindās ir tava vieta 1. Maija dienā. Kopā ar revolucionāriem strādniekiem palīdzi stiprināt revolucionāro strādnieku spēkus, uzstājies zem Komunistiskās partijas vadības pret fašismu un kapitālismu, pret saviem fašistiskiem veckalniem un riebīgiem, liekulīgiem menderiem, par Padomju Latviju.
+Rīgas strādnieki! Zem Komunistiskās partijas vadības uzstājieties un demonstrējiet
+par visu strādnieku apdrošināšanu pret bezdarbu pilnas vidējās algas apmērā!
+Pret algu nosišanu!
+Par 7 stundu darba dienu pie tām pašām algām!
+Pret jauno uzbrukumu slimokasēm!
+Par revolucionāro arodbiedrību un strādnieku-zemnieku saeimas frakcijas aizstāvēšanu!
+Pret Ulmaņa un Mendera fašismu!
+Pret karu ar Padomju Krieviju!
+Par Padomju Latviju!
+
+Rīgas komiteja

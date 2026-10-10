@@ -1,0 +1,32 @@
+id: 191
+file_name: lclc-2-n191-LKJS_Juglas_manufaktura_textile_factory_cell-unk-1931-03.txt
+title: Tekstilfabrikas «Juglas manufaktūra» LKJS šūnas uzsaukums strādniekiem turpināt līdz uzvarai uzsākto streiku pret atlaišanu no darba un darba algas ieturēšanu
+author: Tekstilfabrikas «Juglas manufaktūra» LKJS šūna
+date: 1931-03
+print_run: unk
+typography_name: Spartaks
+production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 362–363.
+
+text:
+LATVIJAS KOMUNISTISKĀ JAUNATNES SAVIENĪBA
+(KOMUNISTISKĀS JAUNATNES INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+TURPINĀSIM STREIKU
+PAR DARBU UN MAIZI,
+PAR ALGU IZMAKSU,
+LĪDZ UZVARAI!
+Biedri «Juglas manufaktūras» strādnieki! Mēs esam pareizi rīkojušies, sākdami streiku. Tagad mūsu uzdevums streiku turpināt, neļaut uzņēmējam pabeigt darbus, kamēr neizpilda mūsu prasības!
+Biedri! Šo mūsu cīņu dēļ maizes kumosa gribēja salauzt policistu un špiku bandas ar pipku palīdzību, nežēlīgi mūs piekaujot un izklīdinot. Veckalns sociāldemokrātu uzdevumā gribēja nodot mūsu cīņu tāpat, kā viņi nodevuši visas pārējās strādnieku cīņas.
+Biedri! Mēs esam pareizi rīkojušies, neklausīdami banku direktoru, vasarnīcu īpašnieku nodevīgiem priekšlikumiem. Mēs nepārvēlējām delegāciju, mēs neizbeidzām streiku. Mēs pareizi novērtējām sociāldemokrātu nodevību un viņu vienoto fronti ar policiju, špikiem un uzņēmējiem pret mums, strādniekiem.
+Biedri! Mums nav nekā vairs ko zaudēt. Mēs esam bez maizes izmesti uz ielas badam un aukstumam. Tāpēc turpināsim savu cīņu, prasot: neatlaist no darba, izmaksāt visu algu, nodrošināt strādniekus ar darbu un maizi.
+Iestāsimies visi savā arodbiedrībā. Sasauksim mūsu uzņēmuma strādnieku sapulci un vedīsim cīņu komunistu vadībā līdz galīgai uzvarai pret reakciju, par strādnieku diktatūru.
+Uz cīņu par darbu un maizi!
+Nost algotās verdzības jūgu!
+Nost fašistus un sociālfašistus!
+Lai dzīvo cīņa par strādnieku un zemnieku valdību komunistu vadībā!
+
+LKJS Jūgtas manufaktūras šūniņa

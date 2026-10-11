@@ -1,0 +1,23 @@
+id: 198
+file_name: lclc-2-n198-LKJS_Riga_committee-unk-1931-04.txt
+title: LKJS Rīgas komitejas uzsaukums pilsētas komercskolas skolēniem pulcēties ap Komunistisko jaunatnes savienību un dibināt skolā revolucionārās cīņas komitejas
+author: LKJS Rīgas komiteja
+date: 1931-04
+print_run: unk
+typography_name: Spartaks
+production_method: shapirograph
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 376–380.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI KOMERCSKOLNIEKI, DARBA JAUNATNE!
+Latvijas saimnieciskais stāvoklis top ik dienas jaunāks. Konkurence pasaules tirgū saasinās. Aizvien augstāk ceļas aizsargmuitu žogi. Milzīgie starptautiskie sindikāti un tresti ar modernākās tehnikas pielietošanu ražošanā izkonkurē mazos un vidējos uzņēmumus un iznīcina atsevišķu valstu nacionālās rūpniecības. Fabriku slēgšana, bankroti, darbu samazināšana, algu nosišana, milzīgs skaits badā mirstošu bezdarbnieku, no vienas puses, un ārkārtīga preču pārprodukcija un patērētāju trūkums, no otras Puses, — tādas, lūk, mūsdienu ekonomiskās neatrisināmās pretrunas. Pilsoniskie tautsaimnieki te velti lauza galvas — izejas neredz. Pie mums saimniecisko krīzi vēl pastiprina Latvijas atrautība no savas ekonomiski vēsturiskās aizmugures — Krievijas un rūpniecības dabisko pamatu trūkums pašu zemē. Tādējādi saimnieciskā krīze ierauj bezdibenā aizvien plašākus darba tautas slāņus.
+Biedri komercnieki! Mēs nedrīkstam palikt vienaldzīgi pret šo drausmīgo īstenību! Mums, kas skolā mācāmies [par] saimnieciskās dzīves vadītājiem un veidotājiem, ir jāpazīst saimnieciskā sabrukuma cēloņi. Mums jācīnās, [lai] viņus novērstu. Jo šī pati krīze vissmagāk skar tieši mūs, strādājošos un darbu meklējošos skolu jauniešus. Cik daudz starp mums nav tādu, kas nespēj samaksāt skolas naudas, iegādāt mācības līdzekļus, kārtīgi apmeklēt stundas, nemaz nerunājot par pietiekošu uzturu, apģērbu, dzīvokli utt. Valsts un pašvaldības par trūcīgo skolu jaunatni nerūpējas, bet savās iestādēs sasēdina direktoru krustdēlus un krustmeitas, bieži vien bez vajadzīgās izglītības. Kad Rīgas domē arodnieku frakcija nāca ar priekšlikumu — pilnīgi atlaist skolas maksas pilsētas komercskolas trūcīgiem skolēniem, tad tam pretī nostājās ne vien visa pilsonība, bet arī pašceptie «strādnieku aizstāvji» — sociāldemokrāti. Visā likumdošanas darbā mantīga pilsonība ar s.-d. atbalstu cenšas saimnieciskās krīzes grūtības pārvelt uz darbaļaužu pleciem.
+Biedri komercnieki! Negaidīsim vairs ilgāk uz dieva un rātskungu žēlastību! Organizēsimies! Uzstādīsim savas prasības kategoriski valstij, pašvaldībām, skolas pārvaldei, runāsim par savām vajadzībām skolas pulciņā! Prasīsim atsvabināt trūcīgos skolēnus no visām mācību maksām, izsniedzot par brīvu visus mācības līdzekļus, kā arī līdzekļus uzturam, drēbēm utt. Visos valsts un pilsētas uzņēmumos un iestādēs priekšroku dot darbu meklējošai skolu jaunatnei. Atcelt pilnīgi lieko, skolēnus verdzinošo eksāmenu un numuru sistēmu. Skolā jāpastāv pilnīgai audzēkņu pašvaldībai — skolēnu padomei.
+Biedri komercnieki! Būtu bērnišķīgi gaidīt, ka savas prasības sasniegsim, šai saimnieciskā haosa un netaisnības iekārtai — kapitālismam pastāvot. Drošu ceļu uz labāku dzīvi pavērsim, vienīgi iznīcinot visa ļaunuma sakni — kapitālistisko iekārtu un tās vietā stādot zinātniski vadītu sociālistisku ražošanu. Tādu ceļu gāja 1917. g. revolūcijā bijušās cariskās Krievijas skolu jaunatne. Un tagad sociālistiskā Padomju Savienībā dzīvo un ar sajūsmu strādā brīva, materiāli nodrošināta un visur līdztiesīga skolu jaunatne. Tādēļ — nost kapitālistiskos ierāvējus un liekēžus! Nost spekulantu un pelēko baronu valdību! Par labāku dzīvi darbaļaudīm un skolu jaunatnei cīnās visā pasaulē revolucionārā kreisā strādniecība Komunistiskās partijas vadībā.
+Biedri komercnieki! Stāsimies arī mēs šais cīnītāju rindās! Dibināsim savā skolā revolucionārās cīņas komitejas! Pulcēsimies ap Komunistiskās jaunatnes savienības karogu! Bez cīņas nav uzvaras!
+
+LKJS Rīgas komiteja

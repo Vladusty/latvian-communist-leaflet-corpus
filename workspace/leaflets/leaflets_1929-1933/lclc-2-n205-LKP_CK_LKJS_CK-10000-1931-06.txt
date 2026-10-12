@@ -1,0 +1,49 @@
+id: 205
+file_name: lclc-2-n205-LKP_CK_LKJS_CK-10000-1931-06.txt
+title: LKP un LKJS CK uzsaukums strādniekiem cīnīties par sava stāvokļa uzlabošanu un bezdarbnieku apdrošināšanu uz uzņēmēju un valsts rēķina
+author: LKP CK un LKJS CK
+date: 1931-06
+print_run: 10000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 396–398.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+REVOLUCIONĀRĀ CĪŅA — VIENĪGĀ IZEJA NO BEZDARBA, TRŪKUMĀ UN BADA!
+Biedri bezdarbnieki, Latvijas strādnieki un kalpotāji! Arvien neatlaidīgāk un stiprāk bada spoks klauvē pie darbaļaužu durvīm. Daudz strādnieku ģimenes jau nonākušas galīgā badā. Bads, neaprakstāmas ciešanas sauc pretim no strādnieku dzīvokļiem un kvartāliem.
+Pilsētās un uz laukiem klīst tūkstošiem bada cilvēku, kas meklē, lūdzas darbu. No fabrikas uz fabriku, no darba apgādēm un iebraucamām vietām, avīžu kantoriem mēro tekas Latvijas darba rūķi, piedāvājot savas sastrādātās rokas ikvienam, kas dod cerības apgādāt kaut kādu darbu un glābt no bada nāves. Bet arvien mazāk un mazāk rodas tādu fabrikantu, uzņēmēju, kuriem vajadzīgs darbaspēks. Ekonomiskas krīzes spiesta, rūpniecība arvien lielākos apmēros sašaurina savus darbus un izsviež uz ielas bada varā arvien jaunus simtus strādnieku. Neskatoties uz vasaras sezonas darbiem, Rīgā vien reģistrēti pašreiz pāri par 2000 bezdarbnieku. Bet cik nereģistrētu tanī pašā Rīgā, Ventspilī, Liepājā un citur? Tūkstošiem.. Izredzes uz apstākļu uzlabošanos nav; otrādi, viss rāda, ka bezdarbs ar katru dienu pieaugs. Ķīmiskā un tekstilrūpniecība atrodas jaunas darba sašaurināšanas priekšvakarā. Neviens no šodien vēl strādājošiem strādniekiem un strādniecēm nav drošs, ka vēl rīt, parīt tas mēros ceļu uz fabriku kā strādnieks. Jau rīt tas var atrasties to rindās, kurus moca bads, kurus buržuāzija sauc par «negodīgiem sliņķiem», par kuriem tā runā kā par sabiedrības atkritumu.
+Biedri bezdarbnieki! Par jūsu nelaimi, par jūsu ciešanām, kuras bieži vien vienu otru no jums noved pie izmisuma soļiem — izrēķināšanos ar dzīvību — par visu to bagātnieki vienīgi ņirgājas. Darba tautas ciešanas nav viņu ciešanas, pavisam otrādi — tas ir viņu bagātību avots. Lielo darba roku piedāvājumu fabrikanti izmanto, lai nosistu strādājošiem darba algu un pagarināta darba dienu. Uz darba tautas ciešanu rēķina tie ierauj sev kabatās miljonus.
+Biedri! Pilsonība, kura neierobežoti valda pār Latvijas darba tautu, viņas valdība, ko viņas darījušas, lai atvieglotu jūsu stāvokli? Nenieka. No darba tautas nodokļiem un citā ceļā izspiestās milzu summas tiek izsviestas bruņošanai, policijas, fašistu-aizsargu, cietumu uzturēšanai, flotes un dažādām citām jubilejām, lauku pelēču apdāvināšanai dažādu piemaksu veidā. Armijas, policijas un cietumu uzturēšanu valdība stāda pirmā vietā, jo tie domāti priekš darba tautas augošā nemiera apspiešanas, priekš tam, lai salauztu jūsu pretošanos badā mērdēšanas politikai. Ar katru dienu tiek negantāki vajātas strādnieku revolucionārās organizācijas. Daudzi simti mūsu labākie biedri par strādnieku lietu smok «tautiskos» cietumu mūros. Bet valdība gatavo vēl negantāku izrēķināšanos ar revolucionāro strādnieku kustību. Ulmaņa valdība pilnās burās stūrē uz fašistiskās diktatūras pusi.
+Armijas, jūras un gaisa flotu stiprināšanai līdzekļus valdība nežēlo, jo viss tas ir vajadzīgs arī priekš gatavojamā uzbrukuma Sociālistisko Padomju Republiku Savienībai, kur uzvarējušais strādnieks un darba zemnieks smagā, bet neatlaidīgā, sajūsmas pilnā darbā ceļ jaunu dzīvi, kur attīstās saimniecība, kur bezdarba spoks vairs nebaida darba tautu. Bet savu bezdarbnieku apgādāšanai Latvijas valdībai «trūkstot» līdzekļu. Tāda, lūk, biedri, ir tā saucamā «tautas valdība».
+Biedri strādājošie strādnieki! Jūsu dzīve arvien vairāk sāk līdzināties bezdarbnieku dzīvei. Bieži vien jūs esat pusstrādnieki-pusbezdarbnieki, strādājot 3—4 dienas nedēļā. Jūsu darba algas nosišana bieži vien gājusi tik tālu, ka neesat vairs spējīgi uzturēt sevi un savas ģimenes. Nopelnīto algu lielos apmēros jums ietura. Tas tagad. Bet kas tālāk? Algas tālāka krišanās, jaunas nodokļu nastas, pārtikas vielu sadārdzināšanās, ārstēšanas pasliktināšanās — tas labākā gadījumā; sliktākā — bezdarbs, trūkums, bads. Tāpēc bezdarbnieku cīņai par sava stāvokļa uzlabošanu ir jābūt arī jūsu cīņai.
+Kur strādnieku ciešanu iemesls?
+Pastāvošā sabiedriskā iekārta, kur ražošanu nosaka nevis plašo masu intereses, bet saujiņas bagātnieku peļņas intereses. Paskatieties veikalos, noliktavās — viņi lūst no pārpilnības. Amerikā sadedzināts desmitiem maisu labākās kafijas, ar kviešiem kurina krāsnis, bet strādnieki mirst badā. Kapitālisti saka, ka esot saražots pārāk daudz. Nav tiesa! Jums, jūsu ģimenēm vajadzīga maize, gaļa, sviests, drēbes, apavi, — bet tikai jūsu bada algas, bada dzīve, kādā esat nostādīti, neļauj jums iegūt to, ko esat saražojuši savām rokām, uz ko jums ir tiesības.
+Kur izeja no bezdarba, bada?
+Šo izeju rāda jums Komunistiskā partija. Šī izeja ir visas strādniecības — i strādājošo, i bezdarbnieku vienotā revolucionārā cīņā par darbu un maizi, pret to iekārtu, kas liedz to. Ne ar lūgšanām un līšanu valdības priekšā, kādu garu strādniekos un bezdarbniekos cenšas iepotēt sociālfašisti, bet ar organizētu uzstāšanos piespiedīsim valdību izpildīt mūsu prasības, uzlabosim savu dzīvi.
+Biedri! Laiks ir izbeigt gaidīšanas politiku; laiks ir beigt ticēt sociālfašistiskiem švindeļiem, kuri loka muguras savu pavēlnieku — buržuju priekšā, kuri ar vienu roku, padevīgi smaidot un dziļā pārliecībā, ka viņu prasības buržuāzija noraidīs, iesniedz «bezdarbnieku prasības» saeimā un domēs, bet ar otru roku palīdz policijai valdīt tos, kas patiesi cīnās par bezdarbnieku stāvokļa uzlabošanu. Viņu dažādās «prasības» un likumprojekti ir domāti vienīgi strādnieku, bezdarbnieku mānīšanai un balsu zvejošanai nākošās saeimas vēlēšanās. Strādnieki, bezdarbnieki nedrīkst ticēt tiem, kas paši ar savu stāvokli — lielām algām, vasarnīcām, muižu centriem ir ieinteresēti bada politikas turpināšanā, kas viņiem padotos strādniekus un kalpotājus izsūc ne sliktāk kā buržuji.
+Biedri bezdarbnieki, strādnieki, kalpotāji, darba jaunatne! Zem Latvijas Komunistiskās partijas karogiem cīņā par visu bezdarbnieku un viņu ģimeņu locekļu pilnīgu apdrošināšanu uz uzņēmēju un valsts rēķina!
+Par pabalstu visiem bezdarbniekiem vidējas algas apmēros! Par 7 stundu darba dienu!
+Ne santīma bruņošanai, policijas, aizsargu un cietumu uzturēšanai!
+Ne santīma baznīcas un pātarnieku uzturēšanai!
+Ne santīma bagāto lauku saimnieku atbalstīšanai!
+Pret kapitālistisko racionalizāciju un darba intensifikāciju!
+Pret bezdarbnieku izmantošanu caur darba biržām algu nosišanai!
+Pret sieviešu un jauniešu izmantošanu smagos darbos!
+Pret revolucionāro strādnieku organizāciju graušanu!
+Pret revolucionāro bezdarbnieku vajāšanu!
+Par vienreizēja pabalsta izsniegšanu mēnešalgas apmēros armijā iesaucamiem jauniešiem bezdarbniekiem!
+Par armijā dienošo darba jauniešu bezdarbā atrodošos piederīgo apgādāšanu uz valsts rēķina!
+Organizējiet sarkanās bezdarbnieku komitejas!
+Nost buržujisko Latviju!
+Nost bezdarbnieku interešu nodevējus sociālfašistus!
+Lai dzīvo cīņa par strādnieku un zemnieku valdību!
+Lai dzīvo Padomju Latvija!
+Lai dzīvo Komunistiskā partija un Komunistiskā jaunatnes savienība!
+
+LKP un Kom. Jaun. Sav. Centrālās Komitejas

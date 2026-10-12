@@ -1,0 +1,36 @@
+id: 203
+file_name: lclc-2-n203-LKP_Vidiena_regional_committee-1500-[…1931-06-21].txt
+title: LKP Vidienas apgabala komitejas uzsaukums trūcīgajiem zemniekiem iestāties Komunistiskajā partijā un kopā ar strādniecību cīnīties par padomju varu Latvijā
+author: LKP Vidienas apgabala komiteja
+date: […1931-06-21]
+print_run: 1500
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 392–393.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA (KOMINTERNES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+TRŪCĪGĀ ZEMNIECĪBA!
+Saimnieciskā krīze visās valstīs padziļinās, izņemot Padomju Krieviju: tur nav krīzes, arī bezdarba nav, tur nav tādu kaklakungu — liekēžu kā pie mums «brīvā» Latvijā; tos strādniecība kopā ar trūcīgo zemniecību 17. g. Oktobra revolūcijas laikā padzina, ņēma varu savās rokās, nodibināja strādnieku-zemnieku valdību, veido jaunu sabiedrību un cīnās saimnieciskā frontē par strādniecības un trūcīgās zemniecības labāku nākotni — sociālismu! Bet pie mums tas ir otrādi. Mantīgā šķira ir pie varas — tā ir visa noteicēja, viņa tagadējo Latviju dēvē par «brīvo» Latviju. Priekš nemantīgās šķiras nav brīvības — šī ir reakcionārā Latvija!
+Lai atvieglotu uz laiku no saimnieciskām grūtībām turīgās saimniecības, Ulmaņa valdība dažādu likumu ceļā krīzes smaguma punktu uzveļ strādniecībai un trūcīgai zemniecībai: apliekot tiešiem un netiešiem nodokļiem, galvasnaudām, klaušām, paaugstinot muitas un, beidzot, pat sadārdzinot maizes cenas! Bet budžiem izsniedz pabalstus un piemaksā lauksaimnieku ražojumiem. Valsts budžets sastādās 65% no tiešiem un netiešiem nodokļiem, kurus lielāko tiesu maksā mazturīgie. Lauku budži, kuru rokās atrodas gan divas trešdaļas no visas tautas bagātības uz laukiem, maksā tikai vienu sesto daļu no visiem nodokļiem, turīgie maksā apm. 10 milj. latu, bet trūcīgiem jāmaksā vairāk kā 50 milj. latu gadā. Bagātniekiem valdība parādus dzēš, piem.: «Union» bankai, «Latam» u. c. dzēsto parādu kopsumma — 2,5 milj. latu, tiem arī nodokļus nepiedzen, bet ik gadu pagarina termiņu, bet trūcīgam zemniekam beidzamās skrandas izūtrupē!
+Biedri zemnieki! Kamēr pastāvēs kapitālistiska iekārta Latvijā, trūcīgās zemniecības stāvoklis netiks uzlabots, bet gan pasliktināsies, jo saimniecisko krīzi buržuāzija nav spējīga izdzīvot! Ar katru dienu tā vēl vairāk padziļinās, — neizbēgams posts un bads! Vienīgā izeja no pašreizējā stāvokļa ir cīņa pēc varas, par strādnieku-zemnieku valdības nodibināšanu Latvijā! Vienīgi Sarkanās Latvijas Padomju valdība būs spējīga izdzīvot visas saimnieciskās grūtības un atsvabinās strādniecību un trūcīgo zemniecību no tagadējā buržuāzijas jūga! Trūcīgā zemniecība, iestājieties Latvijas Komunistiskās partijas rindās! Vienīgi kopējiem spēkiem, kopā ar strādniecību mēs salauzīsim tagadējo reakcionāro varu!
+Uzstādiet savas prasības:
+1. Atsvabināt no klaušām un galvasnaudām!
+2. Trūcīgās zemniecības atsvabināšanu no nodokļiem!
+3. Muitu atcelt uz ievedprecēm plašo masu patēriņam!
+4. Ulmaņa triju likumprojektu atcelšanu!
+5. Pabalstus izsniegt pavasara plūdos cietušiem!
+6. Pabalstus izsniegt trūcīgai zemniecībai!
+7. Aizsargu organizāciju likvidēšanu!
+Lai neaizmirst Zemnieku savienības vīri, ka strādniecība un trūcīgā zemniecība ir spēks, kura priekšā viņi drebēs kā apšu lapas ar visām slotām un rungām, ar kurām viņi draudēja savā 21. jūnija demonstrācijā! Tā diena nav vairs tālu — un viņiem būs jāatskaitās strādniecības priekšā!
+Nost reakcionāro Latvijas valdību!
+Rokas nost no Padomju Krievijas!
+Lai dzīvo Sarkanā Armija, tā ir mūsu armija!
+Lai dzīvo Latvijas Komunistiskā partija!
+Lai dzīvo Sarkanā Padomju Latvija!
+
+LKP Vidienas apg. kom.

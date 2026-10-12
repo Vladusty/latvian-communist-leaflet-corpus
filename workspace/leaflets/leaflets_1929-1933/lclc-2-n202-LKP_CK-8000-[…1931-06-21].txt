@@ -1,0 +1,42 @@
+id: 202
+file_name: lclc-2-n202-LKP_CK-8000-[…1931-06-21].txt
+title: LKP CK uzsaukums darbaļaudīm nepiedalīties buržuāzisko partiju rīkotajos «kritušo varoņu piemiņas svētkos», bet gatavoties pret-fašisma un pretkara demonstrācijai
+author: LKP CK
+date: […1931-06-21]
+print_run: 8000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 389–391.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA (KOMINTERNES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+STRĀDNIEKI, DARBA ZEMNIEKI, PILSĒTU SĪKRAŽOTĀJI UN ATVAĻINĀTIE KARAVĪRI!
+Vispārējai krīzei padziļinoties, arvien vairāk pieaug darba tautas posts un trūkums. Uzņēmēju lielās peļņas, cenām krītot, tiek garantētas, ekspluatāciju un apspiešanu pastiprinot. Kapitālistiskās saimniecības sabrukuma smagās sekas tiek uzveltas vienīgi darba tautai. Buržuāzijas ienākumus kapitālu uzkrāšanas nolūkos arvien vairāk atsvabina no nodokļiem, bet tiešo un netiešo nodokļu nastas trūcīgiem slāņiem pastāvīgi palielina. Mantīgo pārstāvji pagastu un apriņķu pašvaldībās, centrālās varas atbalstīti, visur izved apspiesto izsūkšanas politiku. Darba zemnieku saimniecības valdošās šķiras politikas rezultātā galīgi noplicinātās. Plūdu, krusas, neražas un citu dabas stihiju posts skar šīs saimniecības vissāpīgāk. Nekas netiek darīts, lai šo postu novērstu un viņa sekas mīkstinātu. Pabalsti plūdos cietušiem nonāk vienīgi bagātnieku rokās. Trūcīgiem tiek atmestas tikai druskas, kam priekš posta mīkstināšanas nav nekādas nozīmes. Pludos cietušie rokpeļņi un bez darba palikušie laukstrādnieki pamesti pilnīgi likteņa varā. Milzīgās valsts piemaksu summas saņem galvenām kārtām lielgruntnieki. Trūcīgie zemnieki nespēj ražot sviestu un bekonu eksportam. Tiem pat jāpērk bagātnieku lielās peļņas nodrošināšanai sadārdzinātā labība uzturam. Sēklas fondam piešķirtās summas izmanto spekulācijas nolūkos dažādās lielgruntnieku organizācijas. Pagastu klaušas jāpilda galvenām kārtām trūcīgiem. Strādnieku algas sistemātiski tiek nosistas, darba laiks pagarināts un darbs intensificēts. Bezdarbs pastāvīgi pieaug. Niecīgo pabalstu bezdarbniekiem samazina, slimo strādnieku un viņu ģimenes locekļu ārstēšanu pasliktina — gatavo pilnīgu sociālās apdrošināšanas likvidēšanu. Darba tautas pretestības salaušanai nemitīgi pastiprina fašistisko teroru.
+Viss tas nespēj apmierināt buržuāzijas pieaugošo apetīti. Krīzes padziļināšanās turpina apdraudēt parazītu lielās peļņas. Pēckara kontrrevolūcijas apstākļos izaugusī buržuāzija drudžaini steidzas izmantot brūkošā kapitālisma varu. Neatlaidīgi tiek gatavots jauns uzbrukums darba tautas dzīves līmenim. Algas nosišana, darba intensificēšana un strādājošo skaita samazināšana plašos apmēros atkal iesāktas tekstilrūpniecībā un citās ražošanas nozarēs. Pretēji laukstrādnieku algas sistemātiskai nosišanai, sākot jau no 1928. g., lielgruntnieki kliedz par pārāk augstām algām. Neģēlīgiem paņēmieniem izmanto no ārzemēm ievilinātos trūkumu cietošos bezdarbniekus. Projektē jaunus muitas paaugstinājumus uz plašu masu patēriņa nepieciešamiem lauksaimniecības un rūpniecības ražojumiem. Nepaliek iepakaļ arī starpnieku lomu izpildošie spekulanti. Maizes cenas atkal paaugstinātas! Citu pārtikas produktu paaugstināšana sekos neizbēgami. Valsts piemaksas slimokasēm jaunajā budžetā nemaz nav paredzētas, bezdarba pabalsta summas samazinātas. Bruņošanai, lielsaimnieku, spekulantu, rūpnieku un fašistisko organizāciju pabalstam vajadzīgo līdzekļu iegūšanai nodokļus trūcīgiem slāņiem atkal palielina. Parādu piedzīšanu un maksāt nespējīgo izūtrupēšanu pastiprina.
+Nospraustās izsūkšanas programas nodrošināšanai buržuāzijas vadošais spārns mobilizē fašisma spēkus atklātam uzbrukumam. Zemnieku savienība kopā ar Nacionālo apvienību gatavo pēc Somijas parauga 21. jūnijā fašistu gājienu uz Rīgu.
+Naidīgai demonstrācijai pret SPRS zem flotes jubilejas maskas sekos fašistu spēku demonstrācija zem zemnieku sanāksmes maskas. Izmantojot latviešu tautas svētku tradīcijas, līdzīgi Māras baznīcas kampaņai, fašisti mēģina novērst darba tautas uzmanību no viņai gatavotā uzbrukuma. Plītējot uz darba tautas rēķina sarīkotās dzīrēs, izsūcēji gatavos svētkus un gudros jaunus plānus intervencijas veicināšanai un nesaudzīgākai apspiešanai.
+Strādnieki un darba zemnieki!
+Neļaujiet sevi apmānīt un iemidzināt!
+Svētku maskā rīkotais gājiens ir visu fašistisko spēku pārbaude un apstākļu gatavošana atklātam fašisma režīmam!
+Pilsētu sīkražotaji un citi trūcīgie ļaudis!
+Neticiet fašistu demagoģijai par visu nāciju interešu kopību un šķiru sadarbību!
+Neļaujiet sevi ievilināt fašisma tīklos ar skaļām frāzēm par jūsu interešu aizstāvēšanu!
+Atvaļinātie karavīri un vecie latviešu strēlnieki!
+Kritušo varoņu piemiņas svētki uz Brāļu kapiem tiek rīkoti no jūsu izmantotājiem šovinisma kultivēšanai un intervencijas gatavošanai!
+Nepiedalieties fašistu rīkotā gājienā!
+Neatbalstiet jaunu savas un visas darba tautas asinsizliešanas gatavošanu!
+Latvijas darba tauta!
+Uzstājieties kopēji pret augošām fašisma un jauna kara briesmām!
+Sasauciet protesta mītiņus, rīkojiet kopējas demonstrācijas!
+Protestējiet pret nodokļu paaugstināšanu trūcīgiem, pret maksāt nespējīgo zemnieku mantas izpārdošanu, pret intervencijas kara gatavošanu, algas nosišanu, sociālās apdrošināšanas likvidēšanu, fašistisko organizāciju atbalstīšanu un strādnieku revolucionāro organizāciju graušanu. Pienaglojiet pie kauna staba un novērsieties no sociālfašistiem, kas balso par strādnieku pārstāvju izdošanu fašistiskai tiesai, par dzīves dārdzības veicināšanu un lielsaimniekus atbalstošu likumu pieņemšanu, par maksāt nespējīgu zemnieku un sīkražotāju cietumā sēdināšanu, kas samazina pabalstus un pasliktina ārstēšanu slimiem strādniekiem un viņu ģimenes locekļiem, kas dezorganizē strādnieku cīņu pret buržuāzijas uzbrukumu, palīdz graut strādnieku revolucionārās organizācijas, veicina fašisma ievešanu un intervencijas gatavošanu.
+Prasiet pilnīgu apdrošināšanu pret bezdarbu un pabalstu dabas stihijās cietušiem darba zemniekiem.
+Gatavojieties plašai kopējai pretfašistu demonstrācijai!
+Zem Kompartijas vadības vienoti cīņā pret fašismu, sociālfašismu un intervenciju!
+Lai dzīvo Latvijas Komunistiskā partija!
+Lai dzīvo strādnieku un zemnieku valdība!
+
+LKP Centrālā Komiteja

@@ -1,0 +1,36 @@
+id: 206
+file_name: lclc-2-n206-LKP_Riga_committee-5000-1931-06.txt
+title: LKP Rīgas komitejas uzsaukums tekstilstradniekiem revolucionāro arodbiedrību vadībā cīnīties pret darba algas pazemināšanu
+author: LKP Rīgas komiteja
+date: 1931-06
+print_run: 5000
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 399–400.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA
+(KOMUNISTISKĀS INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+NEVIENA SANTĪMA NO DARBA ALGAS!
+CĪŅA PRET KAPITĀLISTISKO UZBRUKUMU!
+Biedri tekstilnieki! Kapitālisti ķērušies pie vispārējas algu nosišanas. Komunistu partija jau sen par to brīdināja. Nu ķēris arī jūs tas. Lai vieglāk izvestu savu nodomu cauri, fabrikanti pielieto veiklu triku. Viņi laiž «atvaļinājumā» visus strādniekus, lai pēc tam uzņemtu atpakaļ par pazeminātām algām.
+Biedri! Tas ir maskots lokauts!
+Šim neģēlīgam kapitālistu uzbrukumam tūlīt jāsagatavo strādnieku pretspars. Tūlīt ķerieties katrā uzņēmumā pie cīņas un streiku komiteju vēlēšanām, lai organizēti uzstātos pret kapitālistu uzbrukumu. Organizējieties kreisās arodbiedrībās un cīņas vadību nododiet kreiso arodbiedrību rokās. Ziniet, biedri! Visur tur, kur pēdējos mēnešos kapitālisti gribēja nosist algas, bet strādnieki uzstājās vienoti pretī zem revolucionāro arodbiedrību vadības, kapitālistu uzbrukumi tika atsisti un vietām panākti pat jauni ieguvumi. Tā tas bija «Rusk-Norsk», Dombrovska un citos kokapstrādāšanas uzņēmumos; tā tas bija Zilberta, Budas un citas apavu fabrikās un veselā rindā citu uzņēmumu.
+Kapitālistu neģēlīgais uzbrukums vēlreiz pierāda, ka mums, komunistiem, bija taisnība, kad brīdinājām strādniekus par neizbēgamo kapitālisma krīzi un par gaidāmiem kapitālistu uzbrukumiem. Tagad krīze jau plosās visā kapitālistiskā pasaulē un satricina visus viņas pamatus, kapitālisti cenšas ar strādnieku izspiešanu un izmērdēšanu glābt savu bezdarba un bada iekārtu. Mēs aicinām visu strādniecību stāties zem komunistu partijas vadības cīņā pret kapitālistu uzbrukumiem, pret kapitālistisko iekārtu.
+Kapitālistiskā iekārta nav strādnieku iekārta. Ne mums viņa jāglābj, ne mums viņas labā jānes upuri. Ja kapitālisti vairs nespēj nodrošināt strādniekiem darbu un maizi, tad strādnieki pasi to var. Padomju Savienībā vairs bezdarba nav. No visām kapitālistiskām valstīm brauc uz Padomju Savienību strādnieki, lai tur dabūtu darbu un maizi. Visās kapitālistiskās valstīs, tāpat kā arī pie mums, tūkstošiem strādnieku ir darbs, pateicoties Padomju Savienības pasūtījumiem.
+Padomju Savienībā strādnieku algas ar katru gadu palielinās. Tā arī šogad, piecgades trešā gadā, visu strādnieku algas tiek palielinātas par 6%.
+Biedri! Katra atsevišķa strādnieku uzvara tuvina galīgo strādnieku uzvaru pār visu kapitālistisko iekārtu. Arī jūsu sekmīga cīņa pret kapitālistu uzbrukumiem tuvinās kapitālistu varas krišanu Latvijā. Taisni tamdēļ sociāldemokrātu līderi, kas ir stipri ieinteresēti kapitālistiskās iekārtas jo ilgākā pastāvēšanā un kapitālisma pastāvēšanas intereses stāda augstāk par visu citu, cenšas katru strādnieku cīņu pašreizējā momentā nodot kapitālistu sakaušanai. Tamdēļ arī sociāldemokrātu līderi visu ziemu veda sarunas ar fabrikantu un ministru pārstāvjiem, kā vislabāk glābt kapitālistu tekstilrūpniecību. Šo sarunu rezultāts arī ir tagadējais vispārējais uzbrukums strādnieku algām tekstilrūpniecībā. Tagad šie arodžuļiki tēlo vislielāko sašutumu pret savu pašu roku darbu un cenšas nostāties strādnieku cīņas priekšgalā, lai vieglāk to vēlāk nodotu.
+Bet, ja sociāldemokrātu līderi ir ieinteresēti kapitālisma pastāvēšanā, tad taisni pretējā ir ieinteresēti strādnieki. Tamdēļ trieciet prom nodevīgos veckalnus, višņas un viņu palīgus. Organizējieties paši uzņēmumos un zem revolucionāro arodbiedrību vadības uzstājieties un atsitiet neģēlīgo kapitālistu uzbrukumu.
+Organizējieties darba vietās, vēlējiet cīņas un streiku komitejas, organizējieties kreisās arodbiedrībās, vienoti uzstājieties pret algu nosišanu!
+Neviena santīma no darba algām!
+7 stundu darba dienu pie nesamazinātām algām!
+Pret strādnieku atlaišanu!
+Pret kapitālistisko bada iekārtu!
+Pret sociāldemokrātiskiem nodevējiem!
+Par strādnieku Padomju Latviju!
+
+LKP Rīgas Komiteja

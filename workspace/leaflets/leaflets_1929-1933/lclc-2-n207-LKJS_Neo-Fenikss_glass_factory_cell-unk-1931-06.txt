@@ -1,0 +1,31 @@
+id: 207
+file_name: lclc-2-n207-LKJS_Neo-Fenikss_glass_factory_cell-unk-1931-06.txt
+title: Stikla fabrikas «Neo-Fenikss» LKJS šūnas uzsaukums strādniekiem iestāties Komunistiskajā partijā un Komunistiskajā jaunatnes savienībā, lai organizēti cīnītos par sava stāvokļa uzlabošanu un par padomju varu Latvijā
+author: Stikla fabrikas «Neo-Fenikss» LKJS šūna
+date: 1931-06
+print_run: unk
+typography_name: Spartaks
+production_method: rotator
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 401–402.
+
+text:
+LATVIJAS KOMUNISTISKĀ JAUNATNES SAVIENĪBA
+(KOMUNISTISKĀS JAUNATNES INTERNACIONĀLES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI «NEO-FENIKSA» STIKLINIEKI
+Mūsu stāvoklis ar katru dienu top sliktāks un sliktāks. Puse Rīgas stikla fabriku stāv. Daudzās no tām, kā, piemēram, «Vitrijā», strādniekiem vēl nav izmaksāta darba alga. Lielāko tiesu stikla fabrikas strādā tikai vienu vai divas nedēļas mēnesī. Milzīgs bezdarbs stiklinieku vidū iestājies ne tikai Rīgā, bet visā Latvijā un arī ārzemēs.
+Mūs, «Neo-Feniksa» strādniekus un strādnieces, tāpat nekaunīgā veidā apkrāpj. Naudas vietā mums dod kaut kādus talonus, ar kuriem mums veikalā jāmaksā trīskārtīgi. Ne tikai fabrikants, bet arī viņa ieliktenis tabeļvedis «Jaša» cenšas apmānīt un apmuļķot mūs uz katra soļa. Visi biedri redz, ka viņš zog mums darba stundas un neizmaksā pilnu algu. Biedrenes strādnieces ir katru dienu pakļautas tabeļveža — sifilitiķa uzmācībai un spiestas uzklausīt viņa neķītros priekšlikumus.
+Mēs prasām izmaksāt visu darba algu naudā.
+Mēs prasām pārtraukt blēdīšanos, izmaksājot algu.
+Mēs prasām nekavējoties atlaist tabeļvedi.
+Biedri, kur gan ir izeja no stāvokļa, kas arvien pasliktinās?
+Izeja ir organizētā cīņā ne tikai pret fabrikantu, bet pret visu kapitālistisko iekārtu. Šo cīņu vada Komunistiskā partija un komjaunatne. Visas pasaules valstīs komunistiskās partijas aug un nostiprinās un jau daudzās zemēs, kā, piemēram, Vācijā, Spānijā, Ķīnā, tās ir kļuvušas par nesalaužamu spēku, kura priekšā trīc buržuji. Vācijā Komunistiskās partijas vadībā proletariāts cīnās uz barikādēm pret policiju. Vācijas stikla fabrikās notika virkne strādnieku streiku, kas beidzās ar spīdošiem panākumiem. Pie mums Latvijā, neraugoties uz šausmīgo policijas, fašistu un sociālfašistu teroru, Komunistiskā partija nostiprinās un tās kaujinieciskais spēks aug.
+Biedri, mūsu pienākums masveidīgi iestāties Komunistiskajā partijā un komjaunatnē. Tikai tā mēs panāksim sava stāvokļa uzlabošanu. Tikai tādā ceļā mēs tiksim pie mūsu gala mērķa — Padomju Latvijas. Tikai Padomju Latvijā, tikai proletariāta diktatūras apstākļos strādnieki vairs nebūs vergi un atbrīvosies no bada un ekspluatācijas.
+Visi stāsimies Komunistiskajā partijā un Komunistiskajā jaunatnes savienībā.
+Pret darba algas samazināšanu un atlaišanu no darba.
+Augstāk cīņas karogu par Padomju Latviju.
+
+Latvijas Komunistiskās jaunatnes savienības «Neo-Feniksa» šūna

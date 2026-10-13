@@ -1,0 +1,37 @@
+id: 212
+file_name: lclc-2-n212-LKP_LKJS_Titans_factory_cells-unk-[1931-07-24..1931-07-29].txt
+title: Kokzāģētavas «Titāns» LKP un LKJS šūnu aicinājums strādniekiem pieteikt streiku ar prasību atlaist nodevēju un atstāt darbā atlaišanai paredzētos strādniekus
+author: Fabrikas «Titāns» LKP un LKJS šūnas
+date: [1931-07-24..1931-07-29]
+print_run: unk
+typography_name: Spartaks
+production_method: typographic
+original_language: Russian
+text_language: Latvian
+is_translation: True
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 412–413.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI KOKZĀĢĒTAVAS «TITĀNS» STRĀDNIEKI UN STRĀDNIECES!
+Kapitālistisko saimniecību aptvērusi vēl neredzēta ekonomiskā krīze. Buržuāzija, kas ātriem soļiem tuvojas savai bojā ejai, grib izglābties uz badojošos strādnieku rēķina. Algas pazeminās, aug muitas uz pirmās nepieciešamības precēm, ātri aug daudzu tūkstošu lielā bezdarbnieku armija. Nabadzība un bads valda strādnieku dzīvokļos.
+šajā cīņā pret strādnieku šķiru apvienojušies visi buržuāziskās sabiedrības slāņi — fabrikanti un kulaki, policija un politpārvalde, mācītāji un nodevīgie žurnālisti, fašisti un sociālfašisti. Tikai Latvijas Komunistiskā partija un Latvijas Komunistiskā jaunatnes savienība, neraugoties uz šausmīgo teroru, nebīstoties no ilggadīgas katorgas, turpina izšķirošu cīņu par darbaļaužu interesēm.
+Tādēļ politpārvalde un policija sūta uz fabrikām un rūpnīcām špikus un provokatorus, lai tie nodotu revolucionāros strādniekus buržuāzijas bendēm.
+Arī mūsu fabrikā «Titānā» ir šāds nodevējs. 24. jūlijā viņš nodeva policijas rokās revolucionāru, kas bija atnācis izskaidrot, kā jāorganizē cīņa pret fabrikantiem. Grupa labāko un apzinīgāko «Titāna» strādnieku gribēja izsviest nodevēju no sava vidus. Policija arestēja 7 strādniekus. Tagad fabrikants grib izmest šos strādniekus no fabrikas.
+Biedri! Izmetīsim no mūsu strādnieku vidus nodevēju! Celsimies visi kā viens aizstāvēt mūsu septiņus biedrus! Viņiem jāturpina darbs fabrikā. Nepieļausim, ka saimnieks viņus izmet no fabrikas!
+Biedri! Latvijas Komunistiskā partija un Latvijas Komunistiskā jaunatnes savienība aicina jūs pasludināt trešdien, 29. jūlijā, streiku un prasīt:
+Nekavējoties padzīt nodevēju no fabrikas!
+Atstāt darbā tos strādniekus, kuri uzstājās pret nodevēju!
+Biedri! Tuvojas 1. augusts — starptautiskā proletariāta cīņas diena pret imperiālistisko karu un intervenciju pret PSRS.
+Vēl nav paspējušas nožūt strādnieku un zemnieku asinis, kuras izlietas 1914.—1918. g. imperiālistiskā kara laikā, bet buržuāzija gatavo jaunu, vēl asiņaināku slaktiņu.
+Biedri! Pirms buržuāzija sāks mūs slīcināt asiņu straumē — nocirtīsim viņai galvu!
+Fašisti un sociālfašisti grib iznīcināt drosmīgos Padomju Savienības proletāriešus, kas 1917. g. nogāza fabrikantu un muižnieku valdību.
+Bet mēs, strādnieki, ar ieročiem rokās aizstāvēsim PSRS — visu zemju strādnieku tēviju.
+Biedri! 1. augustā demonstrēsim:
+Pret fašismu un sociālfašismu!
+Par PSRS aizsardzību!
+Pārvērtīsim karu revolūcijā!
+Lai dzīvo Latvijas Komunistiskā partija un Latvijas Komunistiskā jaunatnes savienība!
+Lai dzīvo Padomju Latvija!
+
+Fabrikas «Titāns» Latvijas Komunistiskās partijas un Latvijas Komunistiskās jaunatnes savienības šūnas

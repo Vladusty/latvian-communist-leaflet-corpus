@@ -1,0 +1,30 @@
+id: 214
+file_name: lclc-2-n214-LKP_Vidiena_regional_committee-1500-1931-07.txt
+title: LKP Vidienas apgabala komitejas aicinājums lauku darbaļaudīm 1. augustā pieteikt streiku un iziet demonstrācijā pret imperiālistu gatavoto uzbrukumu Padomju Savienībai
+author: LKP Vidienas apgabala komiteja
+date: 1931-07
+print_run: 1500
+typography_name: Spartaks
+production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 2. daļa (Latvijas Valsts izdevniecība, 1960), 417–418.
+
+text:
+LATVIJAS KOMUNISTISKĀ PARTIJA (KOMINTERNES SEKCIJA)
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+1. AUGUSTS — PRETKARA DIENA!
+Biedri lauku strādnieki, strādnieces, rokpeļņi, trūcīgā zemniecība, atvaļinātie karavīri un kara invalīdi! Atcerieties tās šausmas, kuras cilvēce pārdzīvoja pasaules karā. Vairāk kā 12 milj. cilvēku tika nonāvēti, 20 milj. ievainotu, no bombardēšanas un dažādām epidēmijām uz 1 kritušo frontē — 5 aizmugurē. Vairāk kā 2022 miljardi latu iztērēja kara vajadzībām, bet tūkstošiem cilvēku mira badu!
+Vēl nav sadzijušas vecās kara brūces — kapitālisti atkal žvadzina ieročus! Gatavojas karam pret Padomju Krieviju. Latvija savos kara flotes svētkos kopā ar pārējām kapitālistiskām valstīm, kuras piedalījās Latvijas flotes svētkos, naidīgi demonstrēja savus bruņu kuģus pret Padomju Krieviju! Somija uz Krievijas robežas, Sūrseles pussalā, ierīkojusi betona fundamentus priekš smagiem lielgabaliem, lidmašīnu bāzes, militāras radiostacijas, un Somijas piekrastē nostādīta artilērija, kuras šāvieni pārsniedz teritoriālo ūdeņu joslu!
+Mūsu suverēnā Latvija savās vidusskolās ievedusi militāras mācības skolniekiem. No Daugavpils garnizona virsnieki izbrauc skolniekus apmācīt, galveno vērību piegriež lauku dienestam un kaujas mācībām. Aizsargi bruņoti no galvas līdz kājām, sākot ar šauteni un beidzot ar gaisa floti, vienīgi trūkst vēl aizsargiem Jūras kara flotes — tas viss priekš strādniecības apspiešanas tiek rīkots no mantīgās šķiras!
+Kara budžeti ar katru gadu tiek palielināti — tas viss gulstas uz trūcīgo pleciem. Piemēram, SPRS pierobežas valstiņu kara budžets, t. i., Somijai, Rumānijai, Polijai, Igaunijai un Latvijai, 1926. g. bija 224,8 milj. zelta rubļu, bet 1930. g. tas bija 358,8 milj. zelta rubļu. Arī regulārā armija palielināta. 1926. g. bija šajās valstiņās 502 000 zaldātu, bet 1930. g. 611 000 zaldātu. Uz 1000 cilvēkiem iedzīvotāju 11 zaldāti, bet Padomju Krievijā uz 1000 iedzīvotāju ir tikai 3 sarkanarmiešu!
+Biedri! Visā pasaulē, visās valstīs, pilsētās strādnieki, laukstrādnieki, trūcīgā zemniecība, rokpeļņi nestrādās! Pirmā augustā nemantīgā šķira izies uz ielas ar saviem lozungiem demonstrācijās pret karu, kuru rīko imperiālisti pret Padomju Krieviju! Biedri! Jūsu pienākums būt solidāriem ar vispasaules strādniecību! Pirmā augustā nestrādājiet, rīkojiet demonstrācijas, skrejošus mītiņus, masovkas. Uz jūsu plakātiem un karogiem lai ir pretkara lozungi kā atbilde kara gatavotājiem pret Padomju Krieviju — pirmo strādniecības valsti pasaulē.
+Ne santīma kara budžetam nedosim!
+Imperiālistu karu pārvērtīsim pilsoņu karā!
+Nost reakcionāro Latvijas varu!
+Rokas nost no Padomju Krievijas!
+Lai dzīvo Sarkanā Armija — tā ir mūsu armija!
+Lai dzīvo Latvijas Komunistiskā partija, strādnieku interešu aizstāve!
+
+LKP Vidienas apg. kom.
